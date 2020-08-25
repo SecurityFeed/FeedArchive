@@ -1,0 +1,36 @@
+feed,title,long_url,short_url
+PacketstormSecurity,"Containment Grows, Cal Fire Crews Remain Positive About CZU Lightning Fire Complex",https://packetstormsecurity.com/news/view/31514/Containment-Grows-Cal-Fire-Crews-Remain-Positive-About-CZU-Lightning-Fire-Complex.html,https://j.mp/2EDJMKM
+PacketstormSecurity,Lessons From 15 Years Of Bug Bounties,https://packetstormsecurity.com/news/view/31512/Lessons-From-15-Years-Of-Bug-Bounties.html,https://j.mp/31tEdaZ
+PacketstormSecurity,Global Pandemic Opening Up Can Of Security Worms,https://packetstormsecurity.com/news/view/31511/Global-Pandemic-Opening-Up-Can-Of-Security-Worms.html,https://j.mp/31tjcNq
+PacketstormSecurity,Shoring Up The 2020 Election: Secure Vote Tallies Aren't The Problem,https://packetstormsecurity.com/news/view/31513/Shoring-Up-The-2020-Election-Secure-Vote-Tallies-Arent-The-Problem.html,https://j.mp/2EhY2tf
+PacketstormSecurity,Hackers Leak Alleged Internal Files Of Chinese Social Media Monitoring Firms,https://packetstormsecurity.com/news/view/31510/Hackers-Leak-Alleged-Internal-Files-Of-Chinese-Social-Media-Monitoring-Firms.html,https://j.mp/3aU08uU
+PacketstormSecurity,Ex-Uber CSO Charged In Covering Up Theft Of Personal Info,https://packetstormsecurity.com/news/view/31509/Ex-Uber-CSO-Charged-In-Covering-Up-Theft-Of-Personal-Info.html,https://j.mp/34wVUbG
+PacketstormSecurity,Alarm Sounded Over Malicious AWS Community AMIs,https://packetstormsecurity.com/news/view/31508/Alarm-Sounded-Over-Malicious-AWS-Community-AMIs.html,https://j.mp/34uJQYo
+PacketstormSecurity,University Of Utah Handed $457k To Ransomware Creeps,https://packetstormsecurity.com/news/view/31507/University-Of-Utah-Handed-457k-To-Ransomware-Creeps.html,https://j.mp/2YAFOtA
+PacketstormSecurity,Cisco Critical Flaw Patched In WAN Software Solution,https://packetstormsecurity.com/news/view/31506/Cisco-Critical-Flaw-Patched-In-WAN-Software-Solution.html,https://j.mp/3hrJMw4
+PacketstormSecurity,Senate Bill Would Expand Facial Recognition Restrictions Nationwide,https://packetstormsecurity.com/news/view/31505/Senate-Bill-Would-Expand-Facial-Recognition-Restrictions-Nationwide.html,https://j.mp/2EAUnWU
+PacketstormSecurity,QAnon: Facebook Takes Action On Conspiracy Groups,https://packetstormsecurity.com/news/view/31504/QAnon-Facebook-Takes-Action-On-Conspiracy-Groups.html,https://j.mp/2QkBJFs
+PacketstormSecurity,Gmail Bug Fixed Seven Hours After Exploit Details Go Public,https://packetstormsecurity.com/news/view/31503/Gmail-Bug-Fixed-Seven-Hours-After-Exploit-Details-Go-Public.html,https://j.mp/2FMYOyv
+PacketstormSecurity,Taiwan Says China Behind Cyberattacks On Government Agencies,https://packetstormsecurity.com/news/view/31502/Taiwan-Says-China-Behind-Cyberattacks-On-Government-Agencies.html,https://j.mp/2QlnFf3
+PacketstormSecurity,"Fancy Bear Imposters Extort Finance, Retail On DDoS Threat",https://packetstormsecurity.com/news/view/31501/Fancy-Bear-Imposters-Extort-Finance-Retail-On-DDoS-Threat.html,https://j.mp/2QlnErv
+PacketstormSecurity,Eibiz i-Media Server Digital Signage 3.8.0 Authentication Bypass,https://packetstormsecurity.com/files/158944/ZSL-2020-5586.txt,https://j.mp/3aW0sJG
+PacketstormSecurity,Eibiz i-Media Server Digital Signage 3.8.0 File Path Traversal,https://packetstormsecurity.com/files/158943/ZSL-2020-5585.txt,https://j.mp/2QoDfXc
+PacketstormSecurity,Eibiz i-Media Server Digital Signage 3.8.0 Remote Privilege Escalation / Account Takeover,https://packetstormsecurity.com/files/158942/ZSL-2020-5584.txt,https://j.mp/31pJjF7
+PacketstormSecurity,Eibiz i-Media Server Digital Signage 3.8.0 Configuration Disclosure,https://packetstormsecurity.com/files/158941/ZSL-2020-5583.txt,https://j.mp/3jeFnNz
+PacketstormSecurity,Microsoft Windows CmpDoReadTxRBigLogRecord Memory Corruption Privilege Escalation,https://packetstormsecurity.com/files/158939/GS20200821214307.tgz,https://j.mp/34yiArN
+PacketstormSecurity,Microsoft Windows CmpDoReDoCreateKey Arbitrary Registry Key Creation Privilege Escalation,https://packetstormsecurity.com/files/158938/GS20200821214138.tgz,https://j.mp/2FXwhqb
+PacketstormSecurity,Linux/x86 execve /bin/sh Shellcode,https://packetstormsecurity.com/files/158936/shellcode-execbinsh.txt,https://j.mp/2D2ZTBu
+PacketstormSecurity,Linux/x86 /dev/sda Partition Wiping Shellcode,https://packetstormsecurity.com/files/158935/shellcode-cybersaki.c,https://j.mp/2QlnDUt
+PacketstormSecurity,Seowon SlC 130 Router Remote Code Execution,https://packetstormsecurity.com/files/158933/seowonsic130-exec.txt,https://j.mp/31rhzzQ
+PacketstormSecurity,OX App Suite / OX Documents XSS / SSRF / Bypass,https://packetstormsecurity.com/files/158932/oxappsuite7103-xssbypass.txt,https://j.mp/2Yt4ZOT
+PacketstormSecurity,SMB Enumeration / Exploitation / Hardening,https://packetstormsecurity.com/files/158929/smb-eeh.pdf,https://j.mp/2YyAw1K
+PacketstormSecurity,WordPress NAB Transact WooCommerce 2.1.0 Payment Bypass,https://packetstormsecurity.com/files/158931/wpnabtw210-bypass.txt,https://j.mp/2QlnEaZ
+PacketstormSecurity,Joomla Adagency 6.1.2 Cross Site Scripting,https://packetstormsecurity.com/files/158934/joomlaadagency612-xss.txt,https://j.mp/2EuRR4C
+PacketstormSecurity,ElkarBackup 1.3.3 Cross Site Scripting,https://packetstormsecurity.com/files/158930/elkarbackup133-xss.txt,https://j.mp/2YuffX2
+PacketstormSecurity,PNPSCADA 2.200816204020 SQL Injection,https://packetstormsecurity.com/files/158937/pnpscada-sql.txt,https://j.mp/32ibWDi
+PacketstormSecurity,Red Hat Security Advisory 2020-3525-01,https://packetstormsecurity.com/files/158926/RHSA-2020-3525-01.txt,https://j.mp/3ljtLun
+PacketstormSecurity,Ruijie Networks Switch eWeb S29_RGOS 11.4 Directory Traversal,https://packetstormsecurity.com/files/158924/ruijienseweb114-traversal.txt,https://j.mp/3huohL0
+PacketstormSecurity,Bypassing Certificate Pinning In Modern Android Application Via Custom Root CA,https://packetstormsecurity.com/files/158928/bypassing-pinning.pdf,https://j.mp/2FMYHD5
+PacketstormSecurity,PAC Bypass Due To Unprotected Function Pointer Imports,https://packetstormsecurity.com/files/158923/GS20200819164606.txt,https://j.mp/2G01s4l
+PacketstormSecurity,Red Hat Security Advisory 2020-3518-01,https://packetstormsecurity.com/files/158922/RHSA-2020-3518-01.txt,https://j.mp/2YAzToB
+PacketstormSecurity,Gentoo Linux Security Advisory 202008-08,https://packetstormsecurity.com/files/158920/glsa-202008-08.txt,https://j.mp/3aXW38Y
