@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,A Tale Of Escaping A Hardened Docker Container,https://packetstormsecurity.com/news/view/31515/A-Tale-Of-Escaping-A-Hardened-Docker-Container.html,https://j.mp/3hu2GT8
+PacketstormSecurity,Red Hat Security Advisory 2020-3548-01,https://packetstormsecurity.com/files/158960/RHSA-2020-3548-01.txt,https://j.mp/3gpBsvH
+PacketstormSecurity,Red Hat Security Advisory 2020-3545-01,https://packetstormsecurity.com/files/158959/RHSA-2020-3545-01.txt,https://j.mp/31umP65
+PacketstormSecurity,Gentoo Linux Security Advisory 202008-10,https://packetstormsecurity.com/files/158957/glsa-202008-10.txt,https://j.mp/3b2u9sD
+PacketstormSecurity,Gentoo Linux Security Advisory 202008-09,https://packetstormsecurity.com/files/158956/glsa-202008-09.txt,https://j.mp/2EtFR3j
+PacketstormSecurity,Red Hat Security Advisory 2020-3520-01,https://packetstormsecurity.com/files/158952/RHSA-2020-3520-01.txt,https://j.mp/3aXigEw
+PacketstormSecurity,Red Hat Security Advisory 2020-3519-01,https://packetstormsecurity.com/files/158951/RHSA-2020-3519-01.txt,https://j.mp/31umIYd
+PacketstormSecurity,Chrome NewFixedArray Missing Array Size Check,https://packetstormsecurity.com/files/158950/GS20200825172027.txt,https://j.mp/32rhLhU
+PacketstormSecurity,Linux CoW Incorrect Access Grant,https://packetstormsecurity.com/files/158948/GS20200825171841.txt,https://j.mp/2FXGXoL
+PacketstormSecurity,Falco 0.25.0,https://packetstormsecurity.com/files/158947/falco-0.25.0.tar.gz,https://j.mp/2CWyxwE
+PacketstormSecurity,SecZetta NEProfile 3.3.11 Host Header Injection,https://packetstormsecurity.com/files/158965/neprofile3311-headerinject.txt,https://j.mp/3ljBXuI
+PacketstormSecurity,Exploiting DLLs: A Guide To DLL Hijacking,https://packetstormsecurity.com/files/158964/Whitepaper_DLL_ver2.pdf,https://j.mp/3b3dDc0
+PacketstormSecurity,Sifter 9.5,https://packetstormsecurity.com/files/158946/sifter-9.5.tar.gz,https://j.mp/3aUNhZz
+PacketstormSecurity,LimeSurvey 4.3.10 Cross Site Scripting,https://packetstormsecurity.com/files/158945/limesurvey4310-xss.txt,https://j.mp/3hva94b
+PacketstormSecurity,Linux/x86 Reverse TCP Shellcode,https://packetstormsecurity.com/files/158963/Linux_x86-Reverse_TCP_Shellcode.txt,https://j.mp/34yZPF0
+PacketstormSecurity,Cross Site Scripting Exploitation,https://packetstormsecurity.com/files/158961/pdf-xss.pdf,https://j.mp/32oWeGz
+PacketstormSecurity,Ericom Access Server 9.2.0 Server-Side Request Forgery,https://packetstormsecurity.com/files/158962/ERICOM-ACCESS-SERVER-ACCESS-NOW-BLAZE-9.2.0-SERVER-SIDE-REQUEST-FORGERY.txt,https://j.mp/2QoUgAt
