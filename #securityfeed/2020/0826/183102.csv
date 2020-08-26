@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12759 (zulip_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12759,https://j.mp/3b0C75A
+NVD-NIST,CVE-2020-14194 (zulip_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14194,https://j.mp/2QoVrjz
+NVD-NIST,CVE-2020-14201 (dolibarr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14201,https://j.mp/3gAvV5o
+NVD-NIST,CVE-2020-14215 (zulip_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14215,https://j.mp/2Qum9Hv
+NVD-NIST,CVE-2020-15070 (zulip_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15070,https://j.mp/2EHolbN
+NVD-NIST,CVE-2020-15147 (red_discord_bot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15147,https://j.mp/3hA8kTU
+NVD-NIST,CVE-2020-17398 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17398,https://j.mp/31tlcFG
+NVD-NIST,CVE-2020-17399 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17399,https://j.mp/3lkS2Ar
+NVD-NIST,CVE-2020-17400 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17400,https://j.mp/3hwm1mx
+NVD-NIST,CVE-2020-17401 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17401,https://j.mp/3ji5Fi1
+NVD-NIST,CVE-2020-3975 (app_volumes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3975,https://j.mp/2FSkGbM
+NVD-NIST,CVE-2020-5775 (canvas_learning_management_service),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5775,https://j.mp/3loJmsH
+NVD-NIST,CVE-2020-7710 (safe-eval),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7710,https://j.mp/3aW21ra
+NVD-NIST,CVE-2020-8189 (nextcloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8189,https://j.mp/3hzXNIb
+NVD-NIST,CVE-2020-8227 (nextcloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8227,https://j.mp/3hzV5Co
+NVD-NIST,CVE-2020-8620 (bind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8620,https://j.mp/31vEF8E
+NVD-NIST,CVE-2020-8621 (bind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8621,https://j.mp/3gt0jyJ
+NVD-NIST,"CVE-2020-8622 (bind, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8622,https://j.mp/3jgSde7
+NVD-NIST,"CVE-2020-8623 (bind, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8623,https://j.mp/3jngOhH
