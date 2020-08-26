@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12457 (wolfssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12457,https://j.mp/3b11lks
+NVD-NIST,CVE-2020-15309 (wolfssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15309,https://j.mp/3gyv8lB
+NVD-NIST,CVE-2020-19889 (dbhcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19889,https://j.mp/2EwWiMx
+NVD-NIST,CVE-2020-24571 (nexusdb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24571,https://j.mp/3guSgkP
+NVD-NIST,CVE-2020-24585 (wolfssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24585,https://j.mp/2YCKdMW
+NVD-NIST,CVE-2020-4170 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4170,https://j.mp/3lkJZDz
+NVD-NIST,CVE-2020-4382 (elastic_storage_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4382,https://j.mp/3gtiHYh
+NVD-NIST,CVE-2020-4383 (elastic_storage_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4383,https://j.mp/3hzr4Tj
+NVD-NIST,CVE-2020-4593 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4593,https://j.mp/3jgs5Qx
+NVD-NIST,CVE-2020-4598 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4598,https://j.mp/34ACJxr
+NVD-NIST,CVE-2020-5540 (cybermail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5540,https://j.mp/3lkJZU5
+NVD-NIST,CVE-2020-5541 (cybermail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5541,https://j.mp/31w18mb
+NVD-NIST,CVE-2020-5619 (exment),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5619,https://j.mp/3hwFljR
+NVD-NIST,"CVE-2020-8624 (bind, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8624,https://j.mp/2YCeU4x
+NVD-NIST,CVE-2020-9246 (fusioncompute),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9246,https://j.mp/31vam1I
