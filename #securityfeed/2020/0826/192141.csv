@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43m5-c88r-cjvv] XSS due to lack of CSRF validation for replying/publishing,https://github.com/advisories/GHSA-43m5-c88r-cjvv,https://j.mp/31v0PaW
