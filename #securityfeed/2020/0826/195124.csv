@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r587-7jh2-4qr3] Server secret was included in static assets and served to clients,https://github.com/advisories/GHSA-r587-7jh2-4qr3,https://j.mp/2YDfpvd
