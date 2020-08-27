@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-14349 (leap, postgresql)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14349,https://j.mp/3lmz4tb
+NVD-NIST,CVE-2020-4167 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4167,https://j.mp/31z38de
+NVD-NIST,CVE-2020-4169 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4169,https://j.mp/31zU3RC
+NVD-NIST,CVE-2020-4171 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4171,https://j.mp/3b2tiIj
+NVD-NIST,"CVE-2020-4575 (websphere_application_server, websphere_virtual_enterprise)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4575,https://j.mp/32x1Nmr
+NVD-NIST,CVE-2020-4603 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4603,https://j.mp/31z3e4A
