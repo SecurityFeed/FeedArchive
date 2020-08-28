@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2019-14904 (ansible, ansible_tower)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-14904,https://j.mp/2D7JUSy
+NVD-NIST,CVE-2020-14042 (codiad),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14042,https://j.mp/31C0LWV
+NVD-NIST,CVE-2020-15640 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15640,https://j.mp/3b69zHJ
+NVD-NIST,CVE-2020-17392 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17392,https://j.mp/3ls4LkW
+NVD-NIST,CVE-2020-17393 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17393,https://j.mp/3jpXVuw
+NVD-NIST,CVE-2020-17395 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17395,https://j.mp/2YKYy9T
+NVD-NIST,CVE-2020-17396 (parallels_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17396,https://j.mp/2ErYcyg
+NVD-NIST,CVE-2020-23659 (webport),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23659,https://j.mp/3gCS9Uk
+NVD-NIST,CVE-2020-24312 (file_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24312,https://j.mp/34HySPb
+NVD-NIST,CVE-2020-24609 (savsoft_quiz),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24609,https://j.mp/3b4gfGm
