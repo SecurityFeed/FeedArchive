@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-673x-f5wx-fxpw] Cross Site Scripting and RCE in baserCMS,https://github.com/advisories/GHSA-673x-f5wx-fxpw,https://j.mp/2YFvUXK
+GithubAdvisories,[GHSA-chqj-j4fh-rw7m] Cross-Site Scripting in dompurify,https://github.com/advisories/GHSA-chqj-j4fh-rw7m,https://j.mp/31AWAL6
+GithubAdvisories,[GHSA-49rv-g7w5-m8xx] Cross-Site Scripting in novnc,https://github.com/advisories/GHSA-49rv-g7w5-m8xx,https://j.mp/34HBnRH
