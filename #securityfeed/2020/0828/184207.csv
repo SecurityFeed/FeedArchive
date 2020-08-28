@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-1501 (security_guardium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-1501,https://j.mp/32y4u7n
+NVD-NIST,"CVE-2020-14350 (debian_linux, leap, postgresql)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14350,https://j.mp/34OPHYu
+NVD-NIST,CVE-2020-15641 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15641,https://j.mp/3babz1J
+NVD-NIST,CVE-2020-15642 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15642,https://j.mp/2Dbz6D2
+NVD-NIST,CVE-2020-15643 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15643,https://j.mp/2EAhOQF
+NVD-NIST,CVE-2020-15644 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15644,https://j.mp/3jubgC5
+NVD-NIST,CVE-2020-15645 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15645,https://j.mp/32CsLsL
+NVD-NIST,CVE-2020-17387 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17387,https://j.mp/3b6wPW8
+NVD-NIST,CVE-2020-17388 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17388,https://j.mp/2EApYIL
+NVD-NIST,CVE-2020-17389 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17389,https://j.mp/2QAmsAo
+NVD-NIST,CVE-2020-24598 (joomla!),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24598,https://j.mp/2QuZTgy
+NVD-NIST,CVE-2020-24599 (joomla!),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24599,https://j.mp/2Qw0Rcz
+NVD-NIST,CVE-2020-3439 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3439,https://j.mp/3b9I3tc
+NVD-NIST,CVE-2020-3518 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3518,https://j.mp/2QvJtER
+NVD-NIST,CVE-2020-3519 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3519,https://j.mp/3gEYU8j
+NVD-NIST,CVE-2020-3520 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3520,https://j.mp/2Qw0TBd
+NVD-NIST,CVE-2020-3521 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3521,https://j.mp/31A8nJD
