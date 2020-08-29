@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4756 lilypond,https://www.debian.org/security/2020/dsa-4756,https://j.mp/3lxaEgv
+DebianSecurityNotice,DSA-4755 openexr,https://www.debian.org/security/2020/dsa-4755,https://j.mp/34JK5yQ
+DebianSecurityNotice,DSA-4754 thunderbird,https://www.debian.org/security/2020/dsa-4754,https://j.mp/3b8NfNH
+DebianSecurityNotice,DSA-4753 mupdf,https://www.debian.org/security/2020/dsa-4753,https://j.mp/3bglyCU
