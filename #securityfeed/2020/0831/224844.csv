@@ -1,0 +1,34 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwch-749c-rv63] Potential Command Injection in hubot-scripts,https://github.com/advisories/GHSA-hwch-749c-rv63,https://j.mp/3hL4gAj
+GithubAdvisories,[GHSA-363h-vj6q-3cmj] Rosetta-Flash JSONP Vulnerability in hapi,https://github.com/advisories/GHSA-363h-vj6q-3cmj,https://j.mp/32LSrDH
+GithubAdvisories,[GHSA-m273-wwfv-h6jp] Directory Traversal in fancy-server,https://github.com/advisories/GHSA-m273-wwfv-h6jp,https://j.mp/32CtaM0
+GithubAdvisories,[GHSA-28gr-86hg-r48w] Unauthenticated Remote Command Injection in ep_imageconvert,https://github.com/advisories/GHSA-28gr-86hg-r48w,https://j.mp/34RFQBw
+GithubAdvisories,[GHSA-4mv4-gmmf-q382] Cross-Site Scripting in datatables,https://github.com/advisories/GHSA-4mv4-gmmf-q382,https://j.mp/2QIhdyE
+GithubAdvisories,[GHSA-3fw8-66wf-pr7m] methodOverride Middleware Reflected Cross-Site Scripting in connect,https://github.com/advisories/GHSA-3fw8-66wf-pr7m,https://j.mp/31K8t1v
+GithubAdvisories,[GHSA-j44m-qm6p-hp7m] Arbitrary File Overwrite in tar,https://github.com/advisories/GHSA-j44m-qm6p-hp7m,https://j.mp/34QMcRq
+GithubAdvisories,[GHSA-xqqr-p362-6rmc] Directory Traversal in hostr,https://github.com/advisories/GHSA-xqqr-p362-6rmc,https://j.mp/2YSbdrJ
+GithubAdvisories,[GHSA-xcvv-84j5-jw9h] Prototype Pollution in assign-deep,https://github.com/advisories/GHSA-xcvv-84j5-jw9h,https://j.mp/31MswfP
+GithubAdvisories,[GHSA-x5pg-88wf-qq4p] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-x5pg-88wf-qq4p,https://j.mp/3lCellm
+GithubAdvisories,[GHSA-x26f-26qw-hhhx] Path Traversal in hekto,https://github.com/advisories/GHSA-x26f-26qw-hhhx,https://j.mp/3gHGynb
+GithubAdvisories,[GHSA-wrvr-8mpx-r7pp] Regular Expression Denial of Service in mime,https://github.com/advisories/GHSA-wrvr-8mpx-r7pp,https://j.mp/2Dgds0t
+GithubAdvisories,[GHSA-w23f-f3c5-r9qh] Downloads Resources over HTTP in ikst,https://github.com/advisories/GHSA-w23f-f3c5-r9qh,https://j.mp/3gLAl9I
+GithubAdvisories,[GHSA-w222-53c6-c86p] Remote Code Execution in electron,https://github.com/advisories/GHSA-w222-53c6-c86p,https://j.mp/2YRuzxk
+GithubAdvisories,[GHSA-vwrf-r5r4-7775] Incorrect handling of CORS preflight request headers in hapi,https://github.com/advisories/GHSA-vwrf-r5r4-7775,https://j.mp/2QIhd1C
+GithubAdvisories,[GHSA-vpch-rxw3-fgx8] Cross-Site Scripting in @risingstack/protect,https://github.com/advisories/GHSA-vpch-rxw3-fgx8,https://j.mp/3jw07jV
+GithubAdvisories,[GHSA-rwv8-jvff-jq28] Path Traversal in public,https://github.com/advisories/GHSA-rwv8-jvff-jq28,https://j.mp/3gLta19
+GithubAdvisories,[GHSA-rvj9-8cvx-3vq9] Invalid Curve Attack in node-jose,https://github.com/advisories/GHSA-rvj9-8cvx-3vq9,https://j.mp/2YRuABo
+GithubAdvisories,[GHSA-rch9-xh7r-mqgw] Cross-Site Scripting in simple-server,https://github.com/advisories/GHSA-rch9-xh7r-mqgw,https://j.mp/2YOLCQA
+GithubAdvisories,[GHSA-rc8h-3fv6-pxv8] Denial of Service in hapi,https://github.com/advisories/GHSA-rc8h-3fv6-pxv8,https://j.mp/2YRuA4m
+GithubAdvisories,[GHSA-qv2v-m59f-v5fw] Insecure randomness in socket.io,https://github.com/advisories/GHSA-qv2v-m59f-v5fw,https://j.mp/34RuLQY
+GithubAdvisories,[GHSA-q75g-2496-mxpp] Regular Expression Denial of Service in parsejson,https://github.com/advisories/GHSA-q75g-2496-mxpp,https://j.mp/3lz9AZN
+GithubAdvisories,[GHSA-q5c4-39f5-m68j] Regular Expression Denial of Service in decamelize,https://github.com/advisories/GHSA-q5c4-39f5-m68j,https://j.mp/34WUI1c
+GithubAdvisories,[GHSA-q2qh-cgc2-qhr3] Directory Traversal in serve,https://github.com/advisories/GHSA-q2qh-cgc2-qhr3,https://j.mp/32J1fdq
+GithubAdvisories,[GHSA-pwqj-h62h-q35c] Directory Traversal in goserv,https://github.com/advisories/GHSA-pwqj-h62h-q35c,https://j.mp/32IEar9
+GithubAdvisories,[GHSA-pjmx-9xr3-82qr] ReDoS via long UserAgent header in useragent,https://github.com/advisories/GHSA-pjmx-9xr3-82qr,https://j.mp/2ELKAxH
+GithubAdvisories,[GHSA-mq6c-fh97-4gwv] Fastify denial-of-service vulnerability with large JSON payloads in fastify,https://github.com/advisories/GHSA-mq6c-fh97-4gwv,https://j.mp/31LvAbU
+GithubAdvisories,[GHSA-mm62-wxc8-cf7m] Code Execution Through IIFE in serialize-to-js,https://github.com/advisories/GHSA-mm62-wxc8-cf7m,https://j.mp/2EJytkH
+GithubAdvisories,[GHSA-m6wh-m8m8-6xx5] Exfiltrates data on installation in cofeescript,https://github.com/advisories/GHSA-m6wh-m8m8-6xx5,https://j.mp/31ItgCo
+GithubAdvisories,[GHSA-jcw8-r9xm-32c6] Command Injection in dns-sync,https://github.com/advisories/GHSA-jcw8-r9xm-32c6,https://j.mp/3lyeLcl
+GithubAdvisories,[GHSA-jcpv-g9rr-qxrc] Regular Expression Denial of Service in hawk,https://github.com/advisories/GHSA-jcpv-g9rr-qxrc,https://j.mp/2YQHr6M
+GithubAdvisories,[GHSA-j49g-mp79-5vm5] Exfiltrates data on installation in coffe-script,https://github.com/advisories/GHSA-j49g-mp79-5vm5,https://j.mp/3bbWvRc
+GithubAdvisories,[GHSA-h24f-9mm4-w336] Cross-site Scripting (XSS) - Stored in crud-file-server,https://github.com/advisories/GHSA-h24f-9mm4-w336,https://j.mp/32H9pmy
