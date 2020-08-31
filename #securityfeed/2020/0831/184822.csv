@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14498 (ecatcher),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14498,https://j.mp/2QDf07R
+NVD-NIST,CVE-2020-19007 (halo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19007,https://j.mp/34Kr7rY
+NVD-NIST,CVE-2020-23975 (ecommerce_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23975,https://j.mp/3jvrx9D
+NVD-NIST,CVE-2020-23976 (ecommerce_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23976,https://j.mp/2QCkoIe
+NVD-NIST,CVE-2020-24104 (lv-wr07_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24104,https://j.mp/3gPpf3j
+NVD-NIST,CVE-2020-24202 (house_rental_and_property_listing_project),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24202,https://j.mp/2DiPB08
+NVD-NIST,CVE-2020-4492 (spectrum_scale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4492,https://j.mp/3hLXsSX
+NVD-NIST,"CVE-2020-5912 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_advanced_web_application_firewall, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_ddos_hybrid_defender, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, ssl_orchestrator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5912,https://j.mp/2EL5T2p
+NVD-NIST,"CVE-2020-5925 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5925,https://j.mp/3bd8oX0
