@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5w6-r7rg-mcgq] Regular Expression Denial of Service in validator,https://github.com/advisories/GHSA-f5w6-r7rg-mcgq,https://j.mp/31KGG0X
+GithubAdvisories,[GHSA-vjfr-p6hp-jqqw] Command Injection in ungit,https://github.com/advisories/GHSA-vjfr-p6hp-jqqw,https://j.mp/2QEyZ5R
+GithubAdvisories,[GHSA-9vxc-g2jx-qj3p] API Admin Auth Weakness in tomato,https://github.com/advisories/GHSA-9vxc-g2jx-qj3p,https://j.mp/2EIHjzh
+GithubAdvisories,[GHSA-69rr-wvh9-6c4q] Directory Traversal in st,https://github.com/advisories/GHSA-69rr-wvh9-6c4q,https://j.mp/2QCHQVU
+GithubAdvisories,[GHSA-c3x7-gjmx-r2ff] Open Redirect in serve-static,https://github.com/advisories/GHSA-c3x7-gjmx-r2ff,https://j.mp/3lCj8Dm
+GithubAdvisories,[GHSA-f9vc-q3hh-qhfv] Content Injection in remarkable,https://github.com/advisories/GHSA-f9vc-q3hh-qhfv,https://j.mp/3ly29BX
+GithubAdvisories,[GHSA-h698-r4hm-w94p] Validation Bypass in paypal-ipn,https://github.com/advisories/GHSA-h698-r4hm-w94p,https://j.mp/2Gj11Cl
+GithubAdvisories,[GHSA-44g9-w23c-5rw7] Directory Traversal in nhouston,https://github.com/advisories/GHSA-44g9-w23c-5rw7,https://j.mp/32KbwpA
+GithubAdvisories,[GHSA-9cw2-jqp5-7x39] Multiple Content Injection Vulnerabilities in marked,https://github.com/advisories/GHSA-9cw2-jqp5-7x39,https://j.mp/2YSggIH
+GithubAdvisories,[GHSA-m75h-cghq-c8h5] Heap Based Buffer Overflow in libyaml,https://github.com/advisories/GHSA-m75h-cghq-c8h5,https://j.mp/2YTziOK
+GithubAdvisories,[GHSA-6898-wx94-8jq8] Potential Command Injection in libnotify,https://github.com/advisories/GHSA-6898-wx94-8jq8,https://j.mp/3lzdFgz
+GithubAdvisories,[GHSA-82mg-x548-gq3j] LDAP Injection in ldapauth,https://github.com/advisories/GHSA-82mg-x548-gq3j,https://j.mp/32WZFov
+GithubAdvisories,[GHSA-6qqj-rx4w-r3cj] CSRF Vulnerability in jquery-ujs,https://github.com/advisories/GHSA-6qqj-rx4w-r3cj,https://j.mp/34Qb6kn
+GithubAdvisories,[GHSA-g4xp-36c3-f7mr] Hidden Directories Always Served in inert,https://github.com/advisories/GHSA-g4xp-36c3-f7mr,https://j.mp/2DgXEdV
