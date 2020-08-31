@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13410 (aedes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13410,https://j.mp/2YNtKFq
+NVD-NIST,CVE-2020-15482 (m1000_multipara_patient_monitor_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15482,https://j.mp/32JI03p
+NVD-NIST,CVE-2020-15483 (m1000_multipara_patient_monitor_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15483,https://j.mp/3gQVBLq
+NVD-NIST,CVE-2020-15484 (m1000_multipara_patient_monitor_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15484,https://j.mp/3lzflql
+NVD-NIST,CVE-2020-5914 (big-ip_application_security_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5914,https://j.mp/2EH9iiP
+NVD-NIST,"CVE-2020-5915 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_edge_gateway, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, big-ip_webaccelerator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5915,https://j.mp/2GhvrVz
+NVD-NIST,CVE-2020-5924 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5924,https://j.mp/3jt7Y1O
