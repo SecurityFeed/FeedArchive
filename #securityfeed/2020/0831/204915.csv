@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-19499 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19499,https://j.mp/3bhLnCn
+NVD-NIST,CVE-2019-4533 (resilient_security_orchestration_automation_and_response),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-4533,https://j.mp/3gRUYRO
+NVD-NIST,CVE-2020-16251 (vault),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16251,https://j.mp/3gFpVIE
+NVD-NIST,CVE-2020-24223 (mara_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24223,https://j.mp/2YNw9Qr
+NVD-NIST,CVE-2020-3522 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3522,https://j.mp/31LlUxW
+NVD-NIST,CVE-2020-3523 (data_center_network_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3523,https://j.mp/3hLWUfO
+NVD-NIST,CVE-2020-4559 (spectrum_protect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4559,https://j.mp/2ESiKiW
+NVD-NIST,CVE-2020-5624 (xoonips),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5624,https://j.mp/31IqCfV
+NVD-NIST,CVE-2020-5625 (xoonips),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5625,https://j.mp/3jzXuhh
+NVD-NIST,CVE-2020-9298 (orca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9298,https://j.mp/3jwO0Dn
