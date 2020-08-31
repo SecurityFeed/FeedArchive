@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8wf-rcg3-qw4q] Directory Traversal in tinyserver2,https://github.com/advisories/GHSA-g8wf-rcg3-qw4q,https://j.mp/2YOQVza
+GithubAdvisories,[GHSA-fx46-whrj-73v5] Bypassing Sanitization using DOM clobbering in html-janitor,https://github.com/advisories/GHSA-fx46-whrj-73v5,https://j.mp/2QFZMPp
+GithubAdvisories,[GHSA-fvqr-27wr-82fm] Prototype Pollution in lodash,https://github.com/advisories/GHSA-fvqr-27wr-82fm,https://j.mp/3lxSX0p
+GithubAdvisories,[GHSA-cqp5-m4pq-gfgp] Prototype Pollution in defaults-deep,https://github.com/advisories/GHSA-cqp5-m4pq-gfgp,https://j.mp/31JqlcC
+GithubAdvisories,[GHSA-cmh5-qc8w-xvcq] Cross-Site Scripting in i18next,https://github.com/advisories/GHSA-cmh5-qc8w-xvcq,https://j.mp/34M7mAh
+GithubAdvisories,[GHSA-cgqv-x5cx-xvqh] Arbitrary Code Injection in pouchdb,https://github.com/advisories/GHSA-cgqv-x5cx-xvqh,https://j.mp/3bfbMkm
+GithubAdvisories,[GHSA-cgjx-mwpx-47jv] Private Data Disclosure in express-restify-mongoose,https://github.com/advisories/GHSA-cgjx-mwpx-47jv,https://j.mp/34L0R0C
+GithubAdvisories,[GHSA-c7hr-j4mj-j2w6] Verification Bypass in jsonwebtoken,https://github.com/advisories/GHSA-c7hr-j4mj-j2w6,https://j.mp/2EBTiyK
+GithubAdvisories,[GHSA-9g9w-hmvj-5h57] Prototype Pollution in merge-deep,https://github.com/advisories/GHSA-9g9w-hmvj-5h57,https://j.mp/32WQ8Of
+GithubAdvisories,[GHSA-8225-6cvr-8pqp] Large gzip Denial of Service in superagent,https://github.com/advisories/GHSA-8225-6cvr-8pqp,https://j.mp/3jAc48v
+GithubAdvisories,[GHSA-72fg-jqhx-c68p] Open Redirect in st,https://github.com/advisories/GHSA-72fg-jqhx-c68p,https://j.mp/34O8kvJ
+GithubAdvisories,[GHSA-6xhf-x49c-m5m6] Github Token Leak in aegir,https://github.com/advisories/GHSA-6xhf-x49c-m5m6,https://j.mp/3lB1DDu
+GithubAdvisories,[GHSA-62g9-6hw5-rwfp] Path Traversal in resolve-path,https://github.com/advisories/GHSA-62g9-6hw5-rwfp,https://j.mp/2QFfuKL
+GithubAdvisories,[GHSA-5w8q-x7hc-jhp6] Directory Traversal in node-simple-router,https://github.com/advisories/GHSA-5w8q-x7hc-jhp6,https://j.mp/31KYnNH
+GithubAdvisories,[GHSA-52r9-g5g6-2hjp] Path Traversal in node-srv,https://github.com/advisories/GHSA-52r9-g5g6-2hjp,https://j.mp/2QFKIBd
+GithubAdvisories,[GHSA-4662-j96g-mv46] Arbitrary Code Injection in reduce-css-calc,https://github.com/advisories/GHSA-4662-j96g-mv46,https://j.mp/3gIOFjm
+GithubAdvisories,[GHSA-3pwh-5mmc-mwrx] Denial of Service in nes,https://github.com/advisories/GHSA-3pwh-5mmc-mwrx,https://j.mp/3jw0rzb
+GithubAdvisories,[GHSA-3mpr-hq3p-49h9] Prototype Pollution in mixin-deep,https://github.com/advisories/GHSA-3mpr-hq3p-49h9,https://j.mp/3hG9AVr
+GithubAdvisories,[GHSA-39pj-gq8q-9pfj] Authentication Weakness in keystone,https://github.com/advisories/GHSA-39pj-gq8q-9pfj,https://j.mp/2EGTQmI
+GithubAdvisories,[GHSA-333w-rxj3-f55r] Regular Expression Denial Of Service in uri-js,https://github.com/advisories/GHSA-333w-rxj3-f55r,https://j.mp/3jCg08N
+GithubAdvisories,[GHSA-2x4q-6jfv-8h9h] Path Traversal in glance,https://github.com/advisories/GHSA-2x4q-6jfv-8h9h,https://j.mp/32F8vqJ
+GithubAdvisories,[GHSA-2p69-gxpm-5469] Downloads Resources over HTTP in alto-saxophone,https://github.com/advisories/GHSA-2p69-gxpm-5469,https://j.mp/31Jqs82
+GithubAdvisories,[GHSA-2gjg-5x33-mmp2] Path Traversal in localhost-now,https://github.com/advisories/GHSA-2gjg-5x33-mmp2,https://j.mp/34PEjvF
+GithubAdvisories,[GHSA-26q7-g57v-mxcp] HTML Injection in shout,https://github.com/advisories/GHSA-26q7-g57v-mxcp,https://j.mp/3lz4Zqv
+GithubAdvisories,[GHSA-23vf-5g53-hm9q] Directory Traversal in list-n-stream,https://github.com/advisories/GHSA-23vf-5g53-hm9q,https://j.mp/3lCquXd
+GithubAdvisories,[GHSA-22j5-38qv-pxx7] Hijacked Environment Variables in sqliter,https://github.com/advisories/GHSA-22j5-38qv-pxx7,https://j.mp/2QGU3Zz
+GithubAdvisories,[GHSA-vwjc-q9px-r9vq] Denial of Service in ecstatic,https://github.com/advisories/GHSA-vwjc-q9px-r9vq,https://j.mp/34WQ5nQ
+GithubAdvisories,[GHSA-ff6r-5jwm-8292] Regular Expression Denial of Service in no-case,https://github.com/advisories/GHSA-ff6r-5jwm-8292,https://j.mp/2GggHGk
