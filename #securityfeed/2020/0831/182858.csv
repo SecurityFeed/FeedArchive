@@ -1,0 +1,230 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9frq-f867-hgqc] Directory Traversal in fast-http-cli,https://github.com/advisories/GHSA-9frq-f867-hgqc,https://j.mp/31Gm5uC
+GithubAdvisories,[GHSA-j38m-7q52-fgfh] Directory Traversal in node-server-forfront,https://github.com/advisories/GHSA-j38m-7q52-fgfh,https://j.mp/2QHZAit
+GithubAdvisories,[GHSA-9j5m-873f-xh76] Directory Traversal in static-html-server,https://github.com/advisories/GHSA-9j5m-873f-xh76,https://j.mp/3jzz5Zd
+GithubAdvisories,[GHSA-j6w4-pg6p-5mrv] Directory Traversal in tmock,https://github.com/advisories/GHSA-j6w4-pg6p-5mrv,https://j.mp/2DfSGxT
+GithubAdvisories,[GHSA-8h55-49jm-739x] Directory Traversal in easyquick,https://github.com/advisories/GHSA-8h55-49jm-739x,https://j.mp/3lBxROU
+GithubAdvisories,[GHSA-vxwf-pprx-wc25] Directory Traversal in citypredict.whauwiller,https://github.com/advisories/GHSA-vxwf-pprx-wc25,https://j.mp/2QFqW95
+GithubAdvisories,[GHSA-qr32-j4j6-3m7r] Command Injection in fs-git,https://github.com/advisories/GHSA-qr32-j4j6-3m7r,https://j.mp/2EyoW03
+GithubAdvisories,[GHSA-94x5-94wf-m445] Directory Traversal in gomeplus-h5-proxy,https://github.com/advisories/GHSA-94x5-94wf-m445,https://j.mp/34SmI6e
+GithubAdvisories,[GHSA-xq98-5rcf-5wqh] Directory Traversal in badjs-sourcemap-server,https://github.com/advisories/GHSA-xq98-5rcf-5wqh,https://j.mp/3juJRjd
+GithubAdvisories,[GHSA-6w83-22gj-5pv9] Directory Traversal in cyber-js,https://github.com/advisories/GHSA-6w83-22gj-5pv9,https://j.mp/3jsh7aX
+GithubAdvisories,[GHSA-g7j3-p357-cw8p] Directory Traversal in f2e-server,https://github.com/advisories/GHSA-g7j3-p357-cw8p,https://j.mp/3lCJzsk
+GithubAdvisories,[GHSA-3cgg-gh9j-w8vm] Directory Traversal in iter-http,https://github.com/advisories/GHSA-3cgg-gh9j-w8vm,https://j.mp/32F4y5b
+GithubAdvisories,[GHSA-cfxm-4p54-5w7h] Directory traversal in pooledwebsocket,https://github.com/advisories/GHSA-cfxm-4p54-5w7h,https://j.mp/3hLB7ET
+GithubAdvisories,[GHSA-6866-x7cf-rmh5] Directory Traversal in sencisho,https://github.com/advisories/GHSA-6866-x7cf-rmh5,https://j.mp/2QGmCGx
+GithubAdvisories,[GHSA-832h-xg76-4gv6] ReDoS in brace-expansion,https://github.com/advisories/GHSA-832h-xg76-4gv6,https://j.mp/34SmBHQ
+GithubAdvisories,[GHSA-ww6v-677g-p656] Sandbox Breakout in safe-eval,https://github.com/advisories/GHSA-ww6v-677g-p656,https://j.mp/32G1HJs
+GithubAdvisories,[GHSA-cqjg-whmm-8gv6] Denial of Service via malformed accept-encoding header in hapi,https://github.com/advisories/GHSA-cqjg-whmm-8gv6,https://j.mp/3bckzU9
+GithubAdvisories,[GHSA-h8mc-42c3-r72p] Downloads resources over HTTP in hubl-server,https://github.com/advisories/GHSA-h8mc-42c3-r72p,https://j.mp/3bckzn7
+GithubAdvisories,[GHSA-mhpp-875w-9cpv] Denial of Service in jquery,https://github.com/advisories/GHSA-mhpp-875w-9cpv,https://j.mp/3jtQdiU
+GithubAdvisories,[GHSA-rmxg-73gg-4p98] Cross-Site Scripting (XSS) in jquery,https://github.com/advisories/GHSA-rmxg-73gg-4p98,https://j.mp/31K0TUD
+GithubAdvisories,[GHSA-f89g-whpf-6q9m] Cross-Site Scripting in i18next,https://github.com/advisories/GHSA-f89g-whpf-6q9m,https://j.mp/3hJfIwg
+GithubAdvisories,[GHSA-9xw9-pvgv-6p76] Insufficient Error Handling in http-proxy,https://github.com/advisories/GHSA-9xw9-pvgv-6p76,https://j.mp/3lvNKXb
+GithubAdvisories,[GHSA-mrmf-qwxg-7c3h] XSS in Data URI in remarkable,https://github.com/advisories/GHSA-mrmf-qwxg-7c3h,https://j.mp/32G1HsW
+GithubAdvisories,[GHSA-q257-vv4p-fg92] Header Forgery in http-signature,https://github.com/advisories/GHSA-q257-vv4p-fg92,https://j.mp/2QJBCDq
+GithubAdvisories,[GHSA-pmg9-p9r2-6q87] ReDoS via long UserAgent header in ua-parser,https://github.com/advisories/GHSA-pmg9-p9r2-6q87,https://j.mp/3bfe96x
+GithubAdvisories,[GHSA-qw3g-35hc-fcrh] Cross-Site Scripting (XSS) in restify,https://github.com/advisories/GHSA-qw3g-35hc-fcrh,https://j.mp/32Arjak
+GithubAdvisories,[GHSA-q4v7-4rhw-9hqm] Code Execution through IIFE in node-serialize,https://github.com/advisories/GHSA-q4v7-4rhw-9hqm,https://j.mp/3lAQiTO
+GithubAdvisories,[GHSA-38h8-x697-gh8q] Tmp files readable by other users in sync-exec,https://github.com/advisories/GHSA-38h8-x697-gh8q,https://j.mp/3lz9n8T
+GithubAdvisories,[GHSA-7xfp-9c55-5vqj] Remote Memory Exposure in request,https://github.com/advisories/GHSA-7xfp-9c55-5vqj,https://j.mp/2YQyA4Y
+GithubAdvisories,[GHSA-fwx5-5fqj-jv98] Cross-Site Scripting in morris.js,https://github.com/advisories/GHSA-fwx5-5fqj-jv98,https://j.mp/34QdEi8
+GithubAdvisories,[GHSA-9p47-w5xp-f4xr] Downloads Resources over HTTP in windows-build-tools,https://github.com/advisories/GHSA-9p47-w5xp-f4xr,https://j.mp/34SmHzc
+GithubAdvisories,[GHSA-8hj4-w233-g35q] Downloads Resources over HTTP in react-native-baidu-voice-synthesizer,https://github.com/advisories/GHSA-8hj4-w233-g35q,https://j.mp/2GbE5EN
+GithubAdvisories,[GHSA-cr6c-85fh-cqpg] Downloads Resources over HTTP in haxeshim,https://github.com/advisories/GHSA-cr6c-85fh-cqpg,https://j.mp/32WcsaL
+GithubAdvisories,[GHSA-j3wh-5m26-2pf7] Downloads Resources over HTTP in mystem-fix,https://github.com/advisories/GHSA-j3wh-5m26-2pf7,https://j.mp/3lA4dtd
+GithubAdvisories,[GHSA-xj6f-x7jm-85ff] Downloads Resources over HTTP in openframe-ascii-image,https://github.com/advisories/GHSA-xj6f-x7jm-85ff,https://j.mp/3jvnBpn
+GithubAdvisories,[GHSA-2r9c-46v3-43fc] Downloads Resources over HTTP in haxe3,https://github.com/advisories/GHSA-2r9c-46v3-43fc,https://j.mp/32G1J42
+GithubAdvisories,[GHSA-m79w-4mqv-r39f] Downloads Resources over HTTP in windows-seleniumjar,https://github.com/advisories/GHSA-m79w-4mqv-r39f,https://j.mp/2EAbGrP
+GithubAdvisories,[GHSA-w9mf-24h3-9wxf] Downloads Resources over HTTP in windows-iedriver,https://github.com/advisories/GHSA-w9mf-24h3-9wxf,https://j.mp/3jvntGp
+GithubAdvisories,[GHSA-4v2c-g2xc-47fv] Downloads Resources over HTTP in massif,https://github.com/advisories/GHSA-4v2c-g2xc-47fv,https://j.mp/3lvNMON
+GithubAdvisories,[GHSA-fwhp-2hqr-6g72] Downloads Resources over HTTP in pk-app-wonderbox,https://github.com/advisories/GHSA-fwhp-2hqr-6g72,https://j.mp/32WcsHN
+GithubAdvisories,[GHSA-j336-34q7-cgj3] Downloads Resources over HTTP in healthcenter,https://github.com/advisories/GHSA-j336-34q7-cgj3,https://j.mp/3hKtkr9
+GithubAdvisories,[GHSA-vcfp-ppqw-mf23] Downloads Resources over HTTP in fis-sass-all,https://github.com/advisories/GHSA-vcfp-ppqw-mf23,https://j.mp/32G1JB4
+GithubAdvisories,[GHSA-g7w9-vm5m-48q8] Downloads Resources over HTTP in arcanist,https://github.com/advisories/GHSA-g7w9-vm5m-48q8,https://j.mp/3gHVzVN
+GithubAdvisories,[GHSA-3x83-p476-vv95] Downloads Resources over HTTP in selenium-standalone-painful,https://github.com/advisories/GHSA-3x83-p476-vv95,https://j.mp/2EyuAPL
+GithubAdvisories,[GHSA-455m-q3h9-34pf] Downloads Resources over HTTP in windows-seleniumjar-mirror,https://github.com/advisories/GHSA-455m-q3h9-34pf,https://j.mp/3hLU9Lk
+GithubAdvisories,[GHSA-gf8v-vxf9-7c66] Downloads Resources over HTTP in cloudpub-redis,https://github.com/advisories/GHSA-gf8v-vxf9-7c66,https://j.mp/32G1K86
+GithubAdvisories,[GHSA-wg5r-c793-w5w2] Downloads Resources over HTTP in mystem-wrapper,https://github.com/advisories/GHSA-wg5r-c793-w5w2,https://j.mp/2YQi4lj
+GithubAdvisories,[GHSA-m8pw-h8qj-rgj9] Downloads Resources over HTTP in ipip-coffee,https://github.com/advisories/GHSA-m8pw-h8qj-rgj9,https://j.mp/3jvnBWp
+GithubAdvisories,[GHSA-3627-w2qr-5fxr] Downloads Resources over HTTP in fuseki,https://github.com/advisories/GHSA-3627-w2qr-5fxr,https://j.mp/2EVpe0v
+GithubAdvisories,[GHSA-vcph-57hv-89c4] Downloads Resources over HTTP in serc.js,https://github.com/advisories/GHSA-vcph-57hv-89c4,https://j.mp/3lzgGNU
+GithubAdvisories,[GHSA-x268-6jhm-2mx8] Downloads Resources over HTTP in libsbmlsim,https://github.com/advisories/GHSA-x268-6jhm-2mx8,https://j.mp/31LPL9Q
+GithubAdvisories,[GHSA-rj38-87f3-93p6] Downloads Resources over HTTP in limbus-buildgen,https://github.com/advisories/GHSA-rj38-87f3-93p6,https://j.mp/3hWMqtS
+GithubAdvisories,[GHSA-69r7-cw26-px6h] Downloads Resources over HTTP in google-closure-tools-latest,https://github.com/advisories/GHSA-69r7-cw26-px6h,https://j.mp/2QGhUZs
+GithubAdvisories,[GHSA-3w76-x94r-pw44] Downloads Resources over HTTP in rs-brightcove,https://github.com/advisories/GHSA-3w76-x94r-pw44,https://j.mp/3jAe6FD
+GithubAdvisories,[GHSA-432j-4fw9-2g6f] Downloads Resources over HTTP in libsbml,https://github.com/advisories/GHSA-432j-4fw9-2g6f,https://j.mp/3jvnCtr
+GithubAdvisories,[GHSA-f757-9c4x-chff] Downloads Resources over HTTP in poco,https://github.com/advisories/GHSA-f757-9c4x-chff,https://j.mp/3jAeGmv
+GithubAdvisories,[GHSA-p9pm-55vp-2jqw] Downloads Resources over HTTP in soci,https://github.com/advisories/GHSA-p9pm-55vp-2jqw,https://j.mp/3gKyYYT
+GithubAdvisories,[GHSA-5pq8-2q24-mj3p] Downloads Resources over HTTP in fis-parser-sass-bin,https://github.com/advisories/GHSA-5pq8-2q24-mj3p,https://j.mp/3lvNNCl
+GithubAdvisories,[GHSA-5rm3-qhxf-rh3r] Downloads Resources over HTTP in co-cli-installer,https://github.com/advisories/GHSA-5rm3-qhxf-rh3r,https://j.mp/2De5yob
+GithubAdvisories,[GHSA-g84j-95x2-7g67] Downloads Resources over HTTP in tomita,https://github.com/advisories/GHSA-g84j-95x2-7g67,https://j.mp/2GemfBc
+GithubAdvisories,[GHSA-qhm8-m2c4-9mw7] Downloads Resources over HTTP in qbs,https://github.com/advisories/GHSA-qhm8-m2c4-9mw7,https://j.mp/2De5rcf
+GithubAdvisories,[GHSA-59m2-j944-839w] Downloads Resources over HTTP in clang-extra,https://github.com/advisories/GHSA-59m2-j944-839w,https://j.mp/2DdiJpo
+GithubAdvisories,[GHSA-cr8h-x88h-jwj2] Downloads Resources over HTTP in wixtoolset,https://github.com/advisories/GHSA-cr8h-x88h-jwj2,https://j.mp/2YSN44a
+GithubAdvisories,[GHSA-mpww-j7xj-cj35] Downloads Resources over HTTP in native-opencv,https://github.com/advisories/GHSA-mpww-j7xj-cj35,https://j.mp/2QC202i
+GithubAdvisories,[GHSA-w364-8vfv-gvf5] Downloads Resources over HTTP in phantomjs-cheniu,https://github.com/advisories/GHSA-w364-8vfv-gvf5,https://j.mp/32G1KF8
+GithubAdvisories,[GHSA-722q-3g9x-vp8q] Downloads Resources over HTTP in tomita-parser,https://github.com/advisories/GHSA-722q-3g9x-vp8q,https://j.mp/3lvNO9n
+GithubAdvisories,[GHSA-wx3q-6x7x-jjw4] Downloads Resources over HTTP in mystem,https://github.com/advisories/GHSA-wx3q-6x7x-jjw4,https://j.mp/3jsRfM0
+GithubAdvisories,[GHSA-6fvw-7vch-x489] Downloads Resources over HTTP in selenium-portal,https://github.com/advisories/GHSA-6fvw-7vch-x489,https://j.mp/34Pqcqj
+GithubAdvisories,[GHSA-7r2x-3qcm-8vfw] Downloads Resources over HTTP in herbivore,https://github.com/advisories/GHSA-7r2x-3qcm-8vfw,https://j.mp/32WcteP
+GithubAdvisories,[GHSA-j7j5-752x-wr4v] Downloads Resources over HTTP in xd-testing,https://github.com/advisories/GHSA-j7j5-752x-wr4v,https://j.mp/32G1Lca
+GithubAdvisories,[GHSA-5q5w-mf87-57x4] Downloads Resources over HTTP in sfml,https://github.com/advisories/GHSA-5q5w-mf87-57x4,https://j.mp/32WctLR
+GithubAdvisories,[GHSA-x7q3-67vc-wvcf] Downloads Resources over HTTP in grunt-images,https://github.com/advisories/GHSA-x7q3-67vc-wvcf,https://j.mp/32G1LJc
+GithubAdvisories,[GHSA-p65h-233c-jxvm] Downloads Resources over HTTP in resourcehacker,https://github.com/advisories/GHSA-p65h-233c-jxvm,https://j.mp/3jx7GXO
+GithubAdvisories,[GHSA-8wg9-92fr-6j7v] Downloads Resources over HTTP in marionette-socket-host,https://github.com/advisories/GHSA-8wg9-92fr-6j7v,https://j.mp/2EMqDGO
+GithubAdvisories,[GHSA-476p-r2wx-2wch] Downloads Resources over HTTP in ntfserver,https://github.com/advisories/GHSA-476p-r2wx-2wch,https://j.mp/31Hk94Z
+GithubAdvisories,[GHSA-h7pc-85cg-wmch] Downloads Resources over HTTP in kindlegen,https://github.com/advisories/GHSA-h7pc-85cg-wmch,https://j.mp/2YSmTuv
+GithubAdvisories,[GHSA-r36x-p5pv-9mfx] Downloads Resources over HTTP in prebuild-lwip,https://github.com/advisories/GHSA-r36x-p5pv-9mfx,https://j.mp/3gNRsrk
+GithubAdvisories,[GHSA-2vqv-hp3p-fmv8] Downloads Resources over HTTP in webdriver-launcher,https://github.com/advisories/GHSA-2vqv-hp3p-fmv8,https://j.mp/32G1Mge
+GithubAdvisories,[GHSA-ph8p-2g97-9654] Downloads Resources over HTTP in jstestdriver,https://github.com/advisories/GHSA-ph8p-2g97-9654,https://j.mp/3jqKLx2
+GithubAdvisories,[GHSA-5rc6-2r3r-fv79] Downloads Resources over HTTP in slimerjs-edge,https://github.com/advisories/GHSA-5rc6-2r3r-fv79,https://j.mp/2QTpLDf
+GithubAdvisories,[GHSA-vvwp-3f54-xc39] Downloads Resources over HTTP in broccoli-closure,https://github.com/advisories/GHSA-vvwp-3f54-xc39,https://j.mp/31KATIQ
+GithubAdvisories,[GHSA-rqwh-c535-j9hw] Downloads Resources over HTTP in js-given,https://github.com/advisories/GHSA-rqwh-c535-j9hw,https://j.mp/2YRL8cm
+GithubAdvisories,[GHSA-6pwf-whc8-hjf6] Downloads Resources over HTTP in baryton-saxophone,https://github.com/advisories/GHSA-6pwf-whc8-hjf6,https://j.mp/2QIsoYl
+GithubAdvisories,[GHSA-cmj2-m9m2-6726] Downloads Resources over HTTP in grunt-ccompiler,https://github.com/advisories/GHSA-cmj2-m9m2-6726,https://j.mp/2EGSWGY
+GithubAdvisories,[GHSA-j3cr-j9jx-mf4p] Downloads Resources over HTTP in redis-srvr,https://github.com/advisories/GHSA-j3cr-j9jx-mf4p,https://j.mp/3jtQkek
+GithubAdvisories,[GHSA-cwp7-92h5-82wx] Downloads Resources over HTTP in haxe-dev,https://github.com/advisories/GHSA-cwp7-92h5-82wx,https://j.mp/31HPPHq
+GithubAdvisories,[GHSA-m2w9-rm58-mhm9] Downloads Resources over HTTP in node-thulac,https://github.com/advisories/GHSA-m2w9-rm58-mhm9,https://j.mp/3gPlwml
+GithubAdvisories,[GHSA-7r8m-45gc-m2c8] Downloads Resources over HTTP in mongodb-instance,https://github.com/advisories/GHSA-7r8m-45gc-m2c8,https://j.mp/32G1MNg
+GithubAdvisories,[GHSA-c2vr-2c89-ph88] Downloads Resources over HTTP in node-bsdiff-android,https://github.com/advisories/GHSA-c2vr-2c89-ph88,https://j.mp/2GfMsPN
+GithubAdvisories,[GHSA-4j59-hfw6-6w7h] Downloads Resources over HTTP in cmake,https://github.com/advisories/GHSA-4j59-hfw6-6w7h,https://j.mp/32G1Nki
+GithubAdvisories,[GHSA-4pf7-579w-f4gm] Downloads Resources over HTTP in dwebp-bin,https://github.com/advisories/GHSA-4pf7-579w-f4gm,https://j.mp/2QHZreV
+GithubAdvisories,[GHSA-cvx3-pqmj-x57x] Downloads Resources over HTTP in scalajs-standalone-bin,https://github.com/advisories/GHSA-cvx3-pqmj-x57x,https://j.mp/32BL8OI
+GithubAdvisories,[GHSA-g95j-p8f6-pwh4] Downloads Resources over HTTP in headless-browser-lite,https://github.com/advisories/GHSA-g95j-p8f6-pwh4,https://j.mp/31L1Lbi
+GithubAdvisories,[GHSA-747p-jfqv-f43r] Downloads Resources over HTTP in mystem3,https://github.com/advisories/GHSA-747p-jfqv-f43r,https://j.mp/3gMLGGx
+GithubAdvisories,[GHSA-qjvf-rmwg-64fr] Downloads Resources over HTTP in install-g-test,https://github.com/advisories/GHSA-qjvf-rmwg-64fr,https://j.mp/2DfC7SR
+GithubAdvisories,[GHSA-3vv5-42wr-m32g] Downloads Resources over HTTP in scala-bin,https://github.com/advisories/GHSA-3vv5-42wr-m32g,https://j.mp/31JIYgI
+GithubAdvisories,[GHSA-9jf3-f2pg-7868] Downloads Resources over HTTP in nw-with-arm,https://github.com/advisories/GHSA-9jf3-f2pg-7868,https://j.mp/2YQDOhf
+GithubAdvisories,[GHSA-qx9m-27wh-7fjg] Downloads Resources over HTTP in jvminstall,https://github.com/advisories/GHSA-qx9m-27wh-7fjg,https://j.mp/3lCaYLh
+GithubAdvisories,[GHSA-pr34-8jfr-xhv8] Downloads Resources over HTTP in selenium-wrapper,https://github.com/advisories/GHSA-pr34-8jfr-xhv8,https://j.mp/2Ez3dFi
+GithubAdvisories,[GHSA-hxhm-3vj9-6cqh] Downloads Resources over HTTP in apk-parser2,https://github.com/advisories/GHSA-hxhm-3vj9-6cqh,https://j.mp/2YOcQ9G
+GithubAdvisories,[GHSA-7p6h-3fmw-539q] Downloads Resources over HTTP in selenium-chromedriver,https://github.com/advisories/GHSA-7p6h-3fmw-539q,https://j.mp/3jutovj
+GithubAdvisories,[GHSA-3c87-r9f7-qfgq] Downloads Resources over HTTP in macaca-chromedriver-zxa,https://github.com/advisories/GHSA-3c87-r9f7-qfgq,https://j.mp/2GfPV0P
+GithubAdvisories,[GHSA-4wm5-q7wv-6jx3] Downloads Resources over HTTP in bkjs-wand,https://github.com/advisories/GHSA-4wm5-q7wv-6jx3,https://j.mp/2YSZfy1
+GithubAdvisories,[GHSA-362x-34h3-h6h6] Downloads Resources over HTTP in box2d-native,https://github.com/advisories/GHSA-362x-34h3-h6h6,https://j.mp/32G1NRk
+GithubAdvisories,[GHSA-mgr2-3mpv-43gc] Downloads Resources over HTTP in openframe-image,https://github.com/advisories/GHSA-mgr2-3mpv-43gc,https://j.mp/3jtwGz5
+GithubAdvisories,[GHSA-6p48-xfj3-jw67] Downloads Resources over HTTP in fibjs,https://github.com/advisories/GHSA-6p48-xfj3-jw67,https://j.mp/34ThJ5h
+GithubAdvisories,[GHSA-87g3-x896-w798] Downloads Resources over HTTP in atom-node-module-installer,https://github.com/advisories/GHSA-87g3-x896-w798,https://j.mp/3lzxoMW
+GithubAdvisories,[GHSA-8p52-7cxv-6c95] Downloads Resources over HTTP in curses,https://github.com/advisories/GHSA-8p52-7cxv-6c95,https://j.mp/31JwFRD
+GithubAdvisories,[GHSA-8r98-rqg5-4vm3] Downloads Resources over HTTP in node-browser,https://github.com/advisories/GHSA-8r98-rqg5-4vm3,https://j.mp/3gLNKP8
+GithubAdvisories,[GHSA-x3j8-g4v9-67jq] Downloads Resources over HTTP in pennyworth,https://github.com/advisories/GHSA-x3j8-g4v9-67jq,https://j.mp/32GqVHA
+GithubAdvisories,[GHSA-r74q-wqx8-2pr3] Downloads Resources over HTTP in nodeschnaps,https://github.com/advisories/GHSA-r74q-wqx8-2pr3,https://j.mp/32GhXKl
+GithubAdvisories,[GHSA-735c-r4vc-6gm9] Downloads Resources over HTTP in bionode-sra,https://github.com/advisories/GHSA-735c-r4vc-6gm9,https://j.mp/2QFn8Vj
+GithubAdvisories,[GHSA-4x5j-v9v9-w8gw] Downloads Resources over HTTP in httpsync,https://github.com/advisories/GHSA-4x5j-v9v9-w8gw,https://j.mp/2YRr9KH
+GithubAdvisories,[GHSA-65q2-x652-xx84] Downloads Resources over HTTP in dalek-browser-ie,https://github.com/advisories/GHSA-65q2-x652-xx84,https://j.mp/2QEFSEz
+GithubAdvisories,[GHSA-g2pf-qjgf-6fw3] Downloads Resources over HTTP in openframe-glslviewer,https://github.com/advisories/GHSA-g2pf-qjgf-6fw3,https://j.mp/3gLdWco
+GithubAdvisories,[GHSA-4q79-fch7-g78q] Downloads Resources over HTTP in grunt-webdriver-qunit,https://github.com/advisories/GHSA-4q79-fch7-g78q,https://j.mp/34WdHsK
+GithubAdvisories,[GHSA-hw4r-xr38-hm8j] Downloads Resources over HTTP in unicode-json,https://github.com/advisories/GHSA-hw4r-xr38-hm8j,https://j.mp/3lKhCz8
+GithubAdvisories,[GHSA-x56r-5r34-qg74] Downloads Resources over HTTP in dalek-browser-ie-canary,https://github.com/advisories/GHSA-x56r-5r34-qg74,https://j.mp/32GUJnh
+GithubAdvisories,[GHSA-wq7q-7vfh-2x3h] Downloads Resources over HTTP in install-nw,https://github.com/advisories/GHSA-wq7q-7vfh-2x3h,https://j.mp/3bckArb
+GithubAdvisories,[GHSA-jppx-hw2f-8gx4] Downloads Resources over HTTP in chromedriver126,https://github.com/advisories/GHSA-jppx-hw2f-8gx4,https://j.mp/3jzzdYH
+GithubAdvisories,[GHSA-8gf4-pcj6-54rp] Downloads Resources over HTTP in strider-sauce,https://github.com/advisories/GHSA-8gf4-pcj6-54rp,https://j.mp/2QI4goM
+GithubAdvisories,[GHSA-6v7p-j23v-4xmw] Downloads Resources over HTTP in robot-js,https://github.com/advisories/GHSA-6v7p-j23v-4xmw,https://j.mp/3gLUtbA
+GithubAdvisories,[GHSA-6jx3-rqcx-g3ww] Downloads Resources over HTTP in air-sdk,https://github.com/advisories/GHSA-6jx3-rqcx-g3ww,https://j.mp/34QCxKz
+GithubAdvisories,[GHSA-6q8q-rvf4-m4pg] Downloads Resources over HTTP in dalek-browser-chrome,https://github.com/advisories/GHSA-6q8q-rvf4-m4pg,https://j.mp/31IXoNX
+GithubAdvisories,[GHSA-8cc8-8vvx-fhgw] Downloads Resources over HTTP in jdf-sass,https://github.com/advisories/GHSA-8cc8-8vvx-fhgw,https://j.mp/2QMlelD
+GithubAdvisories,[GHSA-rwvj-jgc4-fqq5] Downloads Resources over HTTP in cobalt-cli,https://github.com/advisories/GHSA-rwvj-jgc4-fqq5,https://j.mp/2YTGOJI
+GithubAdvisories,[GHSA-2wrq-wmqf-8vcc] Downloads Resources over HTTP in operadriver,https://github.com/advisories/GHSA-2wrq-wmqf-8vcc,https://j.mp/3jvid5B
+GithubAdvisories,[GHSA-mm7h-323r-9p4g] Downloads Resources over HTTP in imageoptim,https://github.com/advisories/GHSA-mm7h-323r-9p4g,https://j.mp/352eo4b
+GithubAdvisories,[GHSA-238x-q7xf-p4xw] Downloads Resources over HTTP in arrayfire-js,https://github.com/advisories/GHSA-238x-q7xf-p4xw,https://j.mp/3jx7zvm
+GithubAdvisories,[GHSA-wr2c-ppj9-f2fv] Downloads Resources over HTTP in webdrvr,https://github.com/advisories/GHSA-wr2c-ppj9-f2fv,https://j.mp/2EHTLzh
+GithubAdvisories,[GHSA-p2hm-8725-c8x8] Downloads Resources over HTTP in cue-sdk-node,https://github.com/advisories/GHSA-p2hm-8725-c8x8,https://j.mp/32G1OES
+GithubAdvisories,[GHSA-g93h-75m9-3qq4] Downloads Resources over HTTP in pngcrush-installer,https://github.com/advisories/GHSA-g93h-75m9-3qq4,https://j.mp/3bddz9r
+GithubAdvisories,[GHSA-5w4p-h4gm-3w26] Downloads Resources over HTTP in jser-stat,https://github.com/advisories/GHSA-5w4p-h4gm-3w26,https://j.mp/3bp4FGh
+GithubAdvisories,[GHSA-mq7g-6rv4-pj95] Downloads Resources over HTTP in embedza,https://github.com/advisories/GHSA-mq7g-6rv4-pj95,https://j.mp/34VgoLv
+GithubAdvisories,[GHSA-mq76-m7gv-xhfm] Downloads Resources over HTTP in sauce-connect,https://github.com/advisories/GHSA-mq76-m7gv-xhfm,https://j.mp/34NvORF
+GithubAdvisories,[GHSA-cr79-9pwf-r6f5] Downloads Resources over HTTP in prince,https://github.com/advisories/GHSA-cr79-9pwf-r6f5,https://j.mp/32G1PbU
+GithubAdvisories,[GHSA-9gqh-q4cx-f2h9] Downloads Resources over HTTP in ipip,https://github.com/advisories/GHSA-9gqh-q4cx-f2h9,https://j.mp/3gM4Vjm
+GithubAdvisories,[GHSA-92qm-hc53-jjrj] Downloads Resources over HTTP in ibapi,https://github.com/advisories/GHSA-92qm-hc53-jjrj,https://j.mp/32KrFvl
+GithubAdvisories,[GHSA-ff29-f57w-2mm3] Downloads Resources over HTTP in geoip-lite-country,https://github.com/advisories/GHSA-ff29-f57w-2mm3,https://j.mp/34WdMwy
+GithubAdvisories,[GHSA-8mrf-g42m-5qc8] Downloads Resources over HTTP in dalek-browser-chrome-canary,https://github.com/advisories/GHSA-8mrf-g42m-5qc8,https://j.mp/3hLbZOJ
+GithubAdvisories,[GHSA-769c-qphh-g3wm] Downloads Resources over HTTP in macaca-chromedriver,https://github.com/advisories/GHSA-769c-qphh-g3wm,https://j.mp/3hJPHNn
+GithubAdvisories,[GHSA-rh7p-9c79-gpp8] Downloads Resources over HTTP in wasdk,https://github.com/advisories/GHSA-rh7p-9c79-gpp8,https://j.mp/3jAefJb
+GithubAdvisories,[GHSA-g785-775g-f2g8] Downloads Resources over HTTP in haxe,https://github.com/advisories/GHSA-g785-775g-f2g8,https://j.mp/34QX2Hk
+GithubAdvisories,[GHSA-7vrq-vg6p-32fw] Downloads Resources over HTTP in libxl,https://github.com/advisories/GHSA-7vrq-vg6p-32fw,https://j.mp/2DfC3m5
+GithubAdvisories,[GHSA-7xvg-m3vx-2hhv] Downloads Resources over HTTP in webrtc-native,https://github.com/advisories/GHSA-7xvg-m3vx-2hhv,https://j.mp/3hLYTk2
+GithubAdvisories,[GHSA-h4mc-r4f4-hcf4] Downloads Resources over HTTP in selenium-binaries,https://github.com/advisories/GHSA-h4mc-r4f4-hcf4,https://j.mp/34Obe3D
+GithubAdvisories,[GHSA-jfgq-g48x-jq83] Downloads Resources over HTTP in iedriver,https://github.com/advisories/GHSA-jfgq-g48x-jq83,https://j.mp/3bbGSsY
+GithubAdvisories,[GHSA-gc6c-5v9w-xmhw] Downloads Resources over HTTP in nodewebkit,https://github.com/advisories/GHSA-gc6c-5v9w-xmhw,https://j.mp/2DfSNcN
+GithubAdvisories,[GHSA-x5ph-4fr4-g7fw] Downloads Resources over HTTP in galenframework-cli,https://github.com/advisories/GHSA-x5ph-4fr4-g7fw,https://j.mp/2QEgY7I
+GithubAdvisories,[GHSA-h2r4-4xgf-3865] Downloads Resources over HTTP in product-monitor,https://github.com/advisories/GHSA-h2r4-4xgf-3865,https://j.mp/3lHSWr5
+GithubAdvisories,[GHSA-hjgp-8ffr-hwwr] Downloads Resources over HTTP in closurecompiler,https://github.com/advisories/GHSA-hjgp-8ffr-hwwr,https://j.mp/2YLlEgL
+GithubAdvisories,[GHSA-5m9c-634g-47vq] Downloads Resources over HTTP in steroids,https://github.com/advisories/GHSA-5m9c-634g-47vq,https://j.mp/31I5Dd9
+GithubAdvisories,[GHSA-v5v3-8jqf-vg27] Downloads Resources over HTTP in aerospike,https://github.com/advisories/GHSA-v5v3-8jqf-vg27,https://j.mp/3hKSaH3
+GithubAdvisories,[GHSA-hv96-xxx2-5v7w] Downloads Resources over HTTP in nw,https://github.com/advisories/GHSA-hv96-xxx2-5v7w,https://j.mp/3gM4Wnq
+GithubAdvisories,[GHSA-2hpj-g53m-9gj6] Downloads Resources over HTTP in closure-util,https://github.com/advisories/GHSA-2hpj-g53m-9gj6,https://j.mp/34QLMuA
+GithubAdvisories,[GHSA-2mvm-66q7-m256] Downloads Resources over HTTP in selenium-download,https://github.com/advisories/GHSA-2mvm-66q7-m256,https://j.mp/3gEg8CI
+GithubAdvisories,[GHSA-c4qp-h3m6-785f] Downloads Resources over HTTP in ibm_db,https://github.com/advisories/GHSA-c4qp-h3m6-785f,https://j.mp/2YRuhGz
+GithubAdvisories,[GHSA-hc94-2wfr-4pwf] Downloads Resources over HTTP in appium-chromedriver,https://github.com/advisories/GHSA-hc94-2wfr-4pwf,https://j.mp/2EGfWpq
+GithubAdvisories,[GHSA-qjf4-7642-c57p] Downloads Resources over HTTP in unicode,https://github.com/advisories/GHSA-qjf4-7642-c57p,https://j.mp/2YRr3CP
+GithubAdvisories,[GHSA-jh5w-6964-x5cf] Downloads Resources over HTTP in chromedriver,https://github.com/advisories/GHSA-jh5w-6964-x5cf,https://j.mp/32G1PIW
+GithubAdvisories,[GHSA-vwjj-2852-3765] Cross-Site Scripting in forms,https://github.com/advisories/GHSA-vwjj-2852-3765,https://j.mp/3hPz6HS
+GithubAdvisories,[GHSA-6g33-f262-xjp4] Cryptographically Weak PRNG in randomatic,https://github.com/advisories/GHSA-6g33-f262-xjp4,https://j.mp/34NQUPQ
+GithubAdvisories,[GHSA-g3xp-v2ff-x5c3] Downloads Resources over HTTP in go-ipfs-dep,https://github.com/advisories/GHSA-g3xp-v2ff-x5c3,https://j.mp/2YPVxoS
+GithubAdvisories,[GHSA-wg96-3933-j2w5] Cross-Site Scripting in sanitize-html,https://github.com/advisories/GHSA-wg96-3933-j2w5,https://j.mp/32HWmkH
+GithubAdvisories,[GHSA-xc6g-ggrc-qq4r] Cross-Site Scripting in sanitize-html,https://github.com/advisories/GHSA-xc6g-ggrc-qq4r,https://j.mp/32F4ylH
+GithubAdvisories,[GHSA-73jp-3c67-hjfv] Authentication Bypass in passport-azure-ad,https://github.com/advisories/GHSA-73jp-3c67-hjfv,https://j.mp/2QCVto5
+GithubAdvisories,[GHSA-f5mh-hq6h-whxv] Directory Traversal in bitty,https://github.com/advisories/GHSA-f5mh-hq6h-whxv,https://j.mp/352etov
+GithubAdvisories,[GHSA-qmv4-jgp7-mf68] Broken CORS in sails,https://github.com/advisories/GHSA-qmv4-jgp7-mf68,https://j.mp/32LG1vg
+GithubAdvisories,[GHSA-f7ph-p5rv-phw2] Cross-Site Scripting in nunjucks,https://github.com/advisories/GHSA-f7ph-p5rv-phw2,https://j.mp/2EQWaYh
+GithubAdvisories,[GHSA-qh2h-chj9-jffq] Command Injection in growl,https://github.com/advisories/GHSA-qh2h-chj9-jffq,https://j.mp/2EHIxe9
+GithubAdvisories,[GHSA-2fqv-h3r5-m4vf] Cross Site Scripting (XSS) in plotly.js,https://github.com/advisories/GHSA-2fqv-h3r5-m4vf,https://j.mp/34QWRMa
+GithubAdvisories,[GHSA-qhv9-728r-6jqg] ReDoS via long string of semicolons in tough-cookie,https://github.com/advisories/GHSA-qhv9-728r-6jqg,https://j.mp/2YSmU1x
+GithubAdvisories,[GHSA-hpcf-8vf9-q4gj] XSS in dialog closeText in jquery-ui,https://github.com/advisories/GHSA-hpcf-8vf9-q4gj,https://j.mp/2EU6K0I
+GithubAdvisories,[GHSA-84fv-prrc-5ggr] Route Validation Bypass in call,https://github.com/advisories/GHSA-84fv-prrc-5ggr,https://j.mp/3hNhE6N
+GithubAdvisories,[GHSA-6663-c963-2gqg] DoS due to excessively large websocket message in ws,https://github.com/advisories/GHSA-6663-c963-2gqg,https://j.mp/32FA3w5
+GithubAdvisories,[GHSA-qg8p-v9q4-gh34] Potential Command Injection in shell-quote,https://github.com/advisories/GHSA-qg8p-v9q4-gh34,https://j.mp/2YLlExh
+GithubAdvisories,[GHSA-hxm2-r34f-qmc5] Regular Expression Denial of Service in minimatch,https://github.com/advisories/GHSA-hxm2-r34f-qmc5,https://j.mp/2QIflWG
+GithubAdvisories,[GHSA-2r5h-gh4x-8hp9] Resources Downloaded over Insecure Protocol in igniteui,https://github.com/advisories/GHSA-2r5h-gh4x-8hp9,https://j.mp/2ETGgfr
+GithubAdvisories,[GHSA-x2jc-pwfj-h9p3] SQL Injection in sequelize,https://github.com/advisories/GHSA-x2jc-pwfj-h9p3,https://j.mp/2DjhhlA
+GithubAdvisories,[GHSA-98pq-pmw9-4gpm] SQL Injection in sequelize,https://github.com/advisories/GHSA-98pq-pmw9-4gpm,https://j.mp/3bd4RYK
+GithubAdvisories,[GHSA-2v7q-2xqx-f4q5] Potential SQL Injection in sequelize,https://github.com/advisories/GHSA-2v7q-2xqx-f4q5,https://j.mp/3jshfar
+GithubAdvisories,[GHSA-j6p2-cx3w-6jcp] Cross-Site Scripting in backbone,https://github.com/advisories/GHSA-j6p2-cx3w-6jcp,https://j.mp/2YSmTL1
+GithubAdvisories,[GHSA-q43m-ffwr-rpcc] SSL Validation Defaults to False in electron-packager,https://github.com/advisories/GHSA-q43m-ffwr-rpcc,https://j.mp/2EQbpAI
+GithubAdvisories,[GHSA-7mc5-chhp-fmc3] Regular Expression Denial of Service in negotiator,https://github.com/advisories/GHSA-7mc5-chhp-fmc3,https://j.mp/3hOfMuK
+GithubAdvisories,[GHSA-9c2p-jw8p-f84v] SQL Injection in sequelize,https://github.com/advisories/GHSA-9c2p-jw8p-f84v,https://j.mp/3bbKXxo
+GithubAdvisories,[GHSA-vfvf-mqq8-rwqc] Sanitization bypass using HTML Entities in marked,https://github.com/advisories/GHSA-vfvf-mqq8-rwqc,https://j.mp/2DeENQy
+GithubAdvisories,[GHSA-4r4m-hjwj-43p8] Insecure Defaults Allow MITM Over TLS in engine.io-client,https://github.com/advisories/GHSA-4r4m-hjwj-43p8,https://j.mp/32EuCxm
+GithubAdvisories,[GHSA-856x-cp3q-47vg] Insecure Default Configuration in airbrake,https://github.com/advisories/GHSA-856x-cp3q-47vg,https://j.mp/34QdEyE
+GithubAdvisories,[GHSA-m5h6-hr3q-22h5] npm Token Leak in npm,https://github.com/advisories/GHSA-m5h6-hr3q-22h5,https://j.mp/2Gf7i1L
+GithubAdvisories,[GHSA-6cpc-mj5c-m9rq] Arbitrary File Write in cli,https://github.com/advisories/GHSA-6cpc-mj5c-m9rq,https://j.mp/3jwP5uR
+GithubAdvisories,[GHSA-hjhr-r3gq-qvp6] Timing Attack in csrf-lite,https://github.com/advisories/GHSA-hjhr-r3gq-qvp6,https://j.mp/2YQiaJH
+GithubAdvisories,[GHSA-rhvc-x32h-5526] No CSRF Validation in droppy,https://github.com/advisories/GHSA-rhvc-x32h-5526,https://j.mp/2QHhXnS
+GithubAdvisories,[GHSA-q52j-4q2q-hcj6] Authentication Bypass in console-io,https://github.com/advisories/GHSA-q52j-4q2q-hcj6,https://j.mp/32BL95e
+GithubAdvisories,[GHSA-xg5r-8j97-2wrj] Directory Traversal in restafary,https://github.com/advisories/GHSA-xg5r-8j97-2wrj,https://j.mp/2GemwnI
+GithubAdvisories,[GHSA-pp4v-55vr-9gxh] Regular Expression Denial of Service in riot-compiler,https://github.com/advisories/GHSA-pp4v-55vr-9gxh,https://j.mp/2YO3GdC
+GithubAdvisories,[GHSA-rrj3-qmh8-72pf] Sensitive Data In Log Files in grunt-gh-pages,https://github.com/advisories/GHSA-rrj3-qmh8-72pf,https://j.mp/34OBcUJ
+GithubAdvisories,[GHSA-mg8r-9g6j-hwv9] Authentication Bypass in hapi-auth-jwt2,https://github.com/advisories/GHSA-mg8r-9g6j-hwv9,https://j.mp/34Q4yC4
+GithubAdvisories,[GHSA-97gv-3p2c-xw7j] Denial of Service and Content Injection in i18n-node-angular,https://github.com/advisories/GHSA-97gv-3p2c-xw7j,https://j.mp/2QJBCTW
+GithubAdvisories,[GHSA-g3r2-65gc-qpqc] Denial of Service in mqtt-packet,https://github.com/advisories/GHSA-g3r2-65gc-qpqc,https://j.mp/31Jrjpp
+GithubAdvisories,[GHSA-q69p-5h74-w36f] Content Injection via TileJSON Name in mapbox.js,https://github.com/advisories/GHSA-q69p-5h74-w36f,https://j.mp/3lzxbcC
+GithubAdvisories,[GHSA-2mhh-w6q8-5hxw] Remote Memory Disclosure in ws,https://github.com/advisories/GHSA-2mhh-w6q8-5hxw,https://j.mp/34OjzV2
+GithubAdvisories,[GHSA-w3w8-37jv-2c58] Cross-Site Scripting in mustache,https://github.com/advisories/GHSA-w3w8-37jv-2c58,https://j.mp/2YPUTb2
+GithubAdvisories,[GHSA-9prh-257w-9277] Cross-Site Scripting in handlebars,https://github.com/advisories/GHSA-9prh-257w-9277,https://j.mp/2YQyAlu
+GithubAdvisories,[GHSA-3fx5-fwvr-xrjg] Regular Expression Denial of Service in millisecond,https://github.com/advisories/GHSA-3fx5-fwvr-xrjg,https://j.mp/2EHTLPN
+GithubAdvisories,[GHSA-gfjr-3jmm-4g9v] Symlink Arbitrary File Overwrite in tar,https://github.com/advisories/GHSA-gfjr-3jmm-4g9v,https://j.mp/3jtQdzq
+GithubAdvisories,[GHSA-jgqf-hwc5-hh37] Root Path Disclosure in send,https://github.com/advisories/GHSA-jgqf-hwc5-hh37,https://j.mp/3jw2jYW
+GithubAdvisories,[GHSA-87vv-r9j6-g5qv] Regular Expression Denial of Service in moment,https://github.com/advisories/GHSA-87vv-r9j6-g5qv,https://j.mp/34QNxI2
+GithubAdvisories,[GHSA-xj62-87pg-vcv3] Regular Expression Denial of Service in jshamcrest,https://github.com/advisories/GHSA-xj62-87pg-vcv3,https://j.mp/2EQWgPD
+GithubAdvisories,[GHSA-6354-6mhv-mvv5] Regular Expression Denial of Service in jadedown,https://github.com/advisories/GHSA-6354-6mhv-mvv5,https://j.mp/2Ez3dVO
+GithubAdvisories,[GHSA-h9x2-5rm7-x4gm] Insecure Comparison in secure-compare,https://github.com/advisories/GHSA-h9x2-5rm7-x4gm,https://j.mp/31Kebk0
+GithubAdvisories,[GHSA-c9f4-xj24-8jqx] Regular Expression Denial of Service in uglify-js,https://github.com/advisories/GHSA-c9f4-xj24-8jqx,https://j.mp/32WcuPV
+GithubAdvisories,[GHSA-79mx-88w7-8f7q] XSS Filter Bypass via Encoded URL in validator,https://github.com/advisories/GHSA-79mx-88w7-8f7q,https://j.mp/3gKSjJl
+GithubAdvisories,[GHSA-q4qq-fm7q-cwp5] Multiple XSS Filter Bypasses in validator,https://github.com/advisories/GHSA-q4qq-fm7q-cwp5,https://j.mp/2QIshvT
+GithubAdvisories,[GHSA-34r7-q49f-h37c] Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js,https://github.com/advisories/GHSA-34r7-q49f-h37c,https://j.mp/3hFYSya
+GithubAdvisories,[GHSA-5726-g6r9-5f22] Potential for Script Injection in syntax-error,https://github.com/advisories/GHSA-5726-g6r9-5f22,https://j.mp/2DdiQkO
+GithubAdvisories,[GHSA-v633-x5vv-hqwc] Cross-Site Scripting in serve-index,https://github.com/advisories/GHSA-v633-x5vv-hqwc,https://j.mp/3hKvK8V
+GithubAdvisories,[GHSA-xqg8-cv3h-xppv] SQL Injection in sequelize,https://github.com/advisories/GHSA-xqg8-cv3h-xppv,https://j.mp/3gOxI70
+GithubAdvisories,[GHSA-xwg4-93c6-3h42] Directory Traversal in send,https://github.com/advisories/GHSA-xwg4-93c6-3h42,https://j.mp/3beMa7m
+GithubAdvisories,[GHSA-x6fg-f45m-jf5q] Regular Expression Denial of Service in semver,https://github.com/advisories/GHSA-x6fg-f45m-jf5q,https://j.mp/34LD9Br
+GithubAdvisories,[GHSA-jjv7-qpx3-h62q] Denial-of-Service Memory Exhaustion in qs,https://github.com/advisories/GHSA-jjv7-qpx3-h62q,https://j.mp/3jtQkuQ
+GithubAdvisories,[GHSA-f9cm-p3w6-xvr3] Denial-of-Service Extended Event Loop Blocking in qs,https://github.com/advisories/GHSA-f9cm-p3w6-xvr3,https://j.mp/32BKWPu
+GithubAdvisories,[GHSA-5c8j-xr24-2665] Potential Command Injection in printer,https://github.com/advisories/GHSA-5c8j-xr24-2665,https://j.mp/3ba4Kxi
+GithubAdvisories,[GHSA-hjcp-j389-59ff] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-hjcp-j389-59ff,https://j.mp/2YQOTyA
+GithubAdvisories,[GHSA-xxvw-45rp-3mj2] Deserialization Code Execution in js-yaml,https://github.com/advisories/GHSA-xxvw-45rp-3mj2,https://j.mp/2YPUB3W
+GithubAdvisories,[GHSA-cqr7-78pj-3g7j] File Descriptor Leak Can Cause DoS Vulnerability in hapi,https://github.com/advisories/GHSA-cqr7-78pj-3g7j,https://j.mp/2Z7HIm3
+GithubAdvisories,[GHSA-333x-9vgq-v2j4] Directory Traversal in geddy,https://github.com/advisories/GHSA-333x-9vgq-v2j4,https://j.mp/3jutweh
+GithubAdvisories,[GHSA-gpvr-g6gh-9mc2] No Charset in Content-Type Header in express,https://github.com/advisories/GHSA-gpvr-g6gh-9mc2,https://j.mp/3gF5hIE
+GithubAdvisories,[GHSA-84fq-6626-w5fg] CORS Token Disclosure in crumb,https://github.com/advisories/GHSA-84fq-6626-w5fg,https://j.mp/3beH5Mb
+GithubAdvisories,[GHSA-rph7-j9qr-h8q8] Potential Command Injection in codem-transcode,https://github.com/advisories/GHSA-rph7-j9qr-h8q8,https://j.mp/3jyNftg
