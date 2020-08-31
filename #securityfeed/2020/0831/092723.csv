@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] CMS Made Simple 2.2.14 - Arbitrary File Upload (Authenticated),https://www.exploit-db.com/exploits/48779,https://j.mp/3gFJiBv
+ExploitDB,[webapps] Fuel CMS 1.4.8 - 'fuel_replace_id' SQL Injection (Authenticated),https://www.exploit-db.com/exploits/48778,https://j.mp/3lxjWZX
+ExploitDB,[webapps] Mara CMS 7.5 - Reflective Cross-Site Scripting,https://www.exploit-db.com/exploits/48777,https://j.mp/3jt1lfL
+ExploitDB,"[local] BlazeDVD 7.0 Professional - '.plf' Local Buffer Overflow (SEH,ASLR,DEP)",https://www.exploit-db.com/exploits/48776,https://j.mp/3hKmkui
+ExploitDB,[webapps] Online Book Store 1.0 - 'id' SQL Injection,https://www.exploit-db.com/exploits/48775,https://j.mp/3ly5Vey
