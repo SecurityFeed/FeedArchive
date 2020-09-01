@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rxg-9g6f-vq9p] Malicious Package in another-date-range-picker,https://github.com/advisories/GHSA-8rxg-9g6f-vq9p,https://j.mp/2QLMtgo
+GithubAdvisories,[GHSA-2p62-c4rm-mr72] Malicious Package in another-date-picker,https://github.com/advisories/GHSA-2p62-c4rm-mr72,https://j.mp/3gPMWZi
+GithubAdvisories,[GHSA-qmxf-fxq7-w59f] Malicious Package in angular-material-sidenav-rnd,https://github.com/advisories/GHSA-qmxf-fxq7-w59f,https://j.mp/32KpBDz
+GithubAdvisories,[GHSA-w8hg-mxvh-9h57] Malicious Package in angular-bmap,https://github.com/advisories/GHSA-w8hg-mxvh-9h57,https://j.mp/2QJdiSv
+GithubAdvisories,[GHSA-c82c-8pjw-6829] Malicious Package in @impala/bmap,https://github.com/advisories/GHSA-c82c-8pjw-6829,https://j.mp/2DnjXyA
+GithubAdvisories,[GHSA-53mj-mc38-q894] Remote Memory Exposure in openwhisk,https://github.com/advisories/GHSA-53mj-mc38-q894,https://j.mp/31NoXWq
+GithubAdvisories,[GHSA-r5xw-q988-826m] Remote Memory Exposure in mongoose,https://github.com/advisories/GHSA-r5xw-q988-826m,https://j.mp/2YYqvLI
+GithubAdvisories,[GHSA-wm7q-rxch-43mx] Byass due to validation before canonicalization in serve,https://github.com/advisories/GHSA-wm7q-rxch-43mx,https://j.mp/31MAPrJ
+GithubAdvisories,[GHSA-hpr5-wp7c-hh5q] Cross-Site Scripting in mrk.js,https://github.com/advisories/GHSA-hpr5-wp7c-hh5q,https://j.mp/3bjgZYA
