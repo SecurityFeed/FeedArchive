@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5gwh-g79j-vh4q] Command Injection in pdf-image,https://github.com/advisories/GHSA-5gwh-g79j-vh4q,https://j.mp/3jC4JVW
+GithubAdvisories,[GHSA-m7qm-r2r5-f77q] Cross-Site Scripting in react-marked-markdown,https://github.com/advisories/GHSA-m7qm-r2r5-f77q,https://j.mp/2EWMOtM
+GithubAdvisories,[GHSA-rvg8-pwq2-xj7q] Out-of-bounds Read in base64url,https://github.com/advisories/GHSA-rvg8-pwq2-xj7q,https://j.mp/3lGvpqo
+GithubAdvisories,[GHSA-33gc-f8v9-v8hm] Malicious Package in ladder-text-js,https://github.com/advisories/GHSA-33gc-f8v9-v8hm,https://j.mp/2EMRO4D
+GithubAdvisories,[GHSA-353r-3v84-9pjj] Malicious Package in nothing-js,https://github.com/advisories/GHSA-353r-3v84-9pjj,https://j.mp/3hPaaA9
+GithubAdvisories,[GHSA-3cjv-4phw-gvvv] Malicious Package in getcookies,https://github.com/advisories/GHSA-3cjv-4phw-gvvv,https://j.mp/3blBpjE
+GithubAdvisories,[GHSA-j5jc-jf8f-86q7] Malicious Package in dictum.js,https://github.com/advisories/GHSA-j5jc-jf8f-86q7,https://j.mp/2DkRYQ7
+GithubAdvisories,[GHSA-28xx-8j99-m32j] Malicious Package in nginxbeautifier,https://github.com/advisories/GHSA-28xx-8j99-m32j,https://j.mp/2EWMPhk
+GithubAdvisories,[GHSA-54cr-gv8w-8324] Malicious Package in xoc,https://github.com/advisories/GHSA-54cr-gv8w-8324,https://j.mp/2GcVvAU
+GithubAdvisories,[GHSA-3wh2-2pp3-2823] Malicious Package in simple-alipay,https://github.com/advisories/GHSA-3wh2-2pp3-2823,https://j.mp/3hU7z8c
+GithubAdvisories,[GHSA-3wjm-33mw-h388] Malicious Package in s3asy,https://github.com/advisories/GHSA-3wjm-33mw-h388,https://j.mp/3gXnXnj
+GithubAdvisories,[GHSA-fwvp-x5gj-773j] Malicious Package in react-server-native,https://github.com/advisories/GHSA-fwvp-x5gj-773j,https://j.mp/3gMiI9H
+GithubAdvisories,[GHSA-5645-gc7h-98h8] Malicious Package in react-dates-sc,https://github.com/advisories/GHSA-5645-gc7h-98h8,https://j.mp/3lCvueB
+GithubAdvisories,[GHSA-4c87-gg2q-fc6m] Malicious Package in rc-calendar-jhorst,https://github.com/advisories/GHSA-4c87-gg2q-fc6m,https://j.mp/2QLy0AY
+GithubAdvisories,[GHSA-cxcf-78mr-wpg7] Malicious Package in oauth-validator,https://github.com/advisories/GHSA-cxcf-78mr-wpg7,https://j.mp/31MuIUo
+GithubAdvisories,[GHSA-94m7-w873-6wwf] Malicious Package in modlibrary,https://github.com/advisories/GHSA-94m7-w873-6wwf,https://j.mp/2EWMOdg
+GithubAdvisories,[GHSA-7xfq-xh6v-4mrm] Malicious Package in json-serializer,https://github.com/advisories/GHSA-7xfq-xh6v-4mrm,https://j.mp/2QLxUJC
+GithubAdvisories,[GHSA-9cq4-mhmr-84gm] Malicious Package in jasmin,https://github.com/advisories/GHSA-9cq4-mhmr-84gm,https://j.mp/350daq5
