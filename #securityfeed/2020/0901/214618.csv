@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x6m6-5hrf-fh6r] Denial of Service in markdown-it-toc-and-anchor,https://github.com/advisories/GHSA-x6m6-5hrf-fh6r,https://j.mp/2EWWGnk
+GithubAdvisories,[GHSA-mpjf-8cmf-p789] Cross-Site Scripting in jingo,https://github.com/advisories/GHSA-mpjf-8cmf-p789,https://j.mp/2Gaifl1
+GithubAdvisories,[GHSA-hgr5-82rc-p936] Cross-Site Scripting in md-data-table,https://github.com/advisories/GHSA-hgr5-82rc-p936,https://j.mp/3gQU6ws
+GithubAdvisories,[GHSA-xwqw-rf2q-xmhf] Cross-Site Scripting in buefy,https://github.com/advisories/GHSA-xwqw-rf2q-xmhf,https://j.mp/3jNBEXN
+GithubAdvisories,[GHSA-h5vj-f7r9-w564] Entropy Backdoor in text-qrcode,https://github.com/advisories/GHSA-h5vj-f7r9-w564,https://j.mp/34WdXZ8
+GithubAdvisories,[GHSA-9x64-5r7x-2q53] Malicious Package in flatmap-stream,https://github.com/advisories/GHSA-9x64-5r7x-2q53,https://j.mp/3bgyqsy
+GithubAdvisories,[GHSA-xhjx-mfr6-9rr4] Command Injection in samsung-remote,https://github.com/advisories/GHSA-xhjx-mfr6-9rr4,https://j.mp/2EMCuoG
+GithubAdvisories,[GHSA-9hqj-38j2-5jgm] Command Injection in ascii-art,https://github.com/advisories/GHSA-9hqj-38j2-5jgm,https://j.mp/3jFlQWV
+GithubAdvisories,[GHSA-77q4-m83q-w76v] Missing Origin Validation in browserify-hmr,https://github.com/advisories/GHSA-77q4-m83q-w76v,https://j.mp/3jArdX9
+GithubAdvisories,[GHSA-f5cv-xrv9-r8w7] NoSQL injection in express-cart,https://github.com/advisories/GHSA-f5cv-xrv9-r8w7,https://j.mp/3gLSHHL
+GithubAdvisories,[GHSA-992f-wf4w-x36v] Prototype Pollution in merge-objects,https://github.com/advisories/GHSA-992f-wf4w-x36v,https://j.mp/2Gl8DEj
