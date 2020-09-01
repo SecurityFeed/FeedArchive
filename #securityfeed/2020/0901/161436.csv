@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xq8r-r72r-pqwm] Downloads Resources over HTTP in roslib-socketio,https://github.com/advisories/GHSA-xq8r-r72r-pqwm,https://j.mp/3jzoNYP
+GithubAdvisories,[GHSA-72q2-5rxx-xfff] Downloads Resources over HTTP in gfe-sass,https://github.com/advisories/GHSA-72q2-5rxx-xfff,https://j.mp/3lDjGZB
+GithubAdvisories,[GHSA-j9q7-3rhf-4ppv] Downloads Resources over HTTP in windows-selenium-chromedriver,https://github.com/advisories/GHSA-j9q7-3rhf-4ppv,https://j.mp/3lFElfG
+GithubAdvisories,[GHSA-h2jv-5v3f-7m7j] Downloads Resources over HTTP in adamvr-geoip-lite,https://github.com/advisories/GHSA-h2jv-5v3f-7m7j,https://j.mp/3lCz1cX
+GithubAdvisories,[GHSA-7hvm-29rf-2gf2] Downloads Resources over HTTP in node-air-sdk,https://github.com/advisories/GHSA-7hvm-29rf-2gf2,https://j.mp/2QKBlk0
+GithubAdvisories,[GHSA-9chw-xrwx-f86j] Downloads Resources over HTTP in frames-compiler,https://github.com/advisories/GHSA-9chw-xrwx-f86j,https://j.mp/3hOp3TB
+GithubAdvisories,[GHSA-4p7j-5ppx-rfhm] Downloads Resources over HTTP in apk-parser3,https://github.com/advisories/GHSA-4p7j-5ppx-rfhm,https://j.mp/2YU7nOU
+GithubAdvisories,[GHSA-5g4r-87v2-jqvx] Downloads Resources over HTTP in apk-parser,https://github.com/advisories/GHSA-5g4r-87v2-jqvx,https://j.mp/2G9ii0r
+GithubAdvisories,[GHSA-5h5r-23r4-m87h] Cross-Site Scripting in gitbook,https://github.com/advisories/GHSA-5h5r-23r4-m87h,https://j.mp/3hOLOq9
+GithubAdvisories,[GHSA-v3jv-wrf4-5845] Local Privilege Escalation in npm,https://github.com/advisories/GHSA-v3jv-wrf4-5845,https://j.mp/2EPhuNU
+GithubAdvisories,[GHSA-hf5h-hh56-3vrg] Denial of Service in uws,https://github.com/advisories/GHSA-hf5h-hh56-3vrg,https://j.mp/2YWeS7P
+GithubAdvisories,[GHSA-hg78-c92r-hvwr] Denial of Service in mqtt,https://github.com/advisories/GHSA-hg78-c92r-hvwr,https://j.mp/3hOLIyN
+GithubAdvisories,[GHSA-cjj8-wfrx-jqcf] Cross-Site Scripting (XSS) in pivottable,https://github.com/advisories/GHSA-cjj8-wfrx-jqcf,https://j.mp/2EPa9xT
+GithubAdvisories,[GHSA-gvg7-pp82-cff3] Cross-Site Scripting in c3,https://github.com/advisories/GHSA-gvg7-pp82-cff3,https://j.mp/2YWTdwe
+GithubAdvisories,[GHSA-g336-c7wv-8hp3] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-g336-c7wv-8hp3,https://j.mp/3gJZdhX
+GithubAdvisories,[GHSA-4v9q-hm2p-68c4] Spoofing attack due to unvalidated KDC in node-krb5,https://github.com/advisories/GHSA-4v9q-hm2p-68c4,https://j.mp/3bhGUQ9
+GithubAdvisories,[GHSA-fwcw-5qw2-87mp] Cross-Site Scripting in fuelux,https://github.com/advisories/GHSA-fwcw-5qw2-87mp,https://j.mp/3bg8Tje
