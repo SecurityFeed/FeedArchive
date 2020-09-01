@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63m4-fhf2-cmf7] Command Execution in windows-cpu,https://github.com/advisories/GHSA-63m4-fhf2-cmf7,https://j.mp/31OZqfu
+GithubAdvisories,[GHSA-mj87-8xf8-fp4w] Cross-Site Scripting in yui,https://github.com/advisories/GHSA-mj87-8xf8-fp4w,https://j.mp/34OyLl8
+GithubAdvisories,[GHSA-2pqj-h3vj-pqgw] Cross-Site Scripting in jquery,https://github.com/advisories/GHSA-2pqj-h3vj-pqgw,https://j.mp/3lykDT3
+GithubAdvisories,[GHSA-wfw3-rgfr-6g67] XSS via Angular Expression in ag-grid,https://github.com/advisories/GHSA-wfw3-rgfr-6g67,https://j.mp/2GkaCZx
+GithubAdvisories,[GHSA-cwcp-6c48-fm7m] Unsafe eval() in summit,https://github.com/advisories/GHSA-cwcp-6c48-fm7m,https://j.mp/3jAOvMy
+GithubAdvisories,[GHSA-2r7f-4h2c-5x73] Arbitrary File Read in fury-adapter-swagger,https://github.com/advisories/GHSA-2r7f-4h2c-5x73,https://j.mp/2QJqN4v
+GithubAdvisories,[GHSA-7ww4-c3mj-93cf] Downloads Resources over HTTP in pm2-kafka,https://github.com/advisories/GHSA-7ww4-c3mj-93cf,https://j.mp/32JOI9z
+GithubAdvisories,[GHSA-mf7c-58q5-7v65] Downloads Resources over HTTP in npm-test-sqlite3-trunk,https://github.com/advisories/GHSA-mf7c-58q5-7v65,https://j.mp/34S6FoW
+GithubAdvisories,[GHSA-4ccc-jm2p-vg3p] Downloads Resources over HTTP in windows-latestchromedriver,https://github.com/advisories/GHSA-4ccc-jm2p-vg3p,https://j.mp/2EN4FUj
