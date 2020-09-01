@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4r9-mgjc-g6q3] Path Traversal in 626,https://github.com/advisories/GHSA-r4r9-mgjc-g6q3,https://j.mp/2DhIAwq
+GithubAdvisories,[GHSA-8c8c-4vfj-rrpc] Reflected Cross-Site Scripting in redis-commander,https://github.com/advisories/GHSA-8c8c-4vfj-rrpc,https://j.mp/3i2Bifr
+GithubAdvisories,[GHSA-m4vv-p6fq-jhqp] Directory Traversal in @vivaxy/here,https://github.com/advisories/GHSA-m4vv-p6fq-jhqp,https://j.mp/2QMx0wG
+GithubAdvisories,[GHSA-7x92-2j68-h32c] Directory Traversal in featurebook,https://github.com/advisories/GHSA-7x92-2j68-h32c,https://j.mp/32Q14Ni
+GithubAdvisories,[GHSA-m36m-x4c5-rjxj] Silently Runs Cryptocoin Miner in hooka-tools,https://github.com/advisories/GHSA-m36m-x4c5-rjxj,https://j.mp/2Gefi2R
+GithubAdvisories,[GHSA-hwhq-3hrj-v6v5] Hijacked Environment Variables in cross-env.js,https://github.com/advisories/GHSA-hwhq-3hrj-v6v5,https://j.mp/34TZBIE
+GithubAdvisories,[GHSA-xfmw-2vmm-579c] Hijacked Environment Variables in nodesass,https://github.com/advisories/GHSA-xfmw-2vmm-579c,https://j.mp/2YUBshc
+GithubAdvisories,[GHSA-8gv6-g7vp-hr34] Hijacked Environment Variables in mysqljs,https://github.com/advisories/GHSA-8gv6-g7vp-hr34,https://j.mp/2EPSEgS
+GithubAdvisories,[GHSA-4r5x-qjqc-p579] Tracking Module in botbait,https://github.com/advisories/GHSA-4r5x-qjqc-p579,https://j.mp/2GkHIbJ
+GithubAdvisories,[GHSA-428f-mh7w-6w2x] Infecting Module in pandora-doomsday,https://github.com/advisories/GHSA-428f-mh7w-6w2x,https://j.mp/2GkHIIL
+GithubAdvisories,[GHSA-322m-p39j-r5m2] Malicious Package in npm-script-demo,https://github.com/advisories/GHSA-322m-p39j-r5m2,https://j.mp/34Rzli0
+GithubAdvisories,[GHSA-h372-w3xp-2jg3] Directory Traversal in section2.madisonjbrooks12,https://github.com/advisories/GHSA-h372-w3xp-2jg3,https://j.mp/34P4nHk
+GithubAdvisories,[GHSA-f8rj-4v7g-p5rj] Directory Traversal in jansenstuffpleasework,https://github.com/advisories/GHSA-f8rj-4v7g-p5rj,https://j.mp/3gPo3x4
+GithubAdvisories,[GHSA-8w74-g84v-c5w8] Directory Traversal in chatbyvista,https://github.com/advisories/GHSA-8w74-g84v-c5w8,https://j.mp/3btsIE1
+GithubAdvisories,[GHSA-8xj3-7258-w4q2] Directory Traversal in dasafio,https://github.com/advisories/GHSA-8xj3-7258-w4q2,https://j.mp/34ZY6Zz
+GithubAdvisories,[GHSA-g5m5-v5cp-5p7m] Directory Traversal in wintiwebdev,https://github.com/advisories/GHSA-g5m5-v5cp-5p7m,https://j.mp/2YVflY0
+GithubAdvisories,[GHSA-qw9c-8p76-3q2x] Directory Traversal in serve46,https://github.com/advisories/GHSA-qw9c-8p76-3q2x,https://j.mp/32O7Ov8
+GithubAdvisories,[GHSA-qh38-wrgf-cj2c] Directory Traversal in iter-server,https://github.com/advisories/GHSA-qh38-wrgf-cj2c,https://j.mp/32J7oGA
+GithubAdvisories,[GHSA-jp46-fw6c-3pm9] Directory Traversal in scott-blanch-weather-app,https://github.com/advisories/GHSA-jp46-fw6c-3pm9,https://j.mp/34Vx5pY
