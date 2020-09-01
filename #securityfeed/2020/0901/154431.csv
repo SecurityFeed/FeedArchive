@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrx7-8hxf-f853] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-mrx7-8hxf-f853,https://j.mp/32IqT20
+GithubAdvisories,[GHSA-gjhx-gxwx-jx9j] Cross-Site Scripting in jqtree,https://github.com/advisories/GHSA-gjhx-gxwx-jx9j,https://j.mp/3bgc7Dn
+GithubAdvisories,[GHSA-46m8-42hm-wvvw] Cross-Site Scripting in emojione,https://github.com/advisories/GHSA-46m8-42hm-wvvw,https://j.mp/31NLzGz
+GithubAdvisories,[GHSA-v5hp-35hw-cw5x] XSS in client rendered block templates in rendr,https://github.com/advisories/GHSA-v5hp-35hw-cw5x,https://j.mp/2QLTLRo
+GithubAdvisories,[GHSA-c7pp-g2v2-2766] DOM-based XSS in gmail-js,https://github.com/advisories/GHSA-c7pp-g2v2-2766,https://j.mp/2YS3ha4
+GithubAdvisories,[GHSA-p239-93f7-h6xf] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-p239-93f7-h6xf,https://j.mp/3blgnRZ
+GithubAdvisories,[GHSA-v2jq-9475-r5g8] Cross-Site Scripting in bootstrap-tagsinput,https://github.com/advisories/GHSA-v2jq-9475-r5g8,https://j.mp/3bkNyp0
+GithubAdvisories,[GHSA-7f59-x49p-v8mq] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-7f59-x49p-v8mq,https://j.mp/2YWYiop
+GithubAdvisories,[GHSA-5v9h-q3gj-c32x] SQL Injection via GeoJSON in sequelize,https://github.com/advisories/GHSA-5v9h-q3gj-c32x,https://j.mp/31MMsPn
+GithubAdvisories,[GHSA-p788-rj37-357w] Insecure Defaults Leads to Potential MITM in ezseed-transmission,https://github.com/advisories/GHSA-p788-rj37-357w,https://j.mp/3lAuoQy
+GithubAdvisories,[GHSA-39cx-xcwj-3rc4] Cross-Site Scripting in dojo,https://github.com/advisories/GHSA-39cx-xcwj-3rc4,https://j.mp/2YWnc7B
+GithubAdvisories,[GHSA-r87w-47m8-22w3] Template Injection in jsrender,https://github.com/advisories/GHSA-r87w-47m8-22w3,https://j.mp/2YUfESJ
+GithubAdvisories,[GHSA-gjcw-v447-2w7q] Forgeable Public/Private Tokens in jws,https://github.com/advisories/GHSA-gjcw-v447-2w7q,https://j.mp/3jCNKT8
+GithubAdvisories,[GHSA-77g4-36jp-5v3m] Remote Memory Disclosure in bittorrent-dht,https://github.com/advisories/GHSA-77g4-36jp-5v3m,https://j.mp/32IwiG8
+GithubAdvisories,[GHSA-fvq6-55gv-jx9f] SQL Injection in mysql,https://github.com/advisories/GHSA-fvq6-55gv-jx9f,https://j.mp/31Nw9ly
+GithubAdvisories,[GHSA-j3g2-m5jj-6336] Unsafe Merging of CORS Configuration Conflict in hapi,https://github.com/advisories/GHSA-j3g2-m5jj-6336,https://j.mp/32PiWYE
+GithubAdvisories,[GHSA-pjh3-jv7w-9jpr] Command Injection in gm,https://github.com/advisories/GHSA-pjh3-jv7w-9jpr,https://j.mp/3gPEdX4
+GithubAdvisories,[GHSA-c2v2-7rcg-2ch7] Regular Expression Denial of Service in ansi2html,https://github.com/advisories/GHSA-c2v2-7rcg-2ch7,https://j.mp/3bj3Y0N
+GithubAdvisories,[GHSA-mvmf-cvfx-qg55] Regular Expression Denial of Service in bleach,https://github.com/advisories/GHSA-mvmf-cvfx-qg55,https://j.mp/32NT53d
+GithubAdvisories,[GHSA-gg6m-fhqv-hg56] Denial of Service in yar,https://github.com/advisories/GHSA-gg6m-fhqv-hg56,https://j.mp/2GaGmA2
