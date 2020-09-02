@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-SA-20:26.dhclient,https://security.FreeBSD.org/advisories/FreeBSD-SA-20:26.dhclient.asc,https://j.mp/3gTerkI
+FreeBSDSecurityNotice,FreeBSD-SA-20:25.sctp,https://security.FreeBSD.org/advisories/FreeBSD-SA-20:25.sctp.asc,https://j.mp/2EHpTmN
+FreeBSDSecurityNotice,FreeBSD-SA-20:24.ipv6,https://security.FreeBSD.org/advisories/FreeBSD-SA-20:24.ipv6.asc,https://j.mp/2QNldhx
