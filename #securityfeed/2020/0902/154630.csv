@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x9hc-rw35-f44h] Sandbox Breakout / Arbitrary Code Execution in static-eval,https://github.com/advisories/GHSA-x9hc-rw35-f44h,https://j.mp/2DlI3cT
+GithubAdvisories,[GHSA-9p64-h5q4-phpm] Remote Code Execution in office-converter,https://github.com/advisories/GHSA-9p64-h5q4-phpm,https://j.mp/34WmECq
+GithubAdvisories,[GHSA-m5ch-gx8g-rg73] Remote Code Execution in pomelo-monitor,https://github.com/advisories/GHSA-m5ch-gx8g-rg73,https://j.mp/3hUUETr
+GithubAdvisories,[GHSA-44vf-8ffm-v2qh] Sensitive Data Exposure in rails-session-decoder,https://github.com/advisories/GHSA-44vf-8ffm-v2qh,https://j.mp/3gSwW98
+GithubAdvisories,[GHSA-w32g-5hqp-gg6q] Cross-Site Scripting in mermaid,https://github.com/advisories/GHSA-w32g-5hqp-gg6q,https://j.mp/34Vk53G
+GithubAdvisories,[GHSA-pp7h-53gx-mx7r] Remote Memory Exposure in bl,https://github.com/advisories/GHSA-pp7h-53gx-mx7r,https://j.mp/34ZoGlw
