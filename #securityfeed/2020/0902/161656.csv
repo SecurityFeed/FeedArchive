@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8h3-rqrm-47v9] Prototype Pollution in smart-extend,https://github.com/advisories/GHSA-f8h3-rqrm-47v9,https://j.mp/34W0OyX
+GithubAdvisories,[GHSA-wqhw-frpx-5mmp] Command Injection in tomato,https://github.com/advisories/GHSA-wqhw-frpx-5mmp,https://j.mp/3lJnrNa
+GithubAdvisories,[GHSA-7543-mr7h-6v86] Improper Authorization in googleapis,https://github.com/advisories/GHSA-7543-mr7h-6v86,https://j.mp/32J0HnC
+GithubAdvisories,[GHSA-w5q7-3pr9-x44w] Denial of Service in serialize-to-js,https://github.com/advisories/GHSA-w5q7-3pr9-x44w,https://j.mp/34Uex9H
+GithubAdvisories,[GHSA-73v8-v6g4-vrpm] Arbitrary File Overwrite in decompress-zip,https://github.com/advisories/GHSA-73v8-v6g4-vrpm,https://j.mp/32J0GQA
+GithubAdvisories,[GHSA-w6xj-45gv-fw35] Malicious Package in stream-combine,https://github.com/advisories/GHSA-w6xj-45gv-fw35,https://j.mp/2EVWyog
+GithubAdvisories,[GHSA-9wjh-jr2j-6r4x] Remote Code Execution in pi_video_recording,https://github.com/advisories/GHSA-9wjh-jr2j-6r4x,https://j.mp/32L1Hrw
+GithubAdvisories,[GHSA-8wgc-jjvv-cv6v] Improper Authorization in loopback,https://github.com/advisories/GHSA-8wgc-jjvv-cv6v,https://j.mp/3gTxyLM
+GithubAdvisories,[GHSA-c7pp-x73h-4m2v] Cross-Site Scripting in bootstrap-vue,https://github.com/advisories/GHSA-c7pp-x73h-4m2v,https://j.mp/2Dqvddy
+GithubAdvisories,[GHSA-hxwc-5vw9-2w4w] NoSQL Injection in loopback-connector-mongodb,https://github.com/advisories/GHSA-hxwc-5vw9-2w4w,https://j.mp/2EQel0t
+GithubAdvisories,[GHSA-fm4j-4xhm-xpwx] Sandbox Breakout / Arbitrary Code Execution in sandbox,https://github.com/advisories/GHSA-fm4j-4xhm-xpwx,https://j.mp/2EQektr
+GithubAdvisories,[GHSA-p8fm-w787-x6x3] Malicious Package in portionfatty12,https://github.com/advisories/GHSA-p8fm-w787-x6x3,https://j.mp/2QPQKzg
+GithubAdvisories,[GHSA-277p-xwpp-3jf7] Malicious Package in rrgod,https://github.com/advisories/GHSA-277p-xwpp-3jf7,https://j.mp/34Xdtlb
+GithubAdvisories,[GHSA-2hqf-qqmq-pgpp] Malicious Package in commander-js,https://github.com/advisories/GHSA-2hqf-qqmq-pgpp,https://j.mp/3bhIEJi
+GithubAdvisories,[GHSA-p9vv-3945-x93h] Cross-Site Scripting in semantic-ui-search,https://github.com/advisories/GHSA-p9vv-3945-x93h,https://j.mp/34U82Uh
