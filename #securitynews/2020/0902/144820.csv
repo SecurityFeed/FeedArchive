@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,Dive into Email Security: MTA-STS Policies,https://redd.it/il85tq,
+r/NetSec,PowerShell payload used DNS over HTTPS to request TXT record of a doppelganger domain which looked like a DKIM signature which after decoding actually contained C2 IPs,https://redd.it/il7t9c,
