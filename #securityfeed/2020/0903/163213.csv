@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4f9m-pxwh-68hg] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-4f9m-pxwh-68hg,https://j.mp/3bq7o22
+GithubAdvisories,[GHSA-w973-2qcc-p78x] User Impersonation in converse.js,https://github.com/advisories/GHSA-w973-2qcc-p78x,https://j.mp/350Tbrd
+GithubAdvisories,[GHSA-p82g-2xpp-m5r3] Cross-Site Scripting in dojo,https://github.com/advisories/GHSA-p82g-2xpp-m5r3,https://j.mp/2Z5CXcB
