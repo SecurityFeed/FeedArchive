@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx78-272p-mqqh] Authorization Bypass in graphql-shield,https://github.com/advisories/GHSA-hx78-272p-mqqh,https://j.mp/351pru6
+GithubAdvisories,[GHSA-vm6v-w6q2-mrrq] Malicious Package in bb-builder,https://github.com/advisories/GHSA-vm6v-w6q2-mrrq,https://j.mp/3jIQrmh
+GithubAdvisories,[GHSA-563h-697m-j7x5] Malicious Package in device-mqtt,https://github.com/advisories/GHSA-563h-697m-j7x5,https://j.mp/2QR9BtN
+GithubAdvisories,[GHSA-4j54-mmmv-hjpm] Malicious Package in slush-fullstack-framework,https://github.com/advisories/GHSA-4j54-mmmv-hjpm,https://j.mp/3i08B2v
+GithubAdvisories,[GHSA-j4ch-mw66-xmqv] Malicious Package in pensi-scheduler,https://github.com/advisories/GHSA-j4ch-mw66-xmqv,https://j.mp/3jK91ug
+GithubAdvisories,[GHSA-v6vv-hhqc-6hh2] Malicious Package in pyramid-proportion,https://github.com/advisories/GHSA-v6vv-hhqc-6hh2,https://j.mp/2EZpAUa
+GithubAdvisories,[GHSA-xwg3-gjxh-c8pm] Malicious Package in ngx-context-menu,https://github.com/advisories/GHSA-xwg3-gjxh-c8pm,https://j.mp/2QPgSuj
+GithubAdvisories,[GHSA-pjxp-f379-6284] Malicious Package in @fangrong/xoc,https://github.com/advisories/GHSA-pjxp-f379-6284,https://j.mp/3gWXWV9
+GithubAdvisories,[GHSA-jf55-rgpx-p6rx] Malicious Package in iie-viz,https://github.com/advisories/GHSA-jf55-rgpx-p6rx,https://j.mp/32VveyL
+GithubAdvisories,[GHSA-78p3-96hc-3j47] Malicious Package in jquery-airload,https://github.com/advisories/GHSA-78p3-96hc-3j47,https://j.mp/354l3uE
+GithubAdvisories,[GHSA-fx6f-fpfv-5hmc] Malicious Package in uploader-plugin,https://github.com/advisories/GHSA-fx6f-fpfv-5hmc,https://j.mp/354GdZE
+GithubAdvisories,[GHSA-377f-vvrc-9wgg] Malicious Package in zemen,https://github.com/advisories/GHSA-377f-vvrc-9wgg,https://j.mp/2Z5B8w5
+GithubAdvisories,[GHSA-m5pf-5894-jmx7] Malicious Package in sailclothjs,https://github.com/advisories/GHSA-m5pf-5894-jmx7,https://j.mp/3lXJksi
+GithubAdvisories,[GHSA-226w-6hhj-69hp] Malicious Package in cal_rd,https://github.com/advisories/GHSA-226w-6hhj-69hp,https://j.mp/2QPh3pt
+GithubAdvisories,[GHSA-m86m-5m44-pc93] Denial of Service in grpc-ts-health-check,https://github.com/advisories/GHSA-m86m-5m44-pc93,https://j.mp/32XiDej
+GithubAdvisories,[GHSA-c3px-v9c7-m734] Prototype Pollution in mithril,https://github.com/advisories/GHSA-c3px-v9c7-m734,https://j.mp/2GlqN8M
