@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxrm-2h86-v95f] Malicious Package in pizza-pasta,https://github.com/advisories/GHSA-wxrm-2h86-v95f,https://j.mp/34Y90yS
+GithubAdvisories,[GHSA-h232-fpqx-mqgr] Malicious Package in log-symboles,https://github.com/advisories/GHSA-h232-fpqx-mqgr,https://j.mp/31WeCb1
+GithubAdvisories,[GHSA-chh2-rvhg-wqwr] Malicious Package in json-serializer,https://github.com/advisories/GHSA-chh2-rvhg-wqwr,https://j.mp/2QQtJw2
+GithubAdvisories,[GHSA-4xg9-g7qj-jhg4] Malicious Package in comander,https://github.com/advisories/GHSA-4xg9-g7qj-jhg4,https://j.mp/3hZyH5H
+GithubAdvisories,[GHSA-p59g-6cqr-m73w] Malicious Package in bmap,https://github.com/advisories/GHSA-p59g-6cqr-m73w,https://j.mp/2Z3YlyC
+GithubAdvisories,[GHSA-xgp2-cc4r-7vf6] Denial of Service in http-live-simulator,https://github.com/advisories/GHSA-xgp2-cc4r-7vf6,https://j.mp/2QSXOvi
+GithubAdvisories,[GHSA-p77h-hv6g-fmfp] Sensitive Data Exposure in ibm_db,https://github.com/advisories/GHSA-p77h-hv6g-fmfp,https://j.mp/34Y915U
+GithubAdvisories,[GHSA-pv6r-vchh-cxg9] Denial of Service in apostrophe,https://github.com/advisories/GHSA-pv6r-vchh-cxg9,https://j.mp/3hWOhPr
+GithubAdvisories,[GHSA-69r6-7h4f-9p7q] Malicious Package in discord.js-user,https://github.com/advisories/GHSA-69r6-7h4f-9p7q,https://j.mp/31VekAV
+GithubAdvisories,[GHSA-c3m8-x3cg-qm2c] Configuration Override in helmet-csp,https://github.com/advisories/GHSA-c3m8-x3cg-qm2c,https://j.mp/32Sk2mw
+GithubAdvisories,[GHSA-4x7w-frcq-v4m3] Path Traversal in @wturyn/swagger-injector,https://github.com/advisories/GHSA-4x7w-frcq-v4m3,https://j.mp/3gW0iDu
+GithubAdvisories,[GHSA-v4x8-gw49-7hv4] Path Traversal in swagger-injector,https://github.com/advisories/GHSA-v4x8-gw49-7hv4,https://j.mp/2QTbCWo
+GithubAdvisories,[GHSA-jfcc-rm7f-xgf8] Cross-Site Scripting in mavon-editor,https://github.com/advisories/GHSA-jfcc-rm7f-xgf8,https://j.mp/3hXRGxC
