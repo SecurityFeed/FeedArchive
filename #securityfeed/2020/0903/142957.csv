@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-2239 (parameterized_remote_trigger),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2239,https://j.mp/2Gs0Q7G
+NVD-NIST,CVE-2020-2242 (database),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2242,https://j.mp/2QTtf8F
+NVD-NIST,CVE-2020-23831 (stock_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23831,https://j.mp/353zuPE
+NVD-NIST,CVE-2020-24553 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24553,https://j.mp/3jJnpmI
+NVD-NIST,CVE-2020-25088 (ecommerce-codeigniter-bootstrap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25088,https://j.mp/3lFWkm2
+NVD-NIST,CVE-2020-25091 (ecommerce-codeigniter-bootstrap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25091,https://j.mp/358xV2y
+NVD-NIST,CVE-2020-25092 (ecommerce-codeigniter-bootstrap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25092,https://j.mp/2DufgmG
+NVD-NIST,CVE-2020-25093 (ecommerce-codeigniter-bootstrap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25093,https://j.mp/3bnge0s
