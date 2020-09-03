@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rmmc-8cqj-hfp3] Authentication Bypass in otpauth,https://github.com/advisories/GHSA-rmmc-8cqj-hfp3,https://j.mp/2QP97ob
+GithubAdvisories,[GHSA-wjf2-7f9g-86f5] Malicious Package in fast-requests,https://github.com/advisories/GHSA-wjf2-7f9g-86f5,https://j.mp/3gRVmiV
+GithubAdvisories,[GHSA-jf8x-wg7f-p3w8] Malicious Package in cage-js,https://github.com/advisories/GHSA-jf8x-wg7f-p3w8,https://j.mp/3h1d2IV
+GithubAdvisories,[GHSA-x48m-gp6r-gp4v] Malicious Package in rate-map,https://github.com/advisories/GHSA-x48m-gp6r-gp4v,https://j.mp/3hVbAcE
+GithubAdvisories,[GHSA-h9wr-xr4r-66fh] Cross-Site Scripting in dmn-js-properties-panel,https://github.com/advisories/GHSA-h9wr-xr4r-66fh,https://j.mp/2DpaqH8
+GithubAdvisories,[GHSA-jxf5-7x3j-8j9m] Malicious Package in load-from-cwd-or-npm,https://github.com/advisories/GHSA-jxf5-7x3j-8j9m,https://j.mp/31WO2hG
+GithubAdvisories,[GHSA-vmh4-322v-cfpc] Cross-Site Scripting in cmmn-js-properties-panel,https://github.com/advisories/GHSA-vmh4-322v-cfpc,https://j.mp/31TghOw
+GithubAdvisories,[GHSA-vpj4-89q8-rh38] Cross-Site Scripting in bpmn-js-properties-panel,https://github.com/advisories/GHSA-vpj4-89q8-rh38,https://j.mp/3hZSXEc
+GithubAdvisories,[GHSA-ch52-vgq2-943f] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-ch52-vgq2-943f,https://j.mp/2Z1HUD4
+GithubAdvisories,[GHSA-cr67-78jr-j94p] Local File Inclusion in domokeeper,https://github.com/advisories/GHSA-cr67-78jr-j94p,https://j.mp/3hXmyy7
+GithubAdvisories,[GHSA-38vq-cjh5-vw7x] Malicious Package in nodes.js,https://github.com/advisories/GHSA-38vq-cjh5-vw7x,https://j.mp/31WeZlH
+GithubAdvisories,[GHSA-qfc9-x7gv-27jr] Malicious Package in deasyncp,https://github.com/advisories/GHSA-qfc9-x7gv-27jr,https://j.mp/350as3K
+GithubAdvisories,[GHSA-gcfc-mgg3-8j2c] Malicious Package in sdfjghlkfjdshlkjdhsfg,https://github.com/advisories/GHSA-gcfc-mgg3-8j2c,https://j.mp/2GjYmrM
+GithubAdvisories,[GHSA-779f-wgxg-qr8f] Prototype Pollution in lodash.mergewith,https://github.com/advisories/GHSA-779f-wgxg-qr8f,https://j.mp/31X4dvD
+GithubAdvisories,[GHSA-46fh-8fc5-xcwx] Prototype Pollution in lodash.defaultsdeep,https://github.com/advisories/GHSA-46fh-8fc5-xcwx,https://j.mp/31UMW66
+GithubAdvisories,[GHSA-5947-m4fg-xhqg] Prototype Pollution in lodash.mergewith,https://github.com/advisories/GHSA-5947-m4fg-xhqg,https://j.mp/3bpDk6P
+GithubAdvisories,[GHSA-h5mp-5q4p-ggf5] Prototype Pollution in lodash.defaultsdeep,https://github.com/advisories/GHSA-h5mp-5q4p-ggf5,https://j.mp/32Xjuvw
+GithubAdvisories,[GHSA-2m96-9w4j-wgv7] Prototype Pollution in lodash.merge,https://github.com/advisories/GHSA-2m96-9w4j-wgv7,https://j.mp/32VBiHG
+GithubAdvisories,[GHSA-h726-x36v-rx45] Prototype Pollution in lodash.merge,https://github.com/advisories/GHSA-h726-x36v-rx45,https://j.mp/351AmnD
