@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mvq-xp48-4c77] Denial of Service in subtext,https://github.com/advisories/GHSA-2mvq-xp48-4c77,https://j.mp/354om4H
+GithubAdvisories,[GHSA-hv4w-jhcj-6wfw] Cross-Site Scripting in snekserve,https://github.com/advisories/GHSA-hv4w-jhcj-6wfw,https://j.mp/2QSvwRn
+GithubAdvisories,[GHSA-fvwr-h9xh-m6wc] Denial of Service in @commercial/subtext,https://github.com/advisories/GHSA-fvwr-h9xh-m6wc,https://j.mp/32ScVdX
+GithubAdvisories,[GHSA-4rgj-8mq3-hggj] Denial of Service in @hapi/subtext,https://github.com/advisories/GHSA-4rgj-8mq3-hggj,https://j.mp/3lVOfdl
+GithubAdvisories,[GHSA-hvxq-j2r4-4jm8] Regular Expression Denial of Service in sql-injection,https://github.com/advisories/GHSA-hvxq-j2r4-4jm8,https://j.mp/339Yzpx
+GithubAdvisories,[GHSA-p62r-jf56-h429] Malicious Package in evil-package,https://github.com/advisories/GHSA-p62r-jf56-h429,https://j.mp/2Z4fFDS
+GithubAdvisories,[GHSA-88h9-fc6v-jcw7] Unintended Require in larvitbase-www,https://github.com/advisories/GHSA-88h9-fc6v-jcw7,https://j.mp/3bpqyF7
+GithubAdvisories,[GHSA-4xf9-pgvv-xx67] Regular Expression Denial of Service in simple-markdown,https://github.com/advisories/GHSA-4xf9-pgvv-xx67,https://j.mp/2Z4fFnm
+GithubAdvisories,[GHSA-4vvp-x9h2-x2vf] Path Traversal in public,https://github.com/advisories/GHSA-4vvp-x9h2-x2vf,https://j.mp/354TOjE
+GithubAdvisories,[GHSA-fw4p-36j9-rrj3] Denial of Service in sequelize,https://github.com/advisories/GHSA-fw4p-36j9-rrj3,https://j.mp/2Dv2Ue0
