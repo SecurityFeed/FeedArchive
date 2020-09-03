@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7r5f-7qr4-pf6q] Sandbox Breakout / Arbitrary Code Execution in notevil,https://github.com/advisories/GHSA-7r5f-7qr4-pf6q,https://j.mp/3lNk1ZP
+GithubAdvisories,[GHSA-vx5w-cxch-wwc9] Path Traversal in f-serv,https://github.com/advisories/GHSA-vx5w-cxch-wwc9,https://j.mp/3brzaek
+GithubAdvisories,[GHSA-jjhg-qw5v-r8xx] Malicious Package in anarchy,https://github.com/advisories/GHSA-jjhg-qw5v-r8xx,https://j.mp/3lGWGJ8
+GithubAdvisories,[GHSA-g9wg-wq4f-2x5w] Cross-Site Scripting in console-feed,https://github.com/advisories/GHSA-g9wg-wq4f-2x5w,https://j.mp/3bAZRxD
