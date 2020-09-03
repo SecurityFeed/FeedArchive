@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xw79-hhv6-578c] Cross-Site Scripting in serve,https://github.com/advisories/GHSA-xw79-hhv6-578c,https://j.mp/31Siutx
+GithubAdvisories,[GHSA-48gc-5j93-5cfq] Path Traversal in serve,https://github.com/advisories/GHSA-48gc-5j93-5cfq,https://j.mp/2QXEflb
+GithubAdvisories,[GHSA-gwpf-62xp-vrg6] Information Exposure in cordova-android,https://github.com/advisories/GHSA-gwpf-62xp-vrg6,https://j.mp/2QPVAgb
+GithubAdvisories,[GHSA-crpm-fm48-chj7] SQL Injection in resquel,https://github.com/advisories/GHSA-crpm-fm48-chj7,https://j.mp/2Dw02xy
+GithubAdvisories,[GHSA-9v62-24cr-58cx] Denial of Service in node-sass,https://github.com/advisories/GHSA-9v62-24cr-58cx,https://j.mp/3gRmsqp
+GithubAdvisories,[GHSA-j6v9-xgvh-f796] Command Injection in wxchangba,https://github.com/advisories/GHSA-j6v9-xgvh-f796,https://j.mp/3lItnGl
+GithubAdvisories,[GHSA-9r3m-mhfm-39cm] Incorrect Calculation in bigint-money,https://github.com/advisories/GHSA-9r3m-mhfm-39cm,https://j.mp/358OStI
+GithubAdvisories,[GHSA-v86x-f47q-f7f4] Unauthorized File Access in atompm,https://github.com/advisories/GHSA-v86x-f47q-f7f4,https://j.mp/3bqW7hK
+GithubAdvisories,[GHSA-8mgg-5x65-m4m4] Command Injection in soletta-dev-app,https://github.com/advisories/GHSA-8mgg-5x65-m4m4,https://j.mp/3jEVeoX
