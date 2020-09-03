@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jvfv-jhw9-jmpp] Malicious Package in b5ffer-xor,https://github.com/advisories/GHSA-jvfv-jhw9-jmpp,https://j.mp/2QUvNTQ
+GithubAdvisories,[GHSA-mjjq-c88q-qhr6] Cross-Site Scripting in dompurify,https://github.com/advisories/GHSA-mjjq-c88q-qhr6,https://j.mp/3h3S7Fu
+GithubAdvisories,[GHSA-mfcp-34xw-p57x] Authentication Bypass in saml2-js,https://github.com/advisories/GHSA-mfcp-34xw-p57x,https://j.mp/2Z7xVfI
+GithubAdvisories,[GHSA-5v7r-jg9r-vq44] Insecure Cryptography Algorithm in simple-crypto-js,https://github.com/advisories/GHSA-5v7r-jg9r-vq44,https://j.mp/3jKCtQV
+GithubAdvisories,[GHSA-876r-hj45-fw7g] Sandbox Breakout / Arbitrary Code Execution in safer-eval,https://github.com/advisories/GHSA-876r-hj45-fw7g,https://j.mp/3bnML6F
+GithubAdvisories,[GHSA-ccrp-c664-8p4j] Cross-Site Scripting in markdown-to-jsx,https://github.com/advisories/GHSA-ccrp-c664-8p4j,https://j.mp/2EYIWZs
+GithubAdvisories,[GHSA-qgfr-5hqp-vrw9] Arbitrary File Write in decompress,https://github.com/advisories/GHSA-qgfr-5hqp-vrw9,https://j.mp/2EO3T9X
+GithubAdvisories,[GHSA-cv3v-7846-6pxm] Unauthorized File Access in node-git-server,https://github.com/advisories/GHSA-cv3v-7846-6pxm,https://j.mp/3jHsOdV
+GithubAdvisories,[GHSA-q3w9-g74q-vp5f] Denial of Service in express-fileupload,https://github.com/advisories/GHSA-q3w9-g74q-vp5f,https://j.mp/3gXka9x
+GithubAdvisories,[GHSA-phph-xpj4-wvcv] Cross-Site Scripting in hexo-admin,https://github.com/advisories/GHSA-phph-xpj4-wvcv,https://j.mp/3jMwMlI
+GithubAdvisories,[GHSA-mh5c-679w-hh4r] Denial of Service in mongodb,https://github.com/advisories/GHSA-mh5c-679w-hh4r,https://j.mp/2QUlEXu
+GithubAdvisories,[GHSA-8jf2-cq6v-w234] Malicious Package in uglyfi.js,https://github.com/advisories/GHSA-8jf2-cq6v-w234,https://j.mp/2QUqZOh
+GithubAdvisories,[GHSA-725f-3pw7-rq6x] Malicious Package in 8.9.4,https://github.com/advisories/GHSA-725f-3pw7-rq6x,https://j.mp/32UKETR
+GithubAdvisories,[GHSA-vm7j-4rj6-mw2p] Malicious Package in ember_cli_babe,https://github.com/advisories/GHSA-vm7j-4rj6-mw2p,https://j.mp/3lQWNSr
+GithubAdvisories,[GHSA-8hmr-w35f-3qgj] Malicious Package in harmlesspackage,https://github.com/advisories/GHSA-8hmr-w35f-3qgj,https://j.mp/2Z7xUIG
+GithubAdvisories,[GHSA-f7g4-fm4c-54m9] Malicious Package in yeoman-genrator,https://github.com/advisories/GHSA-f7g4-fm4c-54m9,https://j.mp/2Z4KdoU
+GithubAdvisories,[GHSA-rrvm-gqq8-q2wx] Malicious Package in require-port,https://github.com/advisories/GHSA-rrvm-gqq8-q2wx,https://j.mp/34ZB5WB
