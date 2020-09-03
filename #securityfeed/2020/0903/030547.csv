@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4q8f-5xxj-946r] Command Injection in addax,https://github.com/advisories/GHSA-4q8f-5xxj-946r,https://j.mp/3jE9TRc
+GithubAdvisories,[GHSA-mxmj-84q8-34r7] Command Injection in expressfs,https://github.com/advisories/GHSA-mxmj-84q8-34r7,https://j.mp/2Z1Tez1
+GithubAdvisories,[GHSA-4x6x-782q-jfc4] Command Injection in node-wifi,https://github.com/advisories/GHSA-4x6x-782q-jfc4,https://j.mp/32Uo0Lg
+GithubAdvisories,[GHSA-cr5w-6rv4-r2qg] Malicious Package in maleficent,https://github.com/advisories/GHSA-cr5w-6rv4-r2qg,https://j.mp/3hXy78K
+GithubAdvisories,[GHSA-hx5x-49mm-vmhw] SQL Injection in sails-mysql,https://github.com/advisories/GHSA-hx5x-49mm-vmhw,https://j.mp/31Qrq2q
