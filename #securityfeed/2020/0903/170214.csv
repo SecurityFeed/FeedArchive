@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qjfh-xc44-rm9x] Path Traversal in file-static-server,https://github.com/advisories/GHSA-qjfh-xc44-rm9x,https://j.mp/3bn1wql
+GithubAdvisories,[GHSA-v6gv-fg46-h89j] Sensitive Data Exposure in put,https://github.com/advisories/GHSA-v6gv-fg46-h89j,https://j.mp/32SEWlz
+GithubAdvisories,[GHSA-8px5-63x9-5c7p] Command Injection in pullit,https://github.com/advisories/GHSA-8px5-63x9-5c7p,https://j.mp/3205UZr
+GithubAdvisories,[GHSA-wfhx-6pcm-7m55] Path Traversal in ponse,https://github.com/advisories/GHSA-wfhx-6pcm-7m55,https://j.mp/2Z5J8xj
+GithubAdvisories,[GHSA-v7cp-5326-54fh] Path Traversal in bruteser,https://github.com/advisories/GHSA-v7cp-5326-54fh,https://j.mp/31Vuqe7
+GithubAdvisories,[GHSA-g8vp-6hv4-m67c] Command Injection in entitlements,https://github.com/advisories/GHSA-g8vp-6hv4-m67c,https://j.mp/2F1Lc22
+GithubAdvisories,[GHSA-3f95-w5h5-fq86] Prototype Pollution in mergify,https://github.com/advisories/GHSA-3f95-w5h5-fq86,https://j.mp/2ZkECv5
+GithubAdvisories,[GHSA-5g6j-8hv4-vfgj] Cross-Site Scripting in node-red,https://github.com/advisories/GHSA-5g6j-8hv4-vfgj,https://j.mp/3lV6P5l
+GithubAdvisories,[GHSA-cpgr-wmr9-qxv4] Cross-Site Scripting in serve,https://github.com/advisories/GHSA-cpgr-wmr9-qxv4,https://j.mp/3bqsi11
+GithubAdvisories,[GHSA-hq8g-qq57-5275] SQL Injection in untitled-model,https://github.com/advisories/GHSA-hq8g-qq57-5275,https://j.mp/3hXBsEu
+GithubAdvisories,[GHSA-w992-2gmj-9xxj] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-w992-2gmj-9xxj,https://j.mp/32060jL
+GithubAdvisories,[GHSA-22q9-hqm5-mhmc] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-22q9-hqm5-mhmc,https://j.mp/355pgOu
+GithubAdvisories,[GHSA-vp93-gcx5-4w52] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-vp93-gcx5-4w52,https://j.mp/3hXBFaK
+GithubAdvisories,[GHSA-388g-jwpg-x6j4] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-388g-jwpg-x6j4,https://j.mp/3jHRraj
+GithubAdvisories,[GHSA-j8r2-2x94-2q67] Cross-Site Scripting in diagram-js-direct-editing,https://github.com/advisories/GHSA-j8r2-2x94-2q67,https://j.mp/3i9JAlL
+GithubAdvisories,[GHSA-8fw4-xh83-3j6q] Cross-Site Scripting in diagram-js,https://github.com/advisories/GHSA-8fw4-xh83-3j6q,https://j.mp/2Z37pDU
+GithubAdvisories,[GHSA-wgw3-gf4p-62xc] Command Injection in wizard-syncronizer,https://github.com/advisories/GHSA-wgw3-gf4p-62xc,https://j.mp/32RwwuN
