@@ -1,0 +1,94 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hjg-w3ww-38c6] Malicious Package in tiar,https://github.com/advisories/GHSA-4hjg-w3ww-38c6,https://j.mp/3gTspmN
+GithubAdvisories,[GHSA-59x8-7wx6-4hj9] Malicious Package in secure_identity_login_module,https://github.com/advisories/GHSA-59x8-7wx6-4hj9,https://j.mp/2EY8uWC
+GithubAdvisories,[GHSA-2h3x-95c6-885r] Malicious Package in river-mock,https://github.com/advisories/GHSA-2h3x-95c6-885r,https://j.mp/2Dq0hKk
+GithubAdvisories,[GHSA-j8hw-49gg-vq3w] Malicious Package in retcodelog,https://github.com/advisories/GHSA-j8hw-49gg-vq3w,https://j.mp/2F5t0V7
+GithubAdvisories,[GHSA-559q-92vx-xvjp] Malicious Package in qingting,https://github.com/advisories/GHSA-559q-92vx-xvjp,https://j.mp/2Gt6tCz
+GithubAdvisories,[GHSA-x3m6-rprw-862w] Malicious Package in node-buc,https://github.com/advisories/GHSA-x3m6-rprw-862w,https://j.mp/2QSXGMc
+GithubAdvisories,[GHSA-mq9h-cwc2-6j5r] Malicious Package in midway-dataproxy,https://github.com/advisories/GHSA-mq9h-cwc2-6j5r,https://j.mp/31WFO9s
+GithubAdvisories,[GHSA-w65v-hx54-xrqx] Malicious Package in midway-xtpl,https://github.com/advisories/GHSA-w65v-hx54-xrqx,https://j.mp/2EUIDiG
+GithubAdvisories,[GHSA-g5q2-fcg9-j526] Malicious Package in hsf-clients,https://github.com/advisories/GHSA-g5q2-fcg9-j526,https://j.mp/2Z53jLM
+GithubAdvisories,[GHSA-qm4q-f956-fg64] Malicious Package in luna-mock,https://github.com/advisories/GHSA-qm4q-f956-fg64,https://j.mp/2F4etck
+GithubAdvisories,[GHSA-vxfp-qmpq-6826] Malicious Package in hpmm,https://github.com/advisories/GHSA-vxfp-qmpq-6826,https://j.mp/32RJpVH
+GithubAdvisories,[GHSA-6m6m-j2hm-pxrg] Malicious Package in cicada-render,https://github.com/advisories/GHSA-6m6m-j2hm-pxrg,https://j.mp/2F789AP
+GithubAdvisories,[GHSA-86gv-xpwv-jprc] Malicious Package in diamond-clien,https://github.com/advisories/GHSA-86gv-xpwv-jprc,https://j.mp/32RLXTC
+GithubAdvisories,[GHSA-8q2c-2396-hf7j] Malicious Package in appx-compiler,https://github.com/advisories/GHSA-8q2c-2396-hf7j,https://j.mp/3hVxEnv
+GithubAdvisories,[GHSA-j4vm-hg8g-g9qv] Malicious Package in antd-cloud,https://github.com/advisories/GHSA-j4vm-hg8g-g9qv,https://j.mp/3jGXEmW
+GithubAdvisories,[GHSA-4859-gpc7-4j66] TODO,https://github.com/advisories/GHSA-4859-gpc7-4j66,https://j.mp/3jH5Zag
+GithubAdvisories,[GHSA-pc5p-h8pf-mvwp] Machine-In-The-Middle in https-proxy-agent,https://github.com/advisories/GHSA-pc5p-h8pf-mvwp,https://j.mp/2EMkOtu
+GithubAdvisories,[GHSA-9xr8-8hmc-389f] Cross-Site Scripting in vant,https://github.com/advisories/GHSA-9xr8-8hmc-389f,https://j.mp/2QSXH2I
+GithubAdvisories,[GHSA-4xcv-9jjx-gfj3] Denial of Service in mem,https://github.com/advisories/GHSA-4xcv-9jjx-gfj3,https://j.mp/3gUpMkH
+GithubAdvisories,[GHSA-x9p2-fxq6-2m5f] Reverse Tabnapping in swagger-ui,https://github.com/advisories/GHSA-x9p2-fxq6-2m5f,https://j.mp/3lMpsIr
+GithubAdvisories,[GHSA-hpfq-8wx8-cgqw] Cross-Site Scripting in ids-enterprise,https://github.com/advisories/GHSA-hpfq-8wx8-cgqw,https://j.mp/2Z6342S
+GithubAdvisories,[GHSA-49r3-3h96-rwj6] Cross-Site Scripting in ids-enterprise,https://github.com/advisories/GHSA-49r3-3h96-rwj6,https://j.mp/2DpSfkD
+GithubAdvisories,[GHSA-crfx-5phg-hmw9] Cross-Site Scripting in ids-enterprise,https://github.com/advisories/GHSA-crfx-5phg-hmw9,https://j.mp/32Tt3Mj
+GithubAdvisories,[GHSA-pm52-wwrw-c282] Command Injection in wiki-plugin-datalog,https://github.com/advisories/GHSA-pm52-wwrw-c282,https://j.mp/351WcHH
+GithubAdvisories,[GHSA-74cr-77xc-8g6r] Prototype Pollution in @apollo/gateway,https://github.com/advisories/GHSA-74cr-77xc-8g6r,https://j.mp/2F5UkTy
+GithubAdvisories,[GHSA-f7qw-5pvg-mmwp] Prototype Pollution in lutils-merge,https://github.com/advisories/GHSA-f7qw-5pvg-mmwp,https://j.mp/2Z6UaT0
+GithubAdvisories,[GHSA-cgjv-rghq-qhgp] Path Traversal in algo-httpserv,https://github.com/advisories/GHSA-cgjv-rghq-qhgp,https://j.mp/31TziAc
+GithubAdvisories,[GHSA-87mg-h5r3-hw88] Cross-Site Scripting in bootbox,https://github.com/advisories/GHSA-87mg-h5r3-hw88,https://j.mp/3jCH5IK
+GithubAdvisories,[GHSA-27v7-qhfv-rqq8] Insecure Credential Storage in web3,https://github.com/advisories/GHSA-27v7-qhfv-rqq8,https://j.mp/2QStlNW
+GithubAdvisories,[GHSA-8v5f-hp78-jgxq] Signature Verification Bypass in jwt-simple,https://github.com/advisories/GHSA-8v5f-hp78-jgxq,https://j.mp/353UN3d
+GithubAdvisories,[GHSA-8948-ffc6-jg52] Insecure Default Configuration in redbird,https://github.com/advisories/GHSA-8948-ffc6-jg52,https://j.mp/3bpyrdZ
+GithubAdvisories,[GHSA-pgr8-jg6h-8gw6] Cross-Site Scripting in webpack-bundle-analyzer,https://github.com/advisories/GHSA-pgr8-jg6h-8gw6,https://j.mp/2ELCzJp
+GithubAdvisories,[GHSA-c35v-qwqg-87jc] Timing Attack in express-basic-auth,https://github.com/advisories/GHSA-c35v-qwqg-87jc,https://j.mp/3lOYQGE
+GithubAdvisories,[GHSA-3xc7-xg67-pw99] Sensitive Data Exposure in sequelize-cli,https://github.com/advisories/GHSA-3xc7-xg67-pw99,https://j.mp/2Grz9vM
+GithubAdvisories,[GHSA-984p-xq9m-4rjw] Rate Limiting Bypass in express-brute,https://github.com/advisories/GHSA-984p-xq9m-4rjw,https://j.mp/31Tbqgg
+GithubAdvisories,[GHSA-wfp9-vr4j-f49j] NoSQL Injection in sequelize,https://github.com/advisories/GHSA-wfp9-vr4j-f49j,https://j.mp/2ENqjbn
+GithubAdvisories,[GHSA-8j8c-7jfh-h6hx] Code Injection in js-yaml,https://github.com/advisories/GHSA-8j8c-7jfh-h6hx,https://j.mp/358tBRf
+GithubAdvisories,[GHSA-xf5p-87ch-gxw2] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-xf5p-87ch-gxw2,https://j.mp/2Z1q3fq
+GithubAdvisories,[GHSA-gm9g-2g8v-fvxj] Prototype Pollution in upmerge,https://github.com/advisories/GHSA-gm9g-2g8v-fvxj,https://j.mp/2Gtfyvd
+GithubAdvisories,[GHSA-74cp-qw7f-7hpw] Path Traversal in statics-server,https://github.com/advisories/GHSA-74cp-qw7f-7hpw,https://j.mp/3544U8w
+GithubAdvisories,[GHSA-vpq5-4rc8-c222] Denial of Service in canvas,https://github.com/advisories/GHSA-vpq5-4rc8-c222,https://j.mp/3bnt7Ym
+GithubAdvisories,[GHSA-rv49-54qp-fw42] Path Traversal in servey,https://github.com/advisories/GHSA-rv49-54qp-fw42,https://j.mp/2GslDbf
+GithubAdvisories,[GHSA-w7q7-vjp8-7jv4] SQL Injection in typeorm,https://github.com/advisories/GHSA-w7q7-vjp8-7jv4,https://j.mp/3jH5ZqM
+GithubAdvisories,[GHSA-83rx-c8cr-6j8q] Insecure Default Configuration in tesseract.js,https://github.com/advisories/GHSA-83rx-c8cr-6j8q,https://j.mp/2QTWAj8
+GithubAdvisories,[GHSA-f698-m2v9-5fh3] Command Injection in opencv,https://github.com/advisories/GHSA-f698-m2v9-5fh3,https://j.mp/2QSF1A0
+GithubAdvisories,[GHSA-2pr6-76vf-7546] Denial of Service in js-yaml,https://github.com/advisories/GHSA-2pr6-76vf-7546,https://j.mp/2QY921f
+GithubAdvisories,[GHSA-g95f-p29q-9xw4] Regular Expression Denial of Service in braces,https://github.com/advisories/GHSA-g95f-p29q-9xw4,https://j.mp/2F5tafb
+GithubAdvisories,[GHSA-wxhq-pm8v-cw75] Regular Expression Denial of Service in clean-css,https://github.com/advisories/GHSA-wxhq-pm8v-cw75,https://j.mp/31V6Uhd
+GithubAdvisories,[GHSA-86p3-4gfq-38f2] Denial of Service in url-relative,https://github.com/advisories/GHSA-86p3-4gfq-38f2,https://j.mp/3bo6MKh
+GithubAdvisories,[GHSA-j9f8-8h89-j69x] Remote Code Execution in node-os-utils,https://github.com/advisories/GHSA-j9f8-8h89-j69x,https://j.mp/2QNQD7w
+GithubAdvisories,[GHSA-p72p-rjr2-r439] Server-Side Request Forgery in terriajs-server,https://github.com/advisories/GHSA-p72p-rjr2-r439,https://j.mp/31W9QtT
+GithubAdvisories,[GHSA-2hwp-g4g7-mwwj] Reflected Cross-Site Scripting in jquery.terminal,https://github.com/advisories/GHSA-2hwp-g4g7-mwwj,https://j.mp/31VgVef
+GithubAdvisories,[GHSA-6qqf-vvcr-7qrv] Cryptographically Weak PRNG in generate-password,https://github.com/advisories/GHSA-6qqf-vvcr-7qrv,https://j.mp/354hqF0
+GithubAdvisories,[GHSA-q42p-pg8m-cqh6] Prototype Pollution in handlebars,https://github.com/advisories/GHSA-q42p-pg8m-cqh6,https://j.mp/3jGXA6G
+GithubAdvisories,[GHSA-5w65-6875-rhq8] Undefined Behavior in sailsjs-cacheman,https://github.com/advisories/GHSA-5w65-6875-rhq8,https://j.mp/34YQvdD
+GithubAdvisories,[GHSA-v2p6-4mp7-3r9v] Regular Expression Denial of Service in underscore.string,https://github.com/advisories/GHSA-v2p6-4mp7-3r9v,https://j.mp/2QPYAJ8
+GithubAdvisories,[GHSA-f7r3-p866-q9qr] Denial of Service in ircdkit,https://github.com/advisories/GHSA-f7r3-p866-q9qr,https://j.mp/32XGquT
+GithubAdvisories,[GHSA-vc6r-4x6g-mmqc] Path Traversal in m-server,https://github.com/advisories/GHSA-vc6r-4x6g-mmqc,https://j.mp/2F5Un1G
+GithubAdvisories,[GHSA-3fc5-9x9m-vqc4] Privilege Escalation in express-cart,https://github.com/advisories/GHSA-3fc5-9x9m-vqc4,https://j.mp/3bwx8tK
+GithubAdvisories,[GHSA-pgcr-7wm4-mcv6] Sensitive Data Exposure in pem,https://github.com/advisories/GHSA-pgcr-7wm4-mcv6,https://j.mp/3jJd3Do
+GithubAdvisories,[GHSA-m734-r4g6-34f9] NoSQL Injection in loopback-connector-mongodb,https://github.com/advisories/GHSA-m734-r4g6-34f9,https://j.mp/3504DmU
+GithubAdvisories,[GHSA-j59f-6m4q-62h6] Improper Key Verification in ipns,https://github.com/advisories/GHSA-j59f-6m4q-62h6,https://j.mp/3hXFL2T
+GithubAdvisories,[GHSA-mf6x-7mm4-x2g7] Out-of-bounds Read in stringstream,https://github.com/advisories/GHSA-mf6x-7mm4-x2g7,https://j.mp/2EYgpDz
+GithubAdvisories,[GHSA-28xh-wpgr-7fm8] Command Injection in open,https://github.com/advisories/GHSA-28xh-wpgr-7fm8,https://j.mp/3hRkEz7
+GithubAdvisories,[GHSA-8f93-rv4p-x4jw] SQL Injection in sql,https://github.com/advisories/GHSA-8f93-rv4p-x4jw,https://j.mp/354hq7Y
+GithubAdvisories,[GHSA-gc94-6w89-hpqr] Command Injection in fs-path,https://github.com/advisories/GHSA-gc94-6w89-hpqr,https://j.mp/32WGZ86
+GithubAdvisories,[GHSA-cff4-rrq6-h78w] Command Injection in command-exists,https://github.com/advisories/GHSA-cff4-rrq6-h78w,https://j.mp/3lMpAaT
+GithubAdvisories,[GHSA-j4mr-9xw3-c9jx] Out-of-bounds Read in base64-url,https://github.com/advisories/GHSA-j4mr-9xw3-c9jx,https://j.mp/351fvkv
+GithubAdvisories,[GHSA-xm7f-x4wx-wmgv] Out-of-bounds Read in byte,https://github.com/advisories/GHSA-xm7f-x4wx-wmgv,https://j.mp/2DqD1fg
+GithubAdvisories,[GHSA-vmhw-fhj6-m3g5] Path Traversal in angular-http-server,https://github.com/advisories/GHSA-vmhw-fhj6-m3g5,https://j.mp/31XvBtA
+GithubAdvisories,[GHSA-73cw-jxmm-qpgh] Path Traversal in localhost-now,https://github.com/advisories/GHSA-73cw-jxmm-qpgh,https://j.mp/2Z1q3Ms
+GithubAdvisories,[GHSA-57cf-349j-352g] Out-of-bounds Read in npmconf,https://github.com/advisories/GHSA-57cf-349j-352g,https://j.mp/32PJF7w
+GithubAdvisories,[GHSA-8xqr-4cpm-wx7g] Cross-Site Scripting in react-svg,https://github.com/advisories/GHSA-8xqr-4cpm-wx7g,https://j.mp/2Z1q4ju
+GithubAdvisories,[GHSA-65p8-3hm4-h9h8] Denial of Service in rgb2hex,https://github.com/advisories/GHSA-65p8-3hm4-h9h8,https://j.mp/2F5UnyI
+GithubAdvisories,[GHSA-xm28-fw2x-fqv2] Denial of Service in foreman,https://github.com/advisories/GHSA-xm28-fw2x-fqv2,https://j.mp/3jIAwEx
+GithubAdvisories,[GHSA-2xv3-h762-ccxv] Out-of-bounds Read in concat-with-sourcemaps,https://github.com/advisories/GHSA-2xv3-h762-ccxv,https://j.mp/3gXZ4Yz
+GithubAdvisories,[GHSA-m8fw-534v-xm85] Cross-Site Scripting (XSS) in cloudcmd,https://github.com/advisories/GHSA-m8fw-534v-xm85,https://j.mp/32VD9fn
+GithubAdvisories,[GHSA-xrmp-99wj-p6jc] Prototype Pollution in deap,https://github.com/advisories/GHSA-xrmp-99wj-p6jc,https://j.mp/2Z1q4Qw
+GithubAdvisories,[GHSA-7jfh-2xc9-ccv7] Cross-Site Scripting in public,https://github.com/advisories/GHSA-7jfh-2xc9-ccv7,https://j.mp/31VgVLh
+GithubAdvisories,[GHSA-jj6g-7j8p-7gf2] Cross-Site Scripting in bracket-template,https://github.com/advisories/GHSA-jj6g-7j8p-7gf2,https://j.mp/3hXOFx8
+GithubAdvisories,[GHSA-8w57-jfpm-945m] Denial of Service in http-proxy-agent,https://github.com/advisories/GHSA-8w57-jfpm-945m,https://j.mp/3gTsjeV
+GithubAdvisories,[GHSA-5f7m-mmpc-qhh4] Remote Memory Exposure in mysql,https://github.com/advisories/GHSA-5f7m-mmpc-qhh4,https://j.mp/2Z5m55z
+GithubAdvisories,[GHSA-3p92-886g-qxpq] Remote Memory Exposure in floody,https://github.com/advisories/GHSA-3p92-886g-qxpq,https://j.mp/3lRdxcy
+GithubAdvisories,[GHSA-xc7v-wxcw-j472] Memory Exposure in tunnel-agent,https://github.com/advisories/GHSA-xc7v-wxcw-j472,https://j.mp/3lMtfpc
+GithubAdvisories,[GHSA-g74r-ffvr-5q9f] Memory Exposure in concat-stream,https://github.com/advisories/GHSA-g74r-ffvr-5q9f,https://j.mp/3jM0cA2
+GithubAdvisories,[GHSA-wrw9-m778-g6mc] Memory Exposure in bl,https://github.com/advisories/GHSA-wrw9-m778-g6mc,https://j.mp/3hRQD26
+GithubAdvisories,[GHSA-4qhx-g9wp-g9m6] Failure to sanitize quotes which can lead to sql injection in squel,https://github.com/advisories/GHSA-4qhx-g9wp-g9m6,https://j.mp/350K0XB
+GithubAdvisories,[GHSA-4vmm-mhcq-4x9j] Sandbox Bypass Leading to Arbitrary Code Execution in constantinople,https://github.com/advisories/GHSA-4vmm-mhcq-4x9j,https://j.mp/31VgWij
+GithubAdvisories,[GHSA-68gr-cmcp-g3mj] Directory Traversal in lactate,https://github.com/advisories/GHSA-68gr-cmcp-g3mj,https://j.mp/3h0lJ6q
+GithubAdvisories,[GHSA-rch7-f4h5-x9rj] Identity Spoofing in libp2p-secio,https://github.com/advisories/GHSA-rch7-f4h5-x9rj,https://j.mp/3h4A16h
+GithubAdvisories,[GHSA-5v72-xg48-5rpm] Denial of Service in ws,https://github.com/advisories/GHSA-5v72-xg48-5rpm,https://j.mp/2Z4HrQv
+GithubAdvisories,[GHSA-6qh5-wx38-q92g] Directory Traversal in ltt.js,https://github.com/advisories/GHSA-6qh5-wx38-q92g,https://j.mp/2QTLuuI
+GithubAdvisories,[GHSA-mxjr-xmcg-fg7w] Arbitrary Code Injection in mobile-icon-resizer,https://github.com/advisories/GHSA-mxjr-xmcg-fg7w,https://j.mp/2QOGRSF
