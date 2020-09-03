@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2vw-jgq9-jqx2] Improper Authorization in @sap-cloud-sdk/core,https://github.com/advisories/GHSA-r2vw-jgq9-jqx2,https://j.mp/3bmFioe
+GithubAdvisories,[GHSA-9r7h-6639-v5mw] Cross-Site Scripting in bootstrap-select,https://github.com/advisories/GHSA-9r7h-6639-v5mw,https://j.mp/2QTrN6i
+GithubAdvisories,[GHSA-cr56-66mx-293v] Cross-Site Scripting in @toast-ui/editor,https://github.com/advisories/GHSA-cr56-66mx-293v,https://j.mp/31SDGQa
+GithubAdvisories,[GHSA-vv52-3mrp-455m] Malicious Package in m-backdoor,https://github.com/advisories/GHSA-vv52-3mrp-455m,https://j.mp/3jHfwxT
+GithubAdvisories,[GHSA-cxm3-284p-qc4v] Prototype Pollution in sds,https://github.com/advisories/GHSA-cxm3-284p-qc4v,https://j.mp/32RfsFf
+GithubAdvisories,[GHSA-86mr-6m89-vgj3] Buffer Overflow in node-weakauras-parser,https://github.com/advisories/GHSA-86mr-6m89-vgj3,https://j.mp/32TC5IX
+GithubAdvisories,[GHSA-6pq3-928q-x6w6] Prototype Pollution in utils-extend,https://github.com/advisories/GHSA-6pq3-928q-x6w6,https://j.mp/31V9ynl
+GithubAdvisories,[GHSA-mm7r-265w-jv6f] Server-Side Request Forgery in @uppy/companion,https://github.com/advisories/GHSA-mm7r-265w-jv6f,https://j.mp/2QNrvOe
+GithubAdvisories,[GHSA-8whr-v3gm-w8h9] Command Injection in node-rules,https://github.com/advisories/GHSA-8whr-v3gm-w8h9,https://j.mp/31UPHV5
+GithubAdvisories,[GHSA-f3vw-587g-r29g] Path Traversal in sapper,https://github.com/advisories/GHSA-f3vw-587g-r29g,https://j.mp/3jIL1Ia
+GithubAdvisories,[GHSA-f8rq-m28h-8hxj] Cross-Site Scripting in htmr,https://github.com/advisories/GHSA-f8rq-m28h-8hxj,https://j.mp/3lN54Hi
+GithubAdvisories,[GHSA-w4vp-3mq7-7v82] Cross-Site Scripting in lazysizes,https://github.com/advisories/GHSA-w4vp-3mq7-7v82,https://j.mp/2EZzW6k
+GithubAdvisories,[GHSA-9px9-f7jw-fwhj] Command Injection in priest-runner,https://github.com/advisories/GHSA-9px9-f7jw-fwhj,https://j.mp/2Z4zYkC
+GithubAdvisories,[GHSA-65m9-m259-7jqw] Improper Authorization in react-oauth-flow,https://github.com/advisories/GHSA-65m9-m259-7jqw,https://j.mp/2Z2MvFe
+GithubAdvisories,[GHSA-xr53-m937-jr9c] Cross-Site Scripting in ngx-md,https://github.com/advisories/GHSA-xr53-m937-jr9c,https://j.mp/3gY5FCd
+GithubAdvisories,[GHSA-36c4-4r89-6whg] Prototype Pollution in @commercial/subtext,https://github.com/advisories/GHSA-36c4-4r89-6whg,https://j.mp/2QQHpHz
+GithubAdvisories,[GHSA-66mv-xh68-h6v2] Denial of Service in @commercial/hapi,https://github.com/advisories/GHSA-66mv-xh68-h6v2,https://j.mp/3jFCgyo
+GithubAdvisories,[GHSA-23vw-mhv5-grv5] Denial of Service in @hapi/hapi,https://github.com/advisories/GHSA-23vw-mhv5-grv5,https://j.mp/2DoFRRU
+GithubAdvisories,[GHSA-7hx8-2rxv-66xv] Denial of Service in hapi,https://github.com/advisories/GHSA-7hx8-2rxv-66xv,https://j.mp/353BJ5u
+GithubAdvisories,[GHSA-g9cg-h3jm-cwrc] Prototype Pollution in @hapi/subtext,https://github.com/advisories/GHSA-g9cg-h3jm-cwrc,https://j.mp/31ZW5L3
+GithubAdvisories,[GHSA-g64q-3vg8-8f93] Prototype Pollution in subtext,https://github.com/advisories/GHSA-g64q-3vg8-8f93,https://j.mp/32XeDL5
+GithubAdvisories,[GHSA-5854-jvxx-2cg9] Denial of Service in subtext,https://github.com/advisories/GHSA-5854-jvxx-2cg9,https://j.mp/31UY4QF
+GithubAdvisories,[GHSA-cvfm-xjc8-f2vm] Denial of Service in @commercial/subtext,https://github.com/advisories/GHSA-cvfm-xjc8-f2vm,https://j.mp/2EXJmzg
+GithubAdvisories,[GHSA-3wqh-h42r-x8fq] Denial of Service in @hapi/subtext,https://github.com/advisories/GHSA-3wqh-h42r-x8fq,https://j.mp/3lGj4lU
+GithubAdvisories,[GHSA-gjph-xf5q-6mfq] Denial of Service in @hapi/ammo,https://github.com/advisories/GHSA-gjph-xf5q-6mfq,https://j.mp/353X4f8
+GithubAdvisories,[GHSA-9vrw-m88g-w75q] Denial of Service in @hapi/accept,https://github.com/advisories/GHSA-9vrw-m88g-w75q,https://j.mp/2EUgtV0
+GithubAdvisories,[GHSA-mg85-8mv5-ffjr] Denial of Service in ammo,https://github.com/advisories/GHSA-mg85-8mv5-ffjr,https://j.mp/32Rk8uE
+GithubAdvisories,[GHSA-pxmp-fwjc-4x7q] HTML Injection in marky-markdown,https://github.com/advisories/GHSA-pxmp-fwjc-4x7q,https://j.mp/353BIOY
+GithubAdvisories,[GHSA-mg69-6j3m-jvgw] HTML Injection in marky-markdown,https://github.com/advisories/GHSA-mg69-6j3m-jvgw,https://j.mp/2GjqCL8
