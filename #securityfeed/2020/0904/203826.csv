@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13469 (gd32vf103_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13469,https://j.mp/3jIcWaU
+NVD-NIST,"CVE-2020-16204 (n-tron_702-w_firmware, n-tron_702m12-w_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16204,https://j.mp/3i5x7iM
+NVD-NIST,"CVE-2020-16206 (n-tron_702-w_firmware, n-tron_702m12-w_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16206,https://j.mp/355r3TE
+NVD-NIST,"CVE-2020-16210 (n-tron_702-w_firmware, n-tron_702m12-w_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16210,https://j.mp/3i0Li8B
+NVD-NIST,CVE-2020-17465 (identity_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17465,https://j.mp/2QU8CZM
+NVD-NIST,CVE-2020-20625 (sliced_invoices),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20625,https://j.mp/2Z7EVZI
+NVD-NIST,CVE-2020-25069 (usvn),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25069,https://j.mp/2Z2UTEH
+NVD-NIST,CVE-2020-25070 (usvn),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25070,https://j.mp/32VZ3PT
+NVD-NIST,CVE-2020-7521 (apc_easy_ups_online_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7521,https://j.mp/3i5x72g
+NVD-NIST,CVE-2020-7522 (apc_easy_ups_online_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7522,https://j.mp/3icRevi
+NVD-NIST,"CVE-2020-7523 (modbus_driver_suite, modbus_serial_driver)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7523,https://j.mp/3i5x6LK
+NVD-NIST,"CVE-2020-7525 (spacelynk_firmware, wiser_for_knx_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7525,https://j.mp/3jMUo9z
+NVD-NIST,CVE-2020-7665 (u-root),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7665,https://j.mp/2F3jaDx
+NVD-NIST,CVE-2020-7666 (u-root),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7666,https://j.mp/2QSRbsR
