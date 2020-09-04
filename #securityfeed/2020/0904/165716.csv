@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqf6-75v8-vr26] Arbitrary File Write in bin-links,https://github.com/advisories/GHSA-gqf6-75v8-vr26,https://j.mp/2F5tiLQ
+GithubAdvisories,[GHSA-hrpp-f84w-xhfg] Outdated Static Dependency in vue-moment,https://github.com/advisories/GHSA-hrpp-f84w-xhfg,https://j.mp/3hZM3z5
+GithubAdvisories,[GHSA-9p2w-rmx4-9mw7] Command Injection in strapi,https://github.com/advisories/GHSA-9p2w-rmx4-9mw7,https://j.mp/2DvdLo9
+GithubAdvisories,[GHSA-g53w-52xc-2j85] Cross-Site Scripting in react,https://github.com/advisories/GHSA-g53w-52xc-2j85,https://j.mp/3lPdJc4
+GithubAdvisories,[GHSA-4hq8-v42x-9wx3] Malicious Package in bs85check,https://github.com/advisories/GHSA-4hq8-v42x-9wx3,https://j.mp/31YYaqo
+GithubAdvisories,[GHSA-97mp-9g5c-6c93] Malicious Package in bs58chcek,https://github.com/advisories/GHSA-97mp-9g5c-6c93,https://j.mp/3hZRf5L
+GithubAdvisories,[GHSA-3cpj-mj3q-82wr] Malicious Package in bs58chek,https://github.com/advisories/GHSA-3cpj-mj3q-82wr,https://j.mp/2F3ATuo
+GithubAdvisories,[GHSA-7xc4-793x-25jp] Malicious Package in bpi66,https://github.com/advisories/GHSA-7xc4-793x-25jp,https://j.mp/332bOIw
+GithubAdvisories,[GHSA-762c-v946-pf25] Malicious Package in bpi39,https://github.com/advisories/GHSA-762c-v946-pf25,https://j.mp/2DvwaRV
+GithubAdvisories,[GHSA-8gc6-65mm-xr6r] Malicious Package in bp66,https://github.com/advisories/GHSA-8gc6-65mm-xr6r,https://j.mp/354NgBg
+GithubAdvisories,[GHSA-4m3p-x2hp-2pgx] Malicious Package in bitcroe-lib,https://github.com/advisories/GHSA-4m3p-x2hp-2pgx,https://j.mp/2F1FxJo
+GithubAdvisories,[GHSA-74hh-4rcv-pp27] Malicious Package in bitconijs-lib,https://github.com/advisories/GHSA-74hh-4rcv-pp27,https://j.mp/3320k89
+GithubAdvisories,[GHSA-w9hw-v97w-g5f5] Malicious Package in bitconi-ops,https://github.com/advisories/GHSA-w9hw-v97w-g5f5,https://j.mp/354Nc4u
+GithubAdvisories,[GHSA-9298-m7jf-55h2] Malicious Package in bitconid-rpc,https://github.com/advisories/GHSA-9298-m7jf-55h2,https://j.mp/2Z8j4S7
+GithubAdvisories,[GHSA-629c-j867-3v45] Malicious Package in bitcoisnj-lib,https://github.com/advisories/GHSA-629c-j867-3v45,https://j.mp/2Gwsnow
+GithubAdvisories,[GHSA-8hqw-qp6r-vqcm] Malicious Package in bitcoin-sweep,https://github.com/advisories/GHSA-8hqw-qp6r-vqcm,https://j.mp/2Z9H1s6
+GithubAdvisories,[GHSA-v8g7-9qv2-j865] Malicious Package in bitcoin-osp,https://github.com/advisories/GHSA-v8g7-9qv2-j865,https://j.mp/320l9RK
+GithubAdvisories,[GHSA-rv6q-p3x7-43fx] Malicious Package in bitcoimjs-lib,https://github.com/advisories/GHSA-rv6q-p3x7-43fx,https://j.mp/3jNJMre
+GithubAdvisories,[GHSA-rwmv-c7v8-v9vf] Malicious Package in bitcoimd-rpc,https://github.com/advisories/GHSA-rwmv-c7v8-v9vf,https://j.mp/3hZNJZh
