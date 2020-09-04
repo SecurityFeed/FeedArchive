@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2012-3336 (infosphere_guardium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-3336,https://j.mp/2DyUHpc
+NVD-NIST,CVE-2012-3337 (infosphere_guardium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-3337,https://j.mp/3h4Viwh
+NVD-NIST,CVE-2012-3338 (infosphere_guardium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-3338,https://j.mp/3i2VihL
+NVD-NIST,"CVE-2020-14352 (enterprise_linux, leap, librepro)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14352,https://j.mp/2Z8yXrB
+NVD-NIST,"CVE-2020-14364 (enterprise_linux, openstack, qemu)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14364,https://j.mp/2EYExWO
+NVD-NIST,CVE-2020-15020 (page_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15020,https://j.mp/3lLhNu1
+NVD-NIST,"CVE-2020-2075 (clv620_firmware, clv621_firmware, clv622_firmware, clv630_firmware, clv631_firmware, clv632_firmware, clv640_firmware, clv642_firmware, clv650_firmware, clv651_firmware, icr890-3.5_firmware, icr890-3_firmware, lms100_firmware, lms101_firmware, lms111_firmware, lms121_firmware, lms122_firmware, lms123_firmware, lms131_firmware, lms133_firmware, lms141_firmware, lms142_firmware, lms143_firmware, lms151_firmware, lms153_firmware, lms500_firmware, lms511_firmware, lms531_firmware, msc800_firmware, rfh_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2075,https://j.mp/2F2Z5x8
+NVD-NIST,CVE-2020-2238 (git_parameter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2238,https://j.mp/3i177F9
+NVD-NIST,CVE-2020-2240 (database),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2240,https://j.mp/3lRu5RG
+NVD-NIST,CVE-2020-2241 (database),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2241,https://j.mp/358aBlQ
+NVD-NIST,CVE-2020-24115 (online_book_store),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24115,https://j.mp/2Z7RGDY
+NVD-NIST,CVE-2020-24354 (vmg5313-b30b_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24354,https://j.mp/2QRCsOO
+NVD-NIST,CVE-2020-24699 (chamber_dashboard_business_directory),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24699,https://j.mp/2Z6MiAR
+NVD-NIST,CVE-2020-25004 (heybbs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25004,https://j.mp/2QWipyQ
+NVD-NIST,CVE-2020-25005 (heybbs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25005,https://j.mp/330U7cf
+NVD-NIST,CVE-2020-25006 (heybbs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25006,https://j.mp/2EYEESe
+NVD-NIST,CVE-2020-25031 (checkinstall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25031,https://j.mp/2Z7YGAs
+NVD-NIST,CVE-2020-25032 (flask-cors),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25032,https://j.mp/2F2WvqX
+NVD-NIST,CVE-2020-25033 (subscribe_sidebar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25033,https://j.mp/3lQAcW6
+NVD-NIST,CVE-2020-7526 (powerchute),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7526,https://j.mp/2F5JJYy
+NVD-NIST,CVE-2020-7527 (somove),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7527,https://j.mp/3jPQIUq
+NVD-NIST,"CVE-2020-8097 (endpoint_security, endpoint_security_tools)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8097,https://j.mp/32VCbQx
