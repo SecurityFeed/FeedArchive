@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Noise-Java AESGCMOnCtrCipherState.encryptWithAd() Insufficient Boundary Checks,https://packetstormsecurity.com/files/159056/noisejavacs-oob.txt,https://j.mp/2F5Zgru
+PacketstormSecurity,Red Lion N-Tron 702-W / 702M12-W 2.0.26 XSS / CSRF / Shell,https://packetstormsecurity.com/files/159064/SA-20200902-0.txt,https://j.mp/3i3Y86b
+PacketstormSecurity,Noise-Java ChaChaPolyCipherState.encryptWithAd() Insufficient Boundary Checks,https://packetstormsecurity.com/files/159057/noisejavaccpcs-oob.txt,https://j.mp/355CBGA
+PacketstormSecurity,Noise-Java AESGCMFallbackCipherState.encryptWithAd() Insufficient Boundary Checks,https://packetstormsecurity.com/files/159055/noisejavafb-oob.txt,https://j.mp/3h19c2s
+PacketstormSecurity,Hyland OnBase Cross Site Request Forgery,https://packetstormsecurity.com/files/159063/hylandonbase-xsrf.txt,https://j.mp/3i17rnv
+PacketstormSecurity,Hyland OnBase Insufficient Logging,https://packetstormsecurity.com/files/159062/hylandonbase-logging.txt,https://j.mp/2EXG4w8
+PacketstormSecurity,SiteMagic CMS 4.4.2 Shell Upload,https://packetstormsecurity.com/files/159059/sitemagiccms442-shell.txt,https://j.mp/3gXFH1x
+PacketstormSecurity,Nord VPN 6.31.13.0 Unquoted Service Path,https://packetstormsecurity.com/files/159060/nordvpn631130-unquotedpath.txt,https://j.mp/3lPGfuf
+PacketstormSecurity,Hyland OnBase SQL Injection,https://packetstormsecurity.com/files/159061/hylandonbase-sql.txt,https://j.mp/320kpMQ
+PacketstormSecurity,COVR 3902 1.01B0 Hardcoded Credentials,https://packetstormsecurity.com/files/159058/covr3902-hardcoded.txt,https://j.mp/2Z3RAwU
