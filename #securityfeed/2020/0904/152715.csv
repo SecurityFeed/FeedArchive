@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hg79-j56m-fxgv] Cross-Site Scripting in react,https://github.com/advisories/GHSA-hg79-j56m-fxgv,https://j.mp/3gTldHq
+GithubAdvisories,[GHSA-54xj-q58h-9x57] Arbitrary File Write in iobroker.admin,https://github.com/advisories/GHSA-54xj-q58h-9x57,https://j.mp/3lO7eGt
+GithubAdvisories,[GHSA-c5xm-m64m-f2vq] Malicious Package in cxct,https://github.com/advisories/GHSA-c5xm-m64m-f2vq,https://j.mp/31XYBRD
+GithubAdvisories,[GHSA-mmqv-m45h-q2hp] Sandbox Breakout / Arbitrary Code Execution in localeval,https://github.com/advisories/GHSA-mmqv-m45h-q2hp,https://j.mp/3lOXpYQ
+GithubAdvisories,[GHSA-5p98-wpc9-g498] Server-Side Request Forgery in html-pdf-chrome,https://github.com/advisories/GHSA-5p98-wpc9-g498,https://j.mp/2Z9qX9M
+GithubAdvisories,[GHSA-9gxr-rhx6-4jgv] Sandbox Breakout / Prototype Pollution in notevil,https://github.com/advisories/GHSA-9gxr-rhx6-4jgv,https://j.mp/3buk47T
+GithubAdvisories,[GHSA-83pq-466j-fc6j] Prototype Pollution in sahmat,https://github.com/advisories/GHSA-83pq-466j-fc6j,https://j.mp/3jEGaaS
+GithubAdvisories,[GHSA-qccf-q7p4-3q3j] Prototype Pollution in safe-object2,https://github.com/advisories/GHSA-qccf-q7p4-3q3j,https://j.mp/2FavEcc
+GithubAdvisories,[GHSA-8j49-49jq-vwcq] Prototype Pollution in getsetdeep,https://github.com/advisories/GHSA-8j49-49jq-vwcq,https://j.mp/355ZhXp
+GithubAdvisories,[GHSA-9qrg-h9g8-c65q] Prototype Pollution in deep-setter,https://github.com/advisories/GHSA-9qrg-h9g8-c65q,https://j.mp/2QSYCzZ
+GithubAdvisories,[GHSA-ch82-gqh6-9xj9] Prototype Pollution in get-setter,https://github.com/advisories/GHSA-ch82-gqh6-9xj9,https://j.mp/2QX9HA6
+GithubAdvisories,[GHSA-q9wr-gcjc-hq52] Prototype Pollution in reggae,https://github.com/advisories/GHSA-q9wr-gcjc-hq52,https://j.mp/356Fyqk
+GithubAdvisories,[GHSA-wx77-rp39-c6vg] Regular Expression Denial of Service in markdown,https://github.com/advisories/GHSA-wx77-rp39-c6vg,https://j.mp/3btRJyL
+GithubAdvisories,[GHSA-6fh5-8wq8-w3wr] Prototype Pollution in unflatten,https://github.com/advisories/GHSA-6fh5-8wq8-w3wr,https://j.mp/2Z4CRly
+GithubAdvisories,[GHSA-g7h8-p22m-2rvx] Prototype Pollution in flat-wrap,https://github.com/advisories/GHSA-g7h8-p22m-2rvx,https://j.mp/3h049Q2
+GithubAdvisories,[GHSA-q2c6-c6pm-g3gh] Arbitrary Code Execution in handlebars,https://github.com/advisories/GHSA-q2c6-c6pm-g3gh,https://j.mp/2Z5yYwH
+GithubAdvisories,[GHSA-g9r4-xpmj-mj65] Prototype Pollution in handlebars,https://github.com/advisories/GHSA-g9r4-xpmj-mj65,https://j.mp/2Gws3WP
+GithubAdvisories,[GHSA-49c6-3wr4-8jr4] Malicious Package in malicious-npm-package,https://github.com/advisories/GHSA-49c6-3wr4-8jr4,https://j.mp/31Ypghl
+GithubAdvisories,[GHSA-54qm-37qr-w5wq] Sandbox Breakout / Arbitrary Code Execution in veval,https://github.com/advisories/GHSA-54qm-37qr-w5wq,https://j.mp/2F3s2c7
+GithubAdvisories,[GHSA-jp99-5h8w-gmxc] Sandbox Breakout / Arbitrary Code Execution in @zhaoyao91/eval-in-vm,https://github.com/advisories/GHSA-jp99-5h8w-gmxc,https://j.mp/2EXlUCA
+GithubAdvisories,[GHSA-3gpc-w23c-w59w] Sandbox Breakout / Arbitrary Code Execution in pitboss-ng,https://github.com/advisories/GHSA-3gpc-w23c-w59w,https://j.mp/2QX4NDq
+GithubAdvisories,[GHSA-gc25-3vc5-2jf9] Sandbox Breakout / Arbitrary Code Execution in sandbox,https://github.com/advisories/GHSA-gc25-3vc5-2jf9,https://j.mp/320i0BD
+GithubAdvisories,[GHSA-c3hq-7mxh-mqxf] Sandbox Breakout / Arbitrary Code Execution in lighter-vm,https://github.com/advisories/GHSA-c3hq-7mxh-mqxf,https://j.mp/3jLWOVV
+GithubAdvisories,[GHSA-4fqg-89cc-5pv5] Malicious Package in sj-labc,https://github.com/advisories/GHSA-4fqg-89cc-5pv5,https://j.mp/2Z8pReC
+GithubAdvisories,[GHSA-2cf5-4w76-r9qv] Arbitrary Code Execution in handlebars,https://github.com/advisories/GHSA-2cf5-4w76-r9qv,https://j.mp/2QX4UyQ
