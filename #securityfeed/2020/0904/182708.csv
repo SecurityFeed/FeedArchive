@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpgc-7h78-gx8f] Validation bypass vulnerability,https://github.com/advisories/GHSA-vpgc-7h78-gx8f,https://j.mp/3i0Rg9L
+GithubAdvisories,[GHSA-5vj8-3v2h-h38v] Remote Code Execution in next,https://github.com/advisories/GHSA-5vj8-3v2h-h38v,https://j.mp/31WPbGi
+GithubAdvisories,[GHSA-qvjc-g5vr-mfgr] Regular Expression Denial of Service in papaparse,https://github.com/advisories/GHSA-qvjc-g5vr-mfgr,https://j.mp/3h1JTh1
+GithubAdvisories,[GHSA-m2mx-rfpw-jghv] DLL Injection in kerberos,https://github.com/advisories/GHSA-m2mx-rfpw-jghv,https://j.mp/2Z9XDQu
+GithubAdvisories,[GHSA-p9pc-299p-vxgp] Prototype Pollution in yargs-parser,https://github.com/advisories/GHSA-p9pc-299p-vxgp,https://j.mp/2F3QRok
+GithubAdvisories,[GHSA-6x33-pw7p-hmpq] Denial of Service in http-proxy,https://github.com/advisories/GHSA-6x33-pw7p-hmpq,https://j.mp/32TBmHQ
+GithubAdvisories,[GHSA-rhc3-76jw-4f2x] Denial of Service in @commercial/ammo,https://github.com/advisories/GHSA-rhc3-76jw-4f2x,https://j.mp/31Ze0Bm
+GithubAdvisories,[GHSA-c6pw-q7f2-97hv] Privilege Escalation in cordova-plugin-inappbrowser,https://github.com/advisories/GHSA-c6pw-q7f2-97hv,https://j.mp/2Z5x1Aa
+GithubAdvisories,[GHSA-22h7-7wwg-qmgg] Prototype Pollution in @hapi/hoek,https://github.com/advisories/GHSA-22h7-7wwg-qmgg,https://j.mp/3jQBsqH
+GithubAdvisories,[GHSA-5ff8-jcf9-fw62] Cross-Site Scripting in markdown-it-katex,https://github.com/advisories/GHSA-5ff8-jcf9-fw62,https://j.mp/2Dvte7H
+GithubAdvisories,[GHSA-rjvj-673q-4hfw] Command Injection in traceroute,https://github.com/advisories/GHSA-rjvj-673q-4hfw,https://j.mp/2F6zlzX
+GithubAdvisories,[GHSA-4r97-78gf-q24v] Prototype Pollution in klona,https://github.com/advisories/GHSA-4r97-78gf-q24v,https://j.mp/3h4TiUN
+GithubAdvisories,[GHSA-vjvw-wcmw-pr26] Insufficient Entropy in parsel,https://github.com/advisories/GHSA-vjvw-wcmw-pr26,https://j.mp/3lMSmbz
+GithubAdvisories,[GHSA-wqgx-4q47-j2w5] Insecure Cryptography Algorithm in parsel,https://github.com/advisories/GHSA-wqgx-4q47-j2w5,https://j.mp/2ERhhtX
+GithubAdvisories,[GHSA-q643-w9jp-q2qg] Hardcoded Initialization Vector in parsel,https://github.com/advisories/GHSA-q643-w9jp-q2qg,https://j.mp/32XqGrM
+GithubAdvisories,[GHSA-2ggq-vfcp-gwhj] Cross-Site Scripting in @hapi/boom,https://github.com/advisories/GHSA-2ggq-vfcp-gwhj,https://j.mp/2Z6KibP
+GithubAdvisories,[GHSA-49mg-94fc-2fx6] Command Injection in npm-git-publish,https://github.com/advisories/GHSA-49mg-94fc-2fx6,https://j.mp/2R8Uqwt
+GithubAdvisories,[GHSA-qcff-ffx3-m25c] Command Injection in meta-git,https://github.com/advisories/GHSA-qcff-ffx3-m25c,https://j.mp/3316JQC
+GithubAdvisories,[GHSA-7wgh-5q4q-6wx5] Malicious Package in 1337qq-js,https://github.com/advisories/GHSA-7wgh-5q4q-6wx5,https://j.mp/3lNx4ue
+GithubAdvisories,[GHSA-v66p-w7qx-wv98] Authentication Bypass in express-laravel-passport,https://github.com/advisories/GHSA-v66p-w7qx-wv98,https://j.mp/3buR001
+GithubAdvisories,[GHSA-25v4-mcx4-hh35] Cross-Site Scripting in atlasboard-atlassian-package,https://github.com/advisories/GHSA-25v4-mcx4-hh35,https://j.mp/3lSEkVO
+GithubAdvisories,[GHSA-97mg-3cr6-3x4c] Remote Code Execution in mongodb-query-parser,https://github.com/advisories/GHSA-97mg-3cr6-3x4c,https://j.mp/31WPi4G
+GithubAdvisories,[GHSA-7r9x-hr76-jr96] Command Injection in giting,https://github.com/advisories/GHSA-7r9x-hr76-jr96,https://j.mp/2QUSbfX
