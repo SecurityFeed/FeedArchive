@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4m5-47cq-6qg8] Server-Side Request Forgery in ftp-srv,https://github.com/advisories/GHSA-r4m5-47cq-6qg8,https://j.mp/2Z75MVP
+GithubAdvisories,[GHSA-xf64-2f9p-6pqq] Information Exposure in type-graphql,https://github.com/advisories/GHSA-xf64-2f9p-6pqq,https://j.mp/3lQNFNP
+GithubAdvisories,[GHSA-v6c5-hwqg-3x5q] Improper Authorization in passport-cognito,https://github.com/advisories/GHSA-v6c5-hwqg-3x5q,https://j.mp/2QVCsNI
+GithubAdvisories,[GHSA-whv6-rj84-2vh2] Cross-Site Scripting in nextcloud-vue-collections,https://github.com/advisories/GHSA-whv6-rj84-2vh2,https://j.mp/3562uGj
+GithubAdvisories,[GHSA-65xx-c85x-wg76] Command Injection in plotter,https://github.com/advisories/GHSA-65xx-c85x-wg76,https://j.mp/3lTWPZI
+GithubAdvisories,[GHSA-cfwc-xjfp-44jg] Command Injection in gnuplot,https://github.com/advisories/GHSA-cfwc-xjfp-44jg,https://j.mp/2ER6BeR
+GithubAdvisories,[GHSA-v45m-2wcp-gg98] Global node_modules Binary Overwrite in bin-links,https://github.com/advisories/GHSA-v45m-2wcp-gg98,https://j.mp/3h8dtl7
+GithubAdvisories,[GHSA-2mj8-pj3j-h362] Symlink reference outside of node_modules in bin-links,https://github.com/advisories/GHSA-2mj8-pj3j-h362,https://j.mp/3lT7aW7
+GithubAdvisories,[GHSA-533p-g2hq-qr26] Command Injection in treekill,https://github.com/advisories/GHSA-533p-g2hq-qr26,https://j.mp/2Z5UmSv
+GithubAdvisories,[GHSA-884p-74jh-xrg2] Command Injection in tree-kill,https://github.com/advisories/GHSA-884p-74jh-xrg2,https://j.mp/32Zdy5u
