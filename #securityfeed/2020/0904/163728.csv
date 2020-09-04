@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-2243 (cadence_vmanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2243,https://j.mp/3i6lDvC
+NVD-NIST,CVE-2020-2244 (build_failure_analyzer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2244,https://j.mp/3jPuEt4
+NVD-NIST,CVE-2020-2245 (valgrind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2245,https://j.mp/3i3pk51
+NVD-NIST,CVE-2020-2246 (valgrind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2246,https://j.mp/31YKlIr
+NVD-NIST,CVE-2020-2247 (klocwork_analysis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2247,https://j.mp/2Dv0qMJ
+NVD-NIST,CVE-2020-2248 (jsgames),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2248,https://j.mp/3i3hQik
+NVD-NIST,CVE-2020-2249 (team_foundation_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2249,https://j.mp/2QXpsHg
+NVD-NIST,CVE-2020-2250 (soapui_pro_functional_testing),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2250,https://j.mp/32120PY
+NVD-NIST,"CVE-2020-2251 (jenkins, soapui_pro_functional_testing)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2251,https://j.mp/2Dv0qwd
