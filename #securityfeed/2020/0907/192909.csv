@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: 2020:2563-1 moderate: MozillaFirefox,https://www.linuxsecurity.com/advisories/suse/suse-2020-2563-1-moderate-mozillafirefox-17-14-40?rss,https://j.mp/3ierK0Y
+LinuxSecurity,SUSE: 2020:2562-1 important: go1.14,https://www.linuxsecurity.com/advisories/suse/suse-2020-2562-1-important-go1-14-17-13-18?rss,https://j.mp/3h9jcHg
+LinuxSecurity,Debian: DSA-4762-1: lemonldap-ng security update,https://www.linuxsecurity.com/advisories/debian/debian-dsa-4762-1-lemonldap-ng-security-update-15-11-29?rss,https://j.mp/3312SDm
+LinuxSecurity,Debian: DSA-4761-1: zeromq3 security update,https://www.linuxsecurity.com/advisories/debian/debian-dsa-4761-1-zeromq3-security-update-15-11-01?rss,https://j.mp/2RgMqJT
