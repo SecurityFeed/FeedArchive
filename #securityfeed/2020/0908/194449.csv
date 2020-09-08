@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Windows StorageFolder Marshaled Object Access Check Bypass / Privilege Escalation,https://packetstormsecurity.com/files/159111/GS20200908185407.tgz,https://j.mp/3jY9KYT
+PacketstormSecurity,Qualcomm Adreno GPU Ringbuffer Corruption / Protected Mode Bypass,https://packetstormsecurity.com/files/159110/GS20200908185124.tgz,https://j.mp/2Fh5moS
+PacketstormSecurity,Microsoft Windows CloudExperienceHostBroker Privilege Escalation,https://packetstormsecurity.com/files/159109/GS20200908184911.tgz,https://j.mp/3m4vhRy
+PacketstormSecurity,Hyland OnBase XML Injection,https://packetstormsecurity.com/files/159108/hylandonbase-xxe.txt,https://j.mp/2ZlFCyZ
+PacketstormSecurity,Hyland OnBase Insecure Deserialization,https://packetstormsecurity.com/files/159107/hylandonbase-deserialize.txt,https://j.mp/33dczyH
+PacketstormSecurity,Yaws 2.0.7 XML Injection / Command Injection,https://packetstormsecurity.com/files/159106/yaws207-xxeexec.txt,https://j.mp/3396mUq
+PacketstormSecurity,Hyland OnBase Path Traversal,https://packetstormsecurity.com/files/159105/hylandonbase-traversal.txt,https://j.mp/2ZAqs9h
+PacketstormSecurity,Hyland OnBase DLL Hijacking,https://packetstormsecurity.com/files/159104/hylandonbase-dllhijack.txt,https://j.mp/2ZAqrSL
+PacketstormSecurity,Hyland OnBase Denial Of Service,https://packetstormsecurity.com/files/159103/hylandonbase-dos.txt,https://j.mp/3bB8Qic
+PacketstormSecurity,Hyland OnBase Hardcoded Secrets,https://packetstormsecurity.com/files/159102/hylandonbase-hardcoded.txt,https://j.mp/3m1Gxy1
+PacketstormSecurity,Rigorous Specifications Of The SSH Transport Layer,https://packetstormsecurity.com/files/159101/ssh-specifications.pdf,https://j.mp/329Gd8u
+PacketstormSecurity,Red Hat Security Advisory 2020-3625-01,https://packetstormsecurity.com/files/159096/RHSA-2020-3625-01.txt,https://j.mp/2R4QxZ5
+PacketstormSecurity,Red Hat Security Advisory 2020-3578-01,https://packetstormsecurity.com/files/159095/RHSA-2020-3578-01.txt,https://j.mp/2ZjEZWs
+PacketstormSecurity,Red Hat Security Advisory 2020-3662-01,https://packetstormsecurity.com/files/159094/RHSA-2020-3662-01.txt,https://j.mp/32afEAb
+PacketstormSecurity,Red Hat Security Advisory 2020-3665-01,https://packetstormsecurity.com/files/159093/RHSA-2020-3665-01.txt,https://j.mp/2DF4uKf
+PacketstormSecurity,Red Hat Security Advisory 2020-3654-01,https://packetstormsecurity.com/files/159092/RHSA-2020-3654-01.txt,https://j.mp/33b08Dj
+PacketstormSecurity,Red Hat Security Advisory 2020-3658-01,https://packetstormsecurity.com/files/159091/RHSA-2020-3658-01.txt,https://j.mp/2ZlvS7E
+PacketstormSecurity,Red Hat Security Advisory 2020-3678-01,https://packetstormsecurity.com/files/159090/RHSA-2020-3678-01.txt,https://j.mp/2ZAqrCf
+PacketstormSecurity,Red Hat Security Advisory 2020-3669-01,https://packetstormsecurity.com/files/159089/RHSA-2020-3669-01.txt,https://j.mp/2R3olWC
+PacketstormSecurity,Red Hat Security Advisory 2020-3675-01,https://packetstormsecurity.com/files/159088/RHSA-2020-3675-01.txt,https://j.mp/2Zjn9Df
+PacketstormSecurity,Red Hat Security Advisory 2020-3643-01,https://packetstormsecurity.com/files/159086/RHSA-2020-3643-01.txt,https://j.mp/2ZAqrlJ
+PacketstormSecurity,Red Hat Security Advisory 2020-3644-01,https://packetstormsecurity.com/files/159085/RHSA-2020-3644-01.txt,https://j.mp/2FmoeCP
