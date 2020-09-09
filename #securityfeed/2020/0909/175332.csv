@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Scopia XT Desktop 8.3.915.4 - Cross-Site Request Forgery (change admin password),https://www.exploit-db.com/exploits/48798,https://j.mp/2Raombo
+ExploitDB,[webapps] Tailor Management System - 'id' SQL Injection,https://www.exploit-db.com/exploits/48797,https://j.mp/33hwMmQ
+ExploitDB,[local] Audio Playback Recorder 3.2.2 - Local Buffer Overflow (SEH),https://www.exploit-db.com/exploits/48796,https://j.mp/2Zl7L9p
+ExploitDB,[local] Input Director 1.4.3 - 'Input Director' Unquoted Service Path,https://www.exploit-db.com/exploits/48795,https://j.mp/32d62oa
