@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-11493 (phantompdf, reader)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11493,https://j.mp/33aniKh
+NVD-NIST,"CVE-2020-12248 (phantompdf, reader)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12248,https://j.mp/3i9w29H
+NVD-NIST,CVE-2020-25021 (noise-java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25021,https://j.mp/3hcB6J5
+NVD-NIST,CVE-2020-25022 (noise-java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25022,https://j.mp/35kEy1T
+NVD-NIST,CVE-2020-25023 (noise-java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25023,https://j.mp/2R6U0Xe
+NVD-NIST,CVE-2020-4545 (aspera_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4545,https://j.mp/2FhnOxR
+NVD-NIST,CVE-2020-4632 (infosphere_metadata_asset_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4632,https://j.mp/2DOM2iA
+NVD-NIST,CVE-2020-4702 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4702,https://j.mp/3ii2iaA
