@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x44x-r84w-8v67] Lack of URL normalization may lead to authorization bypass when URL access rules are used,https://github.com/advisories/GHSA-x44x-r84w-8v67,https://j.mp/2R7LoQf
