@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxq3-5249-8hgg] Validation bypass vulnerability,https://github.com/advisories/GHSA-rxq3-5249-8hgg,https://j.mp/3k4zXFw
+GithubAdvisories,[GHSA-qv8q-v995-72gr] Validation bypass vulnerability,https://github.com/advisories/GHSA-qv8q-v995-72gr,https://j.mp/33cq9lZ
+GithubAdvisories,[GHSA-2p6g-gjp8-ggg9] Validation bypass vulnerability,https://github.com/advisories/GHSA-2p6g-gjp8-ggg9,https://j.mp/2FkmQAK
+GithubAdvisories,[GHSA-f8mr-jv2c-v8mg] Invalid root may become trusted root in The Update Framework (TUF),https://github.com/advisories/GHSA-f8mr-jv2c-v8mg,https://j.mp/2FeTGmP
