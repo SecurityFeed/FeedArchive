@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7qw5-pqhc-xm4g] Users with SCRIPT right can execute arbitrary code in XWiki,https://github.com/advisories/GHSA-7qw5-pqhc-xm4g,https://j.mp/35qK03s
