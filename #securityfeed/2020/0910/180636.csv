@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7rc-rwvf-8q5r] The `size` option isn't honored after following a redirect in node-fetch,https://github.com/advisories/GHSA-w7rc-rwvf-8q5r,https://j.mp/3ihdwMA
