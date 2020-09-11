@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4x4-5qp2-wp46] Moderate severity vulnerability that affects com.fasterxml.jackson.datatype:jackson-datatype-jsr353,https://github.com/advisories/GHSA-h4x4-5qp2-wp46,https://j.mp/2ZuOCBR
