@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-1193 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1193,https://j.mp/3bTNSvd
+NVD-NIST,"CVE-2020-1198 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1198,https://j.mp/32nRTok
+NVD-NIST,"CVE-2020-1200 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1200,https://j.mp/3bRBsDU
+NVD-NIST,"CVE-2020-1210 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1210,https://j.mp/3kdmMlz
+NVD-NIST,"CVE-2020-1227 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1227,https://j.mp/3kdmM53
+NVD-NIST,"CVE-2020-1332 (365_apps, excel, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1332,https://j.mp/2FymAhy
+NVD-NIST,"CVE-2020-1335 (365_apps, excel, office, office_online_server, office_web_apps, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1335,https://j.mp/2GM8U39
+NVD-NIST,"CVE-2020-1345 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1345,https://j.mp/2RoptV3
+NVD-NIST,"CVE-2020-1452 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1452,https://j.mp/2ZyDmEr
+NVD-NIST,"CVE-2020-1453 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1453,https://j.mp/3iqu44N
+NVD-NIST,"CVE-2020-1482 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1482,https://j.mp/2FBsi28
+NVD-NIST,"CVE-2020-1514 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1514,https://j.mp/35yklGi
+NVD-NIST,CVE-2020-1575 (sharepoint_foundation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1575,https://j.mp/2RnFjiw
+NVD-NIST,"CVE-2020-1576 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1576,https://j.mp/32p2PC1
+NVD-NIST,"CVE-2020-1594 (365_apps, excel, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1594,https://j.mp/3bSpoCo
+NVD-NIST,"CVE-2020-1595 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1595,https://j.mp/35vZ3Zz
+NVD-NIST,CVE-2020-16858 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16858,https://j.mp/3hpZRSh
+NVD-NIST,CVE-2020-16859 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16859,https://j.mp/32rOhBX
+NVD-NIST,CVE-2020-16861 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16861,https://j.mp/33pjqoB
+NVD-NIST,CVE-2020-16864 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16864,https://j.mp/2ZvB1ds
+NVD-NIST,CVE-2020-16871 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16871,https://j.mp/33DsPcD
+NVD-NIST,CVE-2020-16872 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16872,https://j.mp/2RnFj20
+NVD-NIST,CVE-2020-16878 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16878,https://j.mp/2RiFrA5
