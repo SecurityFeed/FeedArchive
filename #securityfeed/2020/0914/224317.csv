@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14342 (cifs-utils),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14342,https://j.mp/3iw3asd
+NVD-NIST,"CVE-2020-15786 (simatic_hmi_basic_panels_2nd_generation_firmware, simatic_hmi_comfort_panels_firmware, simatic_hmi_mobile_panels_firmware, simatic_hmi_united_comfort_panels_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15786,https://j.mp/2RsZR9m
+NVD-NIST,CVE-2020-15788 (polarion_subversion_webclient),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15788,https://j.mp/32x4GVL
+NVD-NIST,CVE-2020-15789 (polarion_subversion_webclient),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15789,https://j.mp/3k9XUv0
+NVD-NIST,"CVE-2020-15791 (simatic_s7-300_cpu_312_firmware, simatic_s7-300_cpu_314_firmware, simatic_s7-300_cpu_315-2_dp_firmware, simatic_s7-300_cpu_315-2_pn_firmware, simatic_s7-300_cpu_315f-2_dp_firmware, simatic_s7-300_cpu_315f-2_pn_firmware, simatic_s7-300_cpu_317-2_dp_firmware, simatic_s7-300_cpu_317-2_pn_firmware, simatic_s7-300_cpu_317f-2_dp_firmware, simatic_s7-300_cpu_317f-2_pn_firmware, simatic_s7-400_cpu_412_firmware, simatic_s7-400_cpu_414_firmware, simatic_s7-400_cpu_416_firmware, simatic_s7-400_cpu_417_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15791,https://j.mp/3hx8lqy
+NVD-NIST,CVE-2020-16857 (dynamics_365_for_finance_and_operations),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16857,https://j.mp/3kiHhxb
+NVD-NIST,CVE-2020-16860 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16860,https://j.mp/32vaG1d
+NVD-NIST,CVE-2020-16862 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16862,https://j.mp/2ZCHSSG
+NVD-NIST,CVE-2020-24194 (daily_tracker_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24194,https://j.mp/3hw7LcH
+NVD-NIST,CVE-2020-25213 (file_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25213,https://j.mp/3mkv3pJ
+NVD-NIST,CVE-2020-7315 (mcafee_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7315,https://j.mp/32w1pG2
+NVD-NIST,CVE-2020-7325 (mvision_endpoint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7325,https://j.mp/32srwxw
