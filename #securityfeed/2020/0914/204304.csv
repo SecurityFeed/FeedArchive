@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-10049 (simatic_rtls_locating_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10049,https://j.mp/2FtdrY5
+NVD-NIST,CVE-2020-10050 (simatic_rtls_locating_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10050,https://j.mp/2DYaZYK
+NVD-NIST,CVE-2020-10051 (simatic_rtls_locating_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10051,https://j.mp/3mnny11
+NVD-NIST,CVE-2020-10056 (license_management_utility),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10056,https://j.mp/2FkgRwl
+NVD-NIST,CVE-2020-15784 (spectrum_power_4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15784,https://j.mp/2FrLNuo
+NVD-NIST,CVE-2020-15787 (simatic_hmi_united_comfort_panels_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15787,https://j.mp/3mlxkRp
+NVD-NIST,CVE-2020-15790 (spectrum_power_4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15790,https://j.mp/32vRujC
+NVD-NIST,CVE-2020-25211 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25211,https://j.mp/2ZExIkh
+NVD-NIST,CVE-2020-25212 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25212,https://j.mp/3ivAPlP
+NVD-NIST,"CVE-2020-25219 (debian_linux, libproxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25219,https://j.mp/2Rq3wor
+NVD-NIST,CVE-2020-25220 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25220,https://j.mp/2FDayn6
+NVD-NIST,CVE-2020-7323 (endpoint_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7323,https://j.mp/2ZCuwWg
+NVD-NIST,CVE-2020-9736 (experience_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9736,https://j.mp/3hw5D4A
+NVD-NIST,CVE-2020-9737 (experience_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9737,https://j.mp/3hA3QeR
+NVD-NIST,CVE-2020-9738 (experience_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9738,https://j.mp/3iv9YXp
