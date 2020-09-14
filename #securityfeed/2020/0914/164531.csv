@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36rh-ggpr-j3gj] Azure DevOps token leakage in logs,https://github.com/advisories/GHSA-36rh-ggpr-j3gj,https://j.mp/3c4Vefq
