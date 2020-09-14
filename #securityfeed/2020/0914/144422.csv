@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-1057 (chakracore, edge)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1057,https://j.mp/3huCTJB
+NVD-NIST,"CVE-2020-1074 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1074,https://j.mp/33pc2cY
+NVD-NIST,"CVE-2020-1083 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1083,https://j.mp/32vxCNT
+NVD-NIST,"CVE-2020-1091 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1091,https://j.mp/33vABoR
+NVD-NIST,"CVE-2020-1097 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1097,https://j.mp/2RoZgWl
+NVD-NIST,"CVE-2020-11124 (mdm9607_firmware, nicobar_firmware, qcs404_firmware, qcs405_firmware, qcs610_firmware, rennell_firmware, sa6155p_firmware, sa8155p_firmware, saipan_firmware, sc8180x_firmware, sdm660_firmware, sdx55_firmware, sm6150_firmware, sm7150_firmware, sm8150_firmware, sm8250_firmware, sxr2130_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11124,https://j.mp/2Rqp84k
