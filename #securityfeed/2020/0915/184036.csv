@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-699q-wcff-g9mj] Unsafe deserialization in Yii 2,https://github.com/advisories/GHSA-699q-wcff-g9mj,https://j.mp/3khms5l
