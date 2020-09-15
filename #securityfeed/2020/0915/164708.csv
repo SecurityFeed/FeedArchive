@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2018-17145 (bcoin, bitcoin_core, bitcoin_knots, btcd, dcrd, litecoin, namecoin_core)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-17145,https://j.mp/2E3B0pL
+NVD-NIST,CVE-2019-20917 (inspircd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-20917,https://j.mp/3bYExlN
+NVD-NIST,CVE-2019-20918 (inspircd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-20918,https://j.mp/3c1T4NF
+NVD-NIST,CVE-2020-15024 (antivirus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15024,https://j.mp/33vBfCD
+NVD-NIST,CVE-2020-16855 (office),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16855,https://j.mp/2RuYp6A
+NVD-NIST,CVE-2020-17408 (expresscluster_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17408,https://j.mp/32CDt45
+NVD-NIST,CVE-2020-24164 (nippy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24164,https://j.mp/3hBNpie
+NVD-NIST,CVE-2020-25249 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25249,https://j.mp/33uP6cu
+NVD-NIST,CVE-2020-25251 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25251,https://j.mp/35Ei508
+NVD-NIST,CVE-2020-25252 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25252,https://j.mp/3hySx71
+NVD-NIST,CVE-2020-25254 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25254,https://j.mp/3kcRvzc
+NVD-NIST,CVE-2020-25256 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25256,https://j.mp/33Awfwq
+NVD-NIST,CVE-2020-25259 (onbase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25259,https://j.mp/2RqveS2
+NVD-NIST,CVE-2020-25269 (inspircd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25269,https://j.mp/2ZWApxZ
+NVD-NIST,CVE-2020-7312 (mcafee_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7312,https://j.mp/3iyKDeR
+NVD-NIST,"CVE-2020-8758 (active_management_technology, standard_manageability, steelstore_cloud_integrated_storage)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8758,https://j.mp/3hySwQv
