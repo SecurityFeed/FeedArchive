@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-0908 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0908,https://j.mp/3hz8R7x
+NVD-NIST,"CVE-2020-0914 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0914,https://j.mp/2GUd215
+NVD-NIST,CVE-2020-16212 (patient_information_center_ix),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16212,https://j.mp/3hDvCXT
+NVD-NIST,"CVE-2020-16220 (patient_information_center_ix, performancebridge_focal_point)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16220,https://j.mp/3iz4HOd
+NVD-NIST,CVE-2020-25221 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25221,https://j.mp/2ZGDDVV
+NVD-NIST,CVE-2020-6097 (atftp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6097,https://j.mp/2FCEIXJ
+NVD-NIST,CVE-2020-7311 (mcafee_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7311,https://j.mp/3mzrDzA
+NVD-NIST,CVE-2020-7314 (mcafee_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7314,https://j.mp/2ZFNZWl
