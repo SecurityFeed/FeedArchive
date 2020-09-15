@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v35c-49j6-q8hq] Security Constraint Bypass in Spring Security,https://github.com/advisories/GHSA-v35c-49j6-q8hq,https://j.mp/3miZFrw
+GithubAdvisories,[GHSA-wmv4-5w76-vp9g] Authorization Bypass in Spring Security,https://github.com/advisories/GHSA-wmv4-5w76-vp9g,https://j.mp/2FwhYJi
