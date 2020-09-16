@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-0904 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0904,https://j.mp/3c6jkX4
+NVD-NIST,CVE-2020-1044 (sql_server_reporting_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1044,https://j.mp/33AWMKg
+NVD-NIST,CVE-2020-13284 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13284,https://j.mp/2RuiZE4
+NVD-NIST,CVE-2020-13314 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13314,https://j.mp/33CPEwG
+NVD-NIST,CVE-2020-14100 (r3600_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14100,https://j.mp/2ZI6c5v
+NVD-NIST,CVE-2020-15169 (action_view),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15169,https://j.mp/2H8GhgX
+NVD-NIST,CVE-2020-15802 (bluetooth_core_specification),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15802,https://j.mp/3iDhgZ8
+NVD-NIST,CVE-2020-25276 (ejbca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25276,https://j.mp/3hFl9v8
+NVD-NIST,"CVE-2020-9239 (berkeley-l09_firmware, bla-a09_firmware, bla-tl00b_firmware, duke-l09_firmware, jimmy-al00a_firmware, lon-l29d_firmware, neo-al00d_firmware, p20_firmware, p20_pro_firmware, stanford-al00_firmware, toronto-al00_firmware, toronto-al00a_firmware, toronto-tl10_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9239,https://j.mp/3hDAyMs
