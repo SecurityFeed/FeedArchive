@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-19946 (helpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19946,https://j.mp/2RwtkiG
+NVD-NIST,CVE-2018-19947 (helpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19947,https://j.mp/32Drd2U
+NVD-NIST,CVE-2018-19948 (helpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-19948,https://j.mp/3krV04G
+NVD-NIST,"CVE-2020-0782 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0782,https://j.mp/2ZLVvyG
+NVD-NIST,"CVE-2020-0890 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0890,https://j.mp/32CMrhr
+NVD-NIST,"CVE-2020-1130 (visual_studio, visual_studio_2017, visual_studio_2019, windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1130,https://j.mp/3c7aMzm
+NVD-NIST,"CVE-2020-1133 (visual_studio, visual_studio_2017, visual_studio_2019, windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1133,https://j.mp/3mrEZh6
+NVD-NIST,"CVE-2020-1146 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1146,https://j.mp/2RxVaez
+NVD-NIST,"CVE-2020-1152 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1152,https://j.mp/35Ir9B5
+NVD-NIST,"CVE-2020-1159 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1159,https://j.mp/3c9e2dw
+NVD-NIST,"CVE-2020-1205 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1205,https://j.mp/3c3zIYt
+NVD-NIST,"CVE-2020-1218 (365_apps, office, office_online_server, office_web_apps, sharepoint_enterprise_server, sharepoint_server, word)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1218,https://j.mp/2FA3cRO
+NVD-NIST,"CVE-2020-1245 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1245,https://j.mp/2FLZVyl
+NVD-NIST,CVE-2020-13289 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13289,https://j.mp/32CHpSo
+NVD-NIST,CVE-2020-13299 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13299,https://j.mp/33ygVQZ
+NVD-NIST,"CVE-2020-1338 (365_apps, office, office_online_server, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1338,https://j.mp/3iQvN3T
