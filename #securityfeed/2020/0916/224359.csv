@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-1169 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1169,https://j.mp/2Rxmh9N
+NVD-NIST,"CVE-2020-1224 (365_apps, excel, office, office_online_server, office_web_apps, sharepoint_enterprise_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1224,https://j.mp/2H8JkFT
+NVD-NIST,CVE-2020-13301 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13301,https://j.mp/3hwSM2k
+NVD-NIST,CVE-2020-13306 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13306,https://j.mp/3km9p2s
+NVD-NIST,CVE-2020-13310 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13310,https://j.mp/3iCdKhu
+NVD-NIST,CVE-2020-2256 (pipeline_maven_integration),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2256,https://j.mp/33y8uoQ
+NVD-NIST,CVE-2020-2257 (validating_string_parameter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2257,https://j.mp/33y5Ijz
+NVD-NIST,CVE-2020-2259 (computer_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2259,https://j.mp/35KsMya
+NVD-NIST,CVE-2020-2262 (android_lint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2262,https://j.mp/3klKWdJ
+NVD-NIST,CVE-2020-2263 (radiator_view),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2263,https://j.mp/33y8qW8
+NVD-NIST,CVE-2020-2264 (custom_job_icon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2264,https://j.mp/2RzDzCY
+NVD-NIST,CVE-2020-2266 (description_column),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2266,https://j.mp/2Ryla9F
+NVD-NIST,CVE-2020-2269 (chosen-views-tabbar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2269,https://j.mp/2FClmCj
+NVD-NIST,CVE-2020-2270 (clearcase_release),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2270,https://j.mp/2FtN9VP
