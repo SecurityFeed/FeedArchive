@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-4671 (maximo_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-4671,https://j.mp/32yGlP3
+NVD-NIST,CVE-2020-14346 (xorg-server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14346,https://j.mp/33sZgdw
+NVD-NIST,CVE-2020-14361 (xorg-server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14361,https://j.mp/2H9a0GF
+NVD-NIST,CVE-2020-14362 (xorg-server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14362,https://j.mp/2RsoSSl
+NVD-NIST,CVE-2020-4344 (tivoli_business_service_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4344,https://j.mp/2FHBemG
+NVD-NIST,CVE-2020-4521 (maximo_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4521,https://j.mp/2Rsttnq
+NVD-NIST,CVE-2020-4526 (maximo_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4526,https://j.mp/35DAPgc
+NVD-NIST,"CVE-2020-4530 (business_automation_workflow, business_process_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4530,https://j.mp/3c2TPFX
+NVD-NIST,CVE-2020-4703 (spectrum_protect_plus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4703,https://j.mp/2E3Z2AQ
+NVD-NIST,CVE-2020-4711 (spectrum_protect_plus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4711,https://j.mp/3iCRp3n
