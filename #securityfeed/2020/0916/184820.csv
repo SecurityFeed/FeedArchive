@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-0886 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0886,https://j.mp/3ksYzHR
+NVD-NIST,"CVE-2020-1031 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1031,https://j.mp/32zO0Na
+NVD-NIST,CVE-2020-13287 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13287,https://j.mp/2RvjA8D
+NVD-NIST,CVE-2020-13300 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13300,https://j.mp/2RuD3Gx
+NVD-NIST,CVE-2020-13311 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13311,https://j.mp/2E7BIlL
+NVD-NIST,CVE-2020-13312 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13312,https://j.mp/3moSpdX
+NVD-NIST,CVE-2020-13313 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13313,https://j.mp/3hzAMEp
+NVD-NIST,CVE-2020-13316 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13316,https://j.mp/3hFJf94
+NVD-NIST,CVE-2020-13317 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13317,https://j.mp/3koozEj
+NVD-NIST,CVE-2020-13318 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13318,https://j.mp/2Ruvboi
+NVD-NIST,CVE-2020-15166 (libzmq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15166,https://j.mp/2FAxmV3
