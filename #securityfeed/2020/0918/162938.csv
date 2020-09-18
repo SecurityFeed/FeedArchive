@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-20919 (dbi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-20919,https://j.mp/2ZQTKjP
+NVD-NIST,CVE-2020-10227 (vtenext),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10227,https://j.mp/3iWyIYR
+NVD-NIST,CVE-2020-10228 (vtenext),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10228,https://j.mp/2FxdodZ
+NVD-NIST,CVE-2020-10229 (vtenext),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10229,https://j.mp/3iIi7b3
+NVD-NIST,CVE-2020-13303 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13303,https://j.mp/35Nyn6J
+NVD-NIST,CVE-2020-13307 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13307,https://j.mp/2REsQY2
+NVD-NIST,CVE-2020-21845 (codoforum),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-21845,https://j.mp/33F2pan
+NVD-NIST,CVE-2020-2271 (locked_files_report),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2271,https://j.mp/2RFlnrC
+NVD-NIST,CVE-2020-2275 (copy_data_to_workspace),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2275,https://j.mp/35Pwarp
+NVD-NIST,CVE-2020-2276 (selection_tasks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2276,https://j.mp/3iKhH3I
+NVD-NIST,CVE-2020-8817 (data_science_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8817,https://j.mp/3cfJZRd
