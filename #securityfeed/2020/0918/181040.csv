@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwcg-7xqw-qcxw] Heap Overflow in PyMiniRacer,https://github.com/advisories/GHSA-vwcg-7xqw-qcxw,https://j.mp/2ZNqhr0
+GithubAdvisories,[GHSA-hgwm-pv9h-q5m7] Potential XSS in jQuery dependency in Mirador,https://github.com/advisories/GHSA-hgwm-pv9h-q5m7,https://j.mp/3iI15K8
