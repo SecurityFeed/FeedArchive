@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-2252 (mailer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2252,https://j.mp/32HXYMH
+NVD-NIST,CVE-2020-2253 (email_extension),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2253,https://j.mp/2H3q2S7
+NVD-NIST,CVE-2020-2254 (blue_ocean),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2254,https://j.mp/32Fcp3X
+NVD-NIST,CVE-2020-2255 (blue_ocean),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2255,https://j.mp/2RRfcRD
+NVD-NIST,CVE-2020-2258 (health_advisor_by_cloudbees),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2258,https://j.mp/33Dyjnr
+NVD-NIST,CVE-2020-2260 (perfecto),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2260,https://j.mp/3c8Q81J
+NVD-NIST,CVE-2020-2261 (perfecto),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2261,https://j.mp/3kGMRKb
+NVD-NIST,CVE-2020-2265 (coverage/complexity_scatter_plot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2265,https://j.mp/35Loc2I
+NVD-NIST,CVE-2020-2267 (mongodb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2267,https://j.mp/3iIRqCN
+NVD-NIST,CVE-2020-2272 (elastest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2272,https://j.mp/3hK01DY
+NVD-NIST,CVE-2020-2273 (elastest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2273,https://j.mp/33Jv2mR
+NVD-NIST,CVE-2020-2274 (elastest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2274,https://j.mp/2EdHmD3
+NVD-NIST,CVE-2020-2277 (storable_configs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2277,https://j.mp/3kx6p3c
+NVD-NIST,CVE-2020-2278 (storable_configs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2278,https://j.mp/33CY1Zr
