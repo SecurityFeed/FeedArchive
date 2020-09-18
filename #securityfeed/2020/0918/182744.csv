@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-11881 (routeros),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11881,https://j.mp/2ZPawzI
+NVD-NIST,CVE-2020-13308 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13308,https://j.mp/3c9fbBM
+NVD-NIST,"CVE-2020-14181 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14181,https://j.mp/35SoQvh
+NVD-NIST,CVE-2020-14306 (istio-operator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14306,https://j.mp/35Uf4ch
+NVD-NIST,"CVE-2020-14382 (cryptsetup, enterprise_linux, ubuntu_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14382,https://j.mp/32FHUuS
+NVD-NIST,CVE-2020-16233 (codemeter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16233,https://j.mp/3mBLJJh
+NVD-NIST,CVE-2020-22158 (rx8200_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22158,https://j.mp/3hGWSFe
+NVD-NIST,CVE-2020-25453 (blackcat_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25453,https://j.mp/3c9WXA9
+NVD-NIST,CVE-2020-6146 (nitro_pro),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6146,https://j.mp/2FHOS9N
+NVD-NIST,CVE-2020-7293 (web_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7293,https://j.mp/2RFnxru
+NVD-NIST,CVE-2020-7294 (web_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7294,https://j.mp/3mzkDTm
+NVD-NIST,CVE-2020-7295 (web_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7295,https://j.mp/35MM5Xw
+NVD-NIST,CVE-2020-7296 (web_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7296,https://j.mp/3iPE2x6
