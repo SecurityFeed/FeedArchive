@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-25791 (rust),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25791,https://j.mp/2RMXOxh
+NVD-NIST,CVE-2020-25792 (rust),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25792,https://j.mp/3mFVlmq
+NVD-NIST,CVE-2020-25794 (rust),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25794,https://j.mp/3mINapk
