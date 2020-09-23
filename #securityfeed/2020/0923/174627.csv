@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qvhr-55hg-3qwv] Non-persistent XSS in the Storefront in Shopware,https://github.com/advisories/GHSA-qvhr-55hg-3qwv,https://j.mp/3kIKwOy
+GithubAdvisories,[GHSA-qvc5-cfrr-384v] RCE in Third Party Library in Shopware,https://github.com/advisories/GHSA-qvc5-cfrr-384v,https://j.mp/3cqh0u4
+GithubAdvisories,[GHSA-q3vw-4jx3-rrr2] Validation bypass vulnerability,https://github.com/advisories/GHSA-q3vw-4jx3-rrr2,https://j.mp/3mIwjmG
+GithubAdvisories,[GHSA-vp9c-fpxx-744v] Validation bypass vulnerability,https://github.com/advisories/GHSA-vp9c-fpxx-744v,https://j.mp/32TsYt0
