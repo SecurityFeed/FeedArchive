@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-6547 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6547,https://j.mp/3kPsSZO
+NVD-NIST,"CVE-2020-6558 (backports_sle, chrome, leap)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6558,https://j.mp/3kSxL3Z
