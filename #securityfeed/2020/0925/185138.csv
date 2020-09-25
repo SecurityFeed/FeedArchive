@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx2x-85gr-wrpq] Out of bounds access in tensorflow-lite,https://github.com/advisories/GHSA-hx2x-85gr-wrpq,https://j.mp/3mTa11G
+GithubAdvisories,[GHSA-p2cq-cprg-frvm] Out of bounds write in tensorflow-lite,https://github.com/advisories/GHSA-p2cq-cprg-frvm,https://j.mp/2S0Q7U4
+GithubAdvisories,[GHSA-hjmq-236j-8m87] Denial of service in tensorflow-lite,https://github.com/advisories/GHSA-hjmq-236j-8m87,https://j.mp/3317B9e
+GithubAdvisories,[GHSA-x9j7-x98r-r4w2] Segmentation fault in tensorflow-lite,https://github.com/advisories/GHSA-x9j7-x98r-r4w2,https://j.mp/305k8GH
+GithubAdvisories,[GHSA-cvpc-8phh-8f45] Out of bounds access in tensorflow-lite,https://github.com/advisories/GHSA-cvpc-8phh-8f45,https://j.mp/3iayGeI
+GithubAdvisories,[GHSA-qh32-6jjc-qprm] Null pointer dereference in tensorflow-lite,https://github.com/advisories/GHSA-qh32-6jjc-qprm,https://j.mp/343V97U
+GithubAdvisories,[GHSA-mxjj-953w-2c2v] Data corruption in tensorflow-lite,https://github.com/advisories/GHSA-mxjj-953w-2c2v,https://j.mp/330jSuy
+GithubAdvisories,[GHSA-q4qf-3fc6-8x34] Segfault and data corruption in tensorflow-lite,https://github.com/advisories/GHSA-q4qf-3fc6-8x34,https://j.mp/343tQLf
+GithubAdvisories,[GHSA-q8gv-q7wr-9jf8] Segfault in Tensorflow,https://github.com/advisories/GHSA-q8gv-q7wr-9jf8,https://j.mp/30bYsci
+GithubAdvisories,[GHSA-w5gh-2wr2-pm6g] Denial of Service in Tensorflow,https://github.com/advisories/GHSA-w5gh-2wr2-pm6g,https://j.mp/2HoS8HE
+GithubAdvisories,[GHSA-g7p5-5759-qv46] Data leak in Tensorflow,https://github.com/advisories/GHSA-g7p5-5759-qv46,https://j.mp/332Ax0D
+GithubAdvisories,[GHSA-xmq7-7fxm-rr79] Denial of Service in Tensorflow,https://github.com/advisories/GHSA-xmq7-7fxm-rr79,https://j.mp/2RYHsld
+GithubAdvisories,[GHSA-h6fg-mjxg-hqq4] Integer truncation in Shard API usage,https://github.com/advisories/GHSA-h6fg-mjxg-hqq4,https://j.mp/308sttc
+GithubAdvisories,[GHSA-p5f8-gfw5-33w4] Heap buffer overflow in Tensorflow,https://github.com/advisories/GHSA-p5f8-gfw5-33w4,https://j.mp/3j582oy
+GithubAdvisories,[GHSA-x7rp-74x2-mjf3] Segfault in Tensorflow,https://github.com/advisories/GHSA-x7rp-74x2-mjf3,https://j.mp/3i4AQw0
+GithubAdvisories,[GHSA-qc53-44cj-vfvx] Denial of Service in Tensorflow,https://github.com/advisories/GHSA-qc53-44cj-vfvx,https://j.mp/36kLFrZ
+GithubAdvisories,[GHSA-63xm-rx5p-xvqr] Heap buffer overflow in Tensorflow,https://github.com/advisories/GHSA-63xm-rx5p-xvqr,https://j.mp/33WReKh
+GithubAdvisories,[GHSA-rjjg-hgv6-h69v] Memory corruption in Tensorflow,https://github.com/advisories/GHSA-rjjg-hgv6-h69v,https://j.mp/332AD8B
+GithubAdvisories,[GHSA-q8qj-fc9q-cphr] Undefined behavior in Tensorflow,https://github.com/advisories/GHSA-q8qj-fc9q-cphr,https://j.mp/2RZgYQt
+GithubAdvisories,[GHSA-x5cp-9pcf-pp3h] Denial of Service in Tensorflow,https://github.com/advisories/GHSA-x5cp-9pcf-pp3h,https://j.mp/333Gcn3
+GithubAdvisories,[GHSA-jc87-6vpp-7ff3] Heap buffer overflow in Tensorflow,https://github.com/advisories/GHSA-jc87-6vpp-7ff3,https://j.mp/2S5Debj
+GithubAdvisories,[GHSA-pg59-2f92-5cph] Heap buffer overflow in Tensorflow,https://github.com/advisories/GHSA-pg59-2f92-5cph,https://j.mp/3iayGLK
+GithubAdvisories,[GHSA-9mqp-7v2h-2382] Denial of Service in Tensorflow,https://github.com/advisories/GHSA-9mqp-7v2h-2382,https://j.mp/3kNU0bl
+GithubAdvisories,[GHSA-8fxw-76px-3rxv] Memory leak in Tensorflow,https://github.com/advisories/GHSA-8fxw-76px-3rxv,https://j.mp/362KAoq
+GithubAdvisories,[GHSA-4g9f-63rx-5cw4] Segfault in Tensorflow,https://github.com/advisories/GHSA-4g9f-63rx-5cw4,https://j.mp/309GbMv
