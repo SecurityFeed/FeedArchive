@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x7gm-rfgv-w973] Potential DoS with NumberFilter conversion to integer values,https://github.com/advisories/GHSA-x7gm-rfgv-w973,https://j.mp/36d7Obl
