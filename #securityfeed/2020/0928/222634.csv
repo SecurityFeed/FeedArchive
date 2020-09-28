@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-19450 (jdownloads),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19450,https://j.mp/3461Ia9
+NVD-NIST,CVE-2020-19451 (jdownloads),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19451,https://j.mp/3jcYbx1
+NVD-NIST,CVE-2020-19455 (jdownloads),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19455,https://j.mp/338Wj2I
+NVD-NIST,CVE-2020-2279 (script_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2279,https://j.mp/3cCQaio
+NVD-NIST,CVE-2020-2280 (warnings),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2280,https://j.mp/2G1gXt8
+NVD-NIST,CVE-2020-2281 (lockable_resources),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2281,https://j.mp/3cCY77k
+NVD-NIST,CVE-2020-2282 (implied_labels),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2282,https://j.mp/2EH2mCp
+NVD-NIST,CVE-2020-2283 (liquibase_runner),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2283,https://j.mp/2GmDVKL
