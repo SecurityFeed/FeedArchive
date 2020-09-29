@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Gentoo: GLSA-202009-16: LinuxCIFS: Shell injection,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202009-16-linuxcifs-shell-injection-15-11-31?rss,https://j.mp/2EMFrWk
+LinuxSecurity,Gentoo: GLSA-202009-17: gpsd: Arbitrary code execution,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202009-17-gpsd-arbitrary-code-execution-15-11-13?rss,https://j.mp/3kVSTXg
+LinuxSecurity,Gentoo: GLSA-202009-15: libuv: Buffer overflow,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202009-15-libuv-buffer-overflow-15-10-51?rss,https://j.mp/3kUBmif
+LinuxSecurity,"Gentoo: GLSA-202009-13: Chromium, Google Chrome: Multiple vulnerabilities",https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202009-13-chromium-google-chrome-multiple-vulnerabilities-15-09-36?rss,https://j.mp/34dsiOA
