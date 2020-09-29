@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,"[local] CloudMe 1.11.2 - Buffer Overflow ROP (DEP,ASLR)",https://www.exploit-db.com/exploits/48840,https://j.mp/2Gkus6O
+ExploitDB,[local] BearShare Lite 5.2.5 - 'Advanced Search'Buffer Overflow in (PoC),https://www.exploit-db.com/exploits/48839,https://j.mp/3cInWTu
+ExploitDB,[webapps] WebsiteBaker 2.12.2 - Remote Code Execution,https://www.exploit-db.com/exploits/48838,https://j.mp/36jJOUi
