@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-11556 (pagure),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-11556,https://j.mp/2SeZH64
+NVD-NIST,CVE-2020-25084 (qemu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25084,https://j.mp/3kZIOIS
+NVD-NIST,CVE-2020-25085 (qemu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25085,https://j.mp/3n4Bpd6
+NVD-NIST,CVE-2020-25625 (qemu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25625,https://j.mp/3kZFiyc
