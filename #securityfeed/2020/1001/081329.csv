@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Typesetter CMS 5.1 - 'Site Title' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/48852,https://j.mp/3cKmPCZ
+ExploitDB,[webapps] CMS Made Simple 2.2.14 - Persistent Cross-Site Scripting (Authenticated),https://www.exploit-db.com/exploits/48851,https://j.mp/3jmSCfu
+ExploitDB,[webapps] GetSimple CMS 3.3.16 - Persistent Cross-Site Scripting (Authenticated),https://www.exploit-db.com/exploits/48850,https://j.mp/34kMCxQ
+ExploitDB,[webapps] WebsiteBaker 2.12.2 - 'display_name' SQL Injection (authenticated),https://www.exploit-db.com/exploits/48849,https://j.mp/3l6JD2L
