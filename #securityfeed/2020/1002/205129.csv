@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+PacketstormSecurity,OpenSCAP Libraries 1.3.4,https://packetstormsecurity.com/files/159460/openscap-1.3.4.tar.gz,https://j.mp/3cQNttG
+PacketstormSecurity,udisks / Linux Kernel romfs Leakage,https://packetstormsecurity.com/files/159458/GS20201002195348.tgz,https://j.mp/34iVbZP
+PacketstormSecurity,SevOne Network Management System 5.7.2.22 SQL Injection / Command Injection,https://packetstormsecurity.com/files/159457/SA-20201002-0.txt,https://j.mp/34nYfUs
+PacketstormSecurity,Platinum Mobile 1.0.4.850 Authorization Bypass,https://packetstormsecurity.com/files/159456/SA-20201001-0.txt,https://j.mp/2HKOIiE
+PacketstormSecurity,MailDepot 2032 SP2 (2.2.1242) Authorization Bypass,https://packetstormsecurity.com/files/159455/SYSS-2019-048.txt,https://j.mp/3cZs41B
+PacketstormSecurity,FusionAuth-SAMLv2 0.2.3 Message Forging,https://packetstormsecurity.com/files/159454/CSNC-2020-002.txt,https://j.mp/3ld0i4J
+PacketstormSecurity,Checkmk 1.6.0p16 Local Privilege Escalation,https://packetstormsecurity.com/files/159453/CSNC-2020-005.txt,https://j.mp/3imTDD3
+PacketstormSecurity,Red Hat Security Advisory 2020-4162-01,https://packetstormsecurity.com/files/159451/RHSA-2020-4162-01.txt,https://j.mp/2Sl28E7
+PacketstormSecurity,Red Hat Security Advisory 2020-4163-01,https://packetstormsecurity.com/files/159450/RHSA-2020-4163-01.txt,https://j.mp/36FkcBt
+PacketstormSecurity,Photo Share Website 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/159449/photoshare10-xss.txt,https://j.mp/34hfzut
+PacketstormSecurity,MedDream PACS Server 6.8.3.751 Remote Code Execution,https://packetstormsecurity.com/files/159448/medreampacs683751-exec.txt,https://j.mp/36tXHiO
+PacketstormSecurity,Bing.com Hostname / IP Enumerator 1.0.4,https://packetstormsecurity.com/files/159459/bing-ip2hosts-1.0.4.tar.gz,https://j.mp/3jwkAWw
