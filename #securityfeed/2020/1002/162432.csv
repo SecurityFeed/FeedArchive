@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36j3-xxf7-4pqg] Universal XSS in Android WebView,https://github.com/advisories/GHSA-36j3-xxf7-4pqg,https://j.mp/36pReVN
+GithubAdvisories,[GHSA-8gv3-3j7f-wg94] Potential Remote Code Execution vulnerability,https://github.com/advisories/GHSA-8gv3-3j7f-wg94,https://j.mp/36p9a2Y
