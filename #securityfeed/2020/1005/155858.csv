@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jjv-x4fq-qjwp] Possible timing attack in derivation_endpoint,https://github.com/advisories/GHSA-5jjv-x4fq-qjwp,https://j.mp/3jzygjc
