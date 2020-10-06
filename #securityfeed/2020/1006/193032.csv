@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cff7-6h4q-q5pj] Lacked element count during splitting of JWE string,https://github.com/advisories/GHSA-cff7-6h4q-q5pj,https://j.mp/3nhNc7Y
