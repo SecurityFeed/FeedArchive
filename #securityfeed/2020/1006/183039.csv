@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwv5-w8gm-fq9f] Directory Traversal vulnerability in GET/PUT allows attackers to Disclose Information or Write Files via a crafted GET/PUT request,https://github.com/advisories/GHSA-hwv5-w8gm-fq9f,https://j.mp/34svtCl
