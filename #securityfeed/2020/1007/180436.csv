@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55w9-c3g2-4rrh] Man-in-the-middle attack in Apache Axis,https://github.com/advisories/GHSA-55w9-c3g2-4rrh,https://j.mp/3iCqIuL
+GithubAdvisories,[GHSA-r53v-vm87-f72c] Moderate severity vulnerability that affects org.apache.axis:axis,https://github.com/advisories/GHSA-r53v-vm87-f72c,https://j.mp/3jH5bT1
+GithubAdvisories,[GHSA-96jq-75wh-2658] Moderate severity vulnerability that affects org.apache.axis:axis,https://github.com/advisories/GHSA-96jq-75wh-2658,https://j.mp/3nrF9pd
