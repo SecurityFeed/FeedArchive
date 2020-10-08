@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13339 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13339,https://j.mp/2GDWRoX
+NVD-NIST,CVE-2020-25635 (ansible),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25635,https://j.mp/3ljO0Yi
+NVD-NIST,CVE-2020-26597 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26597,https://j.mp/2GRrR4p
+NVD-NIST,CVE-2020-26598 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26598,https://j.mp/33EVG1k
+NVD-NIST,CVE-2020-4799 (informix_dynamic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4799,https://j.mp/36HUQ5T
