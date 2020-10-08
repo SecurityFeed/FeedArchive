@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5822-pw57-vv37] XSS vulnerability when listing users on add & modify server pages,https://github.com/advisories/GHSA-5822-pw57-vv37,https://j.mp/36LaZHF
