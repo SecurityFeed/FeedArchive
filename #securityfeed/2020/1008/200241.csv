@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7733-hjv6-4h47] Cross-Site Scripting in ternary conditional operator,https://github.com/advisories/GHSA-7733-hjv6-4h47,https://j.mp/3jNkUA8
