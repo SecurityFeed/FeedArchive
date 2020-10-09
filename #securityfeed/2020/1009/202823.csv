@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-2288 (audit_trail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2288,https://j.mp/33IhNnm
+NVD-NIST,CVE-2020-2289 (active_choices),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2289,https://j.mp/34EEhVD
+NVD-NIST,CVE-2020-2290 (active_choices),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2290,https://j.mp/2GLJ3Zf
+NVD-NIST,CVE-2020-2291 (couchdb-statistics),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2291,https://j.mp/3de38n3
+NVD-NIST,CVE-2020-2293 (persona),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2293,https://j.mp/34W8b8f
+NVD-NIST,CVE-2020-2294 (maven_cascade_release),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2294,https://j.mp/2GW3P8r
+NVD-NIST,CVE-2020-2295 (maven_cascade_release),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2295,https://j.mp/34GhXen
+NVD-NIST,CVE-2020-2296 (shared_objects),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2296,https://j.mp/2GGiB3y
+NVD-NIST,"CVE-2020-25644 (data_grid, jboss_data_grid, jboss_enterprise_application_platform, jboss_fuse, openshift_application_runtimes, single_sign-on, wildfly_openssl)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25644,https://j.mp/3lnfRqy
+NVD-NIST,CVE-2020-25802 (studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25802,https://j.mp/3jL7wfL
+NVD-NIST,CVE-2020-7465 (mpd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7465,https://j.mp/3jL7nZL
+NVD-NIST,CVE-2020-7466 (mpd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7466,https://j.mp/30S7oDM
+NVD-NIST,CVE-2020-8781 (aleos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8781,https://j.mp/2I4rJ2b
