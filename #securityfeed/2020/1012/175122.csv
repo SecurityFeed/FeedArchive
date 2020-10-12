@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-269g-pwp5-87pp] TemporaryFolder on unix-like systems does not limit access to created files,https://github.com/advisories/GHSA-269g-pwp5-87pp,https://j.mp/3dp0efl
