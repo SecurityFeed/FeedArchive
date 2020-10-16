@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-0422 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0422,https://j.mp/379DYoR
+NVD-NIST,CVE-2020-9087 (taurus-al00a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9087,https://j.mp/37gsHTA
+NVD-NIST,CVE-2020-9090 (fusionaccess),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9090,https://j.mp/359420N
+NVD-NIST,CVE-2020-9106 (p30_pro_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9106,https://j.mp/2T37WTb
+NVD-NIST,"CVE-2020-9122 (hirouter-cd30-10_firmware, hirouter-ct31-10_firmware, ws5200-12_firmware, ws5281-10_firmware, ws5800-10_firmware, ws7100-10_firmware, ws7200-10_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9122,https://j.mp/357vN9F
