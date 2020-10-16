@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8hxh-r6f7-jf45] Memory exhaustion in http4s-async-http-client with large or malicious compressed responses,https://github.com/advisories/GHSA-8hxh-r6f7-jf45,https://j.mp/37eDi1y
+GithubAdvisories,[GHSA-3x8c-fmpc-5rmq] Cross-site scripting (XSS) vulnerability in the fallback authentication endpoint,https://github.com/advisories/GHSA-3x8c-fmpc-5rmq,https://j.mp/3nWTjyX
+GithubAdvisories,[GHSA-5hv6-mh8q-q9v8] RCE in XWiki,https://github.com/advisories/GHSA-5hv6-mh8q-q9v8,https://j.mp/354ipDx
