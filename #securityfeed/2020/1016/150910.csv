@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] CS-Cart 1.3.3 - authenticated RCE,https://www.exploit-db.com/exploits/48891,https://j.mp/3o0ewb6
+ExploitDB,[webapps] CS-Cart 1.3.3 - 'classes_dir' LFI,https://www.exploit-db.com/exploits/48890,https://j.mp/352Ijr3
+ExploitDB,[webapps] Seat Reservation System 1.0 - Unauthenticated SQL Injection,https://www.exploit-db.com/exploits/48889,https://j.mp/3lNUVcg
+ExploitDB,[webapps] Hotel Management System 1.0 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/48888,https://j.mp/353XYXl
+ExploitDB,[webapps] Seat Reservation System 1.0 - Remote Code Execution (Unauthenticated),https://www.exploit-db.com/exploits/48887,https://j.mp/37aZZ6v
