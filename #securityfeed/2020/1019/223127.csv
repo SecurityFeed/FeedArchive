@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-4254 (security_guardium_big_data_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4254,https://j.mp/34cTkHl
+NVD-NIST,CVE-2020-4636 (resilient_security_orchestration_automation_and_response),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4636,https://j.mp/3oaOO46
+NVD-NIST,CVE-2020-6319 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6319,https://j.mp/3kdMc2F
+NVD-NIST,CVE-2020-6323 (netweaver_enterprise_portal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6323,https://j.mp/3j7Nr2c
+NVD-NIST,CVE-2020-7383 (nexpose),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7383,https://j.mp/3o6qyzM
+NVD-NIST,"CVE-2020-9952 (icloud, ipad_os, iphone_os, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9952,https://j.mp/3dOfrXK
+NVD-NIST,"CVE-2020-9958 (ipad_os, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9958,https://j.mp/35dh90S
+NVD-NIST,"CVE-2020-9959 (ipad_os, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9959,https://j.mp/2FHCC9m
+NVD-NIST,"CVE-2020-9964 (ipad_os, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9964,https://j.mp/3m3YpI0
+NVD-NIST,"CVE-2020-9968 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9968,https://j.mp/3ja4Fw1
+NVD-NIST,"CVE-2020-9976 (ipad_os, iphone_os, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9976,https://j.mp/2Hf6URF
