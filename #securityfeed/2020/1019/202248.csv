@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-589w-hccm-265x] Inline attribute values were not processed,https://github.com/advisories/GHSA-589w-hccm-265x,https://j.mp/3o5jZ0z
+GithubAdvisories,[GHSA-4fc4-chg7-h8gh] Unprotected dynamically loaded chunks,https://github.com/advisories/GHSA-4fc4-chg7-h8gh,https://j.mp/2T8cyr7
