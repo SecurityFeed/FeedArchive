@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] HiSilicon Video Encoders - Unauthenticated RTSP buffer overflow (DoS),https://www.exploit-db.com/exploits/48903,https://j.mp/35gT21r
+ExploitDB,[webapps] HiSilicon Video Encoders - Full admin access via backdoor password,https://www.exploit-db.com/exploits/48902,https://j.mp/3o4Oe7D
+ExploitDB,[webapps] HiSilicon video encoders - RCE via unauthenticated upload of malicious firmware,https://www.exploit-db.com/exploits/48901,https://j.mp/3kheSIg
+ExploitDB,[webapps] HiSilicon Video Encoders - RCE via unauthenticated command injection,https://www.exploit-db.com/exploits/48900,https://j.mp/3dJe5gH
+ExploitDB,[webapps] HiSilicon Video Encoders - Unauthenticated file disclosure via path traversal,https://www.exploit-db.com/exploits/48899,https://j.mp/37hzOLH
