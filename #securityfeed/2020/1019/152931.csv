@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Textpattern CMS 4.6.2 - Cross-site Request Forgery,https://www.exploit-db.com/exploits/48907,https://j.mp/2IHA2kR
+ExploitDB,[webapps] Typesetter CMS 5.1 - Arbitrary Code Execution (Authenticated),https://www.exploit-db.com/exploits/48906,https://j.mp/35bFCDH
+ExploitDB,[webapps] Hostel Management System 2.1 - Cross Site Scripting (Multiple Fields),https://www.exploit-db.com/exploits/48905,https://j.mp/35dyMgX
+ExploitDB,[webapps] Jenkins 2.63 - Sandbox bypass in pipeline: Groovy plug-in,https://www.exploit-db.com/exploits/48904,https://j.mp/35haS48
