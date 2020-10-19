@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft SharePoint SSI / ViewState Remote Code Execution,https://packetstormsecurity.com/files/159612/sharepoint_ssi_viewstate.rb.txt,https://j.mp/3j8q0pn
+PacketstormSecurity,Chrome USB::OnServiceConnectionError Use-After-Free,https://packetstormsecurity.com/files/159610/GS20201019161034.tgz,https://j.mp/2FHaXp4
+PacketstormSecurity,Chrome WebIDBGetDBNamesCallbacksImpl::SuccessNamesAndVersionsList Use-After-Free,https://packetstormsecurity.com/files/159609/GS20201019160727.tgz,https://j.mp/34doKx4
+PacketstormSecurity,Mocha For Android Audio Interception,https://packetstormsecurity.com/files/159608/GS20201019160547.tgz,https://j.mp/2FNss7m
+PacketstormSecurity,ReQuest Serious Play F3 Media Server 7.0.3 Unauthenticated Remote Code Execution,https://packetstormsecurity.com/files/159607/ZSL-2020-5602.txt,https://j.mp/31n01Va
+PacketstormSecurity,FRITZ!Box 7.20 DNS Rebinding Protection Bypass,https://packetstormsecurity.com/files/159606/rt-sa-2020-003.txt,https://j.mp/3m10jsL
+PacketstormSecurity,HiSilicon Video Encoder Buffer Overflow / Denial Of Service,https://packetstormsecurity.com/files/159605/hisiliconve-overflow.txt,https://j.mp/2Hcqv4Q
+PacketstormSecurity,Red Hat Security Advisory 2020-4274-01,https://packetstormsecurity.com/files/159604/RHSA-2020-4274-01.txt,https://j.mp/31ljaqL
+PacketstormSecurity,Jenkins 2.63 Sandbox Bypass,https://packetstormsecurity.com/files/159603/jenkins263-bypass.txt,https://j.mp/2Hix6KO
+PacketstormSecurity,ReQuest Serious Play F3 Media Server 7.0.3 Denial Of Service,https://packetstormsecurity.com/files/159602/ZSL-2020-5601.txt,https://j.mp/31oc5pb
+PacketstormSecurity,HiSilicon Video Encoder Backdoor Password,https://packetstormsecurity.com/files/159601/hisiliconve-backdoor.txt,https://j.mp/31mCzaS
+PacketstormSecurity,Red Hat Security Advisory 2020-4272-01,https://packetstormsecurity.com/files/159600/RHSA-2020-4272-01.txt,https://j.mp/3kbzEco
+PacketstormSecurity,HiSilicon Video Encoder Malicious Firmware Code Execution,https://packetstormsecurity.com/files/159599/hisiliconve-firmwareexec.txt,https://j.mp/31ocRCK
+PacketstormSecurity,ReQuest Serious Play F3 Media Server 7.0.3 Debug Log Disclosure,https://packetstormsecurity.com/files/159598/ZSL-2020-5600.txt,https://j.mp/2T6iAZ9
+PacketstormSecurity,HiSilicon Video Encoder Command Injection,https://packetstormsecurity.com/files/159597/hisiliconve-exec.txt,https://j.mp/3kgyU5F
+PacketstormSecurity,ReQuest Serious Play Media Player 3.0 File Disclosure / Path Traversal,https://packetstormsecurity.com/files/159596/ZSL-2020-5599.txt,https://j.mp/37pM0Kf
+PacketstormSecurity,HiSilicon Video Encoder 1.97 File Disclosure / Path Traversal,https://packetstormsecurity.com/files/159595/hisiliconve197-traversal.txt,https://j.mp/37jQ66z
+PacketstormSecurity,Chrome XRSystem::FocusedFrameChanged and FocusController::NotifyFocusChangedObservers Use-After-Free,https://packetstormsecurity.com/files/159611/GS20201019161130.tgz,https://j.mp/3lTWCFk
+PacketstormSecurity,TinyMCE 5 HTML Injection,https://packetstormsecurity.com/files/159594/tinymce5-inject.txt,https://j.mp/3o5g187
+PacketstormSecurity,Online Job Portal 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/159593/ojp10-xss.txt,https://j.mp/3o94KU8
+PacketstormSecurity,OX App Suite / OX Documents 7.10.3 XSS / Server-Side Request Forgery,https://packetstormsecurity.com/files/159592/oxappsuite7103-xssssrf.txt,https://j.mp/2T8qQYO
+PacketstormSecurity,Online Discussion Forum Site 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/159591/onlinediscussionforum10-xss.txt,https://j.mp/35dbDv9
+PacketstormSecurity,Online Student's Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/159590/onlinestudentmgmtsys10-shell.txt,https://j.mp/35azgEM
+PacketstormSecurity,QRadar RemoteJavaScript Deserialization,https://packetstormsecurity.com/files/159589/qradar-deserialize.txt,https://j.mp/34dmgPj
+PacketstormSecurity,Nagios XI 5.7.3 SQL Injection,https://packetstormsecurity.com/files/159586/nagiosxi573-sql.txt,https://j.mp/3m803sd
