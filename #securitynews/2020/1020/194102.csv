@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,A script i wrote that automates the exfiltration of data over dns in case we have a blind command execution with restricted outbound connectivity. Works with bash and powershell and is compatible with exec style command execution (e.g. java.lang.Runtime),https://redd.it/jetx57,
