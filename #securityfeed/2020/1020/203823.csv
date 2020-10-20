@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-4680 (sterling_b2b_integrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-4680,https://j.mp/3odb5Or
+NVD-NIST,CVE-2020-15792 (desigo_insight),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15792,https://j.mp/3jfVev4
+NVD-NIST,CVE-2020-15794 (desigo_insight),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15794,https://j.mp/35iVjsU
+NVD-NIST,"CVE-2020-16941 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16941,https://j.mp/31qKqEc
+NVD-NIST,"CVE-2020-16942 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16942,https://j.mp/3m7c4y0
+NVD-NIST,"CVE-2020-16947 (365_apps, office, outlook)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16947,https://j.mp/2FJplNw
+NVD-NIST,"CVE-2020-16948 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16948,https://j.mp/3m7bYq8
+NVD-NIST,"CVE-2020-16980 (windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16980,https://j.mp/3jnemHC
+NVD-NIST,CVE-2020-26672 (testimonial_rotator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26672,https://j.mp/31qiwYK
+NVD-NIST,CVE-2020-4491 (spectrum_scale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4491,https://j.mp/2IF8cWn
+NVD-NIST,CVE-2020-4748 (spectrum_scale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4748,https://j.mp/35eUpxq
+NVD-NIST,CVE-2020-4749 (spectrum_scale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4749,https://j.mp/3oa8ZPv
+NVD-NIST,CVE-2020-4755 (spectrum_scale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4755,https://j.mp/3m7bZdG
+NVD-NIST,"CVE-2020-4756 (elastic_storage_server, spectrum_scale)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4756,https://j.mp/37rA9LU
+NVD-NIST,CVE-2020-7326 (active_response),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7326,https://j.mp/37qwE8c
+NVD-NIST,CVE-2020-7327 (mvision_endpoint_detection_and_response),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7327,https://j.mp/2TfM5ru
