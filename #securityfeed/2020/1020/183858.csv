@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2019-4552 (security_access_manager, security_verify_access)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-4552,https://j.mp/2TbNOhI
+NVD-NIST,CVE-2020-11641 (sitemanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11641,https://j.mp/35efb0k
+NVD-NIST,CVE-2020-11642 (sitemanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11642,https://j.mp/3lZ3NMm
+NVD-NIST,"CVE-2020-16945 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16945,https://j.mp/37tsext
+NVD-NIST,"CVE-2020-16946 (sharepoint_designer, sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16946,https://j.mp/35cuPZY
+NVD-NIST,CVE-2020-16956 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16956,https://j.mp/37oq0iR
+NVD-NIST,"CVE-2020-16975 (windows_10, windows_7, windows_server_2008, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16975,https://j.mp/3m4Ed8L
+NVD-NIST,CVE-2020-16977 (visual_studio_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16977,https://j.mp/2HhWlNJ
+NVD-NIST,CVE-2020-16978 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16978,https://j.mp/3dLddYR
+NVD-NIST,CVE-2020-17023 (visual_studio_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17023,https://j.mp/2TcPhEo
+NVD-NIST,"CVE-2020-4499 (security_access_manager, security_verify_access)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4499,https://j.mp/2Hrcn7u
