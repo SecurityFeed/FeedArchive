@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4776 mariadb-10.3,https://www.debian.org/security/2020/dsa-4776,https://j.mp/3jj8oHE
+DebianSecurityNotice,DSA-4775 python-flask-cors,https://www.debian.org/security/2020/dsa-4775,https://j.mp/3kjdW6j
