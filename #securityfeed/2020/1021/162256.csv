@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Google Patches Actively-Exploited Zero-Day Bug In Chrome Browser,https://packetstormsecurity.com/news/view/31684/Google-Patches-Actively-Exploited-Zero-Day-Bug-In-Chrome-Browser.html,https://j.mp/31w2L2N
+PacketstormSecurity,Cybersecurity And A Potential Biden White House,https://packetstormsecurity.com/news/view/31685/Cybersecurity-And-A-Potential-Biden-White-House.html,https://j.mp/2HjvFfq
+PacketstormSecurity,"Adblockers Installed 300,000 Times Are Found To Be Malicious",https://packetstormsecurity.com/news/view/31683/Adblockers-Installed-300-000-Times-Are-Found-To-Be-Malicious.html,https://j.mp/35dFK5u
+PacketstormSecurity,"Adobe Release Another Out-Of-Band Patch, Squashing Bugs Across Creative",https://packetstormsecurity.com/news/view/31686/Adobe-Release-Another-Out-Of-Band-Patch-Squashing-Bugs-Across-Creative.html,https://j.mp/3jj9bbw
+PacketstormSecurity,nfstream 6.2.0,https://packetstormsecurity.com/files/159668/nfstream-6.2.0.tar.gz,https://j.mp/3kin2QN
+PacketstormSecurity,BigBlueButton 2.2.25 File Disclosure / Server-Side Request Forgery,https://packetstormsecurity.com/files/159667/rt-sa-2020-005.txt,https://j.mp/2TfxfkU
+PacketstormSecurity,Red Hat Security Advisory 2020-4295-01,https://packetstormsecurity.com/files/159665/RHSA-2020-4295-01.txt,https://j.mp/3dK5IBw
+PacketstormSecurity,Bludit 3.9.2 Bruteforce Mitigation Bypass,https://packetstormsecurity.com/files/159664/bludit392-bypass.py.txt,https://j.mp/37tAzBe
+PacketstormSecurity,Tiki Wiki CMS Groupware 21.1 Authentication Bypass,https://packetstormsecurity.com/files/159663/tikiwikicmsgroupware211-bypass.txt,https://j.mp/34mTvzX
+PacketstormSecurity,Libtaxii 1.1.117 / OpenTaxi 0.2.0 Server-Side Request Forgery,https://packetstormsecurity.com/files/159662/libtaxiiopentaxi-ssrf.txt,https://j.mp/34gl4dW
+PacketstormSecurity,Red Hat Security Advisory 2020-4264-01,https://packetstormsecurity.com/files/159661/RHSA-2020-4264-01.txt,https://j.mp/3jiij0a
+PacketstormSecurity,GOautodial 4.0 Shell Upload,https://packetstormsecurity.com/files/159659/goautodial40-shell.txt,https://j.mp/3dNEYjS
+PacketstormSecurity,School Faculty Scheduling System 1.0 SQL Injection,https://packetstormsecurity.com/files/159657/sfss10-sql.txt,https://j.mp/3dTt2Nu
+PacketstormSecurity,School Faculty Scheduling System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/159656/sfss10-xss.txt,https://j.mp/3dJWmWo
+PacketstormSecurity,Red Hat Security Advisory 2020-4299-01,https://packetstormsecurity.com/files/159655/RHSA-2020-4299-01.txt,https://j.mp/2TgukIG
+PacketstormSecurity,Hrsale 2.0.0 Local File Inclusion,https://packetstormsecurity.com/files/159654/hrsale200-lfi.txt,https://j.mp/3jkXNMh
