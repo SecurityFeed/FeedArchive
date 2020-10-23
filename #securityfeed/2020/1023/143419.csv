@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14760 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14760,https://j.mp/2Tm5N4Z
+NVD-NIST,CVE-2020-14761 (applications_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14761,https://j.mp/2TnEjfe
+NVD-NIST,CVE-2020-14762 (application_express),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14762,https://j.mp/3dQpVWt
+NVD-NIST,CVE-2020-14801 (peoplesoft_enterprise_peopletools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14801,https://j.mp/35r7S5h
+NVD-NIST,CVE-2020-14802 (peoplesoft_enterprise_peopletools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14802,https://j.mp/35mjeaQ
+NVD-NIST,"CVE-2020-14803 (graalvm, jdk, jre)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14803,https://j.mp/2Hs5kvu
+NVD-NIST,CVE-2020-14805 (e-business_suite_secure_enterprise_search),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14805,https://j.mp/2Hq2bwe
