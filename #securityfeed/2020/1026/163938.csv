@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14770 (hyperion_bi+),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14770,https://j.mp/3e5hh6z
+NVD-NIST,CVE-2020-14772 (hyperion_lifecycle_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14772,https://j.mp/37IXlFy
+NVD-NIST,"CVE-2020-14773 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14773,https://j.mp/2TnKyQx
+NVD-NIST,CVE-2020-14774 (customer_relationship_management_technical_foundation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14774,https://j.mp/3jpeMgw
+NVD-NIST,"CVE-2020-14775 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14775,https://j.mp/3mgQhUC
+NVD-NIST,"CVE-2020-14776 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14776,https://j.mp/3opT8fM
+NVD-NIST,"CVE-2020-14838 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14838,https://j.mp/34uImNr
+NVD-NIST,"CVE-2020-14839 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14839,https://j.mp/2TnHKTs
+NVD-NIST,"CVE-2020-14845 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14845,https://j.mp/2J8VPCk
+NVD-NIST,CVE-2020-14876 (trade_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14876,https://j.mp/2HGvAlK
+NVD-NIST,CVE-2020-14877 (hospitality_opera_5_property_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14877,https://j.mp/3mpHY8U
+NVD-NIST,CVE-2020-14880 (business_intelligence_publisher),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14880,https://j.mp/34v4mI3
+NVD-NIST,CVE-2020-14881 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14881,https://j.mp/2HsHTCQ
+NVD-NIST,CVE-2020-14882 (weblogic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14882,https://j.mp/3jrcOMt
