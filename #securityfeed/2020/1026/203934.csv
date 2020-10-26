@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-14765 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14765,https://j.mp/2HBwKiZ
+NVD-NIST,"CVE-2020-14771 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14771,https://j.mp/3owW7mz
+NVD-NIST,CVE-2020-14778 (peoplesoft_enterprise_human_capital_management_global_payroll_core),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14778,https://j.mp/31JaQkP
+NVD-NIST,CVE-2020-14780 (business_intelligence_publisher),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14780,https://j.mp/3jvFqo1
+NVD-NIST,CVE-2020-14783 (hospitality_res_3700_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14783,https://j.mp/2JcFsEZ
+NVD-NIST,CVE-2020-14784 (business_intelligence_publisher),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14784,https://j.mp/2J95okJ
+NVD-NIST,"CVE-2020-14836 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14836,https://j.mp/35B0kwT
+NVD-NIST,"CVE-2020-14852 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14852,https://j.mp/34xJXSJ
+NVD-NIST,"CVE-2020-14853 (mysql_cluster, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14853,https://j.mp/2TufTB3
+NVD-NIST,CVE-2020-15002 (open-xchange_appsuite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15002,https://j.mp/2G57C3s
+NVD-NIST,CVE-2020-15003 (open-xchange_appsuite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15003,https://j.mp/3kxZl6S
+NVD-NIST,CVE-2020-15004 (open-xchange_appsuite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15004,https://j.mp/3onR2wS
+NVD-NIST,CVE-2020-26650 (atomxcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26650,https://j.mp/3mhDnFU
+NVD-NIST,CVE-2020-9869 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9869,https://j.mp/35DZE9Z
+NVD-NIST,CVE-2020-9935 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9935,https://j.mp/31HQPuY
+NVD-NIST,"CVE-2020-9937 (icloud, ipad_os, iphone_os, itunes, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9937,https://j.mp/3mj5IeS
