@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-17006 (network_security_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-17006,https://j.mp/3kxQ52H
+NVD-NIST,CVE-2019-17007 (network_security_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-17007,https://j.mp/34vSaXB
+NVD-NIST,"CVE-2020-14779 (debian_linux, fedora, jdk, jre)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14779,https://j.mp/3e1EEOd
+NVD-NIST,"CVE-2020-14782 (debian_linux, jdk, jre)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14782,https://j.mp/2J13geC
+NVD-NIST,CVE-2020-17454 (api_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17454,https://j.mp/3otOOMp
+NVD-NIST,CVE-2020-27620 (skin:cosmos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27620,https://j.mp/3dZA3w1
+NVD-NIST,"CVE-2020-9994 (ipados, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9994,https://j.mp/3krWaOd
+NVD-NIST,"CVE-2020-9997 (mac_os_x, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9997,https://j.mp/2HBuNTG
