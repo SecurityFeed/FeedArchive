@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14769 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14769,https://j.mp/3dV1dnW
+NVD-NIST,"CVE-2020-14777 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14777,https://j.mp/2J4uelD
+NVD-NIST,"CVE-2020-14785 (mysql, oncommand_insight, snapcenter)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14785,https://j.mp/2TsTJzc
+NVD-NIST,CVE-2020-14883 (weblogic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14883,https://j.mp/37VvL8f
+NVD-NIST,CVE-2020-14884 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14884,https://j.mp/3e068Eg
+NVD-NIST,CVE-2020-14885 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14885,https://j.mp/35Bt0WM
