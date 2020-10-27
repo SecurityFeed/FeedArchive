@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c84h-w6cr-5v8q] Markdown-supplied Shell Command Execution,https://github.com/advisories/GHSA-c84h-w6cr-5v8q,https://j.mp/31NNhHm
+GithubAdvisories,[GHSA-939m-4xpw-v34v] Arbitrary Code Execution in blazar-dashboard,https://github.com/advisories/GHSA-939m-4xpw-v34v,https://j.mp/34CWsfT
