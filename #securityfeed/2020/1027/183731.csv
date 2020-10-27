@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-10256 (command-line, scim)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10256,https://j.mp/3oFoVtt
+NVD-NIST,CVE-2020-23864 (malware_fighter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23864,https://j.mp/2JfQc5v
+NVD-NIST,CVE-2020-23945 (victor_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23945,https://j.mp/3oHLcH0
+NVD-NIST,CVE-2020-27180 (publixone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27180,https://j.mp/2HuZGJB
+NVD-NIST,CVE-2020-27181 (publixone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27181,https://j.mp/2Tyjw8Q
+NVD-NIST,CVE-2020-27182 (publixone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27182,https://j.mp/3mtBjuE
+NVD-NIST,CVE-2020-27183 (publixone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27183,https://j.mp/3mqeUhG
+NVD-NIST,CVE-2020-27187 (partition_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27187,https://j.mp/3mx85el
+NVD-NIST,CVE-2020-27533 (dedecms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27533,https://j.mp/37KOTW9
+NVD-NIST,"CVE-2020-27678 (illumos, omnios, smartos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27678,https://j.mp/2HEGwRs
+NVD-NIST,CVE-2020-5978 (geforce_experience),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5978,https://j.mp/3jsz6xy
+NVD-NIST,CVE-2020-6022 (zonealarm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6022,https://j.mp/2TtSoIh
+NVD-NIST,CVE-2020-6023 (zonealarm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6023,https://j.mp/3mvbR86
+NVD-NIST,CVE-2020-7753 (trim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7753,https://j.mp/37Td2tA
+NVD-NIST,CVE-2020-7754 (npm-user-validate),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7754,https://j.mp/37KwxET
+NVD-NIST,CVE-2020-8579 (clustered_data_ontap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8579,https://j.mp/3mrKb3J
+NVD-NIST,CVE-2020-8956 (pulse_secure_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8956,https://j.mp/31NERjw
+NVD-NIST,CVE-2020-9899 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9899,https://j.mp/2HEGtFg
