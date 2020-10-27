@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-26649 (atomxcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26649,https://j.mp/3msCk65
+NVD-NIST,CVE-2020-27664 (strapi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27664,https://j.mp/35HndPc
+NVD-NIST,CVE-2020-27665 (strapi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27665,https://j.mp/3jH14G5
+NVD-NIST,CVE-2020-5977 (geforce_experience),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5977,https://j.mp/3jv1bEx
+NVD-NIST,CVE-2020-5990 (geforce_experience),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5990,https://j.mp/3owd6Fz
+NVD-NIST,"CVE-2020-9880 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9880,https://j.mp/34A9oTI
+NVD-NIST,"CVE-2020-9881 (ipad_os, iphone_os, mac_os_x, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9881,https://j.mp/35GmXA6
+NVD-NIST,"CVE-2020-9882 (ipad_os, iphone_os, mac_os_x, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9882,https://j.mp/3jwzfQE
