@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fj59-f6c3-3vw4] Command Injection,https://github.com/advisories/GHSA-fj59-f6c3-3vw4,https://j.mp/35Ex3BB
+GithubAdvisories,[GHSA-c27r-x354-4m68] HMAC-SHA1 signatures can bypass validation via key confusion,https://github.com/advisories/GHSA-c27r-x354-4m68,https://j.mp/2G4vy73
+GithubAdvisories,[GHSA-hggm-jpg3-v476] RSA decryption vulnerable to Bleichenbacher timing vulnerability,https://github.com/advisories/GHSA-hggm-jpg3-v476,https://j.mp/31PDWPj
+GithubAdvisories,[GHSA-mp9m-g7qj-6vqr] Unauthorized privilege escalation in Mod module,https://github.com/advisories/GHSA-mp9m-g7qj-6vqr,https://j.mp/3e1KQpC
+GithubAdvisories,[GHSA-94xh-2fmc-xf5j] command injection vulnerability,https://github.com/advisories/GHSA-94xh-2fmc-xf5j,https://j.mp/3kyk8HK
