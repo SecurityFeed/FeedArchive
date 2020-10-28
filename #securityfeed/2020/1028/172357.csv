@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xwp-m7mq-7q3r] CLI does not correctly implement strict mode,https://github.com/advisories/GHSA-2xwp-m7mq-7q3r,https://j.mp/3kClq4d
