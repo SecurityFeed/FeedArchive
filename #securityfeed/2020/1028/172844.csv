@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,FreeType Load_SBit_Png Heap Buffer Overflow,https://packetstormsecurity.com/files/159754/GS20201028164238.tgz,https://j.mp/34zBpdN
+PacketstormSecurity,Red Hat Security Advisory 2020-4384-01,https://packetstormsecurity.com/files/159753/RHSA-2020-4384-01.txt,https://j.mp/2HMCFkP
+PacketstormSecurity,Red Hat Security Advisory 2020-4383-01,https://packetstormsecurity.com/files/159752/RHSA-2020-4383-01.txt,https://j.mp/3kCmxAV
+PacketstormSecurity,Red Hat Security Advisory 2020-4283-01,https://packetstormsecurity.com/files/159751/RHSA-2020-4283-01.txt,https://j.mp/3ebLHUL
+PacketstormSecurity,Red Hat Security Advisory 2020-4381-01,https://packetstormsecurity.com/files/159750/RHSA-2020-4381-01.txt,https://j.mp/3jCX3SE
+PacketstormSecurity,Oracle Business Intelligence Enterprise Edition 5.5.0.0.0 / 12.2.1.3.0 / 12.2.1.4.0 LFI,https://packetstormsecurity.com/files/159748/oraclebiee-traversallfi.txt,https://j.mp/3jINKkw
+PacketstormSecurity,God Kings 0.60.1 Notification Spoofing,https://packetstormsecurity.com/files/159747/godkings0601-spoofing.txt,https://j.mp/2TvxubB
+PacketstormSecurity,Gentoo Linux Security Advisory 202010-08,https://packetstormsecurity.com/files/159746/glsa-202010-08.txt,https://j.mp/2TBrEW8
+PacketstormSecurity,CSE Bookstore 1.0 SQL Injection,https://packetstormsecurity.com/files/159745/csebookstore10-sql.txt,https://j.mp/35F3HTC
+PacketstormSecurity,Nagios XI 5.7.3 Remote Command Injection,https://packetstormsecurity.com/files/159743/nagiosxi573-exec.txt,https://j.mp/2Twvy2T
+PacketstormSecurity,Blueman Local Root / Privilege Escalation,https://packetstormsecurity.com/files/159740/blueman-localroot.txt,https://j.mp/2J6QKKC
+PacketstormSecurity,aptdaemon File Existence Disclosure,https://packetstormsecurity.com/files/159739/aptdaemon-filecheck.txt,https://j.mp/3jEh3o9
+PacketstormSecurity,PackageKit File Existence Disclosure,https://packetstormsecurity.com/files/159737/packagekit-filecheck.txt,https://j.mp/31SWONz
+PacketstormSecurity,Online Library Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/159736/olms10-shell.txt,https://j.mp/3kDrMAD
+PacketstormSecurity,Point Of Sales 1.0 SQL Injection,https://packetstormsecurity.com/files/159735/pos10-sql.txt,https://j.mp/37LeMoV
+PacketstormSecurity,Gym Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/159734/gymms10-sql.txt,https://j.mp/2Twvyjp
+PacketstormSecurity,Gym Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/159733/gymms10-xss.txt,https://j.mp/35GDrZ8
+PacketstormSecurity,EPSON 1.124 Unquoted Service Path,https://packetstormsecurity.com/files/159731/epson1124-unquotedpath.txt,https://j.mp/34B3NMM
+PacketstormSecurity,Program Access Controller 1.2.0.0 Unquoted Service Path,https://packetstormsecurity.com/files/159730/pac1200-unquotedpath.txt,https://j.mp/2HLfFmP
+PacketstormSecurity,Prey 1.9.6 Unquoted Service Path,https://packetstormsecurity.com/files/159729/prey196-unquotedpath.txt,https://j.mp/2HFf7yy
