@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] IP Watcher v3.0.0.30 - 'PACService.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/48968,https://j.mp/31S3jjz
+ExploitDB,"[local] Prey 1.9.6 - ""CronService"" Unquoted Service Path",https://www.exploit-db.com/exploits/48967,https://j.mp/3mrz4b2
+ExploitDB,[local] Program Access Controller v1.2.0.0 - 'PACService.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/48966,https://j.mp/3juvB9S
+ExploitDB,[local] Exploit - EPSON 1.124 - 'seksmdb.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/48965,https://j.mp/2HK8uv9
+ExploitDB,[webapps] Oracle Business Intelligence Enterprise Edition 5.5.0.0.0 / 12.2.1.3.0 / 12.2.1.4.0 - 'getPreviewImage' Directory Traversal/Local File Inclusion,https://www.exploit-db.com/exploits/48964,https://j.mp/2HK8j2X
