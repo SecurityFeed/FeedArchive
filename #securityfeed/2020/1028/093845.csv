@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Blueman < 2.1.4 - Local Privilege Escalation,https://www.exploit-db.com/exploits/48963,https://j.mp/3jCzNUS
+ExploitDB,[local] aptdaemon < 1.1.1 - File Existence Disclosure,https://www.exploit-db.com/exploits/48962,https://j.mp/2HLHvPe
+ExploitDB,[local] PackageKit < 1.1.13 - File Existence Disclosure,https://www.exploit-db.com/exploits/48961,https://j.mp/37UWvFw
+ExploitDB,[webapps] CSE Bookstore 1.0 - Authentication Bypass,https://www.exploit-db.com/exploits/48960,https://j.mp/2HKUzVq
+ExploitDB,[webapps] Nagios XI 5.7.3 - 'mibs.php' Remote Command Injection (Authenticated),https://www.exploit-db.com/exploits/48959,https://j.mp/3kC4CKL
