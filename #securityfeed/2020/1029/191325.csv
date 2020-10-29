@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2018-4474 (icloud, iphone_os, itunes, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-4474,https://j.mp/34CnXpA
+NVD-NIST,"CVE-2019-8668 (iphone_os, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8668,https://j.mp/3jJwJXc
+NVD-NIST,CVE-2019-8675 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8675,https://j.mp/3oBvc9j
+NVD-NIST,CVE-2019-8716 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8716,https://j.mp/2HP7S7n
+NVD-NIST,"CVE-2019-8734 (icloud, iphone_os, itunes, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8734,https://j.mp/2HMM8cf
+NVD-NIST,CVE-2019-8736 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8736,https://j.mp/2TAFR5V
+NVD-NIST,CVE-2019-8737 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8737,https://j.mp/37RRcXz
+NVD-NIST,"CVE-2019-8756 (icloud, itunes, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8756,https://j.mp/34EA4md
+NVD-NIST,CVE-2019-8759 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8759,https://j.mp/3jEvFDW
+NVD-NIST,CVE-2019-8767 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8767,https://j.mp/37NoWFA
