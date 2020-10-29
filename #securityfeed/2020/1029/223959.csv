@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2019-8796 (ipados, iphone_os, mac_os_x, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8796,https://j.mp/37X8679
+NVD-NIST,"CVE-2019-8799 (ipados, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8799,https://j.mp/3mrWX2i
+NVD-NIST,CVE-2019-8824 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8824,https://j.mp/3mEkcX3
+NVD-NIST,"CVE-2019-8825 (icloud, iphone_os, itunes, mac_os_x)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8825,https://j.mp/3e90bEN
+NVD-NIST,"CVE-2019-8827 (icloud, ipados, iphone_os, itunes, safari, tvos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8827,https://j.mp/2HMAkXB
+NVD-NIST,"CVE-2019-8828 (ipados, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8828,https://j.mp/3jGmTpd
+NVD-NIST,"CVE-2019-8829 (ipados, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8829,https://j.mp/2HFhL7Q
+NVD-NIST,"CVE-2019-8846 (icloud, ipados, iphone_os, itunes, safari, tvos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8846,https://j.mp/35MhAPV
+NVD-NIST,CVE-2019-8847 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8847,https://j.mp/3kHpn82
+NVD-NIST,CVE-2020-24708 (gophish),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24708,https://j.mp/3kJK4jB
+NVD-NIST,CVE-2020-24709 (gophish),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24709,https://j.mp/35Je4G0
+NVD-NIST,CVE-2020-9860 (safari),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9860,https://j.mp/3e6eUk2
+NVD-NIST,CVE-2020-9866 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9866,https://j.mp/37RaxrN
+NVD-NIST,CVE-2020-9941 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9941,https://j.mp/2G8X6YO
+NVD-NIST,CVE-2020-9961 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9961,https://j.mp/380nVtE
+NVD-NIST,"CVE-2020-9973 (ipados, iphone_os, mac_os_x)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9973,https://j.mp/2HMArCv
