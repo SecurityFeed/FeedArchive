@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2017-18925 (opentmpfiles),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-18925,https://j.mp/31ZJUgB
+NVD-NIST,CVE-2019-8572 (airport_base_station_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8572,https://j.mp/31UsHoH
+NVD-NIST,"CVE-2019-8573 (iphone_os, mac_os_x, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8573,https://j.mp/3mzzMDh
+NVD-NIST,CVE-2019-8575 (airport_base_station_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8575,https://j.mp/3kEe2FH
+NVD-NIST,CVE-2019-8578 (airport_base_station_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8578,https://j.mp/35Qjtv6
+NVD-NIST,CVE-2019-8579 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8579,https://j.mp/3e9Mq95
+NVD-NIST,CVE-2019-8580 (airport_base_station_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8580,https://j.mp/3oGalSg
+NVD-NIST,CVE-2019-8588 (airport_base_station_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8588,https://j.mp/3jKZJxP
+NVD-NIST,CVE-2019-8839 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8839,https://j.mp/3ebI0ye
+NVD-NIST,CVE-2020-25034 (email_malware_protection_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25034,https://j.mp/37W8fI3
+NVD-NIST,"CVE-2020-7196 (bluedata_epic, ezmeral_container_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7196,https://j.mp/37W8gf5
+NVD-NIST,CVE-2020-7752 (systeminformation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7752,https://j.mp/2TGb2N2
+NVD-NIST,CVE-2020-8250 (pulse_secure_desktop_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8250,https://j.mp/3jK018e
+NVD-NIST,CVE-2020-8255 (pulse_secure_desktop_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8255,https://j.mp/2HH163P
+NVD-NIST,CVE-2020-8260 (pulse_secure_desktop_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8260,https://j.mp/34ImRIX
