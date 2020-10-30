@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jrgf-vfw2-hj26] RCE via PHP Object injection via SOAP Requests,https://github.com/advisories/GHSA-jrgf-vfw2-hj26,https://j.mp/2TEuN80
+GithubAdvisories,"[GHSA-6fmv-q269-55cw] Edit template, Remote Code Execution (RCE) Vulnerability in Latest Release 4.4.0",https://github.com/advisories/GHSA-6fmv-q269-55cw,https://j.mp/3mGX9ed
