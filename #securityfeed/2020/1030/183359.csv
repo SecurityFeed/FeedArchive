@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2019-8728 (icloud, iphone_os, itunes, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8728,https://j.mp/3mHaGCx
+NVD-NIST,"CVE-2019-8740 (ipad_os, iphone_os, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8740,https://j.mp/2HG3hEM
+NVD-NIST,"CVE-2019-8744 (iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8744,https://j.mp/2HRx2Sp
+NVD-NIST,"CVE-2019-8752 (icloud, ipad_os, iphone_os, itunes, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8752,https://j.mp/34K4KCF
+NVD-NIST,CVE-2019-8761 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8761,https://j.mp/35RPnaz
+NVD-NIST,"CVE-2019-8841 (ipados, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8841,https://j.mp/35JmA80
+NVD-NIST,CVE-2019-8842 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8842,https://j.mp/3eaU7vC
+NVD-NIST,CVE-2020-15274 (wiki.js),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15274,https://j.mp/2HOffvW
+NVD-NIST,CVE-2020-26161 (octopus_deploy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26161,https://j.mp/3mCZmY1
+NVD-NIST,CVE-2020-6876 (evdc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6876,https://j.mp/35Oehb1
+NVD-NIST,CVE-2020-8263 (pulse_secure_desktop_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8263,https://j.mp/31ZOHi7
