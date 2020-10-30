@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-24303 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24303,https://j.mp/3e8b3Tv
+NVD-NIST,CVE-2020-27974 (neopost_mail_accounting),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27974,https://j.mp/37SgOna
+NVD-NIST,CVE-2020-27975 (oscommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27975,https://j.mp/3jKsYAF
+NVD-NIST,CVE-2020-27976 (oscommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27976,https://j.mp/3oGtmUA
