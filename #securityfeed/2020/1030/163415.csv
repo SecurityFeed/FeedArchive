@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-16140 (greenmart),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16140,https://j.mp/31Xz62w
+NVD-NIST,CVE-2020-4767 (sterling_connect:direct),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4767,https://j.mp/3mutbKi
+NVD-NIST,CVE-2020-4782 (websphere_application_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4782,https://j.mp/3edvNck
+NVD-NIST,CVE-2020-7127 (airwave_glass),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7127,https://j.mp/3jIfzt5
