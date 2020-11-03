@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-11153 (apq8053_firmware, qca6390_firmware, qca9379_firmware, qcn7605_firmware, sc8180x_firmware, sdx55_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11153,https://j.mp/3jTRsI1
+NVD-NIST,"CVE-2020-11154 (apq8009_firmware, apq8053_firmware, qca6390_firmware, qcn7605_firmware, qcn7606_firmware, sa415m_firmware, sa515m_firmware, sa6155p_firmware, sa8155p_firmware, sc8180x_firmware, sdx55_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11154,https://j.mp/35YPAJ3
+NVD-NIST,"CVE-2020-11156 (qca6390_firmware, qcn7605_firmware, qcs404_firmware, sa415m_firmware, sa515m_firmware, sc8180x_firmware, sdx55_firmware, sm8250_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11156,https://j.mp/2HYmykn
+NVD-NIST,"CVE-2020-11157 (apq8053_firmware, apq8076_firmware, mdm9640_firmware, mdm9650_firmware, msm8905_firmware, msm8917_firmware, msm8937_firmware, msm8940_firmware, msm8953_firmware, qca6174a_firmware, qca9886_firmware, qcm2150_firmware, qm215_firmware, sdm429_firmware, sdm439_firmware, sdm450_firmware, sdm632_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11157,https://j.mp/3kWqCjE
+NVD-NIST,CVE-2020-15277 (basercms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15277,https://j.mp/35Wh9me
+NVD-NIST,CVE-2020-16004 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16004,https://j.mp/2JyBFBX
+NVD-NIST,CVE-2020-16005 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16005,https://j.mp/3oVnzdW
+NVD-NIST,CVE-2020-16006 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16006,https://j.mp/2GnEzbk
+NVD-NIST,CVE-2020-16009 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16009,https://j.mp/387hAg9
+NVD-NIST,CVE-2020-16011 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16011,https://j.mp/2TPPa1Z
+NVD-NIST,CVE-2020-25516 (enterprise_integrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25516,https://j.mp/34SDrWx
+NVD-NIST,CVE-2020-25646 (community.crypto),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25646,https://j.mp/34VhRAV
+NVD-NIST,CVE-2020-26205 (sal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26205,https://j.mp/2HRPlaN
+NVD-NIST,"CVE-2020-27652 (diskstation_manager, skynas_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27652,https://j.mp/2I0PdFC
+NVD-NIST,"CVE-2020-27653 (diskstation_manager, router_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27653,https://j.mp/3jWBtZH
+NVD-NIST,CVE-2020-27657 (router_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27657,https://j.mp/3jVmKOs
+NVD-NIST,CVE-2020-27885 (api_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27885,https://j.mp/363vzAT
+NVD-NIST,CVE-2020-7759 (pimcore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7759,https://j.mp/34QPN1v
