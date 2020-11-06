@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hmm-x8q8-w5jh] LDAP authentication bypass with empty password,https://github.com/advisories/GHSA-5hmm-x8q8-w5jh,https://j.mp/2JKhDo7
