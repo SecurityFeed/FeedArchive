@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] BlogEngine 3.3.8 - 'Content' Stored XSS,https://www.exploit-db.com/exploits/48999,https://j.mp/3p1SzJs
+ExploitDB,[webapps] Sentrifugo Version 3.2 - 'announcements' Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/48998,https://j.mp/2U5z2cB
+ExploitDB,[webapps] Sentrifugo 3.2 - 'assets' Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/48997,https://j.mp/3pan00f
+ExploitDB,[webapps] CMSUno 1.6.2 - 'lang' Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/48996,https://j.mp/38e8QoE
+ExploitDB,[webapps] SmartBlog 2.0.1 - 'id_post' Blind SQL injection,https://www.exploit-db.com/exploits/48995,https://j.mp/32kNzpt
