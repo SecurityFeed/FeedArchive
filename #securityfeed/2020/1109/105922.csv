@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Joplin 1.2.6 - 'link' Cross Site Scripting,https://www.exploit-db.com/exploits/49024,https://j.mp/2Ihm0GI
+ExploitDB,[local] Privacy Drive v3.17.0 - 'pdsvc.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49023,https://j.mp/2GIbR5b
+ExploitDB,[local] DiskBoss v11.7.28 - Multiple Services Unquoted Service Path,https://www.exploit-db.com/exploits/49022,https://j.mp/38rIgsq
