@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ExploitDB,[local] RealTimes Desktop Service 18.1.4 - 'rpdsvc.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49021,https://j.mp/32qTpFL
+ExploitDB,[local] Deep Instinct Windows Agent 1.2.24.0 - 'DeepNetworkService' Unquoted Service Path,https://www.exploit-db.com/exploits/49020,https://j.mp/3eDZsvy
+ExploitDB,[local] Canon Inkjet Extended Survey Program 5.1.0.8 - 'IJPLMSVC.EXE' - Unquoted Service Path,https://www.exploit-db.com/exploits/49019,https://j.mp/2IgzTEP
+ExploitDB,[local] iDeskService 3.0.2.1 - 'iDeskService' Unquoted Service Path,https://www.exploit-db.com/exploits/49018,https://j.mp/2IgzToj
+ExploitDB,[local] Magic Mouse 2 utilities 2.20 - 'magicmouse2service' Unquoted Service Path,https://www.exploit-db.com/exploits/49017,https://j.mp/3lcYRU1
+ExploitDB,[local] MEMU PLAY 3.7.0 - 'MEmusvc' Unquoted Service Path,https://www.exploit-db.com/exploits/49016,https://j.mp/3leaQkv
+ExploitDB,[local] Realtek Andrea RT Filters 1.0.64.10 - 'AERTSr64.EXE' Unquoted Service Path,https://www.exploit-db.com/exploits/49014,https://j.mp/38qOUz6
+ExploitDB,[local] Motorola Device Manager 2.5.4 - 'ForwardDaemon.exe ' Unquoted Service Path,https://www.exploit-db.com/exploits/49013,https://j.mp/2JPqdlA
+ExploitDB,[local] Motorola Device Manager 2.5.4 - 'MotoHelperService.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49012,https://j.mp/3n3ozek
+ExploitDB,[local] Motorola Device Manager 2.4.5 - 'ForwardDaemon.exe ' Unquoted Service Path,https://www.exploit-db.com/exploits/49011,https://j.mp/2U8mRvQ
+ExploitDB,[local] HP WMI Service 1.4.8.0 - 'HPWMISVC.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49010,https://j.mp/2Inj9f1
