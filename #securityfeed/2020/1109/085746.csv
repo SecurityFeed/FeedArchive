@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Syncplify.me Server! 5.0.37 - 'SMWebRestServicev5' Unquoted Service Path,https://www.exploit-db.com/exploits/49009,https://j.mp/3lhC89y
+ExploitDB,[local] DigitalPersona 4.5.0.2213 - 'DpHostW' Unquoted Service Path,https://www.exploit-db.com/exploits/49008,https://j.mp/3eGwnjp
+ExploitDB,[local] Genexus Protection Server 9.6.4.2 - 'protsrvservice' Unquoted Service Path,https://www.exploit-db.com/exploits/49007,https://j.mp/32oSllK
+ExploitDB,[local] IPTInstaller 4.0.9 - 'PassThru Service' Unquoted Service Path,https://www.exploit-db.com/exploits/49006,https://j.mp/2GHMvo1
+ExploitDB,[local] OKI sPSV Port Manager 1.0.41 - 'sPSVOpLclSrv' Unquoted Service Path,https://www.exploit-db.com/exploits/49005,https://j.mp/3pcnCCb
+ExploitDB,[local] Winstep 18.06.0096 - 'Xtreme Service' Unquoted Service Path,https://www.exploit-db.com/exploits/49004,https://j.mp/38wUDTI
+ExploitDB,[local] KMSpico 17.1.0.0 - 'Service KMSELDI' Unquoted Service Path,https://www.exploit-db.com/exploits/49003,https://j.mp/2JPX1Lf
+ExploitDB,[local] HP Display Assistant x64 Edition 3.20 - 'DTSRVC' Unquoted Service Path,https://www.exploit-db.com/exploits/49002,https://j.mp/38sVyEO
+ExploitDB,[webapps] SuiteCRM 7.11.15 - 'last_name' Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/49001,https://j.mp/2I9v68I
+ExploitDB,[webapps] Genexis Platinum-4410 P4410-V2-1.28 - Broken Access Control and CSRF,https://www.exploit-db.com/exploits/49000,https://j.mp/36xtuhd
