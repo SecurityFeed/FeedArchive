@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-0447 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0447,https://j.mp/2Ucjgg7
+NVD-NIST,CVE-2020-0448 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0448,https://j.mp/3kkVaKV
+NVD-NIST,CVE-2020-24849 (fruitywifi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24849,https://j.mp/2UcPB6u
+NVD-NIST,CVE-2020-25399 (imind_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25399,https://j.mp/36lcj2d
+NVD-NIST,CVE-2020-27955 (git_large_file_storage),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27955,https://j.mp/3kdbu0c
+NVD-NIST,CVE-2020-28340 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28340,https://j.mp/2Ig182V
+NVD-NIST,CVE-2020-28341 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28341,https://j.mp/36shgWQ
+NVD-NIST,CVE-2020-28342 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28342,https://j.mp/2UcPBDw
+NVD-NIST,CVE-2020-28343 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28343,https://j.mp/3lhV08w
+NVD-NIST,"CVE-2020-5939 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_advanced_web_application_firewall, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_ddos_hybrid_defender, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, big-ip_ssl_orchestrator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5939,https://j.mp/36kUIHK
