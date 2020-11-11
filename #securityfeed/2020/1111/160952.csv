@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52q8-877j-gghq] remote code execution via cache action in MoinMoin,https://github.com/advisories/GHSA-52q8-877j-gghq,https://j.mp/3pgQJo1
+GithubAdvisories,[GHSA-4q96-6xhq-ff43] malicious SVG attachment causing stored XSS vulnerability,https://github.com/advisories/GHSA-4q96-6xhq-ff43,https://j.mp/3nd2Vo3
