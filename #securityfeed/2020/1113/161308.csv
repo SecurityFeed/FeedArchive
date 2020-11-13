@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23f7-99jx-m54r] Remote code execution in dependabot-core branch names when cloning,https://github.com/advisories/GHSA-23f7-99jx-m54r,https://j.mp/3eYAkA8
+GithubAdvisories,[GHSA-6gv9-7q4g-pmvm] Persistent XSS in customer module in Shopware,https://github.com/advisories/GHSA-6gv9-7q4g-pmvm,https://j.mp/3ptKVaM
