@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrfp-j2mp-hq9c] Segfault in `tf.quantization.quantize_and_dequantize`,https://github.com/advisories/GHSA-rrfp-j2mp-hq9c,https://j.mp/3ltSZ9p
