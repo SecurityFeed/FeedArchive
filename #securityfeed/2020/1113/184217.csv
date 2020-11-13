@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrfh-fp4x-crrq] Persistent XSS in newsletter module in Shopware,https://github.com/advisories/GHSA-hrfh-fp4x-crrq,https://j.mp/38JoBEe
+GithubAdvisories,[GHSA-28fw-88hq-6jmm] Persistent XSS in shopping worlds,https://github.com/advisories/GHSA-28fw-88hq-6jmm,https://j.mp/3eZorJS
