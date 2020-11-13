@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+PacketstormSecurity,TOR Virtual Network Tunneling Tool 0.4.4.6,https://packetstormsecurity.com/files/160056/tor-0.4.4.6.tar.gz,https://j.mp/38FZgLy
+PacketstormSecurity,Botan C++ Crypto Algorithms Library 2.17.2,https://packetstormsecurity.com/files/160055/Botan-2.17.2.tar.xz,https://j.mp/3psJjy4
+PacketstormSecurity,Microsoft Windows WindowsCodecsRaw!CCanonRawImageRep::GetNamedWhiteBalances Out-Of-Bounds Read,https://packetstormsecurity.com/files/160054/GS20201113161039.tgz,https://j.mp/2UrB6My
+PacketstormSecurity,ASUS TM-AC1900 Arbitrary Command Execution,https://packetstormsecurity.com/files/160049/asustmac1900-exec.rb.txt,https://j.mp/3eYvUJo
+PacketstormSecurity,Bludit Panel Brute Forcer,https://packetstormsecurity.com/files/160048/bludit392-bypass.rb.txt,https://j.mp/3ltQi7N
+PacketstormSecurity,Citrix ADC NetScaler Local File Inclusion,https://packetstormsecurity.com/files/160047/citrixadvnetscaler-lfi.rb.txt,https://j.mp/32CP2rt
+PacketstormSecurity,HorizontCMS 1.0.0-beta Shell Upload,https://packetstormsecurity.com/files/160046/horizontcms_upload_exec.rb.txt,https://j.mp/32Dmga4
+PacketstormSecurity,ReadyTalk Avian JVM FileOutputStream.write() Integer Overflow,https://packetstormsecurity.com/files/160045/avianjvm120fos-overflow.txt,https://j.mp/3kyfoRj
+PacketstormSecurity,Anuko Time Tracker 1.19.23.5311 Missing Rate Limiting,https://packetstormsecurity.com/files/160052/anukott119235311-ratelimit.txt,https://j.mp/2UqB1IM
+PacketstormSecurity,Anuko Time Tracker 1.19.23.5311 Password Reset,https://packetstormsecurity.com/files/160051/anukott119235311-password.txt,https://j.mp/2IC4QUz
+PacketstormSecurity,SSL Pinning Bypass,https://packetstormsecurity.com/files/160050/sslpinning-bypss.pdf,https://j.mp/3eUT839
