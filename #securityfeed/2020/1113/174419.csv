@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q76j-58cx-wp5v] Vulnerability in RPKI manifest validation,https://github.com/advisories/GHSA-q76j-58cx-wp5v,https://j.mp/3pu5Ydi
+GithubAdvisories,[GHSA-xwhf-g6j5-j5gc] Float cast overflow undefined behavior,https://github.com/advisories/GHSA-xwhf-g6j5-j5gc,https://j.mp/3nnVFpy
+GithubAdvisories,[GHSA-m2jr-hmc3-qmpr] Authorization bypass in Spree,https://github.com/advisories/GHSA-m2jr-hmc3-qmpr,https://j.mp/35q9QEh
