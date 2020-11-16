@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-17060 (sharepoint_enterprise_server, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17060,https://j.mp/32NhKpK
+NVD-NIST,"CVE-2020-17061 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17061,https://j.mp/2UuqpZD
+NVD-NIST,"CVE-2020-17062 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17062,https://j.mp/3ky04o5
+NVD-NIST,"CVE-2020-17063 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17063,https://j.mp/3lC9jVF
+NVD-NIST,"CVE-2020-17064 (365_apps, excel, office, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17064,https://j.mp/3nywGzZ
+NVD-NIST,"CVE-2020-17065 (365_apps, excel, office, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17065,https://j.mp/2IFtZxo
+NVD-NIST,CVE-2020-17066 (excel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17066,https://j.mp/2IAtqFs
+NVD-NIST,"CVE-2020-17069 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17069,https://j.mp/35DE9rn
+NVD-NIST,"CVE-2020-17070 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17070,https://j.mp/32OGSwj
+NVD-NIST,"CVE-2020-17071 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17071,https://j.mp/35BCnqv
+NVD-NIST,"CVE-2020-17073 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17073,https://j.mp/3nB3c4x
+NVD-NIST,"CVE-2020-17087 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17087,https://j.mp/35BCmTt
