@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,nfstream 6.2.3,https://packetstormsecurity.com/files/160094/nfstream-6.2.3.tar.gz,https://j.mp/32Pb8Hm
+PacketstormSecurity,Gentoo Linux Security Advisory 202011-18,https://packetstormsecurity.com/files/160093/glsa-202011-18.txt,https://j.mp/2UDTaTr
+PacketstormSecurity,SugarCRM 6.5.18 Cross Site Scripting,https://packetstormsecurity.com/files/160092/VL-2249.txt,https://j.mp/3psLCRM
+PacketstormSecurity,Red Hat Security Advisory 2020-5112-01,https://packetstormsecurity.com/files/160091/RHSA-2020-5112-01.txt,https://j.mp/2UxvGj0
+PacketstormSecurity,Intel NUC Local Privilege Escalation,https://packetstormsecurity.com/files/160090/VL-2267.txt,https://j.mp/3lDxqDl
+PacketstormSecurity,Red Hat Security Advisory 2020-5110-01,https://packetstormsecurity.com/files/160089/RHSA-2020-5110-01.txt,https://j.mp/2IMxxh2
+PacketstormSecurity,WordPress Buddypress 6.2.0 Cross Site Scripting,https://packetstormsecurity.com/files/160088/VL-2263.txt,https://j.mp/2UDTb9X
+PacketstormSecurity,Red Hat Security Advisory 2020-5111-01,https://packetstormsecurity.com/files/160087/RHSA-2020-5111-01.txt,https://j.mp/3f4YlVV
+PacketstormSecurity,Froxlor 0.10.16 Cross Site Scripting,https://packetstormsecurity.com/files/160086/VL-2241.txt,https://j.mp/3lDxBP1
+PacketstormSecurity,AIX 5.3L /usr/sbin/lquerypv Local Root Privilege Escalation,https://packetstormsecurity.com/files/160085/aix53l-lquerypv.c,https://j.mp/3no25F0
+PacketstormSecurity,Machosec 1.0,https://packetstormsecurity.com/files/160084/machosec-v1.0.zip,https://j.mp/3pxOT2n
+PacketstormSecurity,Kaa IoT Platform 1.2.0 Cross Site Scripting,https://packetstormsecurity.com/files/160082/kaaiotplatform120-xss.txt,https://j.mp/3f4YeJZ
+PacketstormSecurity,Gentoo Linux Security Advisory 202011-17,https://packetstormsecurity.com/files/160081/glsa-202011-17.txt,https://j.mp/35z6VJp
+PacketstormSecurity,Fuel CMS 1.4 Remote Code Execution,https://packetstormsecurity.com/files/160080/fuelcms14-exec.txt,https://j.mp/38Po6bF
+PacketstormSecurity,SugarCRM 6.5.18 Cross Site Scripting,https://packetstormsecurity.com/files/160079/VL-2257.txt,https://j.mp/3pJUN0u
+PacketstormSecurity,SIGE 3.4.1 / 3.5.3 Pro Cross Site Scripting / Remote File Inclusion,https://packetstormsecurity.com/files/160078/VL-2265.txt,https://j.mp/32RPj9Z
+PacketstormSecurity,MailDepot 2033 2.3.3022 Cross Site Scripting,https://packetstormsecurity.com/files/160077/SYSS-2020-037.txt,https://j.mp/2HcsDd6
+PacketstormSecurity,Gentoo Linux Security Advisory 202011-16,https://packetstormsecurity.com/files/160076/glsa-202011-16.txt,https://j.mp/38O1ngj
+PacketstormSecurity,Cisco 7937G Denial Of Service / Privilege Escalation,https://packetstormsecurity.com/files/160075/cisco7937g-dosescalate.txt,https://j.mp/3fcoBOs
+PacketstormSecurity,Car Rental Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/160074/crms10-shell.txt,https://j.mp/38Pocjx
+PacketstormSecurity,RED-V Super Digital Signage System RXV-A740R Log Information Disclosure,https://packetstormsecurity.com/files/160073/ZSL-2020-5609.txt,https://j.mp/3kBaenY
+PacketstormSecurity,PMB 5.6 Local File Disclosure / Directory Traversal,https://packetstormsecurity.com/files/160072/pmb56-filedisclose.txt,https://j.mp/35yeO1V
+PacketstormSecurity,Car Rental Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160071/crms10-sql.txt,https://j.mp/2IKeowP
+PacketstormSecurity,Super Store Finder 3.3 Cross Site Scripting,https://packetstormsecurity.com/files/160067/superstorefinder33-xss.txt,https://j.mp/2HaNvBs
+PacketstormSecurity,Gentoo Linux Security Advisory 202011-15,https://packetstormsecurity.com/files/160066/glsa-202011-15.txt,https://j.mp/3lDxqTR
