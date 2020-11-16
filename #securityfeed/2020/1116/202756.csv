@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mw36-7c6c-q4q2] XStream can be used for Remote Code Execution,https://github.com/advisories/GHSA-mw36-7c6c-q4q2,https://j.mp/36EZcsF
