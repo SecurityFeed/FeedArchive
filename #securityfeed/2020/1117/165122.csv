@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GNU Privacy Guard 2.2.24,https://packetstormsecurity.com/files/160111/gnupg-2.2.24.tar.bz2,https://j.mp/3pFh5Af
+PacketstormSecurity,Apache Struts 2.5.20 Double OGNL Evaluation,https://packetstormsecurity.com/files/160108/apachestruts2520-eval.txt,https://j.mp/3f97EEo
+PacketstormSecurity,Grocy Household Management Solution 2.7.1 Cross Site Scripting,https://packetstormsecurity.com/files/160107/grocyhms271-xss.txt,https://j.mp/3lGHpb1
+PacketstormSecurity,Aerospike Database 5.1.0.3 Remote Command Execution,https://packetstormsecurity.com/files/160106/aerospikedb5103-exec.txt,https://j.mp/3kEEIp1
+PacketstormSecurity,Red Hat Security Advisory 2020-5102-01,https://packetstormsecurity.com/files/160105/RHSA-2020-5102-01.txt,https://j.mp/2H81Le2
+PacketstormSecurity,EgavilanMedia User Registration And Login System With Admin Panel SQL Injection,https://packetstormsecurity.com/files/160102/egavilanmediaurls-sql.txt,https://j.mp/2HdYJoO
+PacketstormSecurity,Social Networking Site SQL Injection,https://packetstormsecurity.com/files/160101/socialnetworkingsite-sql.txt,https://j.mp/3kEnE2y
+PacketstormSecurity,Medical Center Portal Management System SQL Injection,https://packetstormsecurity.com/files/160100/mcpms-sql.txt,https://j.mp/2UEayYc
+PacketstormSecurity,Online News Portal Local File Inclusion,https://packetstormsecurity.com/files/160099/onp-lfi.txt,https://j.mp/2Ux3vki
+PacketstormSecurity,AIX 5.3L libc Buffer Overflow,https://packetstormsecurity.com/files/160098/aix53l-libc.c,https://j.mp/2H81Luy
+PacketstormSecurity,Online Doctor Appointment Booking System PHP And MySQL 1.0 SQL Injection,https://packetstormsecurity.com/files/160097/odabspm10-sql.txt,https://j.mp/2IIclZV
+PacketstormSecurity,Huawei LCD_Service 1.0.1.0 Unquoted Service Path,https://packetstormsecurity.com/files/160104/lcdservice1010-unquotedpath.txt,https://j.mp/3kG8yJR
+PacketstormSecurity,NTLM Relaying And LLMNR Poisoning,https://packetstormsecurity.com/files/160103/ntlm-relaying-poisoning.pdf,https://j.mp/3kGohs8
