@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Apache Struts 2.5.20 - Double OGNL evaluation,https://www.exploit-db.com/exploits/49068,https://j.mp/3kFndF9
+ExploitDB,[remote] Aerospike Database 5.1.0.3 - OS Command Execution,https://www.exploit-db.com/exploits/49067,https://j.mp/3lFC9En
+ExploitDB,[local] LCD_Service 1.0.1.0 - 'LCD_Service' Unquote Service Path,https://www.exploit-db.com/exploits/49066,https://j.mp/32RDSit
