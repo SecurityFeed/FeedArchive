@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2j6-p67h-q639] Secret disclosure when containing characters that become URI encoded,https://github.com/advisories/GHSA-r2j6-p67h-q639,https://j.mp/2IHgTjA
+GithubAdvisories,[GHSA-c7vm-f5p4-8fqh] Open redirect in Jupyter Notebook,https://github.com/advisories/GHSA-c7vm-f5p4-8fqh,https://j.mp/3kGjJ57
+GithubAdvisories,[GHSA-hpjm-3ww5-6cpf] Cross-Site Scripting through Fluid view helper arguments,https://github.com/advisories/GHSA-hpjm-3ww5-6cpf,https://j.mp/2IS5BbD
