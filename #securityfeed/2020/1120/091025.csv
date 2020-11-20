@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[local] IBM Tivoli Storage Manager Command Line Administrative Interface 5.2.0.1 - id' Field Stack Based Buffer Overflow,https://www.exploit-db.com/exploits/49086,https://j.mp/3pLRmGE
+ExploitDB,[webapps] WonderCMS 3.1.3 - 'content' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/49085,https://j.mp/2IRd0bx
+ExploitDB,[local] Zortam Mp3 Media Studio 27.60 - Remote Code Execution (SEH),https://www.exploit-db.com/exploits/49084,https://j.mp/3m0GYIs
