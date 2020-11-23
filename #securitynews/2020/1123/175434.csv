@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,"SSRFs caused by bad RegEx in server-side npm package ""private-ip"" - 4 year old 0day - 12,000+ weekly installs - CVE-2020-28360: IP Phone Home",https://redd.it/jzmk6f,
+r/NetSec,"PYSA/Mespinoza Ransomware - Over the course of 8 hours the PYSA/Mespinoza threat actors used Empire and Koadic as well as RDP to move laterally throughout the environment, grabbing credentials from as many systems as possible on the way to their objective",https://redd.it/jzm4ff,
