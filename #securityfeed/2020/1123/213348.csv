@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9cp-mc96-m4w2] XML External Entity in Dashboard Widget,https://github.com/advisories/GHSA-q9cp-mc96-m4w2,https://j.mp/398J7OQ
+GithubAdvisories,[GHSA-954j-f27r-cj52] Cleartext storage of session identifier,https://github.com/advisories/GHSA-954j-f27r-cj52,https://j.mp/3m07AcH
