@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] LifeRay 7.2.1 GA2 - Stored XSS,https://www.exploit-db.com/exploits/49091,https://j.mp/3nIZLbK
+ExploitDB,[webapps] VTiger v7.0 CRM - 'To' Persistent XSS,https://www.exploit-db.com/exploits/49090,https://j.mp/35XjqPs
+ExploitDB,[local] Boxoft Audio Converter 2.3.0 - '.wav' Buffer Overflow (SEH),https://www.exploit-db.com/exploits/49089,https://j.mp/3pSnbgJ
