@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-94vp-rmqv-5875] Twig Sandbox Escape by authenticated users with access to editing CMS templates when safemode is enabled,https://github.com/advisories/GHSA-94vp-rmqv-5875,https://j.mp/3l0nbI1
+GithubAdvisories,[GHSA-xwjr-6fj7-fc6h] Local File Inclusion by unauthenticated users,https://github.com/advisories/GHSA-xwjr-6fj7-fc6h,https://j.mp/3kUazCl
+GithubAdvisories,[GHSA-fx3v-553x-3c4q] Stored XSS by authenticated backend user with access to upload files,https://github.com/advisories/GHSA-fx3v-553x-3c4q,https://j.mp/2UVH48o
+GithubAdvisories,"[GHSA-rfjc-xrmf-5vvw] Privilege escalation by backend users assigned to the default ""Publisher"" system role",https://github.com/advisories/GHSA-rfjc-xrmf-5vvw,https://j.mp/370BmrI
