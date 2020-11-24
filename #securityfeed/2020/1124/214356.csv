@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-mjcr-rqjg-rhg3] Implementation trusts the ""me"" field returned by the authorization server without verifying it",https://github.com/advisories/GHSA-mjcr-rqjg-rhg3,https://j.mp/3621naB
+GithubAdvisories,[GHSA-grfj-wjv9-4f9v] Open redirect in Jupyter Server,https://github.com/advisories/GHSA-grfj-wjv9-4f9v,https://j.mp/3ftXvCx
