@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74hv-qjjq-h7g5] datasette-graphql leaks details of the schema of private database files,https://github.com/advisories/GHSA-74hv-qjjq-h7g5,https://j.mp/2JbHu7X
+GithubAdvisories,[GHSA-4mp3-385r-v63f] Denial of service attack due to invalid JSON,https://github.com/advisories/GHSA-4mp3-385r-v63f,https://j.mp/39duoCo
+GithubAdvisories,[GHSA-vfrc-7r7c-w9mx] Prototype Pollution in highlight.js,https://github.com/advisories/GHSA-vfrc-7r7c-w9mx,https://j.mp/2JamL4s
