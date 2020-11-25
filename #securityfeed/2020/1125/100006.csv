@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] osCommerce 2.3.4.1 - 'title' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/49103,https://j.mp/39aSygR
+ExploitDB,[webapps] WonderCMS 3.1.3 - 'page' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/49102,https://j.mp/3fug3CE
+ExploitDB,[local] Wondershare Driver Install Service help 10.7.1.321 - 'ElevationService' Unquote Service Path,https://www.exploit-db.com/exploits/49101,https://j.mp/33iojk6
