@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gvqv-779r-4jgp] Use after free in CefSharp,https://github.com/advisories/GHSA-gvqv-779r-4jgp,https://j.mp/3leucF9
+GithubAdvisories,[GHSA-x7fx-mcc9-27j7] Inappropriate implementation in V8 in CefSharp,https://github.com/advisories/GHSA-x7fx-mcc9-27j7,https://j.mp/3o29YjL
