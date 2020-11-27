@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Foxit Reader 9.0.1.1049 - Arbitrary Code Execution,https://www.exploit-db.com/exploits/49116,https://j.mp/2V573KD
+ExploitDB,[webapps] Wordpress Theme Accesspress Social Icons 1.7.9 - SQL injection (Authenticated),https://www.exploit-db.com/exploits/49115,https://j.mp/367Z1qN
+ExploitDB,[webapps] Moodle 3.8 - Unrestricted File Upload,https://www.exploit-db.com/exploits/49114,https://j.mp/36bjUkT
+ExploitDB,[webapps] Acronis Cyber Backup 12.5 Build 16341 - Unauthenticated SSRF,https://www.exploit-db.com/exploits/49113,https://j.mp/3l9pyrV
+ExploitDB,[webapps] FrozenNode Laravel-Administrator 4 - Unrestricted File Upload (Authenticated),https://www.exploit-db.com/exploits/49112,https://j.mp/3o1QQlW
