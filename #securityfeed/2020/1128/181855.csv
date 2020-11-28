@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Apache NiFi API Remote Code Execution,https://packetstormsecurity.com/files/160260/apache_nifi_processor_rce.rb.txt,https://j.mp/2HLdyiM
+PacketstormSecurity,nfstream 6.2.5,https://packetstormsecurity.com/files/160259/nfstream-6.2.5.tar.gz,https://j.mp/36e8kFO
+PacketstormSecurity,Weaponize GhostWriting Injection - Code Injection Series Part 5,https://packetstormsecurity.com/files/160252/code_injection_series_part5.pdf,https://j.mp/3o4HtBZ
+PacketstormSecurity,Disable Dynamic Code Mitigation (ACG) - Code Injection Series Part 4,https://packetstormsecurity.com/files/160251/code_injection_series_part4.pdf,https://j.mp/2Jhxevt
+PacketstormSecurity,Exploit WNF Callback - Code Injection Series Part 3,https://packetstormsecurity.com/files/160250/code_injection_series_part3.pdf,https://j.mp/3lj29V0
+PacketstormSecurity,Bypass Start Address Protection - Code Injection Series Part 2,https://packetstormsecurity.com/files/160249/code_injection_series_part2.pdf,https://j.mp/2HMPegD
+PacketstormSecurity,Process PE Injection Basics - Code Injection Series Part 1,https://packetstormsecurity.com/files/160248/code_injection_series_part1.pdf,https://j.mp/2KSavGZ
+PacketstormSecurity,Heroic Knowledge Base 3.0.1 Cross Site Scripting,https://packetstormsecurity.com/files/160256/heroickb301-xss.txt,https://j.mp/36eAS1O
+PacketstormSecurity,Ruckus IoT Controller 1.5.1.0.21 Remote Code Execution,https://packetstormsecurity.com/files/160229/ruckusiotcontroller151021-exec.txt,https://j.mp/3q6iO1Q
+PacketstormSecurity,Best Support System 3.0.4 Cross Site Scripting,https://packetstormsecurity.com/files/160247/bestsupportsystem304-xss.txt,https://j.mp/36eqB5F
+PacketstormSecurity,ZTE Blade Vantage Z839 Emode.APK android.uid.system Privilege Escalation,https://packetstormsecurity.com/files/160231/ztebladevantagez839-escalate.txt,https://j.mp/3fLn3uV
+PacketstormSecurity,WordPress Accesspress Social Icons Theme 1.7.9 SQL Injection,https://packetstormsecurity.com/files/160235/wpaccesspresssi179-sql.txt,https://j.mp/3lgqaMF
+PacketstormSecurity,WonderCMS 3.1.3 Cross Site Scripting,https://packetstormsecurity.com/files/160228/wondercmsuf313-xss.txt,https://j.mp/36dAsZF
+PacketstormSecurity,Polymorph 2.0: Advanced Manipulation Of Network Traffic In Real Time,https://packetstormsecurity.com/files/160234/polymorph-manipulate.pdf,https://j.mp/3fRWaFS
+PacketstormSecurity,WordPress Wibar Theme 1.1.8 Cross Site Scripting,https://packetstormsecurity.com/files/160226/wpwibar118-xss.txt,https://j.mp/2HKP0X9
+PacketstormSecurity,WordPress Age Gate 2.13.4 Open Redirect,https://packetstormsecurity.com/files/160236/wpagegate2134-redirect.txt,https://j.mp/37flrG6
+PacketstormSecurity,Moodle 3.8 Arbitary File Upload,https://packetstormsecurity.com/files/160253/moodle38-upload.txt,https://j.mp/2JqbH3f
+PacketstormSecurity,Laravel Administrator 4 File Upload,https://packetstormsecurity.com/files/160243/laraveladmin4-upload.txt,https://j.mp/3o5z5lI
+PacketstormSecurity,Artificial Intelligence For Cybersecurity,https://packetstormsecurity.com/files/160233/ai-for-cybersecurity.pdf,https://j.mp/3fJQfCA
+PacketstormSecurity,SAP Lumira 1.31 Cross Site Scripting,https://packetstormsecurity.com/files/160227/saplumira131-xss.txt,https://j.mp/37kGruS
+PacketstormSecurity,ElkarBackup 1.3.3 Cross Site Scripting,https://packetstormsecurity.com/files/160254/elkarbackup133policy-xss.txt,https://j.mp/36hLUU5
+PacketstormSecurity,Fujitsu Eternus Storage DX200 S4 Broken Authentication,https://packetstormsecurity.com/files/160255/fujitsueternus-brokenauth.txt,https://j.mp/3llu0E1
