@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-14190 (crucible, fisheye)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14190,https://j.mp/3lvkvTa
+NVD-NIST,"CVE-2020-14191 (crucible, fisheye)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14191,https://j.mp/3fRPnf7
+NVD-NIST,CVE-2020-27251 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27251,https://j.mp/3loHwHc
+NVD-NIST,CVE-2020-27253 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27253,https://j.mp/2Jw2BSE
+NVD-NIST,CVE-2020-27255 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27255,https://j.mp/3mql5Td
+NVD-NIST,CVE-2020-29074 (x11vnc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29074,https://j.mp/2ViqsI6
+NVD-NIST,CVE-2020-4624 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4624,https://j.mp/36o6Bh5
+NVD-NIST,CVE-2020-4625 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4625,https://j.mp/3ls0blk
+NVD-NIST,CVE-2020-4626 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4626,https://j.mp/2JzgTSQ
+NVD-NIST,CVE-2020-4627 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4627,https://j.mp/3mqU8ib
+NVD-NIST,CVE-2020-4696 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4696,https://j.mp/36stYq5
