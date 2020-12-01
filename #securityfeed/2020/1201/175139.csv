@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Intel(r) Management and Security Application 5.2 - User Notification Service Unquoted Service Path,https://www.exploit-db.com/exploits/49144,https://j.mp/36rKZR7
+ExploitDB,[local] Pearson Vue VTS 2.3.1911 Installer - VUEApplicationWrapper Unquoted Service Path,https://www.exploit-db.com/exploits/49143,https://j.mp/2I0L3hi
+ExploitDB,[local] Global Registration Service 1.0.0.3 - 'GREGsvc.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49142,https://j.mp/3fSyFwk
+ExploitDB,[local] EPSON Status Monitor 3 'EPSON_PM_RPCV4_06' - Unquoted Service Path,https://www.exploit-db.com/exploits/49141,https://j.mp/3mwvooM
+ExploitDB,[webapps] Social Networking Site - Authentication Bypass (SQli),https://www.exploit-db.com/exploits/49140,https://j.mp/3oeiPPo
+ExploitDB,[webapps] Pandora FMS 7.0 NG 749 - Multiple Persistent Cross-Site Scripting Vulnerabilities # Date: 11-14-2020,https://www.exploit-db.com/exploits/49139,https://j.mp/36tbW6I
+ExploitDB,[webapps] Medical Center Portal Management System 1.0 - 'login' SQL Injection,https://www.exploit-db.com/exploits/49138,https://j.mp/3muyjOK
+ExploitDB,[webapps] LEPTON CMS 4.7.0 - 'URL' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/49137,https://j.mp/33yg0Rg
+ExploitDB,[webapps] Tailor Management System 1.0 - Unrestricted File Upload to Remote Code Execution,https://www.exploit-db.com/exploits/49136,https://j.mp/39uVHrN
+ExploitDB,[webapps] Multi Restaurant Table Reservation System 1.0 - Multiple Persistent XSS,https://www.exploit-db.com/exploits/49135,https://j.mp/37mLUl7
+ExploitDB,[local] 10-Strike Network Inventory Explorer 8.65 - Buffer Overflow (SEH),https://www.exploit-db.com/exploits/49134,https://j.mp/3odKtMB
+ExploitDB,[webapps] Setelsa Conacwin 3.7.1.2 - Local File Inclusion,https://www.exploit-db.com/exploits/49133,https://j.mp/2I1uh1A
