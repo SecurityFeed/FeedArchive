@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27659 (safeaccess),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27659,https://j.mp/39xstZt
+NVD-NIST,CVE-2020-27660 (safeaccess),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27660,https://j.mp/3lskC1M
+NVD-NIST,CVE-2020-29364 (news_lister),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29364,https://j.mp/39Aykx4
+NVD-NIST,CVE-2020-29395 (eventon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29395,https://j.mp/36sfCWE
