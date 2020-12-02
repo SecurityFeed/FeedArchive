@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7mf-48hp-5qmr] Inappropriate implementation in V8,https://github.com/advisories/GHSA-m7mf-48hp-5qmr,https://j.mp/3lEh64w
+GithubAdvisories,[GHSA-f5gc-p5m3-v347] XXE in petl,https://github.com/advisories/GHSA-f5gc-p5m3-v347,https://j.mp/2VqCKOX
+GithubAdvisories,[GHSA-86wm-rrjm-8wh8] Buffer not correctly recycled in Gzip Request inflation,https://github.com/advisories/GHSA-86wm-rrjm-8wh8,https://j.mp/3fZ9b08
+GithubAdvisories,[GHSA-47qg-q58v-7vrp] UNEDITABLE_SCHEMAS and UNEDITABLE_TABLE_DESCRIPTION_MATCH_RULES not respected by frontend service backend,https://github.com/advisories/GHSA-47qg-q58v-7vrp,https://j.mp/39DZL9g
