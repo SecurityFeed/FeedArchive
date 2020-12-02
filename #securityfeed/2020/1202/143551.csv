@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Microsoft Windows - Win32k Elevation of Privilege,https://www.exploit-db.com/exploits/49179,https://j.mp/3mvG4nT
+ExploitDB,[webapps] WordPress Plugin Wp-FileManager 6.8 - RCE,https://www.exploit-db.com/exploits/49178,https://j.mp/2Vpu5vV
+ExploitDB,[webapps] Car Rental Management System 1.0 - SQL Injection / Local File include,https://www.exploit-db.com/exploits/49177,https://j.mp/37rvh7Q
+ExploitDB,[remote] Mitel mitel-cs018 - Call Data Information Disclosure,https://www.exploit-db.com/exploits/49176,https://j.mp/3gbzPmV
