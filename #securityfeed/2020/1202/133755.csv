@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Simple College Website 1.0 - 'page' Local File Inclusion,https://www.exploit-db.com/exploits/49175,https://j.mp/3fXkqGF
+ExploitDB,[webapps] Anuko Time Tracker 1.19.23.5311 - Password Reset leading to Account Takeover,https://www.exploit-db.com/exploits/49174,https://j.mp/3lwrxHh
+ExploitDB,[webapps] Anuko Time Tracker 1.19.23.5311 - No rate Limit on Password Reset functionality,https://www.exploit-db.com/exploits/49173,https://j.mp/37tCLas
+ExploitDB,[webapps] ChurchCRM 4.2.1 - Persistent Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/49172,https://j.mp/2JzRUyA
+ExploitDB,[webapps] ChurchCRM 4.2.0 - CSV/Formula Injection,https://www.exploit-db.com/exploits/49171,https://j.mp/3g1Amr6
+ExploitDB,[webapps] WebDamn User Registration & Login System with User Panel - SQLi Auth Bypass,https://www.exploit-db.com/exploits/49170,https://j.mp/2JDccXQ
+ExploitDB,[remote] Ksix Zigbee Devices - Playback Protection Bypass (PoC),https://www.exploit-db.com/exploits/49169,https://j.mp/3qeDIfc
+ExploitDB,[webapps] DotCMS 20.11 - Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/49168,https://j.mp/3mv5QII
