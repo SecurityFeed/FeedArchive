@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-25624 (qemu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25624,https://j.mp/3mG8A67
+NVD-NIST,CVE-2020-28938 (openclinic),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28938,https://j.mp/33H7fV7
+NVD-NIST,CVE-2020-29127 (eternus_storage_dx200_s4_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29127,https://j.mp/3qsMTZt
+NVD-NIST,CVE-2020-29390 (zeroshell),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29390,https://j.mp/3mG8IT9
