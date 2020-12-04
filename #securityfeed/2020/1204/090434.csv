@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Savsoft Quiz 5 - 'field_title' Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/49196,https://j.mp/2JJ1H5E
+ExploitDB,[local] Chromium 83 - Full CSP Bypass,https://www.exploit-db.com/exploits/49195,https://j.mp/36CeCPM
+ExploitDB,[webapps] Testa Online Test Management System 3.4.7 - 'q' SQL Injection,https://www.exploit-db.com/exploits/49194,https://j.mp/2VDbf4A
+ExploitDB,[webapps] MiniCMS 1.10 - 'content box' Stored XSS,https://www.exploit-db.com/exploits/49193,https://j.mp/33KWRf4
+ExploitDB,[webapps] Phpscript-sgh 0.1.0 - Time Based Blind SQL Injection,https://www.exploit-db.com/exploits/49192,https://j.mp/3g8BuJA
+ExploitDB,[local] IDT PC Audio 1.0.6499.0 - 'STacSV' Unquoted Service Path,https://www.exploit-db.com/exploits/49191,https://j.mp/3oloVxA
+ExploitDB,[webapps] Composr CMS 10.0.34 - 'banners' Persistent Cross Site Scripting,https://www.exploit-db.com/exploits/49190,https://j.mp/37xfrZf
+ExploitDB,[webapps] Wordpress Plugin Canto 1.3.0 - Blind SSRF (Unauthenticated),https://www.exploit-db.com/exploits/49189,https://j.mp/2JJq2YT
