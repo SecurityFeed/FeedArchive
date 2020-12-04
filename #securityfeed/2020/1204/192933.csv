@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-11867 (audacity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11867,https://j.mp/2JSWRms
+NVD-NIST,"CVE-2020-16849 (ir2202n_firmware, ir2204f_firmware, ir2204n_firmware, ir2206if_firmware, ir2206n_firmware, lbp113w_firmware, lbp151dw_firmware, lbp162dw_firmware, mf113w_firmware, mf212w_firmware, mf216n_firmware, mf217w_firmware, mf226dn_firmware, mf229dw_firmware, mf231_firmware, mf232w_firmware, mf237w_firmware, mf244dw_firmware, mf247dw_firmware, mf249dw_firmware, mf264dw_firmware, mf267dw_firmware, mf269dw_firmware, mf4570dn_firmware, mf4580dn_firmware, mf4780w_firmware, mf4870dn_firmware, mf4890dw_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16849,https://j.mp/2IcmU7q
+NVD-NIST,CVE-2020-28916 (qemu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28916,https://j.mp/2JNYqlo
+NVD-NIST,CVE-2020-28940 (my_cloud_os_5),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28940,https://j.mp/36F8EO4
+NVD-NIST,CVE-2020-28971 (my_cloud_os_5),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28971,https://j.mp/37CJbnK
+NVD-NIST,CVE-2020-29441 (outsystems),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29441,https://j.mp/2JIKaud
+NVD-NIST,CVE-2020-4127 (hcl_domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4127,https://j.mp/37DOtiz
+NVD-NIST,"CVE-2020-5423 (capi-release, cf-deployment)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5423,https://j.mp/3lORXUQ
+NVD-NIST,CVE-2020-6317 (adaptive_server_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6317,https://j.mp/3qsQTt6
+NVD-NIST,"CVE-2020-9117 (nova_4_firmware, sydneym-al00_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9117,https://j.mp/3mJYJMD
