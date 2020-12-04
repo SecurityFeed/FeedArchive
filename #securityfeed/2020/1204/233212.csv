@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2017-2910 (libxls),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-2910,https://j.mp/3quJxW4
+NVD-NIST,"CVE-2020-12524 (btp_2043w_firmware, btp_2070w_firmware, btp_2102w_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12524,https://j.mp/2VGWIVz
+NVD-NIST,CVE-2020-13956 (httpclient),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13956,https://j.mp/39MsKrw
+NVD-NIST,CVE-2020-14260 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14260,https://j.mp/3mEpOkm
+NVD-NIST,CVE-2020-14305 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14305,https://j.mp/2JMFvYc
+NVD-NIST,"CVE-2020-14318 (enterprise_linux, samba, storage)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14318,https://j.mp/3lRd09j
+NVD-NIST,CVE-2020-14369 (cloudforms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14369,https://j.mp/3onidXW
+NVD-NIST,"CVE-2020-14383 (enterprise_linux, samba)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14383,https://j.mp/3ohSsIy
+NVD-NIST,CVE-2020-23740 (drivergenius),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23740,https://j.mp/3gobOsV
+NVD-NIST,CVE-2020-23741 (anyview),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23741,https://j.mp/3qs1OmN
+NVD-NIST,CVE-2020-25638 (hibernate_orm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25638,https://j.mp/39Hvuq2
+NVD-NIST,"CVE-2020-25656 (enterprise_linux, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25656,https://j.mp/3mEpCBE
+NVD-NIST,CVE-2020-25693 (clmg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25693,https://j.mp/3lL1JqR
+NVD-NIST,"CVE-2020-27783 (enterprise_linux, lxml, software_collections)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27783,https://j.mp/3qweeKo
+NVD-NIST,"CVE-2020-27816 (kibana, openshift_container_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27816,https://j.mp/3ouvfD7
+NVD-NIST,CVE-2020-29389 (crux),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29389,https://j.mp/39Jtmhy
+NVD-NIST,CVE-2020-4102 (notes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4102,https://j.mp/3lId372
+NVD-NIST,CVE-2020-4126 (hcl_inotes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4126,https://j.mp/2JQkPOU
+NVD-NIST,CVE-2020-6018 (game_networking_sockets),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6018,https://j.mp/33IfvVa
+NVD-NIST,CVE-2020-7199 (edgeline_infrastructure_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7199,https://j.mp/3lJvE2s
+NVD-NIST,"CVE-2020-7547 (ecostruxure_energy_expert, ecostruxure_power_monitoring_expert, power_manager, powerscada_expert_with_advanced_reporting_and_dashboards, powerscada_operation_with_advanced_reporting_and_dashboards)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7547,https://j.mp/2L1vqqU
