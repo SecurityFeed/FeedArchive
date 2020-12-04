@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Suricata IDPE 6.0.1,https://packetstormsecurity.com/files/160365/suricata-6.0.1.tar.gz,https://j.mp/3gbTNOe
+PacketstormSecurity,MiniCMS 1.10 Cross Site Scripting,https://packetstormsecurity.com/files/160364/minicms110-xss.txt,https://j.mp/2Ii4YIM
+PacketstormSecurity,Encrypted Linux x86-64 Loadable Kernel Modules (ELKM),https://packetstormsecurity.com/files/160363/elkm-paper.pdf,https://j.mp/37tnhD6
+PacketstormSecurity,Zabbix 5.0.0 Cross Site Scripting,https://packetstormsecurity.com/files/160362/zabbix500-xss.txt,https://j.mp/3qsIGFo
+PacketstormSecurity,CMS Made Simple 2.2.15 Cross Site Scripting,https://packetstormsecurity.com/files/160361/cmsmadesimople2215-xss.txt,https://j.mp/39Jz0R0
+PacketstormSecurity,Laravel Nova 3.7.0 Denial Of Service,https://packetstormsecurity.com/files/160360/laravelnova370-dos.txt,https://j.mp/2VFg1P3
+PacketstormSecurity,Phpscript SGH 0.1.0 SQL Injection,https://packetstormsecurity.com/files/160359/phpscriptsgh010-sql.txt,https://j.mp/3lJoHP7
+PacketstormSecurity,WordPress Canto 1.3.0 Server-Side Request Forgery,https://packetstormsecurity.com/files/160358/wpcanto130-ssrf.txt,https://j.mp/36EikrW
+PacketstormSecurity,Composr CMS 10.0.34 Cross Site Scripting,https://packetstormsecurity.com/files/160356/composrcms10034-xss.txt,https://j.mp/3gaH4v1
+PacketstormSecurity,Forma LMS 2.3 Cross Site Scripting,https://packetstormsecurity.com/files/160355/formalms23-xss.txt,https://j.mp/3lGp9xD
+PacketstormSecurity,Savsoft Quiz 5 Cross Site Scripting,https://packetstormsecurity.com/files/160354/savsoftquiz5ft-xss.txt,https://j.mp/3g7ezP2
+PacketstormSecurity,Chromium 83 CSP Bypass,https://packetstormsecurity.com/files/160353/chromium83-bypass.txt,https://j.mp/3lHfHKf
+PacketstormSecurity,Testa Online Test Management System 3.4.7 SQL Injection,https://packetstormsecurity.com/files/160352/testaotms347-sql.txt,https://j.mp/2VEENPy
+PacketstormSecurity,Firmware Analysis And Simulation,https://packetstormsecurity.com/files/160351/firmware-analysis-and-simulation.pdf,https://j.mp/2VGurOQ
+PacketstormSecurity,IDT PC Audio 1.0.6499.0 Unquoted Service Path,https://packetstormsecurity.com/files/160357/idtpcaudio1064990-unquotedpath.txt,https://j.mp/3g8LEdk
