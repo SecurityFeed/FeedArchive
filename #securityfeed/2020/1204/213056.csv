@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-11990 (cordova),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11990,https://j.mp/3mMOWFQ
+NVD-NIST,CVE-2020-14193 (jira),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14193,https://j.mp/39IckQY
+NVD-NIST,"CVE-2020-16850 (r00cpu_firmware, r01cpu_firmware, r02cpu_firmware, r04cpu_firmware, r08cpu_firmware, r08pcpu_firmware, r08sfcpu_firmware, r120cpu_firmware, r120pcpu_firmware, r120sfcpu_firmware, r16cpu_firmware, r16mtcpu_firmware, r16pcpu_firmware, r16sfcpu_firmware, r32cpu_firmware, r32mtcpu_firmware, r32pcpu_firmware, r32sfcpu_firmware, r64mtcpu_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16850,https://j.mp/33FSdz9
+NVD-NIST,"CVE-2020-26762 (ic-3116w_firmware, ic-3140w_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26762,https://j.mp/2L0vreG
+NVD-NIST,CVE-2020-28970 (my_cloud_os_5),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28970,https://j.mp/2VGktNM
+NVD-NIST,CVE-2020-29438 (model_x_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29438,https://j.mp/3qt7qgE
+NVD-NIST,CVE-2020-29439 (model_x_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29439,https://j.mp/37uqSAQ
+NVD-NIST,CVE-2020-29440 (model_x_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29440,https://j.mp/36Fyql8
+NVD-NIST,CVE-2020-29454 (umbraco_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29454,https://j.mp/36HZzUD
+NVD-NIST,CVE-2020-4128 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4128,https://j.mp/37Abt2e
+NVD-NIST,CVE-2020-6880 (zxv10_w908_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6880,https://j.mp/3gc7jBh
+NVD-NIST,"CVE-2020-7545 (ecostruxure_energy_expert, ecostruxure_power_monitoring_expert, power_manager, powerscada_expert_with_advanced_reporting_and_dashboards, powerscada_operation_with_advanced_reporting_and_dashboards)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7545,https://j.mp/39JY7Tu
+NVD-NIST,"CVE-2020-7546 (ecostruxure_energy_expert, ecostruxure_power_monitoring_expert, power_manager, powerscada_expert_with_advanced_reporting_and_dashboards, powerscada_operation_with_advanced_reporting_and_dashboards)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7546,https://j.mp/2VKUKDz
+NVD-NIST,CVE-2020-9115 (manageone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9115,https://j.mp/2JPK57U
