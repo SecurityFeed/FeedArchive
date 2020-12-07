@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-17527 (tomcat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17527,https://j.mp/39OVMGW
+NVD-NIST,CVE-2020-2324 (cvs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2324,https://j.mp/3mU1qLV
+NVD-NIST,CVE-2020-27759 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27759,https://j.mp/2VO0nkq
+NVD-NIST,"CVE-2020-27778 (enterprise_linux, poppler)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27778,https://j.mp/3qznmhn
+NVD-NIST,CVE-2020-28175 (speedfan),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28175,https://j.mp/3lTU0Xt
+NVD-NIST,CVE-2020-29534 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29534,https://j.mp/36TnpwL
+NVD-NIST,CVE-2020-29561 (risvc-boom),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29561,https://j.mp/37GQE56
+NVD-NIST,CVE-2020-6017 (game_networking_sockets),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6017,https://j.mp/3gnwVv5
