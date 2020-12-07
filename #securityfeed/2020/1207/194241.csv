@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13542 (logicaldoc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13542,https://j.mp/3m1ScMp
+NVD-NIST,CVE-2020-2322 (chaos_monkey),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2322,https://j.mp/3mVnvJN
+NVD-NIST,CVE-2020-2323 (chaos_monkey),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2323,https://j.mp/33Oy1uL
+NVD-NIST,CVE-2020-25449 (cabot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25449,https://j.mp/37HtawS
+NVD-NIST,CVE-2020-26248 (productcomments),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26248,https://j.mp/36QwqXu
+NVD-NIST,CVE-2020-27409 (opensis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27409,https://j.mp/36QDcwc
+NVD-NIST,CVE-2020-28923 (play_framework),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28923,https://j.mp/2VM4KN0
+NVD-NIST,CVE-2020-29529 (go-slug),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29529,https://j.mp/36SNhsP
+NVD-NIST,CVE-2020-29562 (glibc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29562,https://j.mp/3mTgPvH
