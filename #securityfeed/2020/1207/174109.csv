@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13543 (webkitgtk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13543,https://j.mp/2JZOvJK
+NVD-NIST,"CVE-2020-13584 (fedora, webkitgtk)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13584,https://j.mp/2JWFmBI
+NVD-NIST,"CVE-2020-25649 (amq, build_of_quarkus, codeready_studio, descision_manager, enterprise_linux, integration_camel_k, integration_service_registry, jackson-databind, jboss_amq_streaming, jboss_data_grid, jboss_fuse, openshift_application_runtimes, openshift_container_platform, process_automation, satellite, single_sign-on, virtualization)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25649,https://j.mp/36SBzhz
+NVD-NIST,CVE-2020-27766 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27766,https://j.mp/2VOGZnv
+NVD-NIST,"CVE-2020-27771 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27771,https://j.mp/3gny6uA
+NVD-NIST,"CVE-2020-27772 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27772,https://j.mp/3lTXqcW
+NVD-NIST,"CVE-2020-27773 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27773,https://j.mp/3gpUd3M
+NVD-NIST,"CVE-2020-27774 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27774,https://j.mp/2VLU7K8
+NVD-NIST,"CVE-2020-27775 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27775,https://j.mp/2VMrnkj
+NVD-NIST,"CVE-2020-27776 (enterprise_linux, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27776,https://j.mp/33RTOBS
+NVD-NIST,CVE-2020-28251 (airmagnet_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28251,https://j.mp/2JCdcMy
+NVD-NIST,CVE-2020-28272 (keyget),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28272,https://j.mp/3qBoeSH
+NVD-NIST,CVE-2020-28273 (set-in),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28273,https://j.mp/3m1qVK1
