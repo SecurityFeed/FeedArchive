@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Facebook Messenger For Android Forced Answer,https://packetstormsecurity.com/files/160396/GS20201207145742.tgz,https://j.mp/2JWxP5J
+PacketstormSecurity,Linux io_uring SUID Boundary Access Violation,https://packetstormsecurity.com/files/160395/GS20201207145548.tgz,https://j.mp/2Itysn6
+PacketstormSecurity,Google Duo Race Condition,https://packetstormsecurity.com/files/160394/GS20201207145420.tgz,https://j.mp/3qBc5xa
+PacketstormSecurity,Apache 2 HTTP2 Module Concurrent Pool Usage,https://packetstormsecurity.com/files/160393/GS20201207144406.txt,https://j.mp/37B5gTq
+PacketstormSecurity,Apache 2.4.43 mod_http2 Memory Corruption,https://packetstormsecurity.com/files/160392/GS20201207144131.tgz,https://j.mp/3qLq9V0
+PacketstormSecurity,Red Hat Security Advisory 2020-5350-01,https://packetstormsecurity.com/files/160391/RHSA-2020-5350-01.txt,https://j.mp/36RjXTc
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-08,https://packetstormsecurity.com/files/160390/glsa-202012-08.txt,https://j.mp/2JyQBjZ
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-07,https://packetstormsecurity.com/files/160389/glsa-202012-07.txt,https://j.mp/3mShrBL
+PacketstormSecurity,ProCaster LE-32F430 GStreamer souphttpsrc libsoup/2.51.3 Stack Overflow,https://packetstormsecurity.com/files/160388/procasterle32f430-overflow.txt,https://j.mp/2JUfwhA
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-06,https://packetstormsecurity.com/files/160387/glsa-202012-06.txt,https://j.mp/3qvg2n7
+PacketstormSecurity,vBulletin 5.6.3 Cross Site Scripting,https://packetstormsecurity.com/files/160386/vbulletin563-xss.txt,https://j.mp/3owxcyR
+PacketstormSecurity,Savsoft Quiz 5 Cross Site Scripting,https://packetstormsecurity.com/files/160384/savsoftquiz5sid-xss.txt,https://j.mp/3qLqh6W
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-05,https://packetstormsecurity.com/files/160385/glsa-202012-05.txt,https://j.mp/3lSnxRt
+PacketstormSecurity,TapinRadio 2.13.7 Denial Of Service,https://packetstormsecurity.com/files/160383/tapinradio2137-dos.txt,https://j.mp/36RPUuU
+PacketstormSecurity,Red Hat Security Advisory 2020-5351-01,https://packetstormsecurity.com/files/160382/RHSA-2020-5351-01.txt,https://j.mp/3qArqOy
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-04,https://packetstormsecurity.com/files/160381/glsa-202012-04.txt,https://j.mp/36Ry2QI
+PacketstormSecurity,RarmaRadio 2.72.5 Denial Of Service,https://packetstormsecurity.com/files/160380/rarmaradio2725-dos.txt,https://j.mp/36RPLrp
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-03,https://packetstormsecurity.com/files/160379/glsa-202012-03.txt,https://j.mp/2VOXUGM
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-02,https://packetstormsecurity.com/files/160377/glsa-202012-02.txt,https://j.mp/3mO5zki
+PacketstormSecurity,Red Hat Security Advisory 2020-5352-01,https://packetstormsecurity.com/files/160376/RHSA-2020-5352-01.txt,https://j.mp/2K3a4sD
+PacketstormSecurity,Cyber Cafe Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160375/ccms10-xss.txt,https://j.mp/33Sdupd
+PacketstormSecurity,Gentoo Linux Security Advisory 202012-01,https://packetstormsecurity.com/files/160374/glsa-202012-01.txt,https://j.mp/3glRecl
+PacketstormSecurity,Kite 1.2020.1119.0 Unquoted Service Path,https://packetstormsecurity.com/files/160378/kite1202011190-unquotedpath.txt,https://j.mp/3qwAJz7
+PacketstormSecurity,Rumble Mail Server 0.51.3135 Unquoted Service Path,https://packetstormsecurity.com/files/160373/rumblems0513135-unquotedpath.txt,https://j.mp/33TE3dJ
