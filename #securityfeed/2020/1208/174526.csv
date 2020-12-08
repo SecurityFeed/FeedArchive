@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13945 (apisix),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13945,https://j.mp/36TVUTR
+NVD-NIST,"CVE-2020-14339 (enterprise_linux, libvirt)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14339,https://j.mp/2K7VY9p
+NVD-NIST,"CVE-2020-14351 (enterprise_linux, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14351,https://j.mp/39S9lWd
+NVD-NIST,CVE-2020-14381 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14381,https://j.mp/3mY8APa
+NVD-NIST,CVE-2020-17521 (groovy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17521,https://j.mp/39PfTVH
+NVD-NIST,CVE-2020-2320 (installation_manager_tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2320,https://j.mp/37GIbim
+NVD-NIST,CVE-2020-25628 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25628,https://j.mp/37PquNy
+NVD-NIST,CVE-2020-25629 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25629,https://j.mp/2JXVt1L
+NVD-NIST,CVE-2020-25630 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25630,https://j.mp/3oAtcxa
+NVD-NIST,CVE-2020-25631 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25631,https://j.mp/2LizWSa
+NVD-NIST,"CVE-2020-25677 (ceph-ansible, ceph_storage)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25677,https://j.mp/36UmdcA
+NVD-NIST,"CVE-2020-25692 (enterprise_linux, openldap)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25692,https://j.mp/3guEi3Z
+NVD-NIST,CVE-2020-27408 (opensis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27408,https://j.mp/37Pe7RA
+NVD-NIST,CVE-2020-5798 (insync),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5798,https://j.mp/37KEoRc
+NVD-NIST,CVE-2020-5799 (eat_spray_love),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5799,https://j.mp/3qGTzDq
+NVD-NIST,CVE-2020-5800 (eat_spray_love),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5800,https://j.mp/3n1hDyE
+NVD-NIST,CVE-2020-6021 (endpoint_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6021,https://j.mp/36UmcW4
+NVD-NIST,"CVE-2020-9247 (hima-l29c_firmware, honor_20_pro_firmware, laya-al00ep_firmware, mate_20_firmware, mate_20_pro_firmware, mate_20_x_firmware, p30_firmware, p30_pro_firmware, princeton-al10b_firmware, tony-al00b_firmware, yale-l61a_firmware, yale-tl00b_firmware, yalep-al10b_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9247,https://j.mp/36WMtmH
