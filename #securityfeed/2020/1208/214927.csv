@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-28935 (name_server_daemon, unbound)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28935,https://j.mp/3grdfqa
+NVD-NIST,CVE-2020-29564 (consul),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29564,https://j.mp/3naOykk
+NVD-NIST,CVE-2020-29600 (awstats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29600,https://j.mp/36VEu9i
+NVD-NIST,CVE-2020-8563 (kubernetes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8563,https://j.mp/3lTz177
+NVD-NIST,CVE-2020-8564 (kubernetes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8564,https://j.mp/33ST3bM
+NVD-NIST,CVE-2020-8565 (kubernetes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8565,https://j.mp/33VWEFZ
