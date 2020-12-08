@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3h8-cg9x-47qw] PHP Phar archives could be uploaded by Panel users as content files and executed in Kirby,https://github.com/advisories/GHSA-g3h8-cg9x-47qw,https://j.mp/3grKn1d
+GithubAdvisories,[GHSA-49r3-2549-3633] omniauth-apple allows attacker to fake their email address during authentication,https://github.com/advisories/GHSA-49r3-2549-3633,https://j.mp/3lYSnI9
