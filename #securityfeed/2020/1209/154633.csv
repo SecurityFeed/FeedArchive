@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-10004 (ipad_os, iphone_os, mac_os_x)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10004,https://j.mp/2K8HF4s
+NVD-NIST,CVE-2020-10006 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10006,https://j.mp/3708K2U
+NVD-NIST,CVE-2020-10007 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10007,https://j.mp/3gy3ve6
+NVD-NIST,CVE-2020-29575 (docker_image),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29575,https://j.mp/3gtWx9O
+NVD-NIST,CVE-2020-29597 (incomcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29597,https://j.mp/39VWJ0j
+NVD-NIST,CVE-2020-29601 (notary_docker_image),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29601,https://j.mp/3oIqfeh
+NVD-NIST,CVE-2020-29602 (docker_image),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29602,https://j.mp/2IAmRme
+NVD-NIST,"CVE-2020-5675 (gs2107-wtbd_firmware, gs2110-wtbd_firmware, gt2103-pmbd_firmware, gt2104-pmbd_firmware, gt2104-rtbd_firmware, gt2107-wtbd_firmware, gt2107-wtsd_firmware, le7-40gu-l_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5675,https://j.mp/3lYkJlL
+NVD-NIST,CVE-2020-8566 (kubernetes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8566,https://j.mp/39TCT5J
