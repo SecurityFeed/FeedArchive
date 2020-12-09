@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cg54-gpgr-4rm6] user-readable api tokens in systemd units for JupyterHub,https://github.com/advisories/GHSA-cg54-gpgr-4rm6,https://j.mp/370ZF9X
