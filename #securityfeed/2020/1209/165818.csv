@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Windows WOF FSCTL_SET_REPARSE_POINT_EX Cached Signing Level Bypass,https://packetstormsecurity.com/files/160428/GS20201209163520.tgz,https://j.mp/2Waypjn
+PacketstormSecurity,Microsoft Windows Cloud Filter HsmOsBlockPlaceholderAccess Registry Key Creation / Privilege Escalation,https://packetstormsecurity.com/files/160427/GS20201209163404.tgz,https://j.mp/370LqSM
+PacketstormSecurity,Microsoft Windows Cloud Filter HsmpAccessCheck Bypass / Privilege Escalation,https://packetstormsecurity.com/files/160426/GS20201209163227.tgz,https://j.mp/2K7lprM
+PacketstormSecurity,Microsoft Windows Cloud Filter Arbitrary File Creation / Privilege Escalation,https://packetstormsecurity.com/files/160425/GS20201209163046.tgz,https://j.mp/36YoyDc
+PacketstormSecurity,Tibco ObfuscationEngine 5.11 Fixed Key Password Decryption,https://packetstormsecurity.com/files/160422/tibcooe511-decrypt.txt,https://j.mp/39Sbam5
+PacketstormSecurity,Task Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160420/taskmgmtsys10-xss.txt,https://j.mp/3m4QFVA
+PacketstormSecurity,Task Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/160419/taskmgmtsys10-shell.txt,https://j.mp/3lWZm4d
+PacketstormSecurity,Task Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160418/taskmgmtsys10-sql.txt,https://j.mp/3gvEQa3
+PacketstormSecurity,SmarterMail 6985 Remote Code Execution,https://packetstormsecurity.com/files/160416/smartermail6985-exec.txt,https://j.mp/3n2kTdi
+PacketstormSecurity,Employee Performance Evaluation System 1.0 Insecure Direct Object Reference,https://packetstormsecurity.com/files/160415/epes10-insecure.txt,https://j.mp/39X29Z6
+PacketstormSecurity,Dup Scout Enterprise 10.0.18 Buffer Overflow,https://packetstormsecurity.com/files/160413/dse10018-overflow.txt,https://j.mp/2ICtYdW
+PacketstormSecurity,Mobile App Security,https://packetstormsecurity.com/files/160412/mobile-app-security.pdf,https://j.mp/2VX3xTd
