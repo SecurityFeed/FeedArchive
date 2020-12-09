@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxmp-pqch-c8mm] Denial of service attack via incorrect parameters in Matrix Synapse,https://github.com/advisories/GHSA-hxmp-pqch-c8mm,https://j.mp/371RPgA
