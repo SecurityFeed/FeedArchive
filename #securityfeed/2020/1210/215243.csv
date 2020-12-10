@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-10146 (teams),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10146,https://j.mp/3njxZCQ
+NVD-NIST,CVE-2020-14205 (divebook),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14205,https://j.mp/2KdOzFT
+NVD-NIST,CVE-2020-16971 (azure_sdk_for_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16971,https://j.mp/39Z3pL6
+NVD-NIST,"CVE-2020-16996 (windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16996,https://j.mp/340Xtxf
+NVD-NIST,CVE-2020-17002 (c_sdk_for_azure_iot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17002,https://j.mp/3m6zGlV
+NVD-NIST,"CVE-2020-17089 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17089,https://j.mp/3gB5EFH
+NVD-NIST,"CVE-2020-17092 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17092,https://j.mp/37LdGHW
+NVD-NIST,"CVE-2020-17094 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17094,https://j.mp/3749Vyb
+NVD-NIST,"CVE-2020-17095 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17095,https://j.mp/341j4WG
+NVD-NIST,"CVE-2020-17096 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17096,https://j.mp/3oG1gbf
+NVD-NIST,"CVE-2020-17097 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17097,https://j.mp/33Z6LtC
+NVD-NIST,CVE-2020-23520 (imcat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23520,https://j.mp/3ndf0Kw
+NVD-NIST,CVE-2020-25627 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25627,https://j.mp/39Z3puA
+NVD-NIST,CVE-2020-26234 (opencast),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26234,https://j.mp/3a1tvgG
+NVD-NIST,CVE-2020-26249 (red-dashboard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26249,https://j.mp/3gBPPhT
+NVD-NIST,CVE-2020-26816 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26816,https://j.mp/2W27d69
+NVD-NIST,"CVE-2020-26959 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26959,https://j.mp/376lbKv
+NVD-NIST,CVE-2020-26964 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26964,https://j.mp/2W26UZ3
+NVD-NIST,CVE-2020-27614 (anydesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27614,https://j.mp/2KdB2hy
+NVD-NIST,"CVE-2020-27925 (ipados, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27925,https://j.mp/39YsCW7
+NVD-NIST,CVE-2020-7337 (virusscan_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7337,https://j.mp/3419CSO
