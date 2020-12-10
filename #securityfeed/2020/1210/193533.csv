@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q263-fvxm-m5mw] Heap out of bounds access in MakeEdge in TensorFlow,https://github.com/advisories/GHSA-q263-fvxm-m5mw,https://j.mp/2W4vOqR
+GithubAdvisories,[GHSA-m648-33qf-v3gp] CHECK-fail in LSTM with zero-length input in TensorFlow,https://github.com/advisories/GHSA-m648-33qf-v3gp,https://j.mp/3ncMUPy
+GithubAdvisories,[GHSA-hhvc-g5hv-48c6] Write to immutable memory region in TensorFlow,https://github.com/advisories/GHSA-hhvc-g5hv-48c6,https://j.mp/376RDwm
+GithubAdvisories,[GHSA-c9f3-9wfr-wgh7] Lack of validation in data format attributes in TensorFlow,https://github.com/advisories/GHSA-c9f3-9wfr-wgh7,https://j.mp/2JITb73
+GithubAdvisories,[GHSA-qhxx-j73r-qpm2] Uninitialized memory access in TensorFlow,https://github.com/advisories/GHSA-qhxx-j73r-qpm2,https://j.mp/3a16Jpc
