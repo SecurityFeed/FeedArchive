@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-1971 (debian_linux, openssl)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1971,https://j.mp/3404NsZ
+NVD-NIST,CVE-2020-25663 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25663,https://j.mp/3oJwP3R
+NVD-NIST,CVE-2020-26254 (omniauth-apple),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26254,https://j.mp/2JR0jOE
+NVD-NIST,"CVE-2020-26255 (kirby, panel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26255,https://j.mp/2W32mSk
+NVD-NIST,CVE-2020-27754 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27754,https://j.mp/3oyQbZw
+NVD-NIST,CVE-2020-27755 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27755,https://j.mp/3qJFXHM
+NVD-NIST,CVE-2020-27756 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27756,https://j.mp/2W3HfPz
+NVD-NIST,CVE-2020-27757 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27757,https://j.mp/2Llhh89
+NVD-NIST,CVE-2020-27758 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27758,https://j.mp/3qJlEdt
+NVD-NIST,CVE-2020-27898 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27898,https://j.mp/3oLCmat
+NVD-NIST,CVE-2020-27900 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27900,https://j.mp/2IyNuYy
+NVD-NIST,"CVE-2020-27902 (ipados, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27902,https://j.mp/3gA6ylO
+NVD-NIST,CVE-2020-27906 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27906,https://j.mp/2K9a3nk
+NVD-NIST,CVE-2020-29257 (online_examination_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29257,https://j.mp/2JJHfC5
+NVD-NIST,CVE-2020-29258 (online_examination_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29258,https://j.mp/3gxbojT
+NVD-NIST,CVE-2020-29259 (online_examination_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29259,https://j.mp/2KbqvmS
+NVD-NIST,CVE-2020-29539 (pure_neural_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29539,https://j.mp/340G9bS
+NVD-NIST,CVE-2020-29572 (misp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29572,https://j.mp/340omlg
+NVD-NIST,"CVE-2020-29573 (enterprise_linux, glibc)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29573,https://j.mp/3gyjzwg
