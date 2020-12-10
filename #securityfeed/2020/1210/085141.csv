@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin Popup Builder 3.69.6 - Multiple Stored Cross Site Scripting,https://www.exploit-db.com/exploits/49231,https://j.mp/33X5LGo
+ExploitDB,[webapps] Library Management System 2.0 - Auth Bypass SQL Injection,https://www.exploit-db.com/exploits/49230,https://j.mp/3qMDmgm
+ExploitDB,[webapps] Openfire 4.6.0 - 'path' Stored XSS,https://www.exploit-db.com/exploits/49229,https://j.mp/2JTUT5x
+ExploitDB,[webapps] OpenCart 3.0.3.6 - Cross Site Request Forgery,https://www.exploit-db.com/exploits/49228,https://j.mp/3n4evSP
+ExploitDB,[webapps] Barcodes generator 1.0 - 'name' Stored Cross Site Scripting,https://www.exploit-db.com/exploits/49227,https://j.mp/2LoQPus
+ExploitDB,[local] PDF Complete 3.5.310.2002 - 'pdfsvc.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49226,https://j.mp/3gwHaNS
