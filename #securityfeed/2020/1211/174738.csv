@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-4738 (sterling_b2b_integrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-4738,https://j.mp/3gBP34C
+NVD-NIST,CVE-2020-13526 (processmaker),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13526,https://j.mp/3qQkKvA
+NVD-NIST,"CVE-2020-17099 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17099,https://j.mp/341CbQ4
+NVD-NIST,"CVE-2020-17115 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17115,https://j.mp/3m607bv
+NVD-NIST,"CVE-2020-17119 (365_apps, office, outlook, outlook_2013_rt)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17119,https://j.mp/37WQaIa
+NVD-NIST,"CVE-2020-17120 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17120,https://j.mp/37YifyX
+NVD-NIST,CVE-2020-17127 (excel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17127,https://j.mp/3gD0zg8
+NVD-NIST,"CVE-2020-17128 (365_apps, excel, office, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17128,https://j.mp/2W2AJJ7
+NVD-NIST,"CVE-2020-17129 (365_apps, excel, office, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17129,https://j.mp/2W80TKy
+NVD-NIST,CVE-2020-17143 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17143,https://j.mp/3mbgmEb
+NVD-NIST,"CVE-2020-17145 (azure_devops_server, team_foundation_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17145,https://j.mp/37U9UMv
+NVD-NIST,CVE-2020-17147 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17147,https://j.mp/2W7bmpu
+NVD-NIST,CVE-2020-17148 (visual_studio_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17148,https://j.mp/3oGuabm
+NVD-NIST,CVE-2020-17150 (visual_studio_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17150,https://j.mp/3mgKEpa
+NVD-NIST,CVE-2020-17152 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17152,https://j.mp/2JTrc4o
+NVD-NIST,CVE-2020-17153 (edge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17153,https://j.mp/3mbK2Rm
+NVD-NIST,CVE-2020-2493 (multimedia_console),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2493,https://j.mp/3nbW2Uv
+NVD-NIST,CVE-2020-2494 (music_station),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2494,https://j.mp/378VXeq
+NVD-NIST,"CVE-2020-2495 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2495,https://j.mp/2IDM6nx
+NVD-NIST,"CVE-2020-2498 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2498,https://j.mp/38ahh2P
