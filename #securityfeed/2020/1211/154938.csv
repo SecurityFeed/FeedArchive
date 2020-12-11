@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-16587 (openexr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16587,https://j.mp/3gBkMTD
+NVD-NIST,CVE-2020-16588 (openexr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16588,https://j.mp/378wrpE
+NVD-NIST,"CVE-2020-16958 (windows_10, windows_7, windows_server_2008, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16958,https://j.mp/3m3juBW
+NVD-NIST,"CVE-2020-17103 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17103,https://j.mp/3776uXx
+NVD-NIST,CVE-2020-17117 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17117,https://j.mp/3marwZy
+NVD-NIST,"CVE-2020-17118 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17118,https://j.mp/2KbwMPw
+NVD-NIST,"CVE-2020-17121 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17121,https://j.mp/3m5eAEl
+NVD-NIST,"CVE-2020-17122 (office, office_web_apps, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17122,https://j.mp/3a3aBpK
+NVD-NIST,"CVE-2020-17123 (365_apps, excel, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17123,https://j.mp/39Yjktb
+NVD-NIST,"CVE-2020-17124 (365_apps, office, powerpoint)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17124,https://j.mp/375PjFT
+NVD-NIST,"CVE-2020-17125 (365_apps, excel, office, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17125,https://j.mp/344eXsL
+NVD-NIST,"CVE-2020-17126 (365_apps, excel, office, office_online_server, office_web_apps)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17126,https://j.mp/2KdCvUY
+NVD-NIST,CVE-2020-2491 (photo_station),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2491,https://j.mp/3gBgDz7
+NVD-NIST,"CVE-2020-2496 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2496,https://j.mp/345WxYz
+NVD-NIST,"CVE-2020-2497 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2497,https://j.mp/37P9mrm
+NVD-NIST,CVE-2020-26828 (disclosure_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26828,https://j.mp/3gCBt0U
