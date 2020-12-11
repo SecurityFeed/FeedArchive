@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-16128 (ubuntu_linux),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16128,https://j.mp/2W8l9M6
+NVD-NIST,CVE-2020-16608 (notable),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16608,https://j.mp/2W668Kx
+NVD-NIST,"CVE-2020-17138 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17138,https://j.mp/3ncMYyq
+NVD-NIST,"CVE-2020-17139 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17139,https://j.mp/2KjE1op
+NVD-NIST,CVE-2020-19142 (icms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19142,https://j.mp/3qLtFyt
+NVD-NIST,CVE-2020-19527 (icms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19527,https://j.mp/3qO6FyT
+NVD-NIST,CVE-2020-2020 (cortex_xdr_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2020,https://j.mp/377Oz2X
+NVD-NIST,CVE-2020-24440 (prelude),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24440,https://j.mp/343DzSw
+NVD-NIST,CVE-2020-24447 (lightroom),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24447,https://j.mp/3426u9o
+NVD-NIST,CVE-2020-26233 (git_credential_manager_core),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26233,https://j.mp/346rzQd
+NVD-NIST,CVE-2020-27349 (ubuntu_linux),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27349,https://j.mp/3nfIG9G
+NVD-NIST,CVE-2020-7787 (react-adal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7787,https://j.mp/3n9Pshi
