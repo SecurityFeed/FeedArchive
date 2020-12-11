@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-17130 (365_apps, excel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17130,https://j.mp/37abYRz
+NVD-NIST,CVE-2020-17132 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17132,https://j.mp/3qL7nNo
+NVD-NIST,CVE-2020-17133 (dynamics_nav),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17133,https://j.mp/3nbjjpj
+NVD-NIST,"CVE-2020-17134 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17134,https://j.mp/2W3qHY2
+NVD-NIST,CVE-2020-17135 (azure_devops_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17135,https://j.mp/2Liwvuz
+NVD-NIST,"CVE-2020-17136 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17136,https://j.mp/3oKfd8k
+NVD-NIST,"CVE-2020-17137 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17137,https://j.mp/2W4gUkD
+NVD-NIST,CVE-2020-17141 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17141,https://j.mp/2LlbIGM
+NVD-NIST,CVE-2020-17142 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17142,https://j.mp/3m9gBPZ
+NVD-NIST,CVE-2020-17144 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17144,https://j.mp/2W4VmUK
+NVD-NIST,"CVE-2020-17156 (visual_studio_2017, visual_studio_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17156,https://j.mp/3mj7BYR
+NVD-NIST,CVE-2020-26257 (synapse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26257,https://j.mp/3mj7BIl
+NVD-NIST,CVE-2020-28086 (password-store),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28086,https://j.mp/2IGhNN3
+NVD-NIST,CVE-2020-29311 (ubilling),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29311,https://j.mp/3m9gC6v
+NVD-NIST,CVE-2020-35127 (openfire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35127,https://j.mp/38aW3Sr
+NVD-NIST,CVE-2020-35132 (phpldapadmin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35132,https://j.mp/3nb0GlJ
+NVD-NIST,CVE-2020-35135 (ultimate_category_excluder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35135,https://j.mp/2IGhS3j
+NVD-NIST,"CVE-2020-4829 (aix, vios)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4829,https://j.mp/37Vr1xB
