@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-17140 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17140,https://j.mp/2LptPLL
+NVD-NIST,CVE-2020-17158 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17158,https://j.mp/39ZrTUB
+NVD-NIST,CVE-2020-17159 (visual_studio_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17159,https://j.mp/3oL1zli
+NVD-NIST,CVE-2020-26407 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26407,https://j.mp/3nggEuI
+NVD-NIST,"CVE-2020-27127 (jabber, jabber_for_mobile_platforms)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27127,https://j.mp/3oGEznm
+NVD-NIST,"CVE-2020-27132 (jabber, jabber_for_mobile_platforms)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27132,https://j.mp/3qPXFJt
+NVD-NIST,"CVE-2020-27133 (jabber, jabber_for_mobile_platforms)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27133,https://j.mp/2KkcdjL
+NVD-NIST,"CVE-2020-27134 (jabber, jabber_for_mobile_platforms)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27134,https://j.mp/3qOncD3
