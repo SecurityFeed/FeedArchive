@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-17444 (picotcp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17444,https://j.mp/37jq5E1
+NVD-NIST,CVE-2020-17445 (picotcp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17445,https://j.mp/34eyxCB
+NVD-NIST,"CVE-2020-24337 (picotcp, picotcp-ng)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24337,https://j.mp/3nldPZs
+NVD-NIST,CVE-2020-24338 (picotcp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24338,https://j.mp/3mkiKZp
+NVD-NIST,"CVE-2020-24339 (picotcp, picotcp-ng)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24339,https://j.mp/2INO8l6
+NVD-NIST,"CVE-2020-24340 (picotcp, picotcp-ng)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24340,https://j.mp/3mjaicS
+NVD-NIST,"CVE-2020-24341 (picotcp, picotcp-ng)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24341,https://j.mp/3oQeHp3
+NVD-NIST,CVE-2020-25112 (contiki-os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25112,https://j.mp/3qQqzcy
+NVD-NIST,CVE-2020-35149 (mquery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35149,https://j.mp/2KqTOBU
+NVD-NIST,CVE-2020-35200 (openfire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35200,https://j.mp/3854uON
+NVD-NIST,CVE-2020-35378 (online_bus_ticket_reservation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35378,https://j.mp/2WhzeGQ
+NVD-NIST,CVE-2020-35382 (classroombookings),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35382,https://j.mp/3mj5owg
+NVD-NIST,"CVE-2020-7540 (140cpu65150_firmware, 140cpu65160_firmware, 140noc77101_firmware, 140noc78000_firmware, 140noc78100_firmware, 140noe77101_firmware, 140noe77111_firmware, bmxnoc0401_firmware, bmxnoe0100_firmware, bmxnoe0110_firmware, bmxnor200h_firmware, bmxp341000_firmware, bmxp342000_firmware, bmxp3420102_firmware, bmxp3420102cl_firmware, bmxp342020_firmware, bmxp3420302_firmware, bmxp3420302cl_firmware, tsxety4103_firmware, tsxety5103_firmware, tsxp574634_firmware, tsxp575634_firmware, tsxp576634_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7540,https://j.mp/2KuEHYw
+NVD-NIST,"CVE-2020-7541 (140cpu65150_firmware, 140noc77101_firmware, 140noc78000_firmware, 140noc78100_firmware, 140noe77111_firmware, bmxnoc0401_firmware, bmxnoe0100_firmware, bmxnoe0110_firmware, bmxp341000_firmware, bmxp342000_firmware, bmxp3420102_firmware, bmxp3420102cl_firmware, bmxp342020_firmware, bmxp3420302_firmware, bmxp3420302cl_firmware, tsxety4103_firmware, tsxety5103_firmware, tsxp574634_firmware, tsxp575634_firmware, tsxp576634_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7541,https://j.mp/2IPiiEJ
+NVD-NIST,"CVE-2020-7542 (140cpu65150_firmware, bmep581020_firmware, bmep582020_firmware, bmep582040_firmware, bmep583020_firmware, bmep583040_firmware, bmep584020_firmware, bmep584040_firmware, bmep585040_firmware, bmep586040_firmware, bmxp341000_firmware, bmxp342000_firmware, bmxp3420102_firmware, bmxp3420102cl_firmware, bmxp342020_firmware, bmxp3420302_firmware, bmxp3420302cl_firmware, tsxp574634_firmware, tsxp575634_firmware, tsxp576634_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7542,https://j.mp/3gZeAoN
