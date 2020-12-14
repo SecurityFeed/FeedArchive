@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2019-7198 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-7198,https://j.mp/2KiGu2B
+NVD-NIST,"CVE-2020-12516 (750-331_firmware, 750-352_firmware, 750-829_firmware, 750-831_firmware, 750-852_firmware, 750-880_firmware, 750-881_firmware, 750-882_firmware, 750-885_firmware, 750-889_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12516,https://j.mp/37mcImR
+NVD-NIST,CVE-2020-12594 (symantec_messaging_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12594,https://j.mp/2Ls0noo
+NVD-NIST,"CVE-2020-17131 (chakracore, edge)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17131,https://j.mp/2K6sXLH
+NVD-NIST,CVE-2020-26826 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26826,https://j.mp/3qV8k5T
+NVD-NIST,CVE-2020-28215 (easergy_t300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28215,https://j.mp/3oQ8KbL
+NVD-NIST,CVE-2020-28216 (easergy_t300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28216,https://j.mp/2K6sXvb
+NVD-NIST,CVE-2020-28217 (easergy_t300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28217,https://j.mp/381jUUl
+NVD-NIST,CVE-2020-28218 (easergy_t300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28218,https://j.mp/2KreN7D
+NVD-NIST,CVE-2020-29659 (dupscout),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29659,https://j.mp/2WhkYxK
+NVD-NIST,CVE-2020-7776 (phpspreadsheet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7776,https://j.mp/3gLyH9z
