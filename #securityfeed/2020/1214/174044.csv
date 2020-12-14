@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12595 (symantec_messaging_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12595,https://j.mp/3qR887P
+NVD-NIST,CVE-2020-16600 (mupdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16600,https://j.mp/3nhBKc4
+NVD-NIST,CVE-2020-17515 (airflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17515,https://j.mp/2Kta7OD
+NVD-NIST,CVE-2020-19165 (phpshe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19165,https://j.mp/2WgEc6J
+NVD-NIST,"CVE-2020-24445 (experience_manager, experience_manager_cloud_service)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24445,https://j.mp/2ITyvsA
+NVD-NIST,CVE-2020-25838 (filr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25838,https://j.mp/3qYlIGc
+NVD-NIST,CVE-2020-26408 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26408,https://j.mp/3gKqXVk
+NVD-NIST,CVE-2020-26412 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26412,https://j.mp/3nllrLn
+NVD-NIST,CVE-2020-26413 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26413,https://j.mp/2WcAmeO
+NVD-NIST,CVE-2020-26415 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26415,https://j.mp/3mkojqq
+NVD-NIST,CVE-2020-26416 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26416,https://j.mp/2WdBjnd
+NVD-NIST,CVE-2020-26417 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26417,https://j.mp/3mmTCAV
+NVD-NIST,CVE-2020-26418 (wireshark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26418,https://j.mp/3gJPCtl
+NVD-NIST,CVE-2020-26419 (wireshark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26419,https://j.mp/3gLFJeq
+NVD-NIST,CVE-2020-26420 (wireshark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26420,https://j.mp/3475Uaz
+NVD-NIST,CVE-2020-26421 (wireshark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26421,https://j.mp/2IQG6Ik
+NVD-NIST,CVE-2020-27350 (advanced_package_tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27350,https://j.mp/37i3RlV
+NVD-NIST,CVE-2020-29666 (m3_atm_monitoring_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29666,https://j.mp/34e8fAB
+NVD-NIST,CVE-2020-29667 (m3_atm_monitoring_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29667,https://j.mp/37ic8pT
+NVD-NIST,CVE-2020-35126 (typesetter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35126,https://j.mp/34bmJAZ
+NVD-NIST,CVE-2020-7788 (ini),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7788,https://j.mp/386Cpqm
