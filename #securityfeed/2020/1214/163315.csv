@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,WhatWeb Scanner 0.5.4,https://packetstormsecurity.com/files/160487/WhatWeb-0.5.4.tar.gz,https://j.mp/3oK2SRk
+PacketstormSecurity,usrsctp HMAC Generation Out-Of-Bounds Access,https://packetstormsecurity.com/files/160485/GS20201214160309.tgz,https://j.mp/2KpnI9X
+PacketstormSecurity,usrsctp pending_reply_queue Out-Of-Bounds Access,https://packetstormsecurity.com/files/160484/GS20201214160115.tgz,https://j.mp/3qY5gFU
+PacketstormSecurity,Red Hat Security Advisory 2020-5259-01,https://packetstormsecurity.com/files/160483/RHSA-2020-5259-01.txt,https://j.mp/386MZxT
+PacketstormSecurity,LibreNMS 1.46 SQL Injection,https://packetstormsecurity.com/files/160481/librenms146mac-sql.txt,https://j.mp/3oMXE7x
+PacketstormSecurity,Red Hat Security Advisory 2020-5402-01,https://packetstormsecurity.com/files/160480/RHSA-2020-5402-01.txt,https://j.mp/34cRVA2
+PacketstormSecurity,Red Hat Security Advisory 2020-5260-01,https://packetstormsecurity.com/files/160479/RHSA-2020-5260-01.txt,https://j.mp/3qSfsQq
+PacketstormSecurity,Macally WIFISD2-2A82 2.000.010 Privilege Escalation,https://packetstormsecurity.com/files/160478/macallywifi-escalate.txt,https://j.mp/2LseE4s
+PacketstormSecurity,Rumble Mail Server 0.51.3135 Cross Site Scripting,https://packetstormsecurity.com/files/160476/rumble0513135-xss.txt,https://j.mp/3qVn58N
+PacketstormSecurity,Red Hat Security Advisory 2020-5401-01,https://packetstormsecurity.com/files/160475/RHSA-2020-5401-01.txt,https://j.mp/2KsXYJx
+PacketstormSecurity,Red Hat Security Advisory 2020-5400-01,https://packetstormsecurity.com/files/160474/RHSA-2020-5400-01.txt,https://j.mp/34bCKqW
+PacketstormSecurity,System Explorer 7.0.0 Unquoted Service Path,https://packetstormsecurity.com/files/160473/systemexplorer700-unquotedpath.txt,https://j.mp/34ba0yd
+PacketstormSecurity,Red Hat Security Advisory 2020-5399-01,https://packetstormsecurity.com/files/160471/RHSA-2020-5399-01.txt,https://j.mp/3oRi0we
+PacketstormSecurity,MiniWeb HTTP Server 0.8.19 Buffer Overflow,https://packetstormsecurity.com/files/160470/miniwebhttp0819-overflow.txt,https://j.mp/3gJT47f
+PacketstormSecurity,Red Hat Security Advisory 2020-5398-01,https://packetstormsecurity.com/files/160469/RHSA-2020-5398-01.txt,https://j.mp/34e8RpL
+PacketstormSecurity,Red Hat Security Advisory 2020-5394-01,https://packetstormsecurity.com/files/160468/RHSA-2020-5394-01.txt,https://j.mp/386pVz0
+PacketstormSecurity,Red Hat Security Advisory 2020-5393-01,https://packetstormsecurity.com/files/160467/RHSA-2020-5393-01.txt,https://j.mp/2WaO7eh
+PacketstormSecurity,WordPress Total Upkeep 1.14.9 Backup Disclosure,https://packetstormsecurity.com/files/160466/wptotalupkeep1149-disclose.txt,https://j.mp/2Kob1Mq
+PacketstormSecurity,Red Hat Security Advisory 2020-5395-01,https://packetstormsecurity.com/files/160463/RHSA-2020-5395-01.txt,https://j.mp/34bs0Zs
+PacketstormSecurity,Red Hat Security Advisory 2020-5396-01,https://packetstormsecurity.com/files/160461/RHSA-2020-5396-01.txt,https://j.mp/3nk6fyf
+PacketstormSecurity,Rukovoditel 2.6.1 Cross Site Request Forgery,https://packetstormsecurity.com/files/160460/rukovoditel261-xsrf.txt,https://j.mp/34eWb22
+PacketstormSecurity,Sifter 11-R3,https://packetstormsecurity.com/files/160486/sifter-11-r3.tar.gz,https://j.mp/2K46ejl
