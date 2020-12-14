@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[local] System Explorer 7.0.0 - 'SystemExplorerHelpService' Unquoted Service Path,https://www.exploit-db.com/exploits/49248,https://j.mp/3qT7GWm
+ExploitDB,[webapps] MiniWeb HTTP Server 0.8.19 - Buffer Overflow (PoC),https://www.exploit-db.com/exploits/49247,https://j.mp/2Kr1V1i
+ExploitDB,[webapps] LibreNMS 1.46 - MAC Accounting Graph Authenticated SQL Injection,https://www.exploit-db.com/exploits/49246,https://j.mp/3oSQa2X
