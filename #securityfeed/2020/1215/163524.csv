@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Windows DrawIconEx Local Privilege Escalation,https://packetstormsecurity.com/files/160515/cve_2020_1054_drawiconex_lpe.rb.txt,https://j.mp/3gTmCPJ
+PacketstormSecurity,American Fuzzy Lop plus plus 3.0c,https://packetstormsecurity.com/files/160514/AFLplusplus-3.0c.tar.gz,https://j.mp/2IQc9Ii
+PacketstormSecurity,Red Hat Security Advisory 2020-5437-01,https://packetstormsecurity.com/files/160513/RHSA-2020-5437-01.txt,https://j.mp/3gSO5RQ
+PacketstormSecurity,Red Hat Security Advisory 2020-5453-01,https://packetstormsecurity.com/files/160512/RHSA-2020-5453-01.txt,https://j.mp/3r0J8uz
+PacketstormSecurity,Qualcomm Adreno GPU PID Reuse Mapping Leak,https://packetstormsecurity.com/files/160511/GS20201215155633.tgz,https://j.mp/3gNfNiP
+PacketstormSecurity,Solaris SunSSH 11.0 x86 libpam Remote Root,https://packetstormsecurity.com/files/160510/solarissunssh110-exec.txt,https://j.mp/3mn6ffB
+PacketstormSecurity,Red Hat Security Advisory 2020-5434-01,https://packetstormsecurity.com/files/160509/RHSA-2020-5434-01.txt,https://j.mp/3noi0DA
+PacketstormSecurity,Alumni Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/160508/alumnimgmtsys10-shell.txt,https://j.mp/2Why0eN
+PacketstormSecurity,Red Hat Security Advisory 2020-5439-01,https://packetstormsecurity.com/files/160507/RHSA-2020-5439-01.txt,https://j.mp/2WjNdMk
+PacketstormSecurity,Gitlab 11.4.7 Remote Code Execution,https://packetstormsecurity.com/files/160506/gitlab1147-exec.txt,https://j.mp/2KpAfu3
+PacketstormSecurity,Red Hat Security Advisory 2020-5443-01,https://packetstormsecurity.com/files/160505/RHSA-2020-5443-01.txt,https://j.mp/3mmDvmU
+PacketstormSecurity,libbabl 0.1.62 Broken Double-Free Detection,https://packetstormsecurity.com/files/160504/libbabl0162-doublefree.txt,https://j.mp/3mhriQt
+PacketstormSecurity,Red Hat Security Advisory 2020-5441-01,https://packetstormsecurity.com/files/160503/RHSA-2020-5441-01.txt,https://j.mp/3afH502
+PacketstormSecurity,PHPJabbers Appointment Scheduler 2.3 Cross Site Scripting,https://packetstormsecurity.com/files/160502/phpjabbersas23-xss.txt,https://j.mp/3npWnTq
+PacketstormSecurity,Red Hat Security Advisory 2020-5435-01,https://packetstormsecurity.com/files/160501/RHSA-2020-5435-01.txt,https://j.mp/3mkgYHx
+PacketstormSecurity,Task Management System 1.0 Local File Inclusion,https://packetstormsecurity.com/files/160500/taskmgmtsys10-lfi.txt,https://j.mp/385KTxZ
+PacketstormSecurity,Red Hat Security Advisory 2020-5422-01,https://packetstormsecurity.com/files/160499/RHSA-2020-5422-01.txt,https://j.mp/386nufZ
+PacketstormSecurity,Red Hat Security Advisory 2020-5416-01,https://packetstormsecurity.com/files/160498/RHSA-2020-5416-01.txt,https://j.mp/3nojEVN
+PacketstormSecurity,Cisco ASA 9.14.1.10 / FTD 6.6.0.1 Path Traversal,https://packetstormsecurity.com/files/160497/ciscoasaftd-traversal.txt,https://j.mp/2WobrVH
+PacketstormSecurity,Red Hat Security Advisory 2020-5418-01,https://packetstormsecurity.com/files/160496/RHSA-2020-5418-01.txt,https://j.mp/37kJOmK
+PacketstormSecurity,Red Hat Security Advisory 2020-5430-01,https://packetstormsecurity.com/files/160495/RHSA-2020-5430-01.txt,https://j.mp/34h3qq1
+PacketstormSecurity,Red Hat Security Advisory 2020-5420-01,https://packetstormsecurity.com/files/160494/RHSA-2020-5420-01.txt,https://j.mp/3mkh0iD
+PacketstormSecurity,Online Marriage Registration System 1.0 Remote Code Execution,https://packetstormsecurity.com/files/160493/omrs10-exec.txt,https://j.mp/37lM9hC
+PacketstormSecurity,Red Hat Security Advisory 2020-5417-01,https://packetstormsecurity.com/files/160492/RHSA-2020-5417-01.txt,https://j.mp/3gNfR23
+PacketstormSecurity,Red Hat Security Advisory 2020-5423-01,https://packetstormsecurity.com/files/160491/RHSA-2020-5423-01.txt,https://j.mp/383g2Cs
