@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-24383 (fnet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24383,https://j.mp/37hFy7y
+NVD-NIST,CVE-2020-25107 (nut/os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25107,https://j.mp/37gfdH8
+NVD-NIST,CVE-2020-25108 (nut/os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25108,https://j.mp/3oVbYLo
+NVD-NIST,CVE-2020-25109 (nut/os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25109,https://j.mp/388LbnO
+NVD-NIST,CVE-2020-25111 (contiki-os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25111,https://j.mp/383YLJ5
+NVD-NIST,CVE-2020-28857 (digital_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28857,https://j.mp/3nkWcst
+NVD-NIST,CVE-2020-28858 (digital_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28858,https://j.mp/3r0di12
+NVD-NIST,CVE-2020-28859 (digital_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28859,https://j.mp/3oYKRix
+NVD-NIST,CVE-2020-35175 (frappe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35175,https://j.mp/2K3b1S8
+NVD-NIST,CVE-2020-35201 (openfire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35201,https://j.mp/3mkB2cS
+NVD-NIST,CVE-2020-35202 (openfire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35202,https://j.mp/3njxBV2
+NVD-NIST,CVE-2020-5950 (big-ip_advanced_firewall_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5950,https://j.mp/37gfcTA
+NVD-NIST,CVE-2020-8169 (curl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8169,https://j.mp/2WeTuJt
+NVD-NIST,CVE-2020-8177 (curl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8177,https://j.mp/3agk0Kv
+NVD-NIST,CVE-2020-8285 (curl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8285,https://j.mp/3noVbjs
+NVD-NIST,CVE-2020-8286 (curl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8286,https://j.mp/2ISDaeg
