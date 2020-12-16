@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-0016 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0016,https://j.mp/3mq1xOe
+NVD-NIST,CVE-2020-0019 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0019,https://j.mp/3p2T9WD
+NVD-NIST,CVE-2020-0489 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0489,https://j.mp/3nE85KB
+NVD-NIST,CVE-2020-0490 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0490,https://j.mp/3mqGpqT
+NVD-NIST,CVE-2020-12148 (ecos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12148,https://j.mp/2KAY2XG
+NVD-NIST,CVE-2020-12149 (ecos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12149,https://j.mp/2Ky1O48
+NVD-NIST,CVE-2020-14244 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14244,https://j.mp/3gV8q8U
+NVD-NIST,CVE-2020-15733 (antivirus_plus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15733,https://j.mp/37nYG3N
+NVD-NIST,CVE-2020-16102 (command_centre),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16102,https://j.mp/2WkWC6D
+NVD-NIST,CVE-2020-16103 (command_centre),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16103,https://j.mp/3nsX8er
+NVD-NIST,CVE-2020-16104 (command_centre),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16104,https://j.mp/2KAY55O
+NVD-NIST,CVE-2020-25228 (logo!_8_bm_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25228,https://j.mp/3nrM95b
+NVD-NIST,CVE-2020-27026 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27026,https://j.mp/3r3W6b5
+NVD-NIST,"CVE-2020-28396 (sicam_a8000_cp-8000_firmware, sicam_a8000_cp-8021_firmware, sicam_a8000_cp-8022_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28396,https://j.mp/3h1KEIA
+NVD-NIST,CVE-2020-35396 (barcodes_generator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35396,https://j.mp/3gS8xCh
