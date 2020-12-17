@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Oracle Solaris SunSSH PAM parse_user_name() Buffer Overflow,https://packetstormsecurity.com/files/160609/pam_username_bof.rb.txt,https://j.mp/2Ke55WG
+PacketstormSecurity,Zed Attack Proxy 2.10.0 Cross Platform Package,https://packetstormsecurity.com/files/160608/ZAP_2.10.0_Crossplatform.zip,https://j.mp/2LDuZDu
+PacketstormSecurity,Library Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160606/lms10-sql.txt,https://j.mp/3gU2ahO
+PacketstormSecurity,Red Hat Security Advisory 2020-5623-01,https://packetstormsecurity.com/files/160605/RHSA-2020-5623-01.txt,https://j.mp/3gY8LrF
+PacketstormSecurity,Flexmonster Pivot Table And Charts 2.7.17 Cross Site Scripting,https://packetstormsecurity.com/files/160604/flexmonsterptc2712-xss.txt,https://j.mp/2LDuZmY
+PacketstormSecurity,Nxlog Community Edition 2.10.2150 Denial Of Service,https://packetstormsecurity.com/files/160603/nxlogce2102150-dos.txt,https://j.mp/3alX50k
+PacketstormSecurity,Trend Micro IWSVA CSRF / XSS / Bypass / SSRF / Code Execution,https://packetstormsecurity.com/files/160602/SA-20201217-0.txt,https://j.mp/2Wqj5iI
+PacketstormSecurity,Red Hat Security Advisory 2020-5625-01,https://packetstormsecurity.com/files/160601/RHSA-2020-5625-01.txt,https://j.mp/34jhC1O
+PacketstormSecurity,PHPJabbers Appointment Scheduler 2.3 Cross Site Scripting,https://packetstormsecurity.com/files/160600/phpjas23-xss.txt,https://j.mp/3ahS3lH
+PacketstormSecurity,Online Health Card System 1.0 SQL Injection,https://packetstormsecurity.com/files/160599/ohcs10-sql.txt,https://j.mp/2WrYzOp
+PacketstormSecurity,Red Hat Security Advisory 2020-5624-01,https://packetstormsecurity.com/files/160598/RHSA-2020-5624-01.txt,https://j.mp/2WqiZrm
+PacketstormSecurity,Employee Record System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160597/ers10-xss.txt,https://j.mp/38tgg67
+PacketstormSecurity,Online Tours And Travels Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160596/ottms10-sql.txt,https://j.mp/2WnmA9h
+PacketstormSecurity,Red Hat Security Advisory 2020-5622-01,https://packetstormsecurity.com/files/160595/RHSA-2020-5622-01.txt,https://j.mp/38bFfuk
+PacketstormSecurity,Red Hat Security Advisory 2020-5620-01,https://packetstormsecurity.com/files/160594/RHSA-2020-5620-01.txt,https://j.mp/38ho2zN
+PacketstormSecurity,Victor CMS 1.0 SQL Injection,https://packetstormsecurity.com/files/160593/victorcms10auth-sql.txt,https://j.mp/3gVtIU1
+PacketstormSecurity,Red Hat Security Advisory 2020-5619-01,https://packetstormsecurity.com/files/160592/RHSA-2020-5619-01.txt,https://j.mp/2Wmot6p
+PacketstormSecurity,Alumni Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160591/ams10-xss.txt,https://j.mp/34jtsJ9
+PacketstormSecurity,Red Hat Security Advisory 2020-5618-01,https://packetstormsecurity.com/files/160590/RHSA-2020-5618-01.txt,https://j.mp/2K5Cd2Y
+PacketstormSecurity,Red Hat Security Advisory 2020-5611-01,https://packetstormsecurity.com/files/160589/RHSA-2020-5611-01.txt,https://j.mp/2KBkbFm
+PacketstormSecurity,Content Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160588/cms10-sql.txt,https://j.mp/3r6V7XK
+PacketstormSecurity,Content Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160587/cms10-xss.txt,https://j.mp/3mupHqT
+PacketstormSecurity,Red Hat Security Advisory 2020-5607-01,https://packetstormsecurity.com/files/160586/RHSA-2020-5607-01.txt,https://j.mp/3h9nj7X
+PacketstormSecurity,Linksys RE6500 1.0.11.001 Remote Code Execution,https://packetstormsecurity.com/files/160585/linksysre65001011001-exec.txt,https://j.mp/3h0JZXU
