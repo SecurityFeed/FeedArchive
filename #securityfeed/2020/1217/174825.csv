@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-14478 (netcrunch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-14478,https://j.mp/3msOewp
+NVD-NIST,CVE-2020-10770 (keycloak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10770,https://j.mp/2WvVsVD
+NVD-NIST,CVE-2020-23957 (pega_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23957,https://j.mp/2Wr6jQY
+NVD-NIST,"CVE-2020-25757 (dsr-1000_firmware, dsr-1000ac_firmware, dsr-1000n_firmware, dsr-150_firmware, dsr-150n_firmware, dsr-250_firmware, dsr-250n_firmware, dsr-500_firmware, dsr-500ac_firmware, dsr-500n_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25757,https://j.mp/3nwqzfL
+NVD-NIST,"CVE-2020-25758 (dsr-1000_firmware, dsr-1000ac_firmware, dsr-1000n_firmware, dsr-150_firmware, dsr-150n_firmware, dsr-250_firmware, dsr-250n_firmware, dsr-500_firmware, dsr-500ac_firmware, dsr-500n_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25758,https://j.mp/3r5krxe
+NVD-NIST,"CVE-2020-25759 (dsr-1000_firmware, dsr-1000ac_firmware, dsr-1000n_firmware, dsr-150_firmware, dsr-150n_firmware, dsr-250_firmware, dsr-250n_firmware, dsr-500_firmware, dsr-500ac_firmware, dsr-500n_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25759,https://j.mp/3nuBx5y
+NVD-NIST,CVE-2020-26258 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26258,https://j.mp/3r8gUy8
+NVD-NIST,CVE-2020-28929 (eps_tse_server_8_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28929,https://j.mp/2LMVOp1
+NVD-NIST,CVE-2020-28930 (eps_tse_server_8_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28930,https://j.mp/3gVgdnj
+NVD-NIST,CVE-2020-28931 (eps_tse_server_8_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28931,https://j.mp/3gWNdLS
+NVD-NIST,CVE-2020-35184 (composer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35184,https://j.mp/2KdTbvY
+NVD-NIST,CVE-2020-35186 (adminer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35186,https://j.mp/34pceu5
+NVD-NIST,CVE-2020-35187 (telegraf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35187,https://j.mp/2Wo30Kn
+NVD-NIST,CVE-2020-35193 (sonarqube),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35193,https://j.mp/2WCG3TT
+NVD-NIST,CVE-2020-35457 (glib),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35457,https://j.mp/2Wr6pbi
+NVD-NIST,CVE-2020-35462 (coscale_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35462,https://j.mp/3gVgfvk
+NVD-NIST,CVE-2020-35463 (dynamic_apm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35463,https://j.mp/37qu6GO
+NVD-NIST,CVE-2020-4904 (financial_transaction_manager_for_multiplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4904,https://j.mp/38hP3mw
+NVD-NIST,CVE-2020-4905 (financial_transaction_manager_for_multiplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4905,https://j.mp/3ntlIMh
+NVD-NIST,CVE-2020-4906 (financial_transaction_manager_for_multiplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4906,https://j.mp/3nxVMPJ
+NVD-NIST,CVE-2020-4907 (financial_transaction_manager_for_multiplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4907,https://j.mp/3p0NwYP
+NVD-NIST,CVE-2020-4908 (financial_transaction_manager_for_multiplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4908,https://j.mp/3nAdkLi
+NVD-NIST,CVE-2020-8938 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8938,https://j.mp/3nw2qWz
