@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6r3p-fcvm-xh7c] SSRF vulnerability in Arache Airflow,https://github.com/advisories/GHSA-6r3p-fcvm-xh7c,https://j.mp/3ntPFMt
+GithubAdvisories,[GHSA-cvcq-gmc3-q6m8] Plain text storage of passwords in Apache Airflow,https://github.com/advisories/GHSA-cvcq-gmc3-q6m8,https://j.mp/3am4rB5
+GithubAdvisories,[GHSA-w5mp-8p8w-mhh8] Command injection in connection-tester,https://github.com/advisories/GHSA-w5mp-8p8w-mhh8,https://j.mp/2KA9W4e
+GithubAdvisories,[GHSA-m7j4-fhg6-xf5v] Prototype pollution in datatables.net,https://github.com/advisories/GHSA-m7j4-fhg6-xf5v,https://j.mp/2KxRcCC
