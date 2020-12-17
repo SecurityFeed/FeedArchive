@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-16243 (database_performance_analyzer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-16243,https://j.mp/37uEugO
+NVD-NIST,CVE-2020-27147 (partnerexpress),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27147,https://j.mp/34plVJ7
+NVD-NIST,"CVE-2020-29481 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29481,https://j.mp/2LLgiyq
+NVD-NIST,"CVE-2020-29484 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29484,https://j.mp/2KBsRLW
+NVD-NIST,"CVE-2020-29486 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29486,https://j.mp/3aneZQy
+NVD-NIST,CVE-2020-35464 (cloud_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35464,https://j.mp/3altvbx
+NVD-NIST,CVE-2020-35465 (hapi_file_share_mount),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35465,https://j.mp/38aVW9q
+NVD-NIST,CVE-2020-35466 (blackfire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35466,https://j.mp/3p31hGo
+NVD-NIST,CVE-2020-35469 (terracotta_server_oss),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35469,https://j.mp/3mvAnoU
+NVD-NIST,"CVE-2020-8283 (virtual_apps_and_desktops, xenapp, xendesktop)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8283,https://j.mp/3gVwqsJ
+NVD-NIST,CVE-2020-8940 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8940,https://j.mp/3alHwG8
+NVD-NIST,CVE-2020-8942 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8942,https://j.mp/3gXdM3o
+NVD-NIST,CVE-2020-8943 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8943,https://j.mp/2WD1wvX
+NVD-NIST,CVE-2020-8944 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8944,https://j.mp/3p65PM7
