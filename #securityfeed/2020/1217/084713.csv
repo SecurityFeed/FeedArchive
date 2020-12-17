@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] PHPJabbers Appointment Scheduler 2.3 - Reflected XSS (Cross-Site Scripting),https://www.exploit-db.com/exploits/49281,https://j.mp/2J13mDA
+ExploitDB,[webapps] Employee Record System 1.0 - Multiple Stored XSS,https://www.exploit-db.com/exploits/49280,https://j.mp/3gYFk8S
+ExploitDB,[webapps] Interview Management System 1.0 - 'id' SQL Injection,https://www.exploit-db.com/exploits/49279,https://j.mp/3r48JCW
+ExploitDB,[webapps] Interview Management System 1.0 - Stored XSS in Add New Question,https://www.exploit-db.com/exploits/49278,https://j.mp/3oZJ8Jx
+ExploitDB,"[webapps] Online Tours & Travels Management System 1.0 - ""id"" SQL Injection",https://www.exploit-db.com/exploits/49277,https://j.mp/37t72Ye
+ExploitDB,[webapps] Customer Support System 1.0 - 'id' SQL Injection,https://www.exploit-db.com/exploits/49276,https://j.mp/2WkyOzC
