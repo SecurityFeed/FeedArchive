@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-14477 (netcrunch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-14477,https://j.mp/3rhr4wG
+NVD-NIST,CVE-2019-14479 (netcrunch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-14479,https://j.mp/2WpW6nH
+NVD-NIST,CVE-2020-25622 (n-central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25622,https://j.mp/37tC2Y4
+NVD-NIST,CVE-2020-28072 (alumni_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28072,https://j.mp/3npDsZ3
+NVD-NIST,CVE-2020-35380 (gjson),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35380,https://j.mp/3ayCq9J
+NVD-NIST,CVE-2020-35381 (jsonparser),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35381,https://j.mp/3h5uEFu
+NVD-NIST,CVE-2020-35416 (phpjabbers_appointment_scheduler),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35416,https://j.mp/3ankEWS
+NVD-NIST,CVE-2020-35468 (streams),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35468,https://j.mp/3mAUl1S
+NVD-NIST,CVE-2020-35476 (opentsdb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35476,https://j.mp/3r8H18k
+NVD-NIST,CVE-2020-4657 (sterling_b2b_integrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4657,https://j.mp/3r5ysuX
+NVD-NIST,CVE-2020-4658 (sterling_file_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4658,https://j.mp/3r6qyBw
+NVD-NIST,CVE-2020-4845 (security_key_lifecycle_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4845,https://j.mp/37tFAtj
+NVD-NIST,CVE-2020-4846 (security_key_lifecycle_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4846,https://j.mp/3ntq9GY
+NVD-NIST,CVE-2020-8941 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8941,https://j.mp/2KxUsxQ
