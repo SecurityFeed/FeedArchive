@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,CA Service Catalog Denial Of Service,https://packetstormsecurity.com/files/160629/CA20201215-01.txt,https://j.mp/3p3Ggvl
+PacketstormSecurity,Programi Bilanc Build 007 Release 014 31.01.2020 SQL Injection,https://packetstormsecurity.com/files/160628/programibilanc-sql.txt,https://j.mp/3mxKTMH
+PacketstormSecurity,Programi Bilanc Build 007 Release 014 31.01.2020 Insecure Downloads,https://packetstormsecurity.com/files/160627/programibilanc-insecure.txt,https://j.mp/3nzZ05f
+PacketstormSecurity,Programi Bilanc Build 007 Release 014 31.01.2020 Hardcoded Credentials,https://packetstormsecurity.com/files/160626/programibilanc-hardcoded.txt,https://j.mp/3h2pt8Z
+PacketstormSecurity,Programi Bilanc Build 007 Release 014 31.01.2020 Static Key,https://packetstormsecurity.com/files/160625/programibilanc-statickey.txt,https://j.mp/3aoqPK5
+PacketstormSecurity,Red Hat Security Advisory 2020-5605-01,https://packetstormsecurity.com/files/160624/RHSA-2020-5605-01.txt,https://j.mp/37yatfW
+PacketstormSecurity,Rocket.Chat Cross Site Scripting,https://packetstormsecurity.com/files/160622/rocketchat-persistentxss.txt,https://j.mp/3anr08m
+PacketstormSecurity,WordPress Duplicator 1.3.26 Directory Traversal / File Read,https://packetstormsecurity.com/files/160621/wpduplicator-traversal.rb.txt,https://j.mp/3nzZ0lL
+PacketstormSecurity,Xeroneit Library Management System 3.1 Cross Site Scripting,https://packetstormsecurity.com/files/160620/xeroneitlms31-xss.txt,https://j.mp/3aoqXcx
+PacketstormSecurity,Programi Bilanc Build 007 Release 014 31.01.2020 Weak Default Password,https://packetstormsecurity.com/files/160623/programibilanc-weakpassword.txt,https://j.mp/2J1v8Qe
+PacketstormSecurity,Pulse Secure VPN Remote Code Execution,https://packetstormsecurity.com/files/160619/pulse_secure_gzip_rce.rb.txt,https://j.mp/3aq7zM8
+PacketstormSecurity,WordPress Yet Another Stars Rating PHP Object Injection,https://packetstormsecurity.com/files/160618/wpyasr-inject.rb.txt,https://j.mp/37u55KS
+PacketstormSecurity,Alumni Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160617/alumnimgmtsys10-xss.txt,https://j.mp/2KIcQnO
+PacketstormSecurity,Jenkins 2.251 / LTS 2.235.3 Cross Site Scripting,https://packetstormsecurity.com/files/160616/jenkins2251-xss.txt,https://j.mp/2J3cWG3
+PacketstormSecurity,Exploit WordPress Plugin Vulnerability Using Static Source Code Analysis Techniques,https://packetstormsecurity.com/files/160615/exploit-wpplugin.pdf,https://j.mp/3nwVSad
+PacketstormSecurity,SyncBreeze 10.0.28 Denial Of Service,https://packetstormsecurity.com/files/160614/syncbreeze10028-dos.txt,https://j.mp/3hcMJBD
+PacketstormSecurity,Alumni Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160613/ams10-sql.txt,https://j.mp/3p863Tk
+PacketstormSecurity,Smart Hospital 3.1 Cross Site Scripting,https://packetstormsecurity.com/files/160612/smarthospital31-xss.txt,https://j.mp/37tjl6F
+PacketstormSecurity,Point Of Sale System 1.0 SQL Injection,https://packetstormsecurity.com/files/160611/poss10-sql.txt,https://j.mp/3mvxV1N
+PacketstormSecurity,Alumni Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/160610/alumnims10-shell.txt,https://j.mp/3gXoJCg
