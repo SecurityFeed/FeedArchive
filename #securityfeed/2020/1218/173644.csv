@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-14476 (netcrunch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-14476,https://j.mp/3ns75ZL
+NVD-NIST,CVE-2020-13518 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13518,https://j.mp/3aoViHZ
+NVD-NIST,CVE-2020-14302 (keycloak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14302,https://j.mp/3auLPz3
+NVD-NIST,CVE-2020-26259 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26259,https://j.mp/3h1G2SG
+NVD-NIST,CVE-2020-26273 (osquery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26273,https://j.mp/3hcmlI5
+NVD-NIST,CVE-2020-29361 (p11-kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29361,https://j.mp/2LOjFoi
+NVD-NIST,CVE-2020-29436 (nexus_repository_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29436,https://j.mp/3akSZ8R
+NVD-NIST,CVE-2020-29607 (pluck),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29607,https://j.mp/3mxYRhx
+NVD-NIST,CVE-2020-29663 (icinga),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29663,https://j.mp/37w3X9R
+NVD-NIST,CVE-2020-35188 (chronograf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35188,https://j.mp/3r6JobE
+NVD-NIST,CVE-2020-35190 (plone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35190,https://j.mp/3nyfWJw
+NVD-NIST,CVE-2020-35191 (drupal_docker_images),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35191,https://j.mp/3rbuml2
+NVD-NIST,CVE-2020-35192 (vault),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35192,https://j.mp/2KxwaE1
+NVD-NIST,CVE-2020-35194 (influxdb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35194,https://j.mp/3gYJaP4
+NVD-NIST,CVE-2020-35195 (haproxy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35195,https://j.mp/38lfLuN
+NVD-NIST,CVE-2020-35196 (rabbitmq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35196,https://j.mp/3h3DPGu
+NVD-NIST,CVE-2020-35197 (memcached),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35197,https://j.mp/2J60QvQ
+NVD-NIST,CVE-2020-35467 (docs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35467,https://j.mp/2LSznPn
+NVD-NIST,CVE-2020-5682 (growi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5682,https://j.mp/3h79pD5
