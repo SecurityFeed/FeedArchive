@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-22083 (jsonpickle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22083,https://j.mp/2WGdJQx
+NVD-NIST,CVE-2020-25606 (micollab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25606,https://j.mp/3rbMfzV
+NVD-NIST,"CVE-2020-29479 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29479,https://j.mp/2J0riXw
+NVD-NIST,"CVE-2020-29480 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29480,https://j.mp/37uxHnd
+NVD-NIST,"CVE-2020-29482 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29482,https://j.mp/3p1T8Cf
+NVD-NIST,"CVE-2020-29483 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29483,https://j.mp/3h2NIUU
+NVD-NIST,CVE-2020-29567 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29567,https://j.mp/3mvvgVR
+NVD-NIST,CVE-2020-29568 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29568,https://j.mp/2KxTH7P
+NVD-NIST,"CVE-2020-29569 (debian_linux, linux_kernel, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29569,https://j.mp/3p8Hq8G
+NVD-NIST,"CVE-2020-29570 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29570,https://j.mp/37u2pwO
+NVD-NIST,"CVE-2020-29571 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29571,https://j.mp/3h1z0gF
+NVD-NIST,CVE-2020-35133 (irfanview),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35133,https://j.mp/3h0GiRL
+NVD-NIST,CVE-2020-35189 (kong_alpine_docker_image),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35189,https://j.mp/2Wvrlhj
+NVD-NIST,"CVE-2020-35479 (debian_linux, mediawiki)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35479,https://j.mp/2WzukFf
+NVD-NIST,CVE-2020-35552 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35552,https://j.mp/2J39Y4n
+NVD-NIST,CVE-2020-35553 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35553,https://j.mp/3h1pR83
+NVD-NIST,CVE-2020-7781 (connection-tester),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7781,https://j.mp/2LJGvgB
