@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14368 (che),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14368,https://j.mp/3ny0g8Z
+NVD-NIST,"CVE-2020-15796 (simatic_et_200sp_open_controller_firmware, simatic_s7-1500_software_controller_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15796,https://j.mp/2J1fep9
+NVD-NIST,"CVE-2020-29566 (debian_linux, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29566,https://j.mp/2K903ea
+NVD-NIST,CVE-2020-4849 (tivoli_netcool/impact),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4849,https://j.mp/2LE9vq2
+NVD-NIST,CVE-2020-8935 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8935,https://j.mp/2K63W3v
+NVD-NIST,CVE-2020-8936 (asylo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8936,https://j.mp/2Kjii0h
