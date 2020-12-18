@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-24693 (micontact_center_business),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24693,https://j.mp/3nBvUSY
+NVD-NIST,CVE-2020-26276 (fleet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26276,https://j.mp/38fmhTH
+NVD-NIST,CVE-2020-35185 (ghost_alpine_docker_image),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35185,https://j.mp/2WtVIEY
+NVD-NIST,CVE-2020-35474 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35474,https://j.mp/37wNjH6
+NVD-NIST,CVE-2020-35490 (jackson-databind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35490,https://j.mp/37yMVYG
+NVD-NIST,CVE-2020-35491 (jackson-databind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35491,https://j.mp/37vvaZX
+NVD-NIST,CVE-2020-35550 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35550,https://j.mp/34oi8Mc
+NVD-NIST,CVE-2020-35551 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35551,https://j.mp/2WqX8Qv
+NVD-NIST,CVE-2020-5359 (bsafe_micro_edition_suite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5359,https://j.mp/2J32tud
+NVD-NIST,CVE-2020-5360 (bsafe_micro_edition_suite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5360,https://j.mp/2J5CnGY
+NVD-NIST,CVE-2020-7837 (polaris_ml_report),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7837,https://j.mp/37wK16L
