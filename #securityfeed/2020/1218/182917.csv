@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9j6-4pjr-gp48] Path Traversal in MPXJ,https://github.com/advisories/GHSA-p9j6-4pjr-gp48,https://j.mp/3r8Bvm7
+GithubAdvisories,[GHSA-45q2-34rf-mr94] Code Injection in mquery,https://github.com/advisories/GHSA-45q2-34rf-mr94,https://j.mp/2LGXY9u
+GithubAdvisories,[GHSA-ffxg-xm4w-3wg9] Command Injection in corenlp-js-interface,https://github.com/advisories/GHSA-ffxg-xm4w-3wg9,https://j.mp/3gXbGAM
