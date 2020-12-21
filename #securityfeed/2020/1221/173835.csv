@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13512 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13512,https://j.mp/3h7t2e6
+NVD-NIST,CVE-2020-13513 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13513,https://j.mp/2WylrMa
+NVD-NIST,CVE-2020-13514 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13514,https://j.mp/2WByLzu
+NVD-NIST,CVE-2020-13515 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13515,https://j.mp/38q0JDR
+NVD-NIST,CVE-2020-13519 (cam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13519,https://j.mp/34zmnEG
+NVD-NIST,CVE-2020-25618 (n-central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25618,https://j.mp/2WzQbMX
+NVD-NIST,CVE-2020-25619 (n-central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25619,https://j.mp/3mEjRmD
+NVD-NIST,CVE-2020-25620 (n-central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25620,https://j.mp/2J8xTzg
+NVD-NIST,CVE-2020-26176 (business_workflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26176,https://j.mp/3rhVleJ
+NVD-NIST,CVE-2020-26177 (business_workflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26177,https://j.mp/3mMAqNz
+NVD-NIST,"CVE-2020-35475 (debian_linux, mediawiki)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35475,https://j.mp/3nGZJBH
+NVD-NIST,"CVE-2020-35477 (debian_linux, mediawiki)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35477,https://j.mp/37DuSAD
+NVD-NIST,CVE-2020-7200 (systems_insight_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7200,https://j.mp/3asWA4N
+NVD-NIST,CVE-2020-7203 (ilo_amplifier_pack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7203,https://j.mp/34zmqAm
