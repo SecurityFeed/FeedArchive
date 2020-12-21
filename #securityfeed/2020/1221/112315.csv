@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Sony Playstation 4 (PS4) < 7.02 - 'ValidationMessage::buildBubbleTree()' Use-After-Free WebKit Code Execution (PoC),https://www.exploit-db.com/exploits/49309,https://j.mp/3pcodmN
+ExploitDB,[webapps] Sony Playstation 4 (PS4) < 6.72 - 'ValidationMessage::buildBubbleTree()' Use-After-Free WebKit Code Execution (PoC),https://www.exploit-db.com/exploits/49308,https://j.mp/3h3lZTW
+ExploitDB,[webapps] Online Marriage Registration System 1.0 - 'searchdata' SQL Injection,https://www.exploit-db.com/exploits/49307,https://j.mp/3pamEFL
+ExploitDB,[webapps] Point of Sale System 1.0 - Multiple Stored XSS,https://www.exploit-db.com/exploits/49306,https://j.mp/38DuTUv
+ExploitDB,[webapps] Flexmonster Pivot Table & Charts 2.7.17 - 'Remote JSON' Reflected XSS,https://www.exploit-db.com/exploits/49305,https://j.mp/2LNI656
+ExploitDB,[webapps] Flexmonster Pivot Table & Charts 2.7.17 - 'To remote CSV' Reflected XSS,https://www.exploit-db.com/exploits/49304,https://j.mp/2J6UOuL
+ExploitDB,[webapps] Flexmonster Pivot Table & Charts 2.7.17 - 'To OLAP' Reflected XSS,https://www.exploit-db.com/exploits/49303,https://j.mp/3raAUQK
+ExploitDB,[webapps] Flexmonster Pivot Table & Charts 2.7.17 - 'Remote Report' Reflected XSS,https://www.exploit-db.com/exploits/49302,https://j.mp/34xo7OR
