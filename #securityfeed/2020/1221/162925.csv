@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cch-wxpw-8p28] A Server-Side Forgery Request can be activated unmarshalling with XStream,https://github.com/advisories/GHSA-4cch-wxpw-8p28,https://j.mp/3rc8iqt
+GithubAdvisories,[GHSA-jfvx-7wrx-43fh] XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling,https://github.com/advisories/GHSA-jfvx-7wrx-43fh,https://j.mp/3h9H7rO
+GithubAdvisories,[GHSA-vqqx-jw6p-q3rf] Cross-Site Scripting in Fluid view helpers,https://github.com/advisories/GHSA-vqqx-jw6p-q3rf,https://j.mp/2Wy7oGq
+GithubAdvisories,[GHSA-5fw9-fq32-wv5p] OS Command Injection in node-notifier,https://github.com/advisories/GHSA-5fw9-fq32-wv5p,https://j.mp/34xb2VD
