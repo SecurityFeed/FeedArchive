@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9f66-54xg-pc2c] Open redirect vulnerability,https://github.com/advisories/GHSA-9f66-54xg-pc2c,https://j.mp/3nGnDgD
+GithubAdvisories,[GHSA-8pfh-mm2g-hmc3] Authenticated Server Side Request Forgery,https://github.com/advisories/GHSA-8pfh-mm2g-hmc3,https://j.mp/3rpUoBh
+GithubAdvisories,[GHSA-cq6h-w3mc-57f4] Information exposure via query strings in URL,https://github.com/advisories/GHSA-cq6h-w3mc-57f4,https://j.mp/2JaoJCv
+GithubAdvisories,[GHSA-5q58-x5h2-v5rx] Authenticated Privilege Escalation,https://github.com/advisories/GHSA-5q58-x5h2-v5rx,https://j.mp/2Wxh1W0
