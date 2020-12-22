@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14224 (notes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14224,https://j.mp/3mDmyoJ
+NVD-NIST,CVE-2020-14271 (hcl_inotes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14271,https://j.mp/3hbW8ZX
+NVD-NIST,CVE-2020-15292 (hypervisor_introspection),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15292,https://j.mp/38wJC3v
+NVD-NIST,CVE-2020-21377 (yunyecms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-21377,https://j.mp/2WE1ns8
+NVD-NIST,CVE-2020-21378 (seacms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-21378,https://j.mp/3hc6Ak8
+NVD-NIST,CVE-2020-28052 (legion-of-the-bouncy-castle-java-crytography-api),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28052,https://j.mp/3aEgYQr
+NVD-NIST,CVE-2020-35273 (user_registration_&_login_system_with_admin_panel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35273,https://j.mp/37IsFna
+NVD-NIST,"CVE-2020-35497 (ovirt-engine, virtualization)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35497,https://j.mp/3rmRRYs
+NVD-NIST,CVE-2020-35555 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35555,https://j.mp/3nGB2W0
+NVD-NIST,CVE-2020-4080 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4080,https://j.mp/3aB2hhe
+NVD-NIST,CVE-2020-4555 (financial_transaction_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4555,https://j.mp/3mHhfob
+NVD-NIST,CVE-2020-4757 (content_navigator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4757,https://j.mp/37GWrsJ
+NVD-NIST,"CVE-2020-4794 (automation_workstream_services, business_automation_workflow, business_process_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4794,https://j.mp/2KLgnlh
+NVD-NIST,CVE-2020-4988 (loopback),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4988,https://j.mp/3pfC8IH
+NVD-NIST,"CVE-2020-7201 (storeever_1/8_g2_tape_autoloader_firmware, storeever_msl2024_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7201,https://j.mp/3mJ9iyE
