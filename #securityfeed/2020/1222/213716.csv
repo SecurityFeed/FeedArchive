@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-15632 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15632,https://j.mp/3mJYznA
+NVD-NIST,CVE-2018-15633 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15633,https://j.mp/3aC9z4m
+NVD-NIST,CVE-2018-15634 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15634,https://j.mp/3hbhs1A
+NVD-NIST,CVE-2018-15638 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15638,https://j.mp/2WBA2GX
+NVD-NIST,CVE-2018-15641 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15641,https://j.mp/2KM8xaT
+NVD-NIST,CVE-2018-7580 (hue_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-7580,https://j.mp/38rLHxA
+NVD-NIST,CVE-2020-15294 (hypervisor_introspection),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15294,https://j.mp/37EMITJ
+NVD-NIST,CVE-2020-25901 (spiceworks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25901,https://j.mp/3hfCwUL
+NVD-NIST,CVE-2020-26251 (open_zaak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26251,https://j.mp/2WCBEjN
+NVD-NIST,CVE-2020-26280 (openslides),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26280,https://j.mp/2KuE9lt
+NVD-NIST,"CVE-2020-27254 (x-stream_enhanced_xefd_firmware, x-stream_enhanced_xegk_firmware, x-stream_enhanced_xegp_firmware, x-stream_enhanced_xexf_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27254,https://j.mp/3hbAi8R
+NVD-NIST,CVE-2020-27780 (linux-pam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27780,https://j.mp/3rlPcy9
+NVD-NIST,CVE-2020-29447 (crucible),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29447,https://j.mp/2M2uovt
+NVD-NIST,"CVE-2020-35573 (debian_linux, postsrsd)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35573,https://j.mp/3mFnjNT
+NVD-NIST,CVE-2020-35579 (subconverter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35579,https://j.mp/3h9OaAy
+NVD-NIST,CVE-2020-35589 (limit_login_attempts_reloaded),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35589,https://j.mp/2KM8CeH
+NVD-NIST,CVE-2020-35590 (limit_login_attempts_reloaded),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35590,https://j.mp/34Cl08l
+NVD-NIST,CVE-2020-35605 (kitty),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35605,https://j.mp/2M0PMkJ
+NVD-NIST,CVE-2020-35606 (webmin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35606,https://j.mp/3hbhypY
+NVD-NIST,"CVE-2020-6881 (zxhn_e8810_firmware, zxhn_e8820_firmware, zxhn_e8822_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6881,https://j.mp/2LQcMTh
+NVD-NIST,"CVE-2020-6882 (zxhn_e8810_firmware, zxhn_e8820_firmware, zxhn_e8822_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6882,https://j.mp/3hbhsi6
