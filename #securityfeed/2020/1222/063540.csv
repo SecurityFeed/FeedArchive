@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-20300 (weiphp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20300,https://j.mp/37Ddw6D
+NVD-NIST,CVE-2020-25494 (openserver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25494,https://j.mp/3nKjzMC
+NVD-NIST,CVE-2020-25495 (openserver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25495,https://j.mp/34R1oNV
+NVD-NIST,CVE-2020-4840 (security_secret_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4840,https://j.mp/3hdjcHJ
+NVD-NIST,CVE-2020-4841 (security_secret_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4841,https://j.mp/34zP5oU
+NVD-NIST,CVE-2020-4842 (security_secret_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4842,https://j.mp/3pfHoMo
+NVD-NIST,CVE-2020-4870 (mq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4870,https://j.mp/3mGIv6i
