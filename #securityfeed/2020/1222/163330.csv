@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] 10-Strike Network Inventory Explorer Pro 9.05 - Buffer Overflow (SEH),https://www.exploit-db.com/exploits/49322,https://j.mp/3nH07A5
+ExploitDB,[webapps] TerraMaster TOS 4.2.06 - RCE (Unauthenticated),https://www.exploit-db.com/exploits/49321,https://j.mp/3rkeKvx
+ExploitDB,[webapps] Faculty Evaluation System 1.0 - Stored XSS,https://www.exploit-db.com/exploits/49320,https://j.mp/2WFU1UK
+ExploitDB,[webapps] Artworks Gallery Management System 1.0 - 'id' SQL Injection,https://www.exploit-db.com/exploits/49319,https://j.mp/3pep5r1
