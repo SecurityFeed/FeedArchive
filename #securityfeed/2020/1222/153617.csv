@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-11974 (dolphinscheduler),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-11974,https://j.mp/34wsIAL
+NVD-NIST,"CVE-2020-13527 (sgx_firmware, xport_edge_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13527,https://j.mp/3hhr2Ab
+NVD-NIST,CVE-2020-13528 (xport_edge_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13528,https://j.mp/2KRxPEr
+NVD-NIST,CVE-2020-13535 (linkmaster),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13535,https://j.mp/3rkpv0K
+NVD-NIST,CVE-2020-17520 (pulsar_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17520,https://j.mp/2JibrUA
+NVD-NIST,"CVE-2020-27640 (mivoice_6930_firmware, mivoice_6940_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27640,https://j.mp/2WDzwIA
