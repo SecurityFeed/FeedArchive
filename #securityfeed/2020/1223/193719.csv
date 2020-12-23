@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-11781 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-11781,https://j.mp/2Je4aoy
+NVD-NIST,CVE-2020-14231 (hcl_client_application_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14231,https://j.mp/3aC2yQX
+NVD-NIST,CVE-2020-14270 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14270,https://j.mp/2WFhrd9
+NVD-NIST,CVE-2020-14874 (cloud_infrastructure_identity_and_access_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14874,https://j.mp/34F2VX4
+NVD-NIST,CVE-2020-25066 (tcp/ip),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25066,https://j.mp/3aCD71y
+NVD-NIST,CVE-2020-25106 (supremo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25106,https://j.mp/38oOgQI
+NVD-NIST,CVE-2020-25194 (nport_iaw5000a-i/o_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25194,https://j.mp/3mTbeVH
+NVD-NIST,CVE-2020-25196 (nport_iaw5000a-i/o_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25196,https://j.mp/3mF8iM4
+NVD-NIST,CVE-2020-25198 (nport_iaw5000a-i/o_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25198,https://j.mp/3rocjIq
+NVD-NIST,CVE-2020-26281 (async-h1),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26281,https://j.mp/2WIRXvs
+NVD-NIST,CVE-2020-28448 (multi-ini),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28448,https://j.mp/3hcGTQo
+NVD-NIST,CVE-2020-28460 (multi-ini),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28460,https://j.mp/37I5cm8
+NVD-NIST,"CVE-2020-28641 (endpoint_protection, malwarebytes)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28641,https://j.mp/3nLLvj4
+NVD-NIST,CVE-2020-29396 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29396,https://j.mp/3hikUrl
+NVD-NIST,CVE-2020-35136 (dolibarr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35136,https://j.mp/3pcebSG
+NVD-NIST,CVE-2020-35608 (azure_sphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35608,https://j.mp/2KMAzTI
+NVD-NIST,CVE-2020-35609 (azure_sphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35609,https://j.mp/2WHR860
+NVD-NIST,CVE-2020-35623 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35623,https://j.mp/3mKMxKL
+NVD-NIST,CVE-2020-35625 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35625,https://j.mp/38AaOy4
+NVD-NIST,CVE-2020-35650 (uncanny_groups_for_learndash),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35650,https://j.mp/2WIH9NC
+NVD-NIST,CVE-2020-35656 (jaws),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35656,https://j.mp/3hgpl6g
+NVD-NIST,CVE-2020-35657 (jaws),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35657,https://j.mp/3mKMr5R
+NVD-NIST,"CVE-2020-3999 (esxi, fusion, workstation)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-3999,https://j.mp/3hfXe6R
