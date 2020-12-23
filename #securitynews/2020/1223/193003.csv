@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"CVE-2020-8554 is a vulnerability that particularly affects multi-tenant Kubernetes clusters. If a potential attacker can create or edit services and pods, then they may be able to intercept traffic. Learn how to detect CVE-2020-8554 using open source Falco",https://redd.it/kiz6go,
