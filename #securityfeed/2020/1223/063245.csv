@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-16959 (webhelpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-16959,https://j.mp/38tiW3l
+NVD-NIST,CVE-2020-24578 (dsl2888a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24578,https://j.mp/38uMdL5
+NVD-NIST,CVE-2020-24579 (dsl2888a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24579,https://j.mp/3h98sKA
+NVD-NIST,CVE-2020-24580 (dsl2888a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24580,https://j.mp/34znT9K
+NVD-NIST,CVE-2020-24581 (dsl2888a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24581,https://j.mp/2M3lOwv
+NVD-NIST,CVE-2020-25860 (rauc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25860,https://j.mp/3azTxYq
+NVD-NIST,"CVE-2020-27781 (ceph, ceph_storage, openshift_container_platform, openstack_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27781,https://j.mp/34ykqbB
