@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-15645 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-15645,https://j.mp/2KnuAoI
+NVD-NIST,CVE-2019-11782 (odoo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-11782,https://j.mp/34Eaw8o
+NVD-NIST,CVE-2020-13557 (foxit_reader),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13557,https://j.mp/3nKKF6b
+NVD-NIST,CVE-2020-13560 (foxit_reader),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13560,https://j.mp/3ryR7Q6
+NVD-NIST,CVE-2020-13570 (foxit_reader),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13570,https://j.mp/3pgEPty
+NVD-NIST,CVE-2020-14225 (hcl_inotes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14225,https://j.mp/3rq0oJV
+NVD-NIST,"CVE-2020-24676 (symphony_+_historian, symphony_+_operations)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24676,https://j.mp/3pkjcIK
+NVD-NIST,CVE-2020-26263 (tlslite-ng),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26263,https://j.mp/2WD4C2Z
+NVD-NIST,CVE-2020-26275 (jupyter_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26275,https://j.mp/2Jg5qrr
+NVD-NIST,CVE-2020-26277 (dbdeployer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26277,https://j.mp/2KvnmPn
+NVD-NIST,CVE-2020-26422 (wireshark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26422,https://j.mp/3mIh8Zl
+NVD-NIST,CVE-2020-27336 (ipv6),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27336,https://j.mp/3rqK4cb
+NVD-NIST,CVE-2020-27337 (ipv6),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27337,https://j.mp/37JHRAP
+NVD-NIST,CVE-2020-27338 (ipv6),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27338,https://j.mp/2KTwehn
+NVD-NIST,"CVE-2020-27846 (enterprise_linux, grafana, openshift_container_platform, openshift_service_mesh, saml)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27846,https://j.mp/37Is7xD
+NVD-NIST,CVE-2020-5803 (qconvergeconsole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5803,https://j.mp/37JYg8j
