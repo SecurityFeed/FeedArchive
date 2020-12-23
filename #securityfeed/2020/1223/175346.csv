@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2020-004,https://packetstormsecurity.com/files/160696/AST-2020-004.txt,https://j.mp/3phw96e
+PacketstormSecurity,Sales And Inventory System For Grocery Store 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160694/sisgs10-xss.txt,https://j.mp/38zgit5
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2020-003,https://packetstormsecurity.com/files/160693/AST-2020-003.txt,https://j.mp/3pi3az3
+PacketstormSecurity,Object Prototype Pollution Attack,https://packetstormsecurity.com/files/160692/object-prototype-pollution.pdf,https://j.mp/2KMkflU
+PacketstormSecurity,Online Learning Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160691/onlinelms10-xss.txt,https://j.mp/3rnKu2T
+PacketstormSecurity,Online Learning Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/160690/onlinelms10-sql.txt,https://j.mp/3aCn5Vn
+PacketstormSecurity,Class Scheduling System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160689/classss10-xss.txt,https://j.mp/2JeyEqw
+PacketstormSecurity,Baby Care System 1.0 SQL Injection,https://packetstormsecurity.com/files/160688/babycaresystem10-sql.txt,https://j.mp/3ro0mCm
+PacketstormSecurity,TerraMaster TOS 4.2.06 Remote Code Execution,https://packetstormsecurity.com/files/160687/terramastertos4206-exec.rb.txt,https://j.mp/34Bo04v
+PacketstormSecurity,10-Strike Network Inventory Explorer Pro 9.05 Buffer Overflow,https://packetstormsecurity.com/files/160686/10strikeniep905-overflow.txt,https://j.mp/3mK2DUY
+PacketstormSecurity,TerraMaster TOS 4.2.06 Remote Code Execution,https://packetstormsecurity.com/files/160685/terramastertos4206-exec.txt,https://j.mp/3nMU5On
+PacketstormSecurity,WordPress Epsilon Framework SSRF / Denial of Service,https://packetstormsecurity.com/files/160695/wpefmt-inject.txt,https://j.mp/3mKJFh4
