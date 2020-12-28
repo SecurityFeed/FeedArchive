@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-2499 (qes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2499,https://j.mp/3nXd20S
+NVD-NIST,CVE-2020-2503 (qes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2503,https://j.mp/3nYYApa
+NVD-NIST,CVE-2020-2504 (qes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2504,https://j.mp/3o8osiN
+NVD-NIST,CVE-2020-27717 (big-ip_domain_name_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27717,https://j.mp/3mS6wat
+NVD-NIST,CVE-2020-27723 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27723,https://j.mp/3pvdtzU
+NVD-NIST,CVE-2020-27726 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27726,https://j.mp/3aOFoXu
+NVD-NIST,"CVE-2020-27728 (big-ip_advanced_web_application_firewall, big-ip_application_security_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27728,https://j.mp/2Mf7DEE
+NVD-NIST,CVE-2020-27729 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27729,https://j.mp/3pugeS5
+NVD-NIST,CVE-2020-28184 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28184,https://j.mp/3hq4Fsr
+NVD-NIST,CVE-2020-28185 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28185,https://j.mp/3hlFZkS
+NVD-NIST,CVE-2020-28187 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28187,https://j.mp/3rAeZCY
+NVD-NIST,CVE-2020-28188 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28188,https://j.mp/3n1rRP2
+NVD-NIST,CVE-2020-28190 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28190,https://j.mp/3nV3gwz
+NVD-NIST,CVE-2020-29247 (wondercms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29247,https://j.mp/3nQbO7L
+NVD-NIST,CVE-2020-29472 (under_construction_page_with_cpanel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29472,https://j.mp/3pr0a3F
+NVD-NIST,CVE-2020-29474 (egm_address_book),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29474,https://j.mp/3hoF1Ef
