@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27714 (big-ip_advanced_firewall_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27714,https://j.mp/3hlhkNi
+NVD-NIST,"CVE-2020-27715 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27715,https://j.mp/3pyWzkb
+NVD-NIST,CVE-2020-27716 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27716,https://j.mp/3rBbN9R
+NVD-NIST,"CVE-2020-27718 (big-ip_advanced_web_application_firewall, big-ip_application_security_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27718,https://j.mp/3rBbNqn
+NVD-NIST,"CVE-2020-27719 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_advanced_web_application_firewall, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_ddos_hybrid_defender, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, ssl_orchestrator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27719,https://j.mp/3hofE5C
+NVD-NIST,"CVE-2020-27720 (big-ip_carrier-grade_nat, big-ip_local_traffic_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27720,https://j.mp/3aMTTem
+NVD-NIST,"CVE-2020-27721 (big-ip_domain_name_system, big-ip_global_traffic_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27721,https://j.mp/2KyHwbq
+NVD-NIST,CVE-2020-27722 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27722,https://j.mp/2KZalxl
+NVD-NIST,CVE-2020-27724 (big-ip_access_policy_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27724,https://j.mp/2WTdkdA
+NVD-NIST,"CVE-2020-27725 (big-ip_domain_name_system, big-ip_global_traffic_manager, big-ip_link_controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27725,https://j.mp/2KKvpIf
+NVD-NIST,"CVE-2020-27727 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27727,https://j.mp/3pxq9GO
+NVD-NIST,CVE-2020-28169 (td-agent-builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28169,https://j.mp/2WTNPIS
+NVD-NIST,CVE-2020-28186 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28186,https://j.mp/2KYZLXl
+NVD-NIST,CVE-2020-29189 (tos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29189,https://j.mp/3rAxC9S
+NVD-NIST,CVE-2020-35659 (pi-hole),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35659,https://j.mp/37UqaP5
+NVD-NIST,CVE-2020-35668 (redisgraph),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35668,https://j.mp/2WThu4V
+NVD-NIST,CVE-2020-35669 (http),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35669,https://j.mp/34R3xsO
+NVD-NIST,CVE-2020-35676 (online_invoicing_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35676,https://j.mp/38GOVNJ
+NVD-NIST,CVE-2020-35677 (online_invoicing_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35677,https://j.mp/3nUwITm
+NVD-NIST,CVE-2020-35704 (daybyday),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35704,https://j.mp/2M6xFty
+NVD-NIST,CVE-2020-35705 (daybyday),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35705,https://j.mp/34SbP3x
+NVD-NIST,CVE-2020-35706 (daybyday),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35706,https://j.mp/2KVSzLr
+NVD-NIST,CVE-2020-5684 (ism_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5684,https://j.mp/34PxxFf
+NVD-NIST,CVE-2020-9120 (cloudengine_1800v),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9120,https://j.mp/2Jp05Or
+NVD-NIST,"CVE-2020-9137 (cloudengine_12800_firmware, cloudengine_5800_firmware, cloudengine_6800_firmware, cloudengine_7800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9137,https://j.mp/3mX1tp8
