@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-26766 (user_registration_&_login_and_user_management_system_with_admin_panel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26766,https://j.mp/3mT6pM0
+NVD-NIST,CVE-2020-27515 (savsoft_quiz),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27515,https://j.mp/3puhCnN
+NVD-NIST,CVE-2020-29172 (litespeed_cache),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29172,https://j.mp/3ryiKZx
+NVD-NIST,"CVE-2020-29385 (gdk-pixbuf, ubuntu_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29385,https://j.mp/2L2E5t4
+NVD-NIST,CVE-2020-35346 (cxuucms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35346,https://j.mp/2L6qIZe
+NVD-NIST,CVE-2020-35347 (cxuucms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35347,https://j.mp/2KZqTFt
+NVD-NIST,CVE-2020-35707 (daybyday),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35707,https://j.mp/2L1kqd8
+NVD-NIST,CVE-2020-35708 (phplist),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35708,https://j.mp/2M9oyZ3
+NVD-NIST,CVE-2020-35709 (bloofoxcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35709,https://j.mp/2Mgy7FR
+NVD-NIST,CVE-2020-35713 (re6500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35713,https://j.mp/37UPyUD
+NVD-NIST,CVE-2020-35714 (re6500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35714,https://j.mp/2WSIQIs
+NVD-NIST,CVE-2020-35715 (re6500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35715,https://j.mp/2WPTikb
+NVD-NIST,CVE-2020-35716 (re6500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35716,https://j.mp/3aJgU1Y
+NVD-NIST,CVE-2020-9200 (imanager_neteco_6000),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9200,https://j.mp/3nXpkq7
+NVD-NIST,"CVE-2020-9201 (nip6800_firmware, secospace_usg6600_firmware, usg9500_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9201,https://j.mp/3nWoPN8
+NVD-NIST,CVE-2020-9202 (te_mobile),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9202,https://j.mp/2JpfUVl
