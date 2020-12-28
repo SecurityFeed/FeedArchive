@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4w46-w44m-3jq3] Parse Server stores password in plain text,https://github.com/advisories/GHSA-4w46-w44m-3jq3,https://j.mp/3nXwmv3
