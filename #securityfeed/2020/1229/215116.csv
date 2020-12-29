@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28759 (tengine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28759,https://j.mp/2WWK9pX
+NVD-NIST,CVE-2020-35242 (flamingo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35242,https://j.mp/2JsLaTs
+NVD-NIST,CVE-2020-35243 (flamingo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35243,https://j.mp/2X0Gwz3
+NVD-NIST,CVE-2020-35244 (flamingo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35244,https://j.mp/3obTR3T
+NVD-NIST,CVE-2020-35245 (flamingo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35245,https://j.mp/3hrBips
+NVD-NIST,"CVE-2020-35575 (archer_c5_firmware, archer_c7_firmware, mr3420_firmware, mr6400_firmware, wa701nd_firmware, wa801nd_firmware, wa901nd_firmware, wdr3500_firmware, wdr3600_firmware, we843n_firmware, wr1043nd_firmware, wr1045nd_firmware, wr740n_firmware, wr741nd_firmware, wr749n_firmware, wr802n_firmware, wr840n_firmware, wr841hp_firmware, wr841n_firmware, wr842n_firmware, wr842nd_firmware, wr845n_firmware, wr940n_firmware, wr941hp_firmware, wr945n_firmware, wr949n_firmware, wrd4300_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35575,https://j.mp/3rLhQsT
+NVD-NIST,CVE-2020-35736 (gateone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35736,https://j.mp/3pBL8b8
