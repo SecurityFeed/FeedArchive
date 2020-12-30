@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28282 (getobject),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28282,https://j.mp/3aRJ0rX
+NVD-NIST,CVE-2020-28283 (libnested),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28283,https://j.mp/34Zd8h9
+NVD-NIST,CVE-2020-35779 (nms300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35779,https://j.mp/3rK7Hwy
+NVD-NIST,CVE-2020-35780 (nms300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35780,https://j.mp/38RxXfs
+NVD-NIST,CVE-2020-35781 (nms300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35781,https://j.mp/3mYJ5MJ
+NVD-NIST,"CVE-2020-35790 (d7800_firmware, r7800_firmware, r8900_firmware, r9000_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35790,https://j.mp/3n83OxW
+NVD-NIST,"CVE-2020-35791 (r7800_firmware, r8900_firmware, r9000_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35791,https://j.mp/3mVTjgU
+NVD-NIST,"CVE-2020-35794 (rbk752_firmware, rbk852_firmware, rbr750_firmware, rbr850_firmware, rbs40v_firmware, rbs750_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35794,https://j.mp/3pzGQkK
