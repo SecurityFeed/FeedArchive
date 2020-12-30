@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28275 (cache-base),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28275,https://j.mp/382zUqx
+NVD-NIST,CVE-2020-28276 (deep-set),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28276,https://j.mp/380Rlry
+NVD-NIST,CVE-2020-28277 (dset),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28277,https://j.mp/3pDS9bQ
+NVD-NIST,CVE-2020-28278 (shvl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28278,https://j.mp/38LkeqB
+NVD-NIST,CVE-2020-28279 (flattenizer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28279,https://j.mp/3hsvaNZ
+NVD-NIST,CVE-2020-28280 (predefine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28280,https://j.mp/2KHgmz8
+NVD-NIST,CVE-2020-35769 (webmin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35769,https://j.mp/380luXT
+NVD-NIST,CVE-2020-35773 (site_offline),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35773,https://j.mp/2L4JG2n
+NVD-NIST,CVE-2020-35774 (twitter-server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35774,https://j.mp/37XTYdA
+NVD-NIST,CVE-2020-5801 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5801,https://j.mp/3aWhQjp
+NVD-NIST,CVE-2020-5802 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5802,https://j.mp/2X03t5q
+NVD-NIST,CVE-2020-5806 (factorytalk_linx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5806,https://j.mp/3aTkwhM
+NVD-NIST,CVE-2020-5807 (factorytalk_diagnostics),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5807,https://j.mp/3n4WTp0
+NVD-NIST,CVE-2020-9093 (taurus-al00a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9093,https://j.mp/381xqIR
