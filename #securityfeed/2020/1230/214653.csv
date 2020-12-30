@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28281 (set-object-value),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28281,https://j.mp/3pFBTGX
+NVD-NIST,CVE-2020-29194 (wv-s2231l_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29194,https://j.mp/3rAMm8F
+NVD-NIST,CVE-2020-35777 (dgn2200v1_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35777,https://j.mp/3o1pDAv
+NVD-NIST,"CVE-2020-35778 (gs716t_firmware, gs724t_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35778,https://j.mp/385kHoJ
+NVD-NIST,CVE-2020-35786 (r7800_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35786,https://j.mp/3n5dV6q
+NVD-NIST,CVE-2020-35788 (wac104_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35788,https://j.mp/2L88vdK
+NVD-NIST,CVE-2020-35789 (nms300_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35789,https://j.mp/3htLWMB
+NVD-NIST,CVE-2020-9208 (imanager_neteco_6000),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9208,https://j.mp/3pzQGmx
+NVD-NIST,"CVE-2020-9223 (honor_20_pro_firmware, princeton-al10d_firmware, yale-l21a_firmware, yale-l61a_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9223,https://j.mp/3huuSWC
