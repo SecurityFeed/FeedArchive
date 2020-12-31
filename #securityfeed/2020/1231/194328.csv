@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-10148 (orion_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10148,https://j.mp/2JzE0gn
+NVD-NIST,"CVE-2020-35835 (d7800_firmware, r7500v2_firmware, r7800_firmware, r8900_firmware, r9000_firmware, rax120_firmware, xr500_firmware, xr700_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35835,https://j.mp/2WZfyIf
+NVD-NIST,"CVE-2020-35838 (d7800_firmware, r7500v2_firmware, r7800_firmware, r8900_firmware, r9000_firmware, rax120_firmware, xr500_firmware, xr700_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35838,https://j.mp/2JCRPL0
