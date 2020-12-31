@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-35821 (d7800_firmware, r7800_firmware, r8900_firmware, r9000_firmware, rax120_firmware, rbk20_firmware, rbk40_firmware, rbk50_firmware, rbr20_firmware, rbr40_firmware, rbr50_firmware, rbs20_firmware, rbs40_firmware, rbs50_firmware, xr700_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35821,https://j.mp/3nZbp2V
+NVD-NIST,"CVE-2020-35827 (d7800_firmware, r7800_firmware, r8900_firmware, r9000_firmware, rax120_firmware, rbk50_firmware, rbr50_firmware, rbs50_firmware, xr500_firmware, xr700_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35827,https://j.mp/2Le7wsc
+NVD-NIST,"CVE-2020-35837 (d7800_firmware, r7500v2_firmware, r7800_firmware, r8900_firmware, r9000_firmware, rax120_firmware, xr500_firmware, xr700_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35837,https://j.mp/3hvyJ5Q
+NVD-NIST,"CVE-2020-35840 (d6200_firmware, d7000_firmware, jnr1010v2_firmware, jr6150_firmware, jwnr2010v5_firmware, r6020_firmware, r6050_firmware, r6080_firmware, r6120_firmware, r6220_firmware, r6260_firmware, wnr1000v4_firmware, wnr2020_firmware, wnr2050_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35840,https://j.mp/38PAZ46
+NVD-NIST,"CVE-2020-35842 (d6200_firmware, d7000_firmware, jnr1010v2_firmware, jr6150_firmware, jwnr2010v5_firmware, r6020_firmware, r6050_firmware, r6080_firmware, r6120_firmware, r6220_firmware, r6260_firmware, wnr1000v4_firmware, wnr2020_firmware, wnr2050_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35842,https://j.mp/3pyIAuo
+NVD-NIST,CVE-2020-35846 (cockpit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35846,https://j.mp/3o4NuPE
+NVD-NIST,CVE-2020-35847 (cockpit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35847,https://j.mp/38NNwVH
+NVD-NIST,CVE-2020-35848 (cockpit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35848,https://j.mp/3rMuVSK
+NVD-NIST,CVE-2020-8289 (backblaze),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8289,https://j.mp/34YXget
+NVD-NIST,CVE-2020-8290 (backblaze),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8290,https://j.mp/34VB8Sk
