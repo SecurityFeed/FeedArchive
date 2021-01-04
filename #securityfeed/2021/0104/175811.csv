@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+PacketstormSecurity,BACKDOOR.WIN32.BNLITE Remote Heap Corruption,https://packetstormsecurity.com/files/160776/MVID-2021-0012.txt,https://j.mp/3hFmCmZ
+PacketstormSecurity,Phorpiex Insecure Permissions / Privilege Escalation,https://packetstormsecurity.com/files/160774/MVID-2021-0007.txt,https://j.mp/3og8Byn
+PacketstormSecurity,SQLMAP - Automatic SQL Injection Tool 1.5,https://packetstormsecurity.com/files/160777/sqlmap-1.5.tar.gz,https://j.mp/38ZMuGb
+PacketstormSecurity,tcpdump 4.99.0,https://packetstormsecurity.com/files/160775/tcpdump-4.99.0.tar.gz,https://j.mp/3neMaZl
+PacketstormSecurity,libpcap 1.10.0,https://packetstormsecurity.com/files/160773/libpcap-1.10.0.tar.gz,https://j.mp/3hGP3Rq
+PacketstormSecurity,Haveged 1.9.14,https://packetstormsecurity.com/files/160771/haveged-1.9.14.tar.gz,https://j.mp/3neo40w
+PacketstormSecurity,TROJAN.WIN32.JORIK.DMSPAMMER.SZ Remote Memory Corruption,https://packetstormsecurity.com/files/160769/MVID-2021-0008.txt,https://j.mp/3or9B37
+PacketstormSecurity,HEUR.RISKTOOL.WIN32.BITMINER.GEN Remote Memory Corruption / Null Pointer,https://packetstormsecurity.com/files/160768/MVID-2021-0009.txt,https://j.mp/3hLcZTF
+PacketstormSecurity,CRUD Operation Software 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160767/crud10-xss.txt,https://j.mp/3b6rkJ6
