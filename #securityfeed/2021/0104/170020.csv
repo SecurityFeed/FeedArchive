@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Rock RMS File Upload / Account Takeover / Information Disclosure,https://packetstormsecurity.com/files/160766/rockrms-uploadtakeover.txt,https://j.mp/3pRUK1V
+PacketstormSecurity,Backdoor.Win32.Zombam.j Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160765/MVID-2021-0006.txt,https://j.mp/3rTd8t6
+PacketstormSecurity,Red Hat Security Advisory 2021-0003-01,https://packetstormsecurity.com/files/160764/RHSA-2021-0003-01.txt,https://j.mp/389ofWN
+PacketstormSecurity,BACKDOOR.WIN32.REMOTEMANIPULATOR Insecure Permissions,https://packetstormsecurity.com/files/160763/MVID-2021-0005.txt,https://j.mp/2L0ApIP
+PacketstormSecurity,BACKDOOR.WIN32.ADVERBOT Remote Stack Corruption,https://packetstormsecurity.com/files/160762/MVID-2021-0003.txt,https://j.mp/38cWjBx
+PacketstormSecurity,Resumes Management And Job Application Website 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160761/rmjaw10-xss.txt,https://j.mp/3hFtOiM
+PacketstormSecurity,Trojan:Win32/Alyak.B Remote Stack Corruption,https://packetstormsecurity.com/files/160760/MVID-2021-0004.txt,https://j.mp/3ocGIYg
+PacketstormSecurity,Email-Worm.Win32.Zhelatin.ago Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160759/MVID-2021-0014.txt,https://j.mp/393i0mL
+PacketstormSecurity,Trojan.Win32.Bayrob.cgau Insecure Permissions / Privilege Escalation,https://packetstormsecurity.com/files/160758/MVID-2021-0002.txt,https://j.mp/2LkipJm
+PacketstormSecurity,A Hands-On Introduction To Insecure Deserialization,https://packetstormsecurity.com/files/160757/insecure-deserialization-intro.pdf,https://j.mp/358OVFg
+PacketstormSecurity,Knockpy 4.1.1 CSV Injection,https://packetstormsecurity.com/files/160756/knockpy411-csvinject.txt,https://j.mp/3n9hWqF
+PacketstormSecurity,Curfew e-Pass Management 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160755/curfewepassmgmt10-xss.txt,https://j.mp/3rU35UA
+PacketstormSecurity,Trojan.Win32.Barjac Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160754/MVID-2021-0011.txt,https://j.mp/3pTNcM9
+PacketstormSecurity,Red Hat Security Advisory 2021-0004-01,https://packetstormsecurity.com/files/160753/RHSA-2021-0004-01.txt,https://j.mp/3oegch6
+PacketstormSecurity,Backdoor.Win32.Infexor.b Remote SEH Stack Buffer Overflow,https://packetstormsecurity.com/files/160752/MVID-2021-0010.txt,https://j.mp/3ofzS42
+PacketstormSecurity,Resumes Management And Job Application Website 1.0 Shell Upload,https://packetstormsecurity.com/files/160751/rmjaw10-shell.txt,https://j.mp/2KXYYWI
+PacketstormSecurity,Mantis Bug Tracker 2.24.3 SQL Injection,https://packetstormsecurity.com/files/160750/mantisbg2243-sql.txt,https://j.mp/3943XNT
+PacketstormSecurity,Win32 Backdoor 2019-02-ARTRADOWNLOADER SEH Buffer Overflow,https://packetstormsecurity.com/files/160749/MVID-2021-0013.txt,https://j.mp/390qcnF
+PacketstormSecurity,Trojan.Win32.Antavka.bz Insecure Permissions / Privilege Escalation,https://packetstormsecurity.com/files/160748/MVID-2021-0001.txt,https://j.mp/2KXYTlS
+PacketstormSecurity,Pimt 1.0,https://packetstormsecurity.com/files/160747/pimt-1.0.tar.gz,https://j.mp/2Lkij4s
+PacketstormSecurity,Gotenberg 6.2.0 Traversal / Code Execution / Insecure Permissions,https://packetstormsecurity.com/files/160744/gotenberg620-traversalexec.txt,https://j.mp/359VGXh
+PacketstormSecurity,Hyland Enterprise Search 11.2.2 Cross Site Scripting,https://packetstormsecurity.com/files/160743/hylandsearch1122-xss.txt,https://j.mp/3rVrfOg
+PacketstormSecurity,4images 1.7.11 Cross Site Scripting,https://packetstormsecurity.com/files/160746/4images1711pi-xss.txt,https://j.mp/2My59kU
+PacketstormSecurity,Easy CD And DVD Cover Creator 4.13 Denial Of Service,https://packetstormsecurity.com/files/160742/easycddvdcc413-dos.txt,https://j.mp/3oiBCcU
+PacketstormSecurity,MiniTool ShadowMaker 3.2 Unquoted Service Path,https://packetstormsecurity.com/files/160741/minitoolshadowmaker32-unquotedpath.txt,https://j.mp/3rUhXlG
