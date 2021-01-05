@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-35901 (actix-http),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35901,https://j.mp/38gOsCK
+NVD-NIST,CVE-2020-35902 (actix-codec),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35902,https://j.mp/2JRhiR0
+NVD-NIST,CVE-2020-4918 (cloud_pak_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4918,https://j.mp/2XdunXR
+NVD-NIST,CVE-2020-4919 (cloud_pak_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4919,https://j.mp/2Xd5SKf
+NVD-NIST,CVE-2021-3002 (seo_panel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3002,https://j.mp/3ogXjKk
