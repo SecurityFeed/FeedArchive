@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p4q6-qxjx-8jgp] Directory Traversal in spring-boot-actuator-logview,https://github.com/advisories/GHSA-p4q6-qxjx-8jgp,https://j.mp/3rYuIfh
