@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,SpamTitan 7.07 Command Injection,https://packetstormsecurity.com/files/160809/spamtitan_unauth_rce.rb.txt,https://j.mp/35bFqVT
+PacketstormSecurity,Node.js TLSWrap Use-After-Free,https://packetstormsecurity.com/files/160807/GS20210105163358.txt,https://j.mp/3hO1Ul0
+PacketstormSecurity,PLANEX CS-QP50F-ING2 Remote Configuration Disclosure,https://packetstormsecurity.com/files/160805/cs-qp50f_tester.pl.txt,https://j.mp/2XaBaBF
+PacketstormSecurity,Online Movie Streaming 1.0 SQL Injection,https://packetstormsecurity.com/files/160804/oms10-sql.txt,https://j.mp/2JQtXng
+PacketstormSecurity,ZyXEL Godmode Backdoor Account Scanner,https://packetstormsecurity.com/files/160803/zyHell.pl.txt,https://j.mp/3s4an8r
+PacketstormSecurity,Online Learning Management System 1.0 Remote Command Execution,https://packetstormsecurity.com/files/160802/onlinelms10-exec.txt,https://j.mp/2XjxHk1
+PacketstormSecurity,Red Hat Security Advisory 2021-0024-01,https://packetstormsecurity.com/files/160801/RHSA-2021-0024-01.txt,https://j.mp/3pRINct
+PacketstormSecurity,WordPress WP-Paginate 2.1.3 Cross Site Scripting,https://packetstormsecurity.com/files/160800/wppaginate213-xss.txt,https://j.mp/38hMja5
+PacketstormSecurity,WordPress Stripe Payments 2.0.39 Cross Site Scripting,https://packetstormsecurity.com/files/160799/wpstripepayments2039-xss.txt,https://j.mp/2XjxGMZ
+PacketstormSecurity,Klog Server 2.4.1 Command Injection,https://packetstormsecurity.com/files/160798/klogserver241-exec.txt,https://j.mp/2XaEU5V
+PacketstormSecurity,Resumes Management And Job Application Website 1.0 SQL Injection,https://packetstormsecurity.com/files/160796/rmjaw10-sql.txt,https://j.mp/3nhZT1w
+PacketstormSecurity,Responsive ELearning System 1.0 SQL Injection,https://packetstormsecurity.com/files/160795/responsivees10-sql.txt,https://j.mp/3rYkyLF
+PacketstormSecurity,Baby Care System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160794/babycaresystem10-xss.txt,https://j.mp/2XjxH3v
+PacketstormSecurity,Red Hat Security Advisory 2021-0019-01,https://packetstormsecurity.com/files/160793/RHSA-2021-0019-01.txt,https://j.mp/3rYJeTY
+PacketstormSecurity,Responsive FileManager 9.13.4 Path Traversal,https://packetstormsecurity.com/files/160792/responsivefm9134-traversal.txt,https://j.mp/3oiz26N
+PacketstormSecurity,Fluentd TD-agent 4.0.1 Insecure Folder Permission,https://packetstormsecurity.com/files/160791/fluentdtdagent401-insecure.txt,https://j.mp/2JL7CHy
+PacketstormSecurity,URLCrazy Domain Name Typo Tool 0.7.2,https://packetstormsecurity.com/files/160808/urlcrazy-0.7.2.tar.gz,https://j.mp/2XqfTEh
+PacketstormSecurity,CSZ CMS 1.2.9 Cross Site Scripting,https://packetstormsecurity.com/files/160789/cszcms129-xss.txt,https://j.mp/38gcbTK
+PacketstormSecurity,EgavilanMedia User Registration And Login System With Admin Panel 1.0 XSS,https://packetstormsecurity.com/files/160788/egavilanmediaurlsap10-xss.txt,https://j.mp/3oiDyCi
+PacketstormSecurity,Click2Magic 1.1.5 Cross Site Scripting,https://packetstormsecurity.com/files/160787/click2magic115-xss.txt,https://j.mp/2JKl5PQ
+PacketstormSecurity,Intel Matrix Storage Event Monitor 8.0.0.1039 Unquoted Service Path,https://packetstormsecurity.com/files/160786/intelmsem8001039-unquotedpath.txt,https://j.mp/3b7XSm4
+PacketstormSecurity,House Rental And Property Listing 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160785/hrpl10-xss.txt,https://j.mp/35cHAV6
