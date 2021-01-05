@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-25001 (libpulse-binding),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25001,https://j.mp/2LqKOx7
+NVD-NIST,CVE-2019-25001 (serde_cbor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-25001,https://j.mp/3pVg2eK
+NVD-NIST,CVE-2019-25002 (sodiumoxide),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-25002,https://j.mp/2LoW8Ka
+NVD-NIST,CVE-2020-35898 (actix-utils),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35898,https://j.mp/3nh1Efs
+NVD-NIST,CVE-2020-4917 (cloud_pak_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4917,https://j.mp/2MxVg6F
