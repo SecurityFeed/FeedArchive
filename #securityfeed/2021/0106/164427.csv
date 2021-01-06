@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Sonatype Nexus 3.21.1 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/49385,https://j.mp/35e8tIc
+ExploitDB,[local] H2 Database 1.4.199 - JNI Code Execution,https://www.exploit-db.com/exploits/49384,https://j.mp/2JTPNGu
+ExploitDB,[webapps] Gitea 1.7.5 - Remote Code Execution,https://www.exploit-db.com/exploits/49383,https://j.mp/2Xj2tK5
+ExploitDB,[local] PaperStream IP (TWAIN) 1.42.0.5685 - Local Privilege Escalation,https://www.exploit-db.com/exploits/49382,https://j.mp/2XtBL1z
+ExploitDB,[webapps] Resumes Management and Job Application Website 1.0 - Multiple Stored XSS,https://www.exploit-db.com/exploits/49381,https://j.mp/2LvvHCY
