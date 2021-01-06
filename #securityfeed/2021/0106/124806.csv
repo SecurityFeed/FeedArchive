@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Expense Tracker 1.0 - 'Expense Name' Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/49373,https://j.mp/2Xcqket
+ExploitDB,[webapps] IPeakCMS 3.5 - Boolean-based blind SQLi,https://www.exploit-db.com/exploits/49372,https://j.mp/3hLfNAp
+ExploitDB,[local] IObit Uninstaller 10 Pro - Unquoted Service Path,https://www.exploit-db.com/exploits/49371,https://j.mp/3hLfJk9
+ExploitDB,[local] dirsearch 0.4.1 - CSV Injection,https://www.exploit-db.com/exploits/49370,https://j.mp/3ne7AFS
+ExploitDB,[webapps] Advanced Webhost Billing System 3.7.0 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/49369,https://j.mp/2LkxMBr
