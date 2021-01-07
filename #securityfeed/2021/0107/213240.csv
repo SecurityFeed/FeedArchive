@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-24386 (debian_linux, dovecot)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24386,https://j.mp/399gbVi
+NVD-NIST,"CVE-2020-25275 (debian_linux, dovecot)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25275,https://j.mp/3oqPvFV
+NVD-NIST,CVE-2020-26292 (creeper),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26292,https://j.mp/2XmLsys
+NVD-NIST,CVE-2020-26293 (htmlsanitizer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26293,https://j.mp/2MDDYFb
+NVD-NIST,CVE-2020-35962 (loopring),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35962,https://j.mp/3nr1lyB
+NVD-NIST,CVE-2020-36067 (gjson),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36067,https://j.mp/3hZ8PYv
+NVD-NIST,CVE-2021-21495 (mk-auth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21495,https://j.mp/38obQyj
+NVD-NIST,CVE-2021-3004 (stableyieldcredit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3004,https://j.mp/2XhkJU2
+NVD-NIST,CVE-2021-3005 (mk-auth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3005,https://j.mp/3nvsAIw
+NVD-NIST,CVE-2021-3006 (seal_finance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3006,https://j.mp/38lRUvY
+NVD-NIST,CVE-2021-3018 (ipeakcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3018,https://j.mp/2JZUuyA
+NVD-NIST,CVE-2021-3019 (lanproxy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3019,https://j.mp/35kkfkw
