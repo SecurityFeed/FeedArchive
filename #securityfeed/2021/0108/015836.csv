@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rvgg-f8qm-6h7j] High severity vulnerability that affects io.vertx:vertx-web,https://github.com/advisories/GHSA-rvgg-f8qm-6h7j,https://j.mp/2JTNTpc
+GithubAdvisories,[GHSA-wqg7-vrj7-v82h] High severity vulnerability that affects mosca,https://github.com/advisories/GHSA-wqg7-vrj7-v82h,https://j.mp/2JTdcrp
