@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7378-6268-4278] High severity vulnerability that affects DotNetZip,https://github.com/advisories/GHSA-7378-6268-4278,https://j.mp/3bkMAeg
+GithubAdvisories,[GHSA-73rf-6mrf-759q] Moderate severity vulnerability that affects devise,https://github.com/advisories/GHSA-73rf-6mrf-759q,https://j.mp/35npnVb
+GithubAdvisories,[GHSA-778x-2mqv-w6xw] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-778x-2mqv-w6xw,https://j.mp/3owdrYs
+GithubAdvisories,[GHSA-77rv-6vfw-x4gc] Critical severity vulnerability that affects org.springframework.security.oauth:spring-security-oauth and org.springframework.security.oauth:spring-security-oauth2,https://github.com/advisories/GHSA-77rv-6vfw-x4gc,https://j.mp/35pWdV8
+GithubAdvisories,[GHSA-7f42-p84j-f58p] Moderate severity vulnerability that affects sanitize,https://github.com/advisories/GHSA-7f42-p84j-f58p,https://j.mp/2JVPaMr
+GithubAdvisories,[GHSA-8222-6fc8-mhvf] Low severity vulnerability that affects org.springframework.ws:spring-ws and org.springframework.ws:spring-xml,https://github.com/advisories/GHSA-8222-6fc8-mhvf,https://j.mp/2XlyPnh
+GithubAdvisories,[GHSA-899g-6q6w-7v94] Low severity vulnerability that affects m-server,https://github.com/advisories/GHSA-899g-6q6w-7v94,https://j.mp/3orW5vP
+GithubAdvisories,[GHSA-959q-32g8-vvp7] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-959q-32g8-vvp7,https://j.mp/3bkMAuM
