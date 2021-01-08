@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2012-10001 (limit_login_attempts),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-10001,https://j.mp/3hUdAm6
+NVD-NIST,CVE-2019-16954 (web_help_desk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-16954,https://j.mp/3sak6K7
+NVD-NIST,CVE-2019-16962 (manageengine_desktop_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-16962,https://j.mp/3no6wzr
+NVD-NIST,CVE-2020-10655 (insider_threat_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10655,https://j.mp/2LzDBv3
+NVD-NIST,CVE-2020-10656 (insider_threat_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10656,https://j.mp/3q053kq
+NVD-NIST,CVE-2020-10657 (insider_threat_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10657,https://j.mp/3blboTn
+NVD-NIST,CVE-2020-10658 (insider_threat_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10658,https://j.mp/35kSSHa
+NVD-NIST,CVE-2020-13452 (gotenberg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13452,https://j.mp/2Le1qZq
+NVD-NIST,CVE-2020-13541 (mobile-911_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13541,https://j.mp/38pAxdG
+NVD-NIST,CVE-2020-25498 (777vr1_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25498,https://j.mp/3osJA3p
+NVD-NIST,CVE-2020-27279 (crimson),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27279,https://j.mp/3bn7h9h
+NVD-NIST,CVE-2020-27283 (crimson),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27283,https://j.mp/2L6wBWI
+NVD-NIST,CVE-2020-29478 (ca_service_catalog),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29478,https://j.mp/3bkDe22
+NVD-NIST,"CVE-2020-35170 (powermax_os, unisphere)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35170,https://j.mp/2MBtw0X
+NVD-NIST,CVE-2020-36170 (ultimate_member),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36170,https://j.mp/3sfnSSP
+NVD-NIST,CVE-2020-36173 (ninja_forms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36173,https://j.mp/3hVRcIZ
+NVD-NIST,CVE-2020-36174 (ninja_forms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36174,https://j.mp/3osALXd
+NVD-NIST,CVE-2020-36175 (ninja_forms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36175,https://j.mp/2XpGcKw
+NVD-NIST,CVE-2020-4893 (emptoris_strategic_supply_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4893,https://j.mp/399dsLC
+NVD-NIST,CVE-2020-4895 (emptoris_strategic_supply_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4895,https://j.mp/3oxwDFm
+NVD-NIST,CVE-2020-4898 (emptoris_strategic_supply_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4898,https://j.mp/3s7wx9H
+NVD-NIST,CVE-2020-8884 (inside_threat_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8884,https://j.mp/3bkLcsb
+NVD-NIST,CVE-2021-21235 (kamadak-exif),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21235,https://j.mp/3hUdECm
