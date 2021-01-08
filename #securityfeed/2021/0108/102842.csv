@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Cockpit Version 234 - Server-Side Request Forgery (Unauthenticated),https://www.exploit-db.com/exploits/49397,https://j.mp/3bny7hE
+ExploitDB,[webapps] Online Doctor Appointment System 1.0 - Multiple Stored XSS,https://www.exploit-db.com/exploits/49396,https://j.mp/39eIEsO
+ExploitDB,[webapps] Life Insurance Management System 1.0 - Multiple Stored XSS,https://www.exploit-db.com/exploits/49395,https://j.mp/3nm0PSl
+ExploitDB,[local] dnsrecon 0.10.0 - CSV Injection,https://www.exploit-db.com/exploits/49394,https://j.mp/3nm0Vtb
