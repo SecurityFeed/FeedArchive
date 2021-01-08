@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxmj-qjv6-vx9p] Low severity vulnerability that affects mcstatic,https://github.com/advisories/GHSA-cxmj-qjv6-vx9p,https://j.mp/35mOpDw
+GithubAdvisories,[GHSA-f599-5m7p-hcpf] Moderate severity vulnerability that affects grape,https://github.com/advisories/GHSA-f599-5m7p-hcpf,https://j.mp/3osPIsi
+GithubAdvisories,[GHSA-g4xq-jx4w-4cjv] Moderate severity vulnerability that affects loofah,https://github.com/advisories/GHSA-g4xq-jx4w-4cjv,https://j.mp/2JXXGuz
+GithubAdvisories,[GHSA-gpvj-q7fp-jcch] Moderate severity vulnerability that affects simplehttpserver,https://github.com/advisories/GHSA-gpvj-q7fp-jcch,https://j.mp/38p0WZ8
+GithubAdvisories,[GHSA-h3c2-x77c-7pvr] High severity vulnerability that affects git-dummy-commit,https://github.com/advisories/GHSA-h3c2-x77c-7pvr,https://j.mp/35nl4ct
+GithubAdvisories,[GHSA-h592-38cm-4ggp] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-h592-38cm-4ggp,https://j.mp/38sBUsd
+GithubAdvisories,[GHSA-hg78-4f6x-99wq] Moderate severity vulnerability that affects rack,https://github.com/advisories/GHSA-hg78-4f6x-99wq,https://j.mp/39fq2sB
+GithubAdvisories,[GHSA-hxhj-hp9m-qwc4] Moderate severity vulnerability that affects private_address_check,https://github.com/advisories/GHSA-hxhj-hp9m-qwc4,https://j.mp/35jI0Jh
+GithubAdvisories,[GHSA-jhjh-ghwx-6h7r] Low severity vulnerability that affects modulemd,https://github.com/advisories/GHSA-jhjh-ghwx-6h7r,https://j.mp/3nnGFaR
