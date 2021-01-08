@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mw35-24gh-f82w] High severity vulnerability that affects keycloak-connect and keycloak-js,https://github.com/advisories/GHSA-mw35-24gh-f82w,https://j.mp/3biEuCY
+GithubAdvisories,[GHSA-p5hg-3xm3-gcjg] High severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-p5hg-3xm3-gcjg,https://j.mp/2XkmcJg
+GithubAdvisories,[GHSA-pxqr-8v54-m2hj] Moderate severity vulnerability that affects rails_admin,https://github.com/advisories/GHSA-pxqr-8v54-m2hj,https://j.mp/3orJskF
+GithubAdvisories,[GHSA-px3r-jm9g-c8w8] Moderate severity vulnerability that affects rails-html-sanitizer,https://github.com/advisories/GHSA-px3r-jm9g-c8w8,https://j.mp/3oFi5DT
