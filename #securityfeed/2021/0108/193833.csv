@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13449 (gotenberg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13449,https://j.mp/3hWuNeE
+NVD-NIST,CVE-2020-13450 (gotenberg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13450,https://j.mp/2LeyYXo
+NVD-NIST,CVE-2020-13451 (gotenberg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13451,https://j.mp/2XoBay8
+NVD-NIST,"CVE-2020-26181 (emc_isilon_onefs, emc_powerscale_onefs)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26181,https://j.mp/2Lf6PPV
+NVD-NIST,"CVE-2020-26199 (emc_unity_operating_environment, emc_unity_vsa_operating_environment, emc_unity_xt_operating_environment)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26199,https://j.mp/35ngr1W
+NVD-NIST,CVE-2020-27843 (openjpeg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27843,https://j.mp/3hW6zkD
+NVD-NIST,CVE-2020-29500 (emc_powerstore_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29500,https://j.mp/2LCxcPt
+NVD-NIST,CVE-2020-29501 (emc_powerstore_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29501,https://j.mp/2XnA8Cn
+NVD-NIST,CVE-2020-29502 (emc_powerstore_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29502,https://j.mp/38ryyG0
+NVD-NIST,CVE-2020-7336 (network_security_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7336,https://j.mp/39fGcT2
+NVD-NIST,CVE-2021-22492 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22492,https://j.mp/3pWIf4U
+NVD-NIST,CVE-2021-22494 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22494,https://j.mp/39fwb89
+NVD-NIST,CVE-2021-22495 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22495,https://j.mp/39fGd9y
+NVD-NIST,CVE-2021-3022 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3022,https://j.mp/3owsYb0
