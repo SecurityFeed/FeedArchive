@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-425c-ccf3-3jrr] Critical severity vulnerability that affects slpjs,https://github.com/advisories/GHSA-425c-ccf3-3jrr,https://j.mp/3nruyto
+GithubAdvisories,[GHSA-3wc8-659g-r88q] Low severity vulnerability that affects org.springframework.batch:spring-batch-core,https://github.com/advisories/GHSA-3wc8-659g-r88q,https://j.mp/39hZC9A
+GithubAdvisories,[GHSA-45xm-v8gq-7jqx] Low severity vulnerability that affects io.vertx:vertx-core,https://github.com/advisories/GHSA-45xm-v8gq-7jqx,https://j.mp/2LsWrUt
+GithubAdvisories,[GHSA-488m-6gh8-9j36] Moderate severity vulnerability that affects bracket-template,https://github.com/advisories/GHSA-488m-6gh8-9j36,https://j.mp/39cNBm6
+GithubAdvisories,[GHSA-4fq3-mr56-cg6r] High severity vulnerability that affects org.springframework.data:spring-data-commons,https://github.com/advisories/GHSA-4fq3-mr56-cg6r,https://j.mp/35n0CIp
+GithubAdvisories,[GHSA-534w-937m-v7x3] High severity vulnerability that affects restforce,https://github.com/advisories/GHSA-534w-937m-v7x3,https://j.mp/3q21xG9
+GithubAdvisories,[GHSA-5hxw-r847-qfwp] Moderate severity vulnerability that affects opencv.js,https://github.com/advisories/GHSA-5hxw-r847-qfwp,https://j.mp/2JVid2G
+GithubAdvisories,[GHSA-5jcf-c5rg-rmm8] High severity vulnerability that affects paperclip,https://github.com/advisories/GHSA-5jcf-c5rg-rmm8,https://j.mp/3hWBDkl
+GithubAdvisories,[GHSA-5r2p-j47h-mhpg] Moderate severity vulnerability that affects rack,https://github.com/advisories/GHSA-5r2p-j47h-mhpg,https://j.mp/2LzpghU
+GithubAdvisories,[GHSA-5vx5-9q73-wgp4] High severity vulnerability that affects safemode,https://github.com/advisories/GHSA-5vx5-9q73-wgp4,https://j.mp/3pVB3pM
+GithubAdvisories,[GHSA-649c-x44h-4q7v] Low severity vulnerability that affects public,https://github.com/advisories/GHSA-649c-x44h-4q7v,https://j.mp/2XkBRIy
