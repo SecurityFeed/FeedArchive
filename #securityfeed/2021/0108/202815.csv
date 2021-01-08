@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmr4-w67p-vh8x] Moderate severity vulnerability that affects org.wildfly:wildfly-undertow,https://github.com/advisories/GHSA-fmr4-w67p-vh8x,https://j.mp/3s8ICvm
+GithubAdvisories,[GHSA-2j55-pcw5-x4h2] Critical severity vulnerability that affects active-support,https://github.com/advisories/GHSA-2j55-pcw5-x4h2,https://j.mp/3hVop7u
+GithubAdvisories,[GHSA-2xvj-j3qh-x8c3] High severity vulnerability that affects private_address_check,https://github.com/advisories/GHSA-2xvj-j3qh-x8c3,https://j.mp/3hXtNqL
+GithubAdvisories,[GHSA-38rv-5jqc-m2cv] High severity vulnerability that affects recurly,https://github.com/advisories/GHSA-38rv-5jqc-m2cv,https://j.mp/2LzulH0
+GithubAdvisories,[GHSA-3rmv-2pg5-xvqj] High severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-3rmv-2pg5-xvqj,https://j.mp/3nrneOl
+GithubAdvisories,[GHSA-3v3c-r5v2-68ph] High severity vulnerability that affects private_address_check,https://github.com/advisories/GHSA-3v3c-r5v2-68ph,https://j.mp/2XnXzeO
