@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Backdoor.Win32.NinjaSpy.c Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160865/MVID-2021-0018.txt,https://j.mp/35lP6x7
+PacketstormSecurity,WordPress wpDiscuz 7.0.4 Shell Upload,https://packetstormsecurity.com/files/160864/wpdiscuz704-shell.rb.txt,https://j.mp/35llMa7
+PacketstormSecurity,Backdoor.Win32.Xtreme.yvp Insecure Permissions / Privilege Escalation,https://packetstormsecurity.com/files/160863/MVID-2021-0017.txt,https://j.mp/3s3Vsed
+PacketstormSecurity,Cockpit 234 Server-Side Request Forgery,https://packetstormsecurity.com/files/160862/cockpit234-ssrf.txt,https://j.mp/3hUURqt
+PacketstormSecurity,Backdoor.Win32.Agent.dcbh Insecure Permissions / Privilege Escalation,https://packetstormsecurity.com/files/160861/MVID-2021-0016.txt,https://j.mp/39bA91G
+PacketstormSecurity,Online Doctor Appointment System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160860/odas10-xss.txt,https://j.mp/3hSlk8i
+PacketstormSecurity,Practical PHP Security,https://packetstormsecurity.com/files/160858/practical-php-security.pdf,https://j.mp/3i1MSYP
+PacketstormSecurity,dnsrecon 0.10.0 CSV Injection,https://packetstormsecurity.com/files/160857/dnsrecon0100-csvinject.txt,https://j.mp/2Ltio5Q
+PacketstormSecurity,ECSIMAGING PACS 6.21.5 SQL Injection,https://packetstormsecurity.com/files/160855/ecsimagingpacs6215-sql.txt,https://j.mp/3s7YfmM
+PacketstormSecurity,Curfew e-Pass Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160854/curfewepassms10-xss.txt,https://j.mp/38qQdNV
+PacketstormSecurity,OX App Suite / OX Documents 7.10.x XSS / SSRF,https://packetstormsecurity.com/files/160853/oxappsuite7104-ssrfxss.txt,https://j.mp/38qnKYA
+PacketstormSecurity,Cockpit CMS Remote Code Execution,https://packetstormsecurity.com/files/160852/cockpitcms061-exec.txt,https://j.mp/3osdWTy
+PacketstormSecurity,Life Insurance Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160851/lims10-xss.txt,https://j.mp/38s3yFL
+PacketstormSecurity,WordPress Autoptimize Shell Upload,https://packetstormsecurity.com/files/160850/wpautoptimize276-shell.rb.txt,https://j.mp/2LdXFDk
+PacketstormSecurity,Apache Flink 1.11.0 Arbitrary File Read / Directory Traversal,https://packetstormsecurity.com/files/160849/apacheflink1110-fileread.rb.txt,https://j.mp/3otqutJ
+PacketstormSecurity,Employee Record System 1.0 Shell Upload,https://packetstormsecurity.com/files/160848/ers10-shell.txt,https://j.mp/35mjwPD
+PacketstormSecurity,iBall-Baton WRA150N File Disclosure,https://packetstormsecurity.com/files/160846/iballbaton-disclose.txt,https://j.mp/3oEQrqB
+PacketstormSecurity,Ethical Hacking And Penetration Testing Guide,https://packetstormsecurity.com/files/160859/ethical-hacking-and-pentesting.pdf,https://j.mp/2K2tuOY
+PacketstormSecurity,ECSIMAGING PACS 6.21.5 Remote Code Execution,https://packetstormsecurity.com/files/160847/ecsimagingpacs6215-exec.txt,https://j.mp/3bhHBet
