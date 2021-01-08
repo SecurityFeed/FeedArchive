@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m956-frf4-m2wr] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-m956-frf4-m2wr,https://j.mp/2XlM8Ev
+GithubAdvisories,[GHSA-wr5r-m8pc-85j9] Low severity vulnerability that affects org.springframework.integration:spring-integration-ws and org.springframework.integration:spring-integration-xml,https://github.com/advisories/GHSA-wr5r-m8pc-85j9,https://j.mp/3owQeFF
+GithubAdvisories,[GHSA-568q-9fw5-28wf] Moderate severity vulnerability that affects org.postgresql:pgjdbc-aggregate,https://github.com/advisories/GHSA-568q-9fw5-28wf,https://j.mp/2Xl62zs
+GithubAdvisories,[GHSA-jwcc-j78w-j73w] High severity vulnerability that affects ansible,https://github.com/advisories/GHSA-jwcc-j78w-j73w,https://j.mp/39bisQ0
+GithubAdvisories,[GHSA-6cw8-7j6c-hccp] Moderate severity vulnerability that affects io.vertx:vertx-core,https://github.com/advisories/GHSA-6cw8-7j6c-hccp,https://j.mp/3s9Sepo
+GithubAdvisories,[GHSA-g8hw-794c-4j9g] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-g8hw-794c-4j9g,https://j.mp/3q3kDf2
