@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Prestashop 1.7.7.0 - 'id_product' Time Based Blind SQL Injection,https://www.exploit-db.com/exploits/49410,https://j.mp/2Lc8S7x
+ExploitDB,[local] PortableKanban 4.3.6578.38136 - Encrypted Password Retrieval,https://www.exploit-db.com/exploits/49409,https://j.mp/2K9Ao52
+ExploitDB,[webapps] OpenCart 3.0.36 - ATO via Cross Site Request Forgery,https://www.exploit-db.com/exploits/49407,https://j.mp/3ozstge
+ExploitDB,[webapps] WordPress Plugin Custom Global Variables 1.0.5 - 'name' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49406,https://j.mp/3bsjWI5
