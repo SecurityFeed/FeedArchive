@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh7m-rx4f-4vpv] CSRF can expose users authentication token,https://github.com/advisories/GHSA-hh7m-rx4f-4vpv,https://j.mp/39kg8pT
