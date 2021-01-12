@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2018-11009 (antivrius, enterprise_security, total_security, ultimate_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-11009,https://j.mp/3bKALhV
+NVD-NIST,"CVE-2020-16012 (chrome, firefox)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16012,https://j.mp/3skLOUA
+NVD-NIST,CVE-2020-16021 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16021,https://j.mp/3nAtaVb
+NVD-NIST,CVE-2020-16025 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16025,https://j.mp/2LKroU6
+NVD-NIST,CVE-2020-26975 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26975,https://j.mp/3i7cByX
+NVD-NIST,CVE-2020-26976 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26976,https://j.mp/3i7cBPt
+NVD-NIST,CVE-2020-26977 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26977,https://j.mp/3oCpHXG
+NVD-NIST,"CVE-2020-26978 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26978,https://j.mp/3i6qBco
+NVD-NIST,CVE-2020-26979 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26979,https://j.mp/39nK2cN
+NVD-NIST,CVE-2020-28672 (monocms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28672,https://j.mp/3nCL0ab
+NVD-NIST,"CVE-2020-35111 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35111,https://j.mp/39rN3ZG
+NVD-NIST,CVE-2021-21116 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21116,https://j.mp/3i8pPLP
+NVD-NIST,CVE-2021-3111 (concrete5),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3111,https://j.mp/3oDjqLh
