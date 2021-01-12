@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-16019 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16019,https://j.mp/3oCC1a9
+NVD-NIST,CVE-2020-16020 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16020,https://j.mp/35Ahmfr
+NVD-NIST,CVE-2020-16027 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16027,https://j.mp/2MOPfCG
+NVD-NIST,CVE-2020-16029 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16029,https://j.mp/2XywDJo
+NVD-NIST,"CVE-2020-26974 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26974,https://j.mp/2KaVZdi
+NVD-NIST,CVE-2020-35653 (pillow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35653,https://j.mp/3byWh94
+NVD-NIST,CVE-2020-35654 (pillow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35654,https://j.mp/2MMNR3t
+NVD-NIST,CVE-2020-35655 (pillow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35655,https://j.mp/2XBm2gG
+NVD-NIST,CVE-2020-4606 (security_verify_privilege_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4606,https://j.mp/2XBmaga
+NVD-NIST,CVE-2021-21111 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21111,https://j.mp/2LgREpz
+NVD-NIST,CVE-2021-21112 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21112,https://j.mp/2LLStpX
+NVD-NIST,CVE-2021-21113 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21113,https://j.mp/38A0gjG
