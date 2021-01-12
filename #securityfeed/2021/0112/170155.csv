@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GNU Privacy Guard 2.2.27,https://packetstormsecurity.com/files/160920/gnupg-2.2.27.tar.bz2,https://j.mp/3sqWaCH
+PacketstormSecurity,Cloud Filter Arbitrary File Creation / Privilege Escalation,https://packetstormsecurity.com/files/160919/cve_2020_17136.rb.txt,https://j.mp/3i4pie9
+PacketstormSecurity,WordPress AIT CSV Import/Export 3.0.3 Shell Upload,https://packetstormsecurity.com/files/160918/wp_ait_csv_rce.rb.txt,https://j.mp/3sgkHtP
+PacketstormSecurity,Flawfinder 2.0.15,https://packetstormsecurity.com/files/160917/flawfinder-2.0.15.tar.gz,https://j.mp/3oDTgYO
+PacketstormSecurity,Red Hat Security Advisory 2021-0083-01,https://packetstormsecurity.com/files/160916/RHSA-2021-0083-01.txt,https://j.mp/3qaoZ4f
+PacketstormSecurity,Blind SSRF With Shellshock Exploitation,https://packetstormsecurity.com/files/160914/Blind-SSRF-with-Shellshock-Exploitation.pdf,https://j.mp/3i4Ug5I
+PacketstormSecurity,Gila CMS 2.0.0 Remote Code Execution,https://packetstormsecurity.com/files/160913/gilacms200-exec.txt,https://j.mp/38ElhtQ
+PacketstormSecurity,Red Hat Security Advisory 2021-0081-01,https://packetstormsecurity.com/files/160912/RHSA-2021-0081-01.txt,https://j.mp/2LudXId
+PacketstormSecurity,Cemetery Mapping And Information System 1.0 SQL Injection,https://packetstormsecurity.com/files/160910/cemeterymis10-sql.txt,https://j.mp/3oDbLN1
+PacketstormSecurity,Red Hat Security Advisory 2021-0073-01,https://packetstormsecurity.com/files/160909/RHSA-2021-0073-01.txt,https://j.mp/2Xxre5t
+PacketstormSecurity,A Hands-On Approach To Linux Privilege Escalation,https://packetstormsecurity.com/files/160908/handson-linuxprivesc.pdf,https://j.mp/2KckpmK
+PacketstormSecurity,SmartAgent 3.1.0 Privilege Escalation,https://packetstormsecurity.com/files/160906/smartagent310-escalate.txt,https://j.mp/3qcdb1l
+PacketstormSecurity,Red Hat Security Advisory 2021-0072-01,https://packetstormsecurity.com/files/160905/RHSA-2021-0072-01.txt,https://j.mp/2K6caIG
+PacketstormSecurity,Backdoor.Win32.Zombam.a Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160904/MVID-2021-0022.txt,https://j.mp/2K6JEGT
