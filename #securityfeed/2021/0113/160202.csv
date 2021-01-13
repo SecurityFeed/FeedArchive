@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-10,https://packetstormsecurity.com/files/160937/glsa-202101-10.txt,https://j.mp/3nDulDj
+PacketstormSecurity,flatCore CMS XSS / File Disclosure / SQL Injection,https://packetstormsecurity.com/files/160936/SA-20210113-1.txt,https://j.mp/2KbIXMF
+PacketstormSecurity,Red Hat Security Advisory 2021-0095-01,https://packetstormsecurity.com/files/160935/RHSA-2021-0095-01.txt,https://j.mp/3i8PxA1
+PacketstormSecurity,Red Hat Security Advisory 2021-0094-01,https://packetstormsecurity.com/files/160934/RHSA-2021-0094-01.txt,https://j.mp/3ibvGAf
+PacketstormSecurity,Pepperl+Fuchs IO-Link Master Series 1.36 CSRF / XSS / Command Injection,https://packetstormsecurity.com/files/160933/SA-20210113-0.txt,https://j.mp/2N1duhf
+PacketstormSecurity,Deep Insight Into Social Engineering,https://packetstormsecurity.com/files/160932/Deep_Insight_into_Social_Engineering.pdf,https://j.mp/35CxBc9
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-09,https://packetstormsecurity.com/files/160931/glsa-202101-09.txt,https://j.mp/2MSm1mq
+PacketstormSecurity,Red Hat Security Advisory 2021-0096-01,https://packetstormsecurity.com/files/160930/RHSA-2021-0096-01.txt,https://j.mp/3oInNVg
+PacketstormSecurity,FiberHome HG6245D Disclosure / Bypass / Privilege Escalation / DoS,https://packetstormsecurity.com/files/160929/fiberhomehg6245d-discloseescalate.txt,https://j.mp/3oF9QYc
+PacketstormSecurity,Red Hat Security Advisory 2021-0087-01,https://packetstormsecurity.com/files/160928/RHSA-2021-0087-01.txt,https://j.mp/3bFhIVZ
+PacketstormSecurity,Red Hat Security Advisory 2021-0088-01,https://packetstormsecurity.com/files/160927/RHSA-2021-0088-01.txt,https://j.mp/3bAojB3
+PacketstormSecurity,Red Hat Security Advisory 2021-0089-01,https://packetstormsecurity.com/files/160926/RHSA-2021-0089-01.txt,https://j.mp/3oHznAa
+PacketstormSecurity,Red Hat Security Advisory 2021-0084-01,https://packetstormsecurity.com/files/160925/RHSA-2021-0084-01.txt,https://j.mp/3qaLMga
+PacketstormSecurity,Envira Gallery Lite 1.8.3.2 Cross Site Scripting,https://packetstormsecurity.com/files/160924/TSI-ADV122020.txt,https://j.mp/2LMYOli
+PacketstormSecurity,Backdoor.Win32.Kurbadur.a Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160923/MVID-2021-2023.txt,https://j.mp/35CztkU
+PacketstormSecurity,Practical Insight Into Injections,https://packetstormsecurity.com/files/160922/practical-insight.pdf,https://j.mp/2LLTUVw
+PacketstormSecurity,Erlang Cookie Remote Code Execution,https://packetstormsecurity.com/files/160921/erlang-exec.txt,https://j.mp/2XyA2b4
