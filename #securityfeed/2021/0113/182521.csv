@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ww4j-c2rq-47q8] Command injection in ts-process-promises,https://github.com/advisories/GHSA-ww4j-c2rq-47q8,https://j.mp/38G5GtH
+GithubAdvisories,[GHSA-487w-pqcm-63hq] Command injection in buns,https://github.com/advisories/GHSA-487w-pqcm-63hq,https://j.mp/3sk9nwN
+GithubAdvisories,[GHSA-jxwx-85vp-gvwm] Regular Expression Denial of Service in jquery-validation,https://github.com/advisories/GHSA-jxwx-85vp-gvwm,https://j.mp/2XF7mxf
