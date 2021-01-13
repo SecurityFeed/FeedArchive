@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v5rv-hpxg-8x49] Signature validation bypass in ServiceStack,https://github.com/advisories/GHSA-v5rv-hpxg-8x49,https://j.mp/38FHGH2
+GithubAdvisories,[GHSA-7jh9-6cpf-h4m7] XSS in hello.js,https://github.com/advisories/GHSA-7jh9-6cpf-h4m7,https://j.mp/3sp59UT
