@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-2508 (qts, quts_hero)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2508,https://j.mp/3nOEr4m
+NVD-NIST,CVE-2020-26118 (collaborator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26118,https://j.mp/3bGOxC8
+NVD-NIST,CVE-2020-27148 (ebx_add-ons),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27148,https://j.mp/2XHbixC
+NVD-NIST,"CVE-2021-1641 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1641,https://j.mp/2LOARtV
+NVD-NIST,"CVE-2021-1642 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1642,https://j.mp/3nRm0ME
+NVD-NIST,CVE-2021-23240 (sudo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23240,https://j.mp/2KlJQCs
+NVD-NIST,CVE-2021-3118 (ecs_imaging),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3118,https://j.mp/3oXvFCk
+NVD-NIST,CVE-2021-3121 (protobuf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3121,https://j.mp/2XGjuOp
