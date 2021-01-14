@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23960 (fork),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23960,https://j.mp/3oM7B5k
+NVD-NIST,CVE-2020-35701 (cacti),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35701,https://j.mp/3id2dpo
+NVD-NIST,CVE-2021-21445 (commerce_cloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21445,https://j.mp/2LwQFBD
+NVD-NIST,CVE-2021-21446 (netweaver_as_abap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21446,https://j.mp/2LLBww2
+NVD-NIST,CVE-2021-21447 (businessobjects_business_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21447,https://j.mp/2XF64SR
+NVD-NIST,CVE-2021-21448 (graphical_user_interface),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21448,https://j.mp/3bROWBR
+NVD-NIST,CVE-2021-21449 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21449,https://j.mp/2KdmChB
+NVD-NIST,CVE-2021-21465 (business_warehouse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21465,https://j.mp/3srYfOs
+NVD-NIST,"CVE-2021-21466 (business_warehouse, bw/4hana)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21466,https://j.mp/2XGWxe8
+NVD-NIST,CVE-2021-21467 (banking_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21467,https://j.mp/38L1tVI
+NVD-NIST,CVE-2021-21468 (business_warehouse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21468,https://j.mp/2XF659n
+NVD-NIST,CVE-2021-21469 (netweaver_master_data_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21469,https://j.mp/3bGAjky
+NVD-NIST,CVE-2021-21470 (enterprise_performance_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21470,https://j.mp/39wOZA6
+NVD-NIST,CVE-2021-3116 (proxy.py),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3116,https://j.mp/2KkKaRW
