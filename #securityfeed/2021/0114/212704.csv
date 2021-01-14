@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-94hm-8q65-rmxm] High severity vulnerability that affects omniauth-saml,https://github.com/advisories/GHSA-94hm-8q65-rmxm,https://j.mp/35EWKTk
+GithubAdvisories,[GHSA-j8j8-348v-wfm3] High severity vulnerability that affects python-saml,https://github.com/advisories/GHSA-j8j8-348v-wfm3,https://j.mp/38JPtnj
+GithubAdvisories,[GHSA-h8w4-qv99-f7vj] High severity vulnerability that affects org.springframework.security.oauth:spring-security-oauth2,https://github.com/advisories/GHSA-h8w4-qv99-f7vj,https://j.mp/3qjp1qw
+GithubAdvisories,[GHSA-x2fr-v8wf-8wwv] High severity vulnerability that affects ruby-saml,https://github.com/advisories/GHSA-x2fr-v8wf-8wwv,https://j.mp/3nHXCN5
+GithubAdvisories,[GHSA-q3jg-4c82-j4xh] Moderate severity vulnerability that affects org.springframework.credhub:spring-credhub-core,https://github.com/advisories/GHSA-q3jg-4c82-j4xh,https://j.mp/3bG7xQY
+GithubAdvisories,[GHSA-v2r2-7qm7-jj6v] Moderate severity vulnerability that affects org.springframework.security:spring-security-core,https://github.com/advisories/GHSA-v2r2-7qm7-jj6v,https://j.mp/3nDXWg0
