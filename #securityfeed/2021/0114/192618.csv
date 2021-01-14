@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-523c-xh4g-mh5m] Denial of Service in Apache POI,https://github.com/advisories/GHSA-523c-xh4g-mh5m,https://j.mp/3oMayTw
+GithubAdvisories,[GHSA-wjx2-7hqq-8h7m] rails_admin ruby gem XSS vulnerability,https://github.com/advisories/GHSA-wjx2-7hqq-8h7m,https://j.mp/2XFBQz8
+GithubAdvisories,[GHSA-2ccx-2gf3-8xvv] .dev domains and some reverse proxy setups were treated as local in Kirby,https://github.com/advisories/GHSA-2ccx-2gf3-8xvv,https://j.mp/3nNgrP0
