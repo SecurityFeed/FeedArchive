@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+PacketstormSecurity,UFW - A Beginners Guide To Linux Firewall,https://packetstormsecurity.com/files/160970/ufw-beginnersguide.pdf,https://j.mp/2KhfFw2
+PacketstormSecurity,Netsia SEBA+ 0.16.1 Authentcation Bypass / Add Root User,https://packetstormsecurity.com/files/160969/netsiaseba0161-bypass.rb.txt,https://j.mp/3ifzcJT
+PacketstormSecurity,WhatWeb Scanner 0.5.5,https://packetstormsecurity.com/files/160968/WhatWeb-0.5.5.tar.gz,https://j.mp/3sswYLV
+PacketstormSecurity,Alumni Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160967/ams10ln-xss.txt,https://j.mp/3qBd7sn
+PacketstormSecurity,E-Learning System 1.0 SQL Injection / Shell Upload,https://packetstormsecurity.com/files/160966/elearningsystem10-sqlshell.txt,https://j.mp/360KeOr
+PacketstormSecurity,Linux/x86 Bindshell Shellcode,https://packetstormsecurity.com/files/160964/65linuxx86bind-shellcode.txt,https://j.mp/3suIKpa
+PacketstormSecurity,Backdoor.Win32.Ncx.bt Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/160963/MVID-2021-0026.txt,https://j.mp/2XGZLxY
+PacketstormSecurity,EyesOfNetwork 5.3 Remote Code Execution,https://packetstormsecurity.com/files/160962/eon53-exec.txt,https://j.mp/2XK9rYQ
+PacketstormSecurity,Red Hat Security Advisory 2021-0146-01,https://packetstormsecurity.com/files/160961/RHSA-2021-0146-01.txt,https://j.mp/3srYqta
+PacketstormSecurity,Online Hotel Reservation System 1.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/160960/ohrs10-xsrf.txt,https://j.mp/3qhR9u2
+PacketstormSecurity,Online Hotel Reservation System 1.0 SQL Injection,https://packetstormsecurity.com/files/160959/ohrs10-sql.txt,https://j.mp/3bGzcBg
+PacketstormSecurity,WordPress Easy Contact Form 1.1.7 Cross Site Scripting,https://packetstormsecurity.com/files/160958/wpecf117-xss.txt,https://j.mp/3io9Jy4
+PacketstormSecurity,Online Hotel Reservation System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/160957/ohrs10-xss.txt,https://j.mp/38QVPkZ
+PacketstormSecurity,PHP-Fusion 9.03.90 Cross Site Request Forgery,https://packetstormsecurity.com/files/160956/phpfusion90390-xsrf.txt,https://j.mp/39E55Yu
