@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-17509 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17509,https://j.mp/3oOWsRv
+NVD-NIST,CVE-2020-4599 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4599,https://j.mp/3igXzqq
+NVD-NIST,CVE-2020-4600 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4600,https://j.mp/2LUufu0
+NVD-NIST,CVE-2020-4602 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4602,https://j.mp/3bJJfWb
+NVD-NIST,CVE-2020-4604 (security_guardium_insights),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4604,https://j.mp/3ihViLK
+NVD-NIST,"CVE-2021-1645 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1645,https://j.mp/38KjROn
+NVD-NIST,"CVE-2021-1646 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1646,https://j.mp/39DD0Az
+NVD-NIST,"CVE-2021-1648 (windows_10, windows_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1648,https://j.mp/38OPRkc
+NVD-NIST,"CVE-2021-1649 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1649,https://j.mp/3ifDIrG
+NVD-NIST,"CVE-2021-1650 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1650,https://j.mp/2LUJAL7
+NVD-NIST,"CVE-2021-1712 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1712,https://j.mp/2XJ1e77
+NVD-NIST,"CVE-2021-1717 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1717,https://j.mp/2KoHkve
+NVD-NIST,CVE-2021-21602 (jenkins),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21602,https://j.mp/2XIZKK7
+NVD-NIST,CVE-2021-21603 (jenkins),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21603,https://j.mp/3qgZi1Y
+NVD-NIST,CVE-2021-21606 (jenkins),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21606,https://j.mp/38Nl1Zj
