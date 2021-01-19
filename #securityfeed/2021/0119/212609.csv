@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29v9-2fpx-j5g9] CSV Injection vulnerability with exported contact lists in Mautic,https://github.com/advisories/GHSA-29v9-2fpx-j5g9,https://j.mp/3o3Fe1j
+GithubAdvisories,[GHSA-9hx7-rg7w-xm79] XSS vulnerability in company name field in Mautic,https://github.com/advisories/GHSA-9hx7-rg7w-xm79,https://j.mp/2M8mSyV
+GithubAdvisories,[GHSA-qjhr-c23f-w76q] Inline JS XSS vulnerability in Mautic,https://github.com/advisories/GHSA-qjhr-c23f-w76q,https://j.mp/3oZdk81
+GithubAdvisories,[GHSA-vfxj-qg93-7wwc] Sessions could be hijacked due to tracking contacts by an auto-incremented ID in Mautic,https://github.com/advisories/GHSA-vfxj-qg93-7wwc,https://j.mp/3bV3D6Q
+GithubAdvisories,[GHSA-6x98-fx9j-7c78] Disabled users able to log in with third party SSO plugin,https://github.com/advisories/GHSA-6x98-fx9j-7c78,https://j.mp/3itWtrz
+GithubAdvisories,[GHSA-5w74-jx7m-x6hv] XSS vulnerability in theme config file in Mautic,https://github.com/advisories/GHSA-5w74-jx7m-x6hv,https://j.mp/3p1JzU2
+GithubAdvisories,[GHSA-xcf7-cj8q-pcjm] XSS vulnerability in Author URL of themes in Mautic,https://github.com/advisories/GHSA-xcf7-cj8q-pcjm,https://j.mp/2XXVt5w
