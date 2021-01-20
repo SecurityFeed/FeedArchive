@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fxwf-4rqh-v8g3] Insecure defaults due to CORS misconfiguration in socket.io,https://github.com/advisories/GHSA-fxwf-4rqh-v8g3,https://j.mp/2Y1c7Bg
+GithubAdvisories,[GHSA-6g8v-hpgw-h2v7] Prototype pollution in gsap,https://github.com/advisories/GHSA-6g8v-hpgw-h2v7,https://j.mp/3nYeW0J
+GithubAdvisories,[GHSA-qwp9-52h8-xgg8] Prototype pollution in JointJS,https://github.com/advisories/GHSA-qwp9-52h8-xgg8,https://j.mp/3iwQpyw
+GithubAdvisories,[GHSA-5949-rw7g-wx7w] Deserialization of untrusted data in jackson-databind,https://github.com/advisories/GHSA-5949-rw7g-wx7w,https://j.mp/3o212e2
