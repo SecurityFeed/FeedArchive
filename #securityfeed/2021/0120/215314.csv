@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5v44-7647-xfw9] Blind SQL injection in PrestaShop productcomments module,https://github.com/advisories/GHSA-5v44-7647-xfw9,https://j.mp/3bTGSjT
+GithubAdvisories,[GHSA-49wp-qq6x-g2rf] Cross-site Request Forgery in fastify-csrf,https://github.com/advisories/GHSA-49wp-qq6x-g2rf,https://j.mp/2LI38CM
+GithubAdvisories,[GHSA-9qmh-276g-x5pj] Prototype Pollution in immer,https://github.com/advisories/GHSA-9qmh-276g-x5pj,https://j.mp/3p2vpCp
