@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+PacketstormSecurity,SAP SolMan Vulnerability Exploitation Detected In The Wild,https://packetstormsecurity.com/news/view/31948/SAP-SolMan-Vulnerability-Exploitation-Detected-In-The-Wild.html,https://j.mp/2XXFV1T
+PacketstormSecurity,Malware Found On Laptops Given Out By Government To Students,https://packetstormsecurity.com/news/view/31949/Malware-Found-On-Laptops-Given-Out-By-Government-To-Students.html,https://j.mp/3iK8d9L
+PacketstormSecurity,Google Searches Expose Stolen Corporate Credentials,https://packetstormsecurity.com/news/view/31950/Google-Searches-Expose-Stolen-Corporate-Credentials.html,https://j.mp/3o0vFAh
+PacketstormSecurity,OATH Toolkit 2.6.6,https://packetstormsecurity.com/files/161052/oath-toolkit-2.6.6.tar.gz,https://j.mp/360AyU6
+PacketstormSecurity,Simple JobBoard Authenticated File Read,https://packetstormsecurity.com/files/161050/simplejobboard-fileread.rb.txt,https://j.mp/2Y2c6wY
+PacketstormSecurity,Backdoor.Win32.Xel Remote Authentication Buffer Overflow,https://packetstormsecurity.com/files/161049/MVID-2021-0044.txt,https://j.mp/35XrAXl
+PacketstormSecurity,Anchor CMS 0.12.7 Cross Site Request Forgery,https://packetstormsecurity.com/files/161048/anchorcms0127-xsrf.txt,https://j.mp/3p3VrVG
+PacketstormSecurity,Backdoor.Win32.Verify.f Missing Authentication,https://packetstormsecurity.com/files/161047/MVID-2021-0043.txt,https://j.mp/361SY6D
+PacketstormSecurity,Nagios XI 5.7.5 Cross Site Scripting,https://packetstormsecurity.com/files/161046/nagiosxi575-xss.txt,https://j.mp/3o5BQTU
+PacketstormSecurity,Backdoor.Win32.WinShell.30 Remote Stack Buffer Overflow / Missing Authentication,https://packetstormsecurity.com/files/161044/MVID-2021-0040.txt,https://j.mp/2XYlCBp
+PacketstormSecurity,Apartment Visitors Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/161042/avms10-sql.txt,https://j.mp/2Y2anrG
+PacketstormSecurity,Online Documents Sharing Platform 1.0 SQL Injection,https://packetstormsecurity.com/files/161041/onlinedsp10-sql.txt,https://j.mp/3p7bIJs
+PacketstormSecurity,Backdoor.Win32.Onalf Missing Authentication,https://packetstormsecurity.com/files/161045/MVID-2021-0042.txt,https://j.mp/2MfkeHJ
+PacketstormSecurity,Backdoor.Win32.Zxman Missing Authentication,https://packetstormsecurity.com/files/161043/MVID-2021-0041.txt,https://j.mp/3p6eDSR
+PacketstormSecurity,Red Hat Security Advisory 2021-0079-01,https://packetstormsecurity.com/files/161040/RHSA-2021-0079-01.txt,https://j.mp/2Y1p91W
