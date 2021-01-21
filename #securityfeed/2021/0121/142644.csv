@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5p3x-r448-pc62] Improper Verification of Cryptographic Signature in PySAML2,https://github.com/advisories/GHSA-5p3x-r448-pc62,https://j.mp/2Y20hH6
+GithubAdvisories,[GHSA-f4g9-h89h-jgv9] SAML XML Signature wrapping in PySAML2,https://github.com/advisories/GHSA-f4g9-h89h-jgv9,https://j.mp/3p96cWI
