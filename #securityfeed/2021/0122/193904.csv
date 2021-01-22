@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14756 (coherence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14756,https://j.mp/2KCu1Hs
+NVD-NIST,CVE-2020-23522 (pixelimity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23522,https://j.mp/3qDdSAW
+NVD-NIST,"CVE-2020-27266 (anydana-a_firmware, anydana-i_firmware, diabecare_rs_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27266,https://j.mp/3pajO4a
+NVD-NIST,"CVE-2020-27268 (anydana-a_firmware, anydana-i_firmware, diabecare_rs_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27268,https://j.mp/2KFnrAb
+NVD-NIST,"CVE-2020-27269 (anydana-a_firmware, anydana-i_firmware, diabecare_rs_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27269,https://j.mp/39aARgI
+NVD-NIST,"CVE-2021-1993 (database_server, enterprise_manager_ops_center, hyperion_infrastructure_technology, zfs_storage_appliance)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1993,https://j.mp/3p8mmQc
+NVD-NIST,"CVE-2021-1994 (enterprise_repository, weblogic_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1994,https://j.mp/3pgjK32
+NVD-NIST,CVE-2021-1995 (weblogic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1995,https://j.mp/39aYki9
+NVD-NIST,"CVE-2021-1996 (agile_engineering_data_management, hyperion_infrastructure_technology, siebel_ui_framework, weblogic_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1996,https://j.mp/3614pvq
+NVD-NIST,CVE-2021-1997 (hospitality_reporting_and_analytics),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1997,https://j.mp/2KCu7Pk
+NVD-NIST,CVE-2021-1998 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1998,https://j.mp/396Z7As
+NVD-NIST,"CVE-2021-1999 (enterprise_manager_ops_center, hyperion_infrastructure_technology, zfs_storage_appliance)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1999,https://j.mp/3pen66s
+NVD-NIST,CVE-2021-2000 (database_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2000,https://j.mp/3iE3Vk2
+NVD-NIST,CVE-2021-2001 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2001,https://j.mp/3qWqYtt
+NVD-NIST,CVE-2021-2002 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2002,https://j.mp/3qPKkjT
+NVD-NIST,CVE-2021-2003 (business_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2003,https://j.mp/3odGIpP
+NVD-NIST,CVE-2021-2005 (business_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2005,https://j.mp/2Y2MgJp
+NVD-NIST,CVE-2021-2007 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2007,https://j.mp/2KDh3cv
