@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14409 (sdl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14409,https://j.mp/2LP9SPg
+NVD-NIST,CVE-2020-14410 (sdl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14410,https://j.mp/3pfWWjW
+NVD-NIST,"CVE-2020-27264 (anydana-a_firmware, anydana-i_firmware, diabecare_rs_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27264,https://j.mp/39UxlX1
+NVD-NIST,CVE-2021-25323 (misp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25323,https://j.mp/3iOeEZr
