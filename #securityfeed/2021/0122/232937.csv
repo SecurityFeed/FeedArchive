@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23342 (anchor_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23342,https://j.mp/39P2qva
+NVD-NIST,CVE-2020-27733 (manageengine_applications_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27733,https://j.mp/3pa4iW7
+NVD-NIST,CVE-2020-28479 (jointjs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28479,https://j.mp/3ob9mIr
+NVD-NIST,CVE-2020-28480 (jointjs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28480,https://j.mp/3paIbyI
+NVD-NIST,CVE-2020-28707 (stockdio_historical_chart),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28707,https://j.mp/3iDg7RU
+NVD-NIST,"CVE-2020-4887 (aix, vios)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4887,https://j.mp/398Ob5q
+NVD-NIST,"CVE-2020-4983 (spectrum_lsf, spectrum_lsf_suite)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4983,https://j.mp/396TYbA
+NVD-NIST,CVE-2021-23326 (graphql-tools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23326,https://j.mp/39anEER
+NVD-NIST,CVE-2021-25174 (drawings_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25174,https://j.mp/3ogyLAA
+NVD-NIST,CVE-2021-25175 (drawings_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25175,https://j.mp/3p61NUy
+NVD-NIST,CVE-2021-25176 (drawings_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25176,https://j.mp/395wMKW
+NVD-NIST,CVE-2021-25177 (drawings_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25177,https://j.mp/2MiOUrz
+NVD-NIST,CVE-2021-25178 (drawings_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25178,https://j.mp/3pa55WX
+NVD-NIST,CVE-2021-3110 (prestashop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3110,https://j.mp/3ob9mYX
