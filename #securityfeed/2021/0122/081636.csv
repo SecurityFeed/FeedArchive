@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - 'addr' Remote Code Execution (Unauthenticated),https://www.exploit-db.com/exploits/49460,https://j.mp/396MTIg
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - RTP/RTSP/M-JPEG Stream Disclosure (Unauthenticated),https://www.exploit-db.com/exploits/49459,https://j.mp/3p6nnIw
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - CSRF Add Admin,https://www.exploit-db.com/exploits/49458,https://j.mp/39SKdgp
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - Multiple SSRF (Unauthenticated),https://www.exploit-db.com/exploits/49457,https://j.mp/3iyP7TT
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - Directory Traversal File Disclosure (Unauthenticated),https://www.exploit-db.com/exploits/49456,https://j.mp/3p8cGFu
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - Developer Backdoor Config Overwrite,https://www.exploit-db.com/exploits/49455,https://j.mp/3p7gPcB
+ExploitDB,[webapps] Selea Targa IP OCR-ANPR Camera - 'files_list' Remote Stored XSS,https://www.exploit-db.com/exploits/49454,https://j.mp/395h9D3
+ExploitDB,[local] Selea CarPlateServer (CPS) 4.0.1.6 - Local Privilege Escalation,https://www.exploit-db.com/exploits/49453,https://j.mp/3sKoS1j
+ExploitDB,[webapps] Selea CarPlateServer (CPS) 4.0.1.6 - Remote Program Execution,https://www.exploit-db.com/exploits/49452,https://j.mp/3p7CjGz
