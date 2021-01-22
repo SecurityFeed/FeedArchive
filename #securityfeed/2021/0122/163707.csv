@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Selea CarPlateServer 4.0.1.6 Remote Program Execution,https://packetstormsecurity.com/files/161068/ZSL-2021-5622.txt,https://j.mp/398odz3
+PacketstormSecurity,Selea CarPlateServer 4.0.1.6 Local Privilege Escalation,https://packetstormsecurity.com/files/161067/ZSL-2021-5621.txt,https://j.mp/395Meqs
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-11,https://packetstormsecurity.com/files/161066/glsa-202101-11.txt,https://j.mp/3aawbXR
+PacketstormSecurity,Atlassian Confluence 6.12.1 Template Injection,https://packetstormsecurity.com/files/161065/atlassiancwcm-inject.txt,https://j.mp/3o8NE7Q
+PacketstormSecurity,Selea Targa IP OCR-ANPR Camera Remote Code Execution,https://packetstormsecurity.com/files/161064/ZSL-2021-5620.txt,https://j.mp/2MfPKWk
+PacketstormSecurity,ERPNext 12.14.0 SQL Injection,https://packetstormsecurity.com/files/161063/erpnext12140-sql.txt,https://j.mp/3p9niUl
+PacketstormSecurity,Backdoor.Win32.Hupigon.adef Remote Stack Buffer Overflow,https://packetstormsecurity.com/files/161062/MVID-2021-0045.txt,https://j.mp/2MhMcCF
+PacketstormSecurity,Selea Targa IP OCR-ANPR Camera Stream Disclosure,https://packetstormsecurity.com/files/161061/ZSL-2021-5619.txt,https://j.mp/3pfLODG
+PacketstormSecurity,Selea Targa IP OCR-ANPR Camera Cross Site Request Forgery,https://packetstormsecurity.com/files/161060/ZSL-2021-5618.txt,https://j.mp/3p4YRrg
+PacketstormSecurity,Selea Targa IP OCR-ANPR Camera Server-Side Request Forgery,https://packetstormsecurity.com/files/161059/ZSL-2021-5617.txt,https://j.mp/3sMSjji
+PacketstormSecurity,Windows/x86 Stager Generic MSHTA Shellcode,https://packetstormsecurity.com/files/161058/143winx86stager-shellcode.txt,https://j.mp/2LZr4Br
+PacketstormSecurity,Selea Targa IP OCR-ANPR Camera Directory Traversal,https://packetstormsecurity.com/files/161057/ZSL-2021-5616.txt,https://j.mp/2LMd91L
