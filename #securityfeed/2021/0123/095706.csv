@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4836 openvswitch,https://www.debian.org/security/2021/dsa-4836,https://j.mp/3sPNQwl
+DebianSecurityNotice,DSA-4835 tomcat9,https://www.debian.org/security/2021/dsa-4835,https://j.mp/2MhZ2Bb
+DebianSecurityNotice,DSA-4834 vlc,https://www.debian.org/security/2021/dsa-4834,https://j.mp/3c3O5hb
