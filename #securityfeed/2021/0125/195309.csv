@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-2018 (adaptive_access_manager, advanced_networking_option, data_integrator, enterprise_manager_for_fusion_applications, hospitality_simphony, weblogic_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2018,https://j.mp/3iHWEzK
+NVD-NIST,CVE-2021-2023 (installed_base),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2023,https://j.mp/2NCOjSr
+NVD-NIST,CVE-2021-2084 (crm_technical_foundation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2084,https://j.mp/3a72G92
+NVD-NIST,CVE-2021-2085 (crm_technical_foundation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2085,https://j.mp/3a1XweH
+NVD-NIST,CVE-2021-2086 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2086,https://j.mp/2MrP1RG
