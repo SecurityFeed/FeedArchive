@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Aide 0.17,https://packetstormsecurity.com/files/161098/aide-0.17.tar.gz,https://j.mp/2NzqYB8
+PacketstormSecurity,Logwatch 7.5.5,https://packetstormsecurity.com/files/161096/logwatch-7.5.5.tar.gz,https://j.mp/3qR5tu0
+PacketstormSecurity,MobileIron MDM Hessian-Based Java Deserialization Remote Code Execution,https://packetstormsecurity.com/files/161097/mobileiron_mdm_hessian_rce.rb.txt,https://j.mp/3qKSd9W
+PacketstormSecurity,PEAR Archive_Tar Arbitrary File Write,https://packetstormsecurity.com/files/161095/archive_tar_arb_file_write.rb.txt,https://j.mp/3cbq6gm
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-21,https://packetstormsecurity.com/files/161093/glsa-202101-21.txt,https://j.mp/36bxg0b
+PacketstormSecurity,Backdoor.Win32.Wollf.16 Hardcoded Password,https://packetstormsecurity.com/files/161092/MVID-2021-0051.txt,https://j.mp/2YePcm4
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-20,https://packetstormsecurity.com/files/161091/glsa-202101-20.txt,https://j.mp/39ZLAtP
+PacketstormSecurity,Trojan.Win32.Xocry.ff Insecure Permissions,https://packetstormsecurity.com/files/161090/MVID-2021-0050.txt,https://j.mp/3cd6yYO
+PacketstormSecurity,Library System 1.0 SQL Injection,https://packetstormsecurity.com/files/161089/librarysystem10-sql.txt,https://j.mp/2YpUSKp
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-19,https://packetstormsecurity.com/files/161088/glsa-202101-19.txt,https://j.mp/2YePbP2
+PacketstormSecurity,Backdoor.Win32.Jokerdoor Insecure Permissions,https://packetstormsecurity.com/files/161087/MVID-2021-0048.txt,https://j.mp/3okT5k6
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-18,https://packetstormsecurity.com/files/161086/glsa-202101-18.txt,https://j.mp/36edAca
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-17,https://packetstormsecurity.com/files/161085/glsa-202101-17.txt,https://j.mp/2NuJwlP
+PacketstormSecurity,Linux/x64 Bindshell With Password Shellcode,https://packetstormsecurity.com/files/161084/142linuxx64bspw-shellcode.txt,https://j.mp/2YePc5y
+PacketstormSecurity,Backdoor.Win32.Noknok.50 Insecure Permissions,https://packetstormsecurity.com/files/161083/MVID-2021-0047.txt,https://j.mp/2MkXAhh
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-16,https://packetstormsecurity.com/files/161082/glsa-202101-16.txt,https://j.mp/2Yccwkz
+PacketstormSecurity,CASAP Automated Enrollment System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161081/casapaes10-xss.txt,https://j.mp/3puh029
+PacketstormSecurity,CASAP Automated Enrollment System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161080/casapes10-xss.txt,https://j.mp/3pd6tYO
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-15,https://packetstormsecurity.com/files/161079/glsa-202101-15.txt,https://j.mp/3a3MKEI
+PacketstormSecurity,The Art Of XSS Escalation,https://packetstormsecurity.com/files/161078/art-of-xss-escalation.pdf,https://j.mp/36ajDyl
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-14,https://packetstormsecurity.com/files/161077/glsa-202101-14.txt,https://j.mp/3oih03y
+PacketstormSecurity,Backdoor.Win32.Noknok.60 Insecure Permissions,https://packetstormsecurity.com/files/161076/MVID-2021-0049.txt,https://j.mp/3iNDI2G
+PacketstormSecurity,Backdoor.Win32.Kraimer.11 Missing Authentication,https://packetstormsecurity.com/files/161075/MVID-2021-0046.txt,https://j.mp/3casgg0
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-13,https://packetstormsecurity.com/files/161074/glsa-202101-13.txt,https://j.mp/2MrdlDh
