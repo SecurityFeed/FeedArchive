@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-2015 (data_integrator, enterprise_manager_ops_center, workflow)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2015,https://j.mp/39lbgCd
+NVD-NIST,"CVE-2021-2017 (enterprise_data_quality, retail_invoice_matching, user_management)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2017,https://j.mp/39ekIHm
+NVD-NIST,CVE-2021-2068 (outside_in_technology),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2068,https://j.mp/3c4CoqK
+NVD-NIST,CVE-2021-2069 (outside_in_technology),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2069,https://j.mp/3a2oId9
+NVD-NIST,CVE-2021-2071 (peoplesoft_enterprise_peopletools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2071,https://j.mp/3qUtHmP
+NVD-NIST,CVE-2021-2073 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2073,https://j.mp/3sUHprH
+NVD-NIST,CVE-2021-2074 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2074,https://j.mp/3sYcpag
+NVD-NIST,CVE-2021-2075 (weblogic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2075,https://j.mp/3onVUkE
+NVD-NIST,CVE-2021-2077 (istore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2077,https://j.mp/36dB3Kp
+NVD-NIST,CVE-2021-2078 (configurator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2078,https://j.mp/3pk8McB
+NVD-NIST,CVE-2021-2079 (configurator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2079,https://j.mp/39hiGGA
+NVD-NIST,CVE-2021-2080 (configurator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2080,https://j.mp/3iLqVgY
+NVD-NIST,CVE-2021-2082 (istore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2082,https://j.mp/3sUHpbb
+NVD-NIST,CVE-2021-2083 (isupport),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2083,https://j.mp/2KL71WQ
