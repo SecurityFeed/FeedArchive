@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Gentoo: GLSA-202101-24: cfitsio: Multiple vulnerabilities,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202101-24-cfitsio-multiple-vulnerabilities-19-12-51?rss,https://j.mp/3iN0N5n
+LinuxSecurity,Gentoo: GLSA-202101-23: PEAR Archive_Tar: Directory traversal,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202101-23-pear-archive-tar-directory-traversal-19-11-44?rss,https://j.mp/3ppljM8
+LinuxSecurity,Gentoo: GLSA-202101-22: libvirt: Unintended access to /dev/mapper/control,https://www.linuxsecurity.com/advisories/gentoo/gentoo-glsa-202101-22-libvirt-unintended-access-to-dev-mapper-control-19-10-47?rss,https://j.mp/3oho6FH
