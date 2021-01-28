@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hvf8-h2qh-37m9] IPC messages delivered to the wrong frame in Electron,https://github.com/advisories/GHSA-hvf8-h2qh-37m9,https://j.mp/3onMdlX
