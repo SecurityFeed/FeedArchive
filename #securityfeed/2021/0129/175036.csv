@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-25015 (openwrt),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-25015,https://j.mp/3oqZfiB
+NVD-NIST,CVE-2020-0236 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0236,https://j.mp/39wy3Lo
+NVD-NIST,CVE-2020-27284 (tpeditor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27284,https://j.mp/3pzNnfQ
+NVD-NIST,CVE-2020-27288 (tpeditor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27288,https://j.mp/3pzJLu0
+NVD-NIST,CVE-2020-36012 (multi-store),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36012,https://j.mp/3acHrmt
+NVD-NIST,CVE-2020-4816 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4816,https://j.mp/3iZnuU0
+NVD-NIST,CVE-2020-4820 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4820,https://j.mp/2MyUc2C
+NVD-NIST,CVE-2020-4967 (cloud_pak_for_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4967,https://j.mp/39vpyjK
+NVD-NIST,"CVE-2021-22637 (v-server, v-simulator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22637,https://j.mp/3t9syK3
+NVD-NIST,"CVE-2021-22639 (v-server, v-simulator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22639,https://j.mp/3r2Qop1
+NVD-NIST,"CVE-2021-22641 (v-server, v-simulator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22641,https://j.mp/36o0XLo
+NVD-NIST,"CVE-2021-22653 (v-server, v-simulator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22653,https://j.mp/2MCvdeN
+NVD-NIST,"CVE-2021-22655 (v-server, v-simulator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22655,https://j.mp/2NNghuR
