@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3crj-w4f5-gwh4] Processing untrusted theming resources might execute arbitrary code (ACE),https://github.com/advisories/GHSA-3crj-w4f5-gwh4,https://j.mp/3pAx0zE
+GithubAdvisories,[GHSA-hhw9-35p2-q2c5] Steam Socialite Provider v1 does not correctly validate openid server,https://github.com/advisories/GHSA-hhw9-35p2-q2c5,https://j.mp/39tiOm8
+GithubAdvisories,[GHSA-p7v4-gm6j-cw9m] XSS in Mautic,https://github.com/advisories/GHSA-p7v4-gm6j-cw9m,https://j.mp/3pCWDjm
