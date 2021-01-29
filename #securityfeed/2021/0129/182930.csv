@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c3f-p5wp-34mh] OS Command Injection in async-git,https://github.com/advisories/GHSA-6c3f-p5wp-34mh,https://j.mp/39uVTHj
+GithubAdvisories,[GHSA-2hw7-mxvj-m455] Path traversal in Node-RED-Dashboard,https://github.com/advisories/GHSA-2hw7-mxvj-m455,https://j.mp/39sohtE
+GithubAdvisories,[GHSA-h3gg-7wx2-cq3h] XSS in Flarum Sticky extension,https://github.com/advisories/GHSA-h3gg-7wx2-cq3h,https://j.mp/39w6RMC
+GithubAdvisories,[GHSA-32wx-4gxx-h48f] Users can edit the tags of any discussion,https://github.com/advisories/GHSA-32wx-4gxx-h48f,https://j.mp/3t7Eegp
+GithubAdvisories,[GHSA-vhhw-xjvf-wprr] Command Injection in @graphql-tools/git-loader,https://github.com/advisories/GHSA-vhhw-xjvf-wprr,https://j.mp/39uUxMM
+GithubAdvisories,[GHSA-43hg-g44q-474q] Cross Site Scripting (XSS) in XWiki,https://github.com/advisories/GHSA-43hg-g44q-474q,https://j.mp/39t7KWc
+GithubAdvisories,[GHSA-cghx-9gcr-r42x] Path Traversal in the Java Kubernetes Client,https://github.com/advisories/GHSA-cghx-9gcr-r42x,https://j.mp/2YqAaK7
+GithubAdvisories,[GHSA-7xcv-wvr7-4h6p] Malicious npm package: an0n-chat-lib,https://github.com/advisories/GHSA-7xcv-wvr7-4h6p,https://j.mp/3iYQ5sE
+GithubAdvisories,[GHSA-qv2g-99x4-45x6] Malicious npm package: discord-fix,https://github.com/advisories/GHSA-qv2g-99x4-45x6,https://j.mp/3t9zZ3V
+GithubAdvisories,[GHSA-w8fh-pvq2-x8c4] Malicious npm package: sonatype,https://github.com/advisories/GHSA-w8fh-pvq2-x8c4,https://j.mp/36rmqTM
