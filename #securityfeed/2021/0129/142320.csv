@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Rocke Group's Malware Now Has Worm Capabilities,https://packetstormsecurity.com/news/view/31974/Rocke-Groups-Malware-Now-Has-Worm-Capabilities.html,https://j.mp/3rfs1ov
+PacketstormSecurity,Apple Comes Out Swinging Against Facebook Over Data Privacy,https://packetstormsecurity.com/news/view/31971/Apple-Comes-Out-Swinging-Against-Facebook-Over-Data-Privacy.html,https://j.mp/36oHla3
+PacketstormSecurity,Google Bans Another Misbehaving CA From Chrome,https://packetstormsecurity.com/news/view/31972/Google-Bans-Another-Misbehaving-CA-From-Chrome.html,https://j.mp/3iZLUN3
+PacketstormSecurity,Bitcoin Soars 14% After Elon Musk Namecheck On Twitter,https://packetstormsecurity.com/news/view/31973/Bitcoin-Soars-14-After-Elon-Musk-Namecheck-On-Twitter.html,https://j.mp/3owFtSZ
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-38,https://packetstormsecurity.com/files/161202/glsa-202101-38.txt,https://j.mp/2KYQuia
+PacketstormSecurity,Metasploit Framework 6.0.11 Command Injection,https://packetstormsecurity.com/files/161200/msfw6011-exec.txt,https://j.mp/3pxqxFr
+PacketstormSecurity,Packed.Win32.Katusha.o Insecure Permissions,https://packetstormsecurity.com/files/161199/MVID-2021-0061.txt,https://j.mp/2L0bpS5
+PacketstormSecurity,Backdoor.Win32.MiniBlackLash Denial Of Service,https://packetstormsecurity.com/files/161198/MVID-2021-0060.txt,https://j.mp/3j9FbAB
+PacketstormSecurity,Online Voting System 1.0 Authorization Bypass,https://packetstormsecurity.com/files/161197/ovs10-bypass.txt,https://j.mp/2NDEIL0
+PacketstormSecurity,Red Hat Security Advisory 2021-0299-01,https://packetstormsecurity.com/files/161196/RHSA-2021-0299-01.txt,https://j.mp/2YndAlM
+PacketstormSecurity,BloofoxCMS 0.5.2.1 Cross Site Scripting,https://packetstormsecurity.com/files/161195/bloofoxcms0521-xss.txt,https://j.mp/3osm9GA
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-37,https://packetstormsecurity.com/files/161194/glsa-202101-37.txt,https://j.mp/2YsvOCc
+PacketstormSecurity,Gentoo Linux Security Advisory 202101-36,https://packetstormsecurity.com/files/161193/glsa-202101-36.txt,https://j.mp/2Myogv6
+PacketstormSecurity,Online Grading System 1.0 SQL Injection,https://packetstormsecurity.com/files/161192/ogs10-sql.txt,https://j.mp/3pvGb4h
+PacketstormSecurity,Backdoor.Win32.Mhtserv.b Missing Authentication,https://packetstormsecurity.com/files/161191/MVID-2021-0059.txt,https://j.mp/3cubvfQ
+PacketstormSecurity,Red Hat Security Advisory 2021-0298-01,https://packetstormsecurity.com/files/161190/RHSA-2021-0298-01.txt,https://j.mp/3osmfhq
+PacketstormSecurity,Quick.CMS 6.7 Remote Code Execution,https://packetstormsecurity.com/files/161189/quickcms67-exec.txt,https://j.mp/39uaKS9
+PacketstormSecurity,Home Assistant Community Store 1.10.0 Path Traversal,https://packetstormsecurity.com/files/161188/hacs1100-traversal.txt,https://j.mp/3t7Bi3z
+PacketstormSecurity,Backdoor.Win32.Zhangpo Denial Of Service,https://packetstormsecurity.com/files/161187/MVID-2021-0058.txt,https://j.mp/39uaKl7
+PacketstormSecurity,Backdoor.Win32.Zetronic Denial Of Service,https://packetstormsecurity.com/files/161186/MVID-2021-0057.txt,https://j.mp/3ovfjji
+PacketstormSecurity,MyBB Hide Thread Content 1.0 Information Disclosure,https://packetstormsecurity.com/files/161185/mybbhtc10-disclose.txt,https://j.mp/3adsGQd
+PacketstormSecurity,Red Hat Security Advisory 2021-0297-01,https://packetstormsecurity.com/files/161184/RHSA-2021-0297-01.txt,https://j.mp/3otw9PP
+PacketstormSecurity,Glibc Character Conversion Assertion,https://packetstormsecurity.com/files/161203/GS20210129132532.txt,https://j.mp/3aeztZZ
