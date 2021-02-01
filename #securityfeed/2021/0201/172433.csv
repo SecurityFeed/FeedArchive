@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,"Packet Storm New Exploits For January, 2021",https://packetstormsecurity.com/files/161236/202101-exploits.tgz,https://j.mp/36tct8s
+PacketstormSecurity,Wireshark Analyzer 3.4.3,https://packetstormsecurity.com/files/161235/wireshark-3.4.3.tar.xz,https://j.mp/3pIwoYE
+PacketstormSecurity,Aide 0.17.1,https://packetstormsecurity.com/files/161234/aide-0.17.1.tar.gz,https://j.mp/3rcCuRn
+PacketstormSecurity,GPG libgcrypt Heap Buffer Overflow,https://packetstormsecurity.com/files/161233/GS20210201164008.tgz,https://j.mp/3aneT9U
+PacketstormSecurity,Gentoo Linux Security Advisory 202102-02,https://packetstormsecurity.com/files/161231/glsa-202102-02.txt,https://j.mp/3tbVbql
+PacketstormSecurity,Sudo Buffer Overflow / Privilege Escalation,https://packetstormsecurity.com/files/161230/sudo-escalate.txt,https://j.mp/36xQ5uz
+PacketstormSecurity,Kernel Live Patch Security Notice LSN-0074-1,https://packetstormsecurity.com/files/161229/LSN-0074-1.txt,https://j.mp/39F0rLn
+PacketstormSecurity,Park Ticketing Management System 1 SQL Injection,https://packetstormsecurity.com/files/161228/ptms1-sql.txt,https://j.mp/2ML35WE
+PacketstormSecurity,Red Hat Security Advisory 2021-0319-01,https://packetstormsecurity.com/files/161227/RHSA-2021-0319-01.txt,https://j.mp/3pKjMjW
+PacketstormSecurity,Roundcube Webmail 1.2 File Disclosure,https://packetstormsecurity.com/files/161226/roundcubewebmail12-disclose.txt,https://j.mp/3tiedLG
+PacketstormSecurity,Online Reviewer System 1.0 SQL Injection,https://packetstormsecurity.com/files/161225/onlinereviewersystem10-sql.txt,https://j.mp/2NZsFYV
+PacketstormSecurity,Red Hat Security Advisory 2021-0320-01,https://packetstormsecurity.com/files/161224/RHSA-2021-0320-01.txt,https://j.mp/2YCdrLn
+PacketstormSecurity,Vehicle Parking Tracker System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161223/vpts10-xss.txt,https://j.mp/2MEnWuR
+PacketstormSecurity,Red Hat Security Advisory 2021-0318-01,https://packetstormsecurity.com/files/161221/RHSA-2021-0318-01.txt,https://j.mp/39B1Br2
+PacketstormSecurity,Malware Hunting 101,https://packetstormsecurity.com/files/161220/malwarehunting101.pdf,https://j.mp/3j9aKuk
+PacketstormSecurity,Online Reviewer System 1.0 SQL Injection / Shell Upload,https://packetstormsecurity.com/files/161219/ors10-sqlshell.txt,https://j.mp/2YyNqMV
+PacketstormSecurity,User Management System 1 SQL Injection,https://packetstormsecurity.com/files/161218/ums1-sql.txt,https://j.mp/2MnQuci
+PacketstormSecurity,Red Hat Security Advisory 2021-0317-01,https://packetstormsecurity.com/files/161217/RHSA-2021-0317-01.txt,https://j.mp/3pFRiHM
+PacketstormSecurity,MyBB Delete Account 1.4 Cross Site Scripting,https://packetstormsecurity.com/files/161216/mybbdeleteaccount14-xss.txt,https://j.mp/2YyK2l9
+PacketstormSecurity,MyBB Trending Widget 1.2 Cross Site Scripting,https://packetstormsecurity.com/files/161215/mybbtw12-xss.txt,https://j.mp/39HnFAB
+PacketstormSecurity,MyBB Thread Redirect 0.2.1 Cross Site Scripting,https://packetstormsecurity.com/files/161214/mybbthreadredirect021-xss.txt,https://j.mp/3tqZU7E
+PacketstormSecurity,WordPress 5.0.0 Remote Code Execution,https://packetstormsecurity.com/files/161213/wp500-exec.txt,https://j.mp/3oD5Wyc
+PacketstormSecurity,Red Hat Security Advisory 2021-0307-01,https://packetstormsecurity.com/files/161212/RHSA-2021-0307-01.txt,https://j.mp/3pFy1WX
