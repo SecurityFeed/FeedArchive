@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j6px-jwvv-vpwq] Angular Expressions - Remote Code Execution,https://github.com/advisories/GHSA-j6px-jwvv-vpwq,https://j.mp/3arL5J6
+GithubAdvisories,[GHSA-c497-v8pv-ch6x] Prototype pollution in nested-object-assign,https://github.com/advisories/GHSA-c497-v8pv-ch6x,https://j.mp/3oCHxsH
