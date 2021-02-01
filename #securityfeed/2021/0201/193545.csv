@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20620 (wg2600hp_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20620,https://j.mp/3rdlISg
+NVD-NIST,"CVE-2021-20621 (wg2600hp_firmware, wg2600hp2_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20621,https://j.mp/3tk5oRi
+NVD-NIST,CVE-2021-25226 (serverprotect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25226,https://j.mp/2YBOQpO
