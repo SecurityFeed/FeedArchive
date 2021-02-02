@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-25016 (opendoas),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-25016,https://j.mp/3cycKuL
+NVD-NIST,"CVE-2020-4682 (mq, mq_appliance, websphere_mq)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4682,https://j.mp/2YATKDJ
+NVD-NIST,CVE-2020-4888 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4888,https://j.mp/2MNmWVg
+NVD-NIST,CVE-2021-3336 (wolfssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3336,https://j.mp/3pGTor6
+NVD-NIST,CVE-2021-3346 (foris),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3346,https://j.mp/3titkod
