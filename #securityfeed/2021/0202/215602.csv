@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xhv5-w9c5-2r2w] Unbounded connection acceptance in http4s-blaze-server,https://github.com/advisories/GHSA-xhv5-w9c5-2r2w,https://j.mp/3tkBbBD
+GithubAdvisories,[GHSA-xmw9-q7x9-j5qc] Unbounded connection acceptance leads to file handle exhaustion,https://github.com/advisories/GHSA-xmw9-q7x9-j5qc,https://j.mp/2YDbmPd
