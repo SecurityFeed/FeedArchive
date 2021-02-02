@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x7p5-p2c9-phvg] Unexpected database bindings,https://github.com/advisories/GHSA-x7p5-p2c9-phvg,https://j.mp/2LcT7NB
+GithubAdvisories,[GHSA-f92j-qf46-p6vm] Reflected Cross-site Scripting in ACS Commons,https://github.com/advisories/GHSA-f92j-qf46-p6vm,https://j.mp/36APDvJ
+GithubAdvisories,[GHSA-p4pj-mg4r-x6v4] Denial of Service in uap-core,https://github.com/advisories/GHSA-p4pj-mg4r-x6v4,https://j.mp/3resUgP
