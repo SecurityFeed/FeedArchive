@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Sudo 1.9.5p1 - 'Baron Samedit ' Heap-Based Buffer Overflow Privilege Escalation (2),https://www.exploit-db.com/exploits/49522,https://j.mp/2YBXS6t
+ExploitDB,[local] Sudo 1.9.5p1 - 'Baron Samedit ' Heap-Based Buffer Overflow Privilege Escalation (1),https://www.exploit-db.com/exploits/49521,https://j.mp/3czTKvV
+ExploitDB,[webapps] Car Rental Project 2.0 - Arbitrary File Upload to Remote Code Execution,https://www.exploit-db.com/exploits/49520,https://j.mp/3ap4IBE
+ExploitDB,[webapps] Pixelimity 1.0 - 'password' Cross-Site Request Forgery,https://www.exploit-db.com/exploits/49519,https://j.mp/2MkLu8p
