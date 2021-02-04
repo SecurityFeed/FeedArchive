@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-14192 (crucible, fisheye)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14192,https://j.mp/3jhbjSG
+NVD-NIST,CVE-2020-18723 (mdaemon_webmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18723,https://j.mp/2Lkdto1
+NVD-NIST,CVE-2020-18724 (mdaemon_webmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18724,https://j.mp/2YKvDlZ
+NVD-NIST,CVE-2020-25036 (ucopia_wireless_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25036,https://j.mp/2YKvDCv
+NVD-NIST,CVE-2020-25037 (ucopia_wireless_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25037,https://j.mp/2LkdtV3
+NVD-NIST,CVE-2020-28001 (serv-u),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28001,https://j.mp/3oVW17i
+NVD-NIST,CVE-2020-35482 (serv-u),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35482,https://j.mp/3tlUVVA
+NVD-NIST,"CVE-2020-36231 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36231,https://j.mp/39Ovp3N
+NVD-NIST,CVE-2020-9389 (squaredup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9389,https://j.mp/3ro8qCk
+NVD-NIST,CVE-2020-9390 (squaredup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9390,https://j.mp/2Lkdubz
+NVD-NIST,CVE-2021-25773 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25773,https://j.mp/3jk4akC
+NVD-NIST,CVE-2021-3283 (nomad),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3283,https://j.mp/2LkdtEx
+NVD-NIST,CVE-2021-3378 (fortilogger),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3378,https://j.mp/2MV1rSu
+NVD-NIST,CVE-2021-3395 (pryaniki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3395,https://j.mp/3jkKOvS
