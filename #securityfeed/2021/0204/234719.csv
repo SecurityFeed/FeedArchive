@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-25018 (krb5-appl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-25018,https://j.mp/39OZBM5
+NVD-NIST,"CVE-2020-18568 (dsr-1000n_firmware, dsr-250_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18568,https://j.mp/3jiXR0u
+NVD-NIST,CVE-2020-24335 (uip),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24335,https://j.mp/3jqE53u
+NVD-NIST,CVE-2020-25035 (express_wireless_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25035,https://j.mp/3cI8tF5
+NVD-NIST,CVE-2020-25506 (dns-320_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25506,https://j.mp/2MCYLt1
+NVD-NIST,CVE-2020-4640 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4640,https://j.mp/2YOcJKW
+NVD-NIST,CVE-2020-4825 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4825,https://j.mp/3pOFinq
+NVD-NIST,CVE-2020-4826 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4826,https://j.mp/3pTXV9u
+NVD-NIST,CVE-2020-4827 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4827,https://j.mp/39R7cd7
+NVD-NIST,CVE-2020-4828 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4828,https://j.mp/2YNwcvw
+NVD-NIST,CVE-2020-4934 (content_navigator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4934,https://j.mp/2NWREvF
+NVD-NIST,CVE-2020-5032 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-5032,https://j.mp/3ayn7w2
+NVD-NIST,CVE-2021-25757 (hub),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25757,https://j.mp/2YJ08sD
+NVD-NIST,CVE-2021-25760 (hub),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25760,https://j.mp/36H5bxY
+NVD-NIST,CVE-2021-25765 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25765,https://j.mp/36Ki1eR
+NVD-NIST,CVE-2021-25771 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25771,https://j.mp/3cFXoV5
+NVD-NIST,CVE-2021-25772 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25772,https://j.mp/3rnsq89
+NVD-NIST,CVE-2021-25775 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25775,https://j.mp/3pUDppm
+NVD-NIST,CVE-2021-25776 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25776,https://j.mp/3oQiEtN
+NVD-NIST,CVE-2021-25777 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25777,https://j.mp/2YKKaxZ
