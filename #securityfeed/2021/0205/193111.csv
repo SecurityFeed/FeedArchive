@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-1896 (hermes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1896,https://j.mp/2LqZQUc
+NVD-NIST,CVE-2020-28494 (total.js),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28494,https://j.mp/3rktV74
+NVD-NIST,"CVE-2021-1319 (rv016_multi-wan_vpn_router_firmware, rv042_dual_wan_vpn_router_firmware, rv042g_dual_gigabit_wan_vpn_router_firmware, rv082_dual_wan_vpn_router_firmware, rv320_dual_gigabit_wan_vpn_router_firmware, rv325_dual_gigabit_wan_vpn_router_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1319,https://j.mp/39SWXFe
+NVD-NIST,"CVE-2021-1321 (rv016_multi-wan_vpn_router_firmware, rv042_dual_wan_vpn_router_firmware, rv042g_dual_gigabit_wan_vpn_router_firmware, rv082_dual_wan_vpn_router_firmware, rv320_dual_gigabit_wan_vpn_router_firmware, rv325_dual_gigabit_wan_vpn_router_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1321,https://j.mp/3jnAEdH
+NVD-NIST,"CVE-2021-1322 (rv016_multi-wan_vpn_router_firmware, rv042_dual_wan_vpn_router_firmware, rv042g_dual_gigabit_wan_vpn_router_firmware, rv082_dual_wan_vpn_router_firmware, rv320_dual_gigabit_wan_vpn_router_firmware, rv325_dual_gigabit_wan_vpn_router_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1322,https://j.mp/3aynTZQ
+NVD-NIST,CVE-2021-21043 (adobe_consulting_services_commons),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21043,https://j.mp/3tpoWDY
+NVD-NIST,CVE-2021-21286 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21286,https://j.mp/3oSrQhg
+NVD-NIST,CVE-2021-23329 (nested-object-assign),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23329,https://j.mp/3ro7Lks
+NVD-NIST,"CVE-2021-25230 (apex_one, officescan)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25230,https://j.mp/39PMydk
+NVD-NIST,"CVE-2021-25231 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25231,https://j.mp/2YO3Yk3
+NVD-NIST,"CVE-2021-25232 (apex_one, officescan)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25232,https://j.mp/3aD6MWP
+NVD-NIST,"CVE-2021-25233 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25233,https://j.mp/2N3m0vZ
+NVD-NIST,"CVE-2021-25235 (apex_one, officescan)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25235,https://j.mp/2Lsclim
+NVD-NIST,CVE-2021-25767 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25767,https://j.mp/3aDF8ZJ
+NVD-NIST,CVE-2021-25768 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25768,https://j.mp/3aHdgnu
+NVD-NIST,CVE-2021-25769 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25769,https://j.mp/3twqpbS
+NVD-NIST,CVE-2021-25770 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25770,https://j.mp/3aEkKrj
+NVD-NIST,CVE-2021-25774 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25774,https://j.mp/3oUmp1h
+NVD-NIST,CVE-2021-3281 (django),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3281,https://j.mp/36L4bsN
+NVD-NIST,CVE-2021-3350 (delete_account),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3350,https://j.mp/3oUmlP5
