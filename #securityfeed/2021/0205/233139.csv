@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-17516 (cassandra),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17516,https://j.mp/3rqA8hR
+NVD-NIST,CVE-2020-17523 (shiro),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17523,https://j.mp/3oMUv7i
+NVD-NIST,CVE-2020-18713 (rockoa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18713,https://j.mp/3rqA81l
+NVD-NIST,CVE-2020-18714 (rockoa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18714,https://j.mp/3aFPfgC
+NVD-NIST,CVE-2020-18716 (rockoa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18716,https://j.mp/3jluqet
+NVD-NIST,CVE-2020-2506 (helpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2506,https://j.mp/2LovMIJ
+NVD-NIST,CVE-2020-2507 (helpdesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-2507,https://j.mp/36ISSkM
+NVD-NIST,CVE-2020-28895 (vxworks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28895,https://j.mp/3jluTx8
+NVD-NIST,CVE-2020-29582 (kotlin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29582,https://j.mp/2LovMZf
+NVD-NIST,CVE-2020-36109 (rt-ax86u_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36109,https://j.mp/36LFwUZ
+NVD-NIST,CVE-2021-21266 (openhab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21266,https://j.mp/3rl2D0m
+NVD-NIST,"CVE-2021-25234 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25234,https://j.mp/3oXTw41
+NVD-NIST,"CVE-2021-25246 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25246,https://j.mp/2LovMsd
+NVD-NIST,"CVE-2021-25248 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25248,https://j.mp/3aCIdtd
+NVD-NIST,"CVE-2021-25249 (apex_one, officescan, worry-free_business_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25249,https://j.mp/3pSBWji
+NVD-NIST,CVE-2021-26689 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26689,https://j.mp/2YOPb8R
+NVD-NIST,CVE-2021-3348 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3348,https://j.mp/2O7fgOh
