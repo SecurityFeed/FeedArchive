@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f4hq-453j-p95f] Open redirect in Slashify,https://github.com/advisories/GHSA-f4hq-453j-p95f,https://j.mp/39SwEyU
+GithubAdvisories,[GHSA-4449-hg37-77v8] Command injection in total.js,https://github.com/advisories/GHSA-4449-hg37-77v8,https://j.mp/2YR422s
+GithubAdvisories,[GHSA-6cf8-qhqj-vjqm] Prototype pollution in total.js,https://github.com/advisories/GHSA-6cf8-qhqj-vjqm,https://j.mp/3pUHjyC
+GithubAdvisories,[GHSA-f5c9-x9j6-87qp] Prototype pollution in dotty,https://github.com/advisories/GHSA-f5c9-x9j6-87qp,https://j.mp/39QQMkF
