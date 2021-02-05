@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Apple CoreText libType1Scaler.dylib Out-Of-Bounds Write / Integer Overflow,https://packetstormsecurity.com/files/161300/GS20210205164132.tgz,https://j.mp/3aEeYGo
+PacketstormSecurity,Apple CoreText libFontParser.dylib Stack Corruption,https://packetstormsecurity.com/files/161299/GS20210205163849.tgz,https://j.mp/2YR94MB
+PacketstormSecurity,Apple CoreText libType1Scaler.dylib Buffer Overflow,https://packetstormsecurity.com/files/161298/GS20210205163703.tgz,https://j.mp/3rnFvhS
+PacketstormSecurity,Apple CoreText libType1Scaler.dylib Memory Disclosure,https://packetstormsecurity.com/files/161297/GS20210205163523.tgz,https://j.mp/3aGNzDP
+PacketstormSecurity,XNU Kernel Mach Message Trailers Memory Disclosure,https://packetstormsecurity.com/files/161296/GS20210205163336.tgz,https://j.mp/3pUboyj
+PacketstormSecurity,XNU Kernel Turnstiles Type Confusion,https://packetstormsecurity.com/files/161295/GS20210205163138.tgz,https://j.mp/3jnX5ja
+PacketstormSecurity,Apple Safari Remote Code Execution,https://packetstormsecurity.com/files/161294/GS20210205162808.tgz,https://j.mp/36KTd6E
+PacketstormSecurity,Sudo 1.8.31p2 / 1.9.5p1 Buffer Overflow,https://packetstormsecurity.com/files/161293/sudo_baron_samedit.rb.txt,https://j.mp/3oSwb3U
+PacketstormSecurity,SEO Panel 4.6.0 Remote Code Execution,https://packetstormsecurity.com/files/161292/seop460-exec.txt,https://j.mp/3rwvaAp
+PacketstormSecurity,PhreeBooks 5.2.3 Remote Code Execution,https://packetstormsecurity.com/files/161291/perp523-exec.txt,https://j.mp/39RNH45
+PacketstormSecurity,LiteSpeed Web Server Enterprise 5.4.11 Command Injection,https://packetstormsecurity.com/files/161290/litespeedwse5411-exec.txt,https://j.mp/2MFFw1Z
