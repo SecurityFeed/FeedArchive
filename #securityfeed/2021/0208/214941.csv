@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-10537 (epikur),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10537,https://j.mp/36PURE3
+NVD-NIST,CVE-2020-10538 (epikur),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10538,https://j.mp/2YUkFue
+NVD-NIST,CVE-2020-10552 (psyprax),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10552,https://j.mp/39YX7La
+NVD-NIST,CVE-2020-10553 (psyprax),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10553,https://j.mp/3q3fYKF
+NVD-NIST,CVE-2020-10554 (psyprax),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10554,https://j.mp/3jyGY2i
+NVD-NIST,CVE-2020-16194 (quote),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16194,https://j.mp/2N5qr9U
+NVD-NIST,CVE-2020-25857 (rtl8195a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25857,https://j.mp/3p20JAi
+NVD-NIST,CVE-2020-27249 (planmaker_2021),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27249,https://j.mp/3aQ1iIe
+NVD-NIST,"CVE-2020-27872 (ac2100_firmware, ac2400_firmware, ac2600_firmware, r6020_firmware, r6080_firmware, r6120_firmware, r6220_firmware, r6230_firmware, r6260_firmware, r6330_firmware, r6350_firmware, r6700_firmware, r6800_firmware, r6850_firmware, r6900_firmware, r7200_firmware, r7350_firmware, r7400_firmware, r7450_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27872,https://j.mp/3a35UMe
+NVD-NIST,"CVE-2020-27873 (ac2100_firmware, ac2400_firmware, ac2600_firmware, r6020_firmware, r6080_firmware, r6120_firmware, r6220_firmware, r6230_firmware, r6260_firmware, r6330_firmware, r6350_firmware, r6700_firmware, r6800_firmware, r6850_firmware, r6900_firmware, r7200_firmware, r7350_firmware, r7400_firmware, r7450_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27873,https://j.mp/2YUESjI
+NVD-NIST,CVE-2020-28449 (decal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28449,https://j.mp/3p8Hbug
+NVD-NIST,CVE-2020-28450 (decal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28450,https://j.mp/3a62hVT
+NVD-NIST,CVE-2020-6088 (flex_io_1794-aent/b_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6088,https://j.mp/3q6Vq3S
+NVD-NIST,CVE-2021-1128 (ios_xr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1128,https://j.mp/2Z0r7Qm
+NVD-NIST,CVE-2021-1136 (ios_xr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1136,https://j.mp/3jyGYiO
+NVD-NIST,CVE-2021-1244 (ios_xr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1244,https://j.mp/3cXLjdV
+NVD-NIST,CVE-2021-1266 (managed_services_accelerator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1266,https://j.mp/3p2FKNQ
+NVD-NIST,CVE-2021-1354 (unified_computing_system_central_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1354,https://j.mp/3jxdwJV
+NVD-NIST,CVE-2021-1370 (ios_xr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1370,https://j.mp/39YMIPE
+NVD-NIST,"CVE-2021-1389 (ios_xr, nx-os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1389,https://j.mp/3jtO489
+NVD-NIST,CVE-2021-25275 (orion_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25275,https://j.mp/3aNgPsh
+NVD-NIST,CVE-2021-25766 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25766,https://j.mp/2Ly0VJZ
+NVD-NIST,CVE-2021-26710 (report2web),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26710,https://j.mp/3rxrvlI
+NVD-NIST,CVE-2021-26711 (report2web),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26711,https://j.mp/2MFC4Vc
+NVD-NIST,CVE-2021-26722 (oncall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26722,https://j.mp/3q13cfy
