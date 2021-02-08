@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf3w-g86h-35x4] Code Injection vulnerability in CarrierWave::RMagick,https://github.com/advisories/GHSA-cf3w-g86h-35x4,https://j.mp/3p2YvAL
+GithubAdvisories,[GHSA-fwcm-636p-68r5] Server-side request forgery in CarrierWave,https://github.com/advisories/GHSA-fwcm-636p-68r5,https://j.mp/3rAfagu
