@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r62-v4vq-hr96] Regular Expression Denial of Service (REDoS) in Marked,https://github.com/advisories/GHSA-4r62-v4vq-hr96,https://j.mp/2YZLs8G
+GithubAdvisories,[GHSA-5mcr-gq6c-3hq2] Local Information Disclosure Vulnerability in Netty on Unix-Like systems due temporary files,https://github.com/advisories/GHSA-5mcr-gq6c-3hq2,https://j.mp/3jxc0HJ
