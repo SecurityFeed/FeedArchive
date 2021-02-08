@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin Welcart e-Commerce 2.0.0 - 'search[order_column][0]' SQL injection,https://www.exploit-db.com/exploits/49531,https://j.mp/3aNDTrb
+ExploitDB,[local] Millewin 13.39.146.1 - Local Privilege Escalation,https://www.exploit-db.com/exploits/49530,https://j.mp/36SPofI
+ExploitDB,[webapps] Jenzabar 9.2.2 - 'query' Reflected XSS,https://www.exploit-db.com/exploits/49529,https://j.mp/39WmJZ6
+ExploitDB,[webapps] SmartFoxServer 2X 2.17.0 - God Mode Console WebSocket XSS,https://www.exploit-db.com/exploits/49528,https://j.mp/3q2bx2B
+ExploitDB,[local] SmartFoxServer 2X 2.17.0 - Credentials Disclosure,https://www.exploit-db.com/exploits/49527,https://j.mp/3oYZgus
+ExploitDB,[local] SmartFoxServer 2X 2.17.0 - God Mode Console Remote Code Execution,https://www.exploit-db.com/exploits/49526,https://j.mp/3tC89xH
