@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,SmartFoxServer 2X 2.17.0 Remote Code Execution,https://packetstormsecurity.com/files/161340/ZSL-2021-5628.txt,https://j.mp/2N50AyH
+PacketstormSecurity,Aide 0.17.2,https://packetstormsecurity.com/files/161339/aide-0.17.2.tar.gz,https://j.mp/3rzXjGI
+PacketstormSecurity,Unibox 2.4 CSRF / Remote Code Execution,https://packetstormsecurity.com/files/161338/KSA-Dev-009.txt,https://j.mp/3jwfji9
+PacketstormSecurity,SmartFoxServer 2X 2.17.0 Credential Disclosure,https://packetstormsecurity.com/files/161337/ZSL-2021-5627.txt,https://j.mp/2MEImEy
+PacketstormSecurity,Unibox Cross Site Request Forgery,https://packetstormsecurity.com/files/161336/KSA-Dev-008.txt,https://j.mp/3aGnuEK
+PacketstormSecurity,SmartFoxServer 2X 2.17.0 God Mode Console WebSocket Cross Site Scripting,https://packetstormsecurity.com/files/161335/ZSL-2021-5626.txt,https://j.mp/36U6c5S
+PacketstormSecurity,Millewin 13.39.028 Unquoted Service Path / Insecure Permissions,https://packetstormsecurity.com/files/161334/millewin1339028-escalate.txt,https://j.mp/2MEImo2
+PacketstormSecurity,Backdoor.Win32.Wollf.15 Missing Authentication,https://packetstormsecurity.com/files/161333/MVID-2021-0079.txt,https://j.mp/3oYzg2f
+PacketstormSecurity,Alt-N MDaemon Webmail 20.0.0 Cross Site Scripting,https://packetstormsecurity.com/files/161332/altnmademonwm2000-xss.txt,https://j.mp/3p0EaMg
+PacketstormSecurity,Trojan-Spy.Win32.WinSpy.vwl Insecure Permissions,https://packetstormsecurity.com/files/161331/MVID-2021-0078.txt,https://j.mp/2YYSWZA
+PacketstormSecurity,Trojan-Spy.Win32.WebCenter.a Information Disclosure,https://packetstormsecurity.com/files/161330/MVID-2021-0077.txt,https://j.mp/3cZ2qMF
+PacketstormSecurity,WordPress Supsystic Backup 2.3.9 Local File Inclusion,https://packetstormsecurity.com/files/161329/wpsupsysticbackup239-lfi.txt,https://j.mp/2Lz5zY8
+PacketstormSecurity,Trojan-Spy.Win32.SpyEyes.awow Insecure Permissions,https://packetstormsecurity.com/files/161327/MVID-2021-0076.txt,https://j.mp/36U4EJc
+PacketstormSecurity,Trojan.Win32.Delf.uq Insecure Permissions,https://packetstormsecurity.com/files/161326/MVID-2021-0071.txt,https://j.mp/2YYcIEw
+PacketstormSecurity,Email-Worm.Win32.Sircam.eb Insecure Permissions,https://packetstormsecurity.com/files/161325/MVID-2021-0070.txt,https://j.mp/3cOTObj
+PacketstormSecurity,WordPress Supsystic Contact Form 1.7.5 XSS / SQL Injection,https://packetstormsecurity.com/files/161324/wpsupsysticcf175-sqlxss.txt,https://j.mp/2Nbr1CL
+PacketstormSecurity,Trojan.Win32.Cospet.abg Insecure Permissions,https://packetstormsecurity.com/files/161323/MVID-2021-0069.txt,https://j.mp/3q5Z6Tu
+PacketstormSecurity,Trojan.Win32.Comei.pgo Insecure Permissions,https://packetstormsecurity.com/files/161322/MVID-2021-0068.txt,https://j.mp/3junSKm
+PacketstormSecurity,Trojan-Spy.Win32.SpyEyes.auwl Insecure Permissions,https://packetstormsecurity.com/files/161321/MVID-2021-0075.txt,https://j.mp/3tGfdcL
+PacketstormSecurity,Red Hat Security Advisory 2021-0308-01,https://packetstormsecurity.com/files/161320/RHSA-2021-0308-01.txt,https://j.mp/3tCsGlG
+PacketstormSecurity,Red Hat Security Advisory 2021-0310-01,https://packetstormsecurity.com/files/161319/RHSA-2021-0310-01.txt,https://j.mp/2OmtPxP
+PacketstormSecurity,Red Hat Security Advisory 2021-0433-01,https://packetstormsecurity.com/files/161315/RHSA-2021-0433-01.txt,https://j.mp/2MJ8b68
