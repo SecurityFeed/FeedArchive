@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrqm-p222-8ph2] Prototype Pollution in Dynamoose,https://github.com/advisories/GHSA-rrqm-p222-8ph2,https://j.mp/2Z3unKJ
+GithubAdvisories,[GHSA-4ph2-8337-hm62] Key Caching behavior in the DynamoDB Encryption Client,https://github.com/advisories/GHSA-4ph2-8337-hm62,https://j.mp/3q3xRJ4
+GithubAdvisories,[GHSA-w736-hf9p-qqh3] Key Caching behavior in the DynamoDB Encryption Client,https://github.com/advisories/GHSA-w736-hf9p-qqh3,https://j.mp/3aNW9jR
