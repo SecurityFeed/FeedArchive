@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93xj-8mrv-444m] Regular Expression Denial of Service (REDoS) in httplib2,https://github.com/advisories/GHSA-93xj-8mrv-444m,https://j.mp/2YWP9vB
