@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ggw-h8pp-r95r] Session ID not invalidated after logout,https://github.com/advisories/GHSA-7ggw-h8pp-r95r,https://j.mp/3jCWQ3Q
+GithubAdvisories,[GHSA-f2vv-h5x4-57gr] Leak of information via Store-API,https://github.com/advisories/GHSA-f2vv-h5x4-57gr,https://j.mp/2LB9eod
+GithubAdvisories,[GHSA-jvg4-9rc2-wvcr] Generation of fake documents via public GET-call,https://github.com/advisories/GHSA-jvg4-9rc2-wvcr,https://j.mp/3a7kJNQ
+GithubAdvisories,[GHSA-29q4-gxjq-rx5c] Remote Code Execution in SCIMono,https://github.com/advisories/GHSA-29q4-gxjq-rx5c,https://j.mp/3p7tQ56
