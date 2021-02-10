@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rhm9-p9w5-fwm7] Symmetrically encrypting large values can lead to integer overflow,https://github.com/advisories/GHSA-rhm9-p9w5-fwm7,https://j.mp/3jBDNXG
