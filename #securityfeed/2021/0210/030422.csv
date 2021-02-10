@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4849 firejail,https://www.debian.org/security/2021/dsa-4849,https://j.mp/2MHeWWn
+DebianSecurityNotice,DSA-4848 golang-1.11,https://www.debian.org/security/2021/dsa-4848,https://j.mp/2OiMCK5
+DebianSecurityNotice,DSA-4847 connman,https://www.debian.org/security/2021/dsa-4847,https://j.mp/2Z1Rqpn
