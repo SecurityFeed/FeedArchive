@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w46j-8hm6-h8mm] XSS in apexcharts,https://github.com/advisories/GHSA-w46j-8hm6-h8mm,https://j.mp/2NeoOGS
+GithubAdvisories,[GHSA-r3j7-x2g5-9gx6] Command injection in samba-client,https://github.com/advisories/GHSA-r3j7-x2g5-9gx6,https://j.mp/3aapK88
+GithubAdvisories,[GHSA-m56g-3g8v-2rxw] XSS in Adminer,https://github.com/advisories/GHSA-m56g-3g8v-2rxw,https://j.mp/2Ng7Nw6
+GithubAdvisories,[GHSA-9pgx-gcph-mpqr] XSS via the history parameter in SQL command,https://github.com/advisories/GHSA-9pgx-gcph-mpqr,https://j.mp/3paaNqP
+GithubAdvisories,[GHSA-x5r2-hj5c-8jx6] SSRF in adminer,https://github.com/advisories/GHSA-x5r2-hj5c-8jx6,https://j.mp/3jHug18
