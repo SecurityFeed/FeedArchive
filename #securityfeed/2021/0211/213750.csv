@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pg53-56cg-4m8q] Token verification bug in next-auth,https://github.com/advisories/GHSA-pg53-56cg-4m8q,https://j.mp/3jELtbz
+GithubAdvisories,[GHSA-43f8-p5w3-5m25] SSRF by connecting to privileged ports,https://github.com/advisories/GHSA-43f8-p5w3-5m25,https://j.mp/2LIRHuv
