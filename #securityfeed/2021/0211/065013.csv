@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-10048 (simatic_pcs_7, simatic_wincc)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10048,https://j.mp/3d12qeN
+NVD-NIST,"CVE-2020-27259 (cx-one, cx-position, cx-protocol, cx-server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27259,https://j.mp/2Z7h2Bq
+NVD-NIST,"CVE-2020-27261 (cx-one, cx-position, cx-protocol, cx-server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27261,https://j.mp/3qbm2AR
+NVD-NIST,"CVE-2020-29021 (gatemanager_4250_firmware, gatemanager_4260_firmware, gatemanager_8250_firmware, gatemanager_9250_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29021,https://j.mp/3jEHSKt
+NVD-NIST,CVE-2020-4790 (security_identity_governance_and_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4790,https://j.mp/2Z5GkzH
+NVD-NIST,CVE-2020-4791 (security_identity_governance_and_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4791,https://j.mp/3aa9iFa
+NVD-NIST,CVE-2020-4795 (security_identity_governance_and_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4795,https://j.mp/3rNHeNP
+NVD-NIST,CVE-2020-4995 (security_identity_governance_and_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4995,https://j.mp/3cVXYy6
+NVD-NIST,CVE-2020-4996 (security_identity_governance_and_intelligence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4996,https://j.mp/3qc6fBF
+NVD-NIST,CVE-2021-27158 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27158,https://j.mp/3rHqAz7
+NVD-NIST,CVE-2021-27159 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27159,https://j.mp/3a7IPry
+NVD-NIST,CVE-2021-27160 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27160,https://j.mp/3d4Xx4u
+NVD-NIST,CVE-2021-27161 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27161,https://j.mp/2MTMv7A
+NVD-NIST,CVE-2021-27162 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27162,https://j.mp/3d4Xxl0
+NVD-NIST,CVE-2021-27163 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27163,https://j.mp/3q56L4t
+NVD-NIST,CVE-2021-27164 (hg6245d_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27164,https://j.mp/3aRYtq9
+NVD-NIST,CVE-2021-3394 (millewin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3394,https://j.mp/2MXFen4
