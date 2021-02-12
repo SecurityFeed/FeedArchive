@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13461 (securetrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13461,https://j.mp/3qfCWyk
+NVD-NIST,CVE-2020-13462 (securetrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13462,https://j.mp/2Nnf516
+NVD-NIST,CVE-2020-14391 (control_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14391,https://j.mp/3qhqyOe
+NVD-NIST,"CVE-2020-15798 (simatic_hmi_comfort_panels_firmware, simatic_hmi_ktp_mobile_panels_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15798,https://j.mp/3b4t3Ng
+NVD-NIST,CVE-2020-18215 (phpshe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18215,https://j.mp/37byitx
+NVD-NIST,CVE-2020-25245 (digsi_4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25245,https://j.mp/3jLVWlG
+NVD-NIST,CVE-2020-26196 (emc_powerscale_onefs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26196,https://j.mp/3jKIo9J
+NVD-NIST,CVE-2020-8578 (clustered_data_ontap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8578,https://j.mp/3agRcRI
+NVD-NIST,CVE-2021-22663 (cscape),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22663,https://j.mp/3b1fnCP
+NVD-NIST,CVE-2021-26528 (mongoose),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26528,https://j.mp/3jM6hxC
+NVD-NIST,CVE-2021-26529 (mongoose),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26529,https://j.mp/2NneXi8
+NVD-NIST,CVE-2021-26530 (mongoose),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26530,https://j.mp/3rLGrwI
+NVD-NIST,"CVE-2021-26719 (enterprise_test_distribution_agent, maven, test_distribution)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26719,https://j.mp/2Nrixb6
