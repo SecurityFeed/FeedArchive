@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-26191 (emc_powerscale_onefs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26191,https://j.mp/3afn7Cc
+NVD-NIST,"CVE-2020-27257 (cx-one, cx-position, cx-protocol, cx-server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27257,https://j.mp/3qg8iVt
+NVD-NIST,CVE-2020-36152 (libmysofa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36152,https://j.mp/2LL0pIx
+NVD-NIST,CVE-2021-0302 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0302,https://j.mp/2Nr0qC8
+NVD-NIST,CVE-2021-0305 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0305,https://j.mp/3jJnIiw
+NVD-NIST,CVE-2021-0314 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0314,https://j.mp/3jJFVfL
+NVD-NIST,CVE-2021-0329 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0329,https://j.mp/2LO3AiM
+NVD-NIST,CVE-2021-0331 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0331,https://j.mp/3d2nbaa
+NVD-NIST,CVE-2021-0332 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0332,https://j.mp/3qkld8I
+NVD-NIST,CVE-2021-0338 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0338,https://j.mp/3qhA9EO
+NVD-NIST,CVE-2021-0339 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0339,https://j.mp/3d9o9BA
+NVD-NIST,CVE-2021-0340 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0340,https://j.mp/3jNT2wv
+NVD-NIST,CVE-2021-0341 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0341,https://j.mp/2MYkR9m
+NVD-NIST,CVE-2021-20406 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20406,https://j.mp/2ZbNuT3
+NVD-NIST,CVE-2021-20407 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20407,https://j.mp/2Zbu6FR
+NVD-NIST,CVE-2021-20408 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20408,https://j.mp/3jITbRX
+NVD-NIST,CVE-2021-20409 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20409,https://j.mp/3jLjlDF
+NVD-NIST,CVE-2021-20410 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20410,https://j.mp/3jJomfM
+NVD-NIST,CVE-2021-20411 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20411,https://j.mp/3rPcOe0
+NVD-NIST,CVE-2021-20412 (security_verify_information_queue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20412,https://j.mp/2Zdkn1S
+NVD-NIST,CVE-2021-26905 (scim_bridge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26905,https://j.mp/3b0VOun
