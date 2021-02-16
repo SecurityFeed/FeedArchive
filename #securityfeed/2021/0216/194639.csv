@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-27867 (ac2100_firmware, ac2400_firmware, ac2600_firmware, r6020_firmware, r6080_firmware, r6120_firmware, r6220_firmware, r6230_firmware, r6260_firmware, r6330_firmware, r6350_firmware, r6700_firmware, r6800_firmware, r6850_firmware, r6900_firmware, r7200_firmware, r7350_firmware, r7400_firmware, r7450_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27867,https://j.mp/37mM2lh
+NVD-NIST,CVE-2020-27868 (ocularis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27868,https://j.mp/3pzAGAV
+NVD-NIST,CVE-2020-27869 (network_performance_monitor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27869,https://j.mp/3tZ0k5r
