@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pj4g-4488-wmxm] Dynamic modification of RPyC service due to missing security check,https://github.com/advisories/GHSA-pj4g-4488-wmxm,https://j.mp/3pBdiTC
