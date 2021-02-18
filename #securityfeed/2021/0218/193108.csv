@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-29027 (sitemanager_1129_firmware, sitemanager_1139_firmware, sitemanager_1149_firmware, sitemanager_3329_firmware, sitemanager_3339_firmware, sitemanager_3349_firmware, sitemanager_3529_firmware, sitemanager_3539_firmware, sitemanager_3549_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29027,https://j.mp/2NBEJ28
+NVD-NIST,CVE-2020-29142 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29142,https://j.mp/3pzxmFA
+NVD-NIST,"CVE-2020-29451 (data_center, jira)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-29451,https://j.mp/3s6zgzn
+NVD-NIST,"CVE-2020-36237 (data_center, jira)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36237,https://j.mp/3drzI7o
