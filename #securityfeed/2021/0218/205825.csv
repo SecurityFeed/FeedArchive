@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q88g-qx42-xfrh] Path traversal in bolt/core,https://github.com/advisories/GHSA-q88g-qx42-xfrh,https://j.mp/3avkXyc
+GithubAdvisories,[GHSA-288c-cq4h-88gq] XML External Entity (XXE) Injection in Jackson Databind,https://github.com/advisories/GHSA-288c-cq4h-88gq,https://j.mp/3qAiDvo
