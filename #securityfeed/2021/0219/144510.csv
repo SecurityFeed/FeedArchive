@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Faraday 3.14.1,https://packetstormsecurity.com/files/161480/faraday-3.14.1.tar.gz,https://j.mp/2ZyARS9
+PacketstormSecurity,Red Hat Security Advisory 2021-0611-01,https://packetstormsecurity.com/files/161478/RHSA-2021-0611-01.txt,https://j.mp/3bkFzZo
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2021-005,https://packetstormsecurity.com/files/161477/AST-2021-005.txt,https://j.mp/3k8kgy3
+PacketstormSecurity,Firejail TOCTOU Race Condition,https://packetstormsecurity.com/files/161476/UnjailMyHeart.c,https://j.mp/3k2PE0Q
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2021-004,https://packetstormsecurity.com/files/161474/AST-2021-004.txt,https://j.mp/37tUu22
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2021-003,https://packetstormsecurity.com/files/161473/AST-2021-003.txt,https://j.mp/2M4siLN
+PacketstormSecurity,dataSIMS Avionics ARINC 664-1 4.5.3 Buffer Overflow,https://packetstormsecurity.com/files/161472/datasimsavionics6641-overflow.txt,https://j.mp/3bfQXFS
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2021-002,https://packetstormsecurity.com/files/161471/AST-2021-002.txt,https://j.mp/3sadvP7
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2021-001,https://packetstormsecurity.com/files/161470/AST-2021-001.txt,https://j.mp/3pxIvXz
+PacketstormSecurity,Online Exam System With Timer 1.0 SQL Injection,https://packetstormsecurity.com/files/161469/oeswt10-sql.txt,https://j.mp/37uKp59
+PacketstormSecurity,Beauty Parlour Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161468/bpms10-xss.txt,https://j.mp/3k5hc5U
+PacketstormSecurity,Beauty Parlour Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/161467/beautypms10-sql.txt,https://j.mp/37wy9Bf
+PacketstormSecurity,Backdoor.Win32.Bionet.10 Anonymous Login,https://packetstormsecurity.com/files/161466/MVID-2021-0099.txt,https://j.mp/37LTDKD
+PacketstormSecurity,Comment System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161465/commentsystem10-xss.txt,https://j.mp/3azQoYr
+PacketstormSecurity,Backdoor.Win32.DarkKomet.apcc Insecure Permissions,https://packetstormsecurity.com/files/161464/MVID-2021-0098.txt,https://j.mp/3pzqLLz
+PacketstormSecurity,Backdoor.Win32.DarkKomet.bhfh Insecure Permissions,https://packetstormsecurity.com/files/161463/MVID-2021-0097.txt,https://j.mp/3py0Kfp
+PacketstormSecurity,OpenText Content Server 20.3 Cross Site Scripting,https://packetstormsecurity.com/files/161462/opentextcs203-xss.txt,https://j.mp/2M6wrz1
+PacketstormSecurity,Neo LMS / Matrix LMS Cross Site Scripting,https://packetstormsecurity.com/files/161461/neomatrix-xss.pdf,https://j.mp/2ZvMEAN
