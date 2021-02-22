@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-0524 (ethernet_controller_i210_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0524,https://j.mp/3qLUrq2
+NVD-NIST,CVE-2020-0525 (ethernet_controller_i210_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-0525,https://j.mp/3dCPvQA
+NVD-NIST,CVE-2020-12339 (collaboration_suite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12339,https://j.mp/3aIZ9PZ
+NVD-NIST,CVE-2020-12361 (graphics_drivers),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12361,https://j.mp/2NKvVqN
+NVD-NIST,CVE-2020-12362 (graphics_drivers),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12362,https://j.mp/3qLUr9w
+NVD-NIST,"CVE-2020-24492 (ethernet_network_adapter_x722-da2_firmware, ethernet_network_adapter_x722-da4_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24492,https://j.mp/3pLDCu9
+NVD-NIST,CVE-2020-24493 (ethernet_network_adapter_700_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24493,https://j.mp/3dGjC9R
+NVD-NIST,"CVE-2020-24494 (ethernet_network_adapter_x722-da2_firmware, ethernet_network_adapter_x722-da4_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24494,https://j.mp/2NNjxGw
+NVD-NIST,CVE-2020-24495 (ethernet_network_adapter_700_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24495,https://j.mp/2ZHpmI8
+NVD-NIST,"CVE-2020-24496 (ethernet_network_adapter_x722-da2_firmware, ethernet_network_adapter_x722-da4_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24496,https://j.mp/3kkgfGX
+NVD-NIST,CVE-2020-24497 (ethernet_network_adapter_e810_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24497,https://j.mp/3uhAXfj
+NVD-NIST,CVE-2020-24498 (ethernet_network_adapter_e810_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24498,https://j.mp/3seDRj5
