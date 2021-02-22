@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,I recently discovered that all versions of Windows Server 2012 (but not Server 2012 R2) are affected by a DLL hijacking vulnerability that can be exploited for privilege escalation. This bug can be triggered by a regular user and does not require a system reboot. Here is my writeup:,https://redd.it/lpnchn,
