@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4861 screen,https://www.debian.org/security/2021/dsa-4861,https://j.mp/3aGa4tr
+DebianSecurityNotice,DSA-4860 openldap,https://www.debian.org/security/2021/dsa-4860,https://j.mp/3qPesfG
+DebianSecurityNotice,DSA-4859 libzstd,https://www.debian.org/security/2021/dsa-4859,https://j.mp/2P2sc8L
