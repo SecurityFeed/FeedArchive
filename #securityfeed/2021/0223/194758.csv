@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwx6-vmj4-5rv8] Denial of service via deserialization attack in nifi,https://github.com/advisories/GHSA-xwx6-vmj4-5rv8,https://j.mp/3bBhqhl
