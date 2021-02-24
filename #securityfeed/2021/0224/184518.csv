@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-28hp-fgcr-2r4h] Cross-Site Scripting via JSONP,https://github.com/advisories/GHSA-28hp-fgcr-2r4h,https://j.mp/3kjfWfq
