@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-EN-21:07.caroot,https://www.freebsd.org/security/advisories/FreeBSD-EN-21:07.caroot.asc,https://j.mp/2ZHtqIF
+FreeBSDSecurityNotice,FreeBSD-EN-21:06.microcode,https://www.freebsd.org/security/advisories/FreeBSD-EN-21:06.microcode.asc,https://j.mp/37HLLd3
+FreeBSDSecurityNotice,FreeBSD-EN-21:08.freebsd-update,https://www.freebsd.org/security/advisories/FreeBSD-EN-21:08.freebsd-update.asc,https://j.mp/2NSNSDN
+FreeBSDSecurityNotice,FreeBSD-SA-21:05.jail_chdir,https://www.freebsd.org/security/advisories/FreeBSD-SA-21:05.jail_chdir.asc,https://j.mp/2MjDrIN
+FreeBSDSecurityNotice,FreeBSD-SA-21:04.jail_remove,https://www.freebsd.org/security/advisories/FreeBSD-SA-21:04.jail_remove.asc,https://j.mp/3dFesuT
+FreeBSDSecurityNotice,FreeBSD-SA-21:03.pam_login_access,https://www.freebsd.org/security/advisories/FreeBSD-SA-21:03.pam_login_access.asc,https://j.mp/3by4dpl
+FreeBSDSecurityNotice,FreeBSD-SA-21:06.xen,https://www.freebsd.org/security/advisories/FreeBSD-SA-21:06.xen.asc,https://j.mp/3qOLpsv
