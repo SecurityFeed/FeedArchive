@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Global Socket 1.4.25,https://packetstormsecurity.com/files/161530/gsocket-1.4.25.tar.gz,https://j.mp/3uvBPx1
+PacketstormSecurity,jSQL Injection 0.84,https://packetstormsecurity.com/files/161529/jsql-injection-0.84.tar.gz,https://j.mp/3aPDvcH
+PacketstormSecurity,Unified Remote 3.9.0.2463 Remote Code Execution,https://packetstormsecurity.com/files/161524/unifiedremote3902463-exec.txt,https://j.mp/3by3qox
+PacketstormSecurity,Red Hat Security Advisory 2021-0651-01,https://packetstormsecurity.com/files/161523/RHSA-2021-0651-01.txt,https://j.mp/37Es8m3
+PacketstormSecurity,Backdoor.Win32.Delf.adag Hardcoded Credentials / Traversal,https://packetstormsecurity.com/files/161522/MVID-2021-0108.txt,https://j.mp/2MkGwbA
+PacketstormSecurity,Red Hat Security Advisory 2021-0650-01,https://packetstormsecurity.com/files/161520/RHSA-2021-0650-01.txt,https://j.mp/3pQ2Qre
+PacketstormSecurity,LayerBB 1.1.4 SQL Injection,https://packetstormsecurity.com/files/161519/layerbb114-sql.txt,https://j.mp/3qUEZYI
+PacketstormSecurity,Python jsonpickle 2.0.0 Remote Code Execution,https://packetstormsecurity.com/files/161518/jsonpickle200-exec.txt,https://j.mp/2NztVC1
+PacketstormSecurity,Red Hat Security Advisory 2021-0648-01,https://packetstormsecurity.com/files/161517/RHSA-2021-0648-01.txt,https://j.mp/37JD0Px
+PacketstormSecurity,Backdoor.Win32.Agent.xw Denial Of Service / Null Pointer,https://packetstormsecurity.com/files/161516/MVID-2021-0107.txt,https://j.mp/3aOaGNO
+PacketstormSecurity,Active Directory Penetration Testing,https://packetstormsecurity.com/files/161515/activedir-pentest.pdf,https://j.mp/3khtvfA
+PacketstormSecurity,VMware vCenter 6.5 / 7.0 Remote Code Execution Proof Of Concept,https://packetstormsecurity.com/files/161527/CVE-2021-21972.py.txt,https://j.mp/2PbUe1L
+PacketstormSecurity,Microsoft Exchange Server msExchEcpCanary CSRF / Privilege Escalation,https://packetstormsecurity.com/files/161528/msexchange-xsrf.txt,https://j.mp/3speTNX
+PacketstormSecurity,SLMail 5.1.0.4420 Remote Code Execution,https://packetstormsecurity.com/files/161526/slmail-exploit.py.txt,https://j.mp/2NA3lJ0
+PacketstormSecurity,Softros LAN Messenger 9.6.4 Unquoted Service Path,https://packetstormsecurity.com/files/161521/softroslm964-unquotedpath.txt,https://j.mp/3aQU0VY
+PacketstormSecurity,LogonExpert 8.1 Unquoted Service Path,https://packetstormsecurity.com/files/161510/logonexpert81-unquotedpath.txt,https://j.mp/3urI0lF
+PacketstormSecurity,Backdoor.Win32.Agent.xs Insecure Permissions,https://packetstormsecurity.com/files/161514/MVID-2021-0106.txt,https://j.mp/3by3qF3
+PacketstormSecurity,SpotAuditor 5.3.5 Denial Of Service,https://packetstormsecurity.com/files/161511/spotauditor535-dos.txt,https://j.mp/2ZOajMQ
