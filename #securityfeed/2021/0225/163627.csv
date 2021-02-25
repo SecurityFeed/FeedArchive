@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7f9-cvh5-qw7f] Path traversal in pimcore/pimcore,https://github.com/advisories/GHSA-h7f9-cvh5-qw7f,https://j.mp/2ZPN59b
+GithubAdvisories,[GHSA-pr5m-4w22-8483] XXS in NanoHTTPD,https://github.com/advisories/GHSA-pr5m-4w22-8483,https://j.mp/37MMjhv
