@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,ArchLinux: 202102-32: mumble: arbitrary code execution,https://www.linuxsecurity.com/advisories/archlinux/archlinux-202102-32-mumble-arbitrary-code-execution-04-44-34?rss,https://j.mp/2P6j96B
+LinuxSecurity,ArchLinux: 202102-31: postgresql: information disclosure,https://www.linuxsecurity.com/advisories/archlinux/archlinux-202102-31-postgresql-information-disclosure-04-44-27?rss,https://j.mp/2MtX3u0
+LinuxSecurity,ArchLinux: 202102-30: ansible-base: information disclosure,https://www.linuxsecurity.com/advisories/archlinux/archlinux-202102-30-ansible-base-information-disclosure-04-43-15?rss,https://j.mp/3kk3NqR
+LinuxSecurity,ArchLinux: 202102-29: keycloak: cross-site scripting,https://www.linuxsecurity.com/advisories/archlinux/archlinux-202102-29-keycloak-cross-site-scripting-04-42-59?rss,https://j.mp/37KfRfZ
