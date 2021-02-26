@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6wp-4m6f-gcjg] Open redirect vulnerability in `aiohttp` (`normalize_path_middleware` middleware),https://github.com/advisories/GHSA-v6wp-4m6f-gcjg,https://j.mp/3pVAj3y
