@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-22475 (tasks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22475,https://j.mp/3r18W9w
+NVD-NIST,CVE-2020-28429 (geojson2kml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28429,https://j.mp/3ssWbVN
+NVD-NIST,CVE-2020-35852 (chatbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35852,https://j.mp/2ZUOVpo
+NVD-NIST,CVE-2020-8902 (rendertron),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8902,https://j.mp/3aYic96
+NVD-NIST,"CVE-2021-1721 (.net, .net_core, powershell_core, visual_studio_2017, visual_studio_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1721,https://j.mp/37SLtzT
+NVD-NIST,CVE-2021-21617 (configuration_slicing),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21617,https://j.mp/2ZWPrDs
+NVD-NIST,CVE-2021-21620 (claim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21620,https://j.mp/3r3oJoC
+NVD-NIST,"CVE-2021-24112 (.net, .net_core, mono, visual_studio_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24112,https://j.mp/3kqkwZB
+NVD-NIST,"CVE-2021-26701 (.net, .net_core)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26701,https://j.mp/3dPjipg
+NVD-NIST,CVE-2021-26927 (jasper),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26927,https://j.mp/2ZUtG73
+NVD-NIST,CVE-2021-3149 (nano_25_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3149,https://j.mp/2O9LTuY
