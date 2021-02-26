@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Package Control Arbitrary File Write,https://packetstormsecurity.com/files/161583/GS20210226161937.tgz,https://j.mp/3ktazdD
+PacketstormSecurity,Microsoft DirectWrite fsg_ExecuteGlyph Buffer Overflow,https://packetstormsecurity.com/files/161582/GS20210226161633.tgz,https://j.mp/3pZcd8f
+PacketstormSecurity,Chrome DataElement Out-Of-Bounds Read,https://packetstormsecurity.com/files/161581/GS20210226161202.tgz,https://j.mp/3ko17sc
+PacketstormSecurity,Trojan-Proxy.Win32.Delf.ai Buffer Overflow,https://packetstormsecurity.com/files/161575/MVID-2021-0115.txt,https://j.mp/3aUJBZk
+PacketstormSecurity,Doctor Appointment System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161574/das10-xss.txt,https://j.mp/3aUKscE
+PacketstormSecurity,Trojan-Dropper.Win32.Daws.etlm Unauthenticated Reboot,https://packetstormsecurity.com/files/161573/MVID-2021-0111.txt,https://j.mp/3aXf8tR
+PacketstormSecurity,Online Catering Reservation System 1.0 SQL Injection,https://packetstormsecurity.com/files/161572/ocrs10-sql.txt,https://j.mp/3bLHKoU
+PacketstormSecurity,VisualWare MyConnection Server 11.x Remote Code Execution,https://packetstormsecurity.com/files/161571/visualwaremyconn11-exec.txt,https://j.mp/2MyYCqA
+PacketstormSecurity,Triconsole 3.75 Cross Site Scripting,https://packetstormsecurity.com/files/161570/triconsole375-xss.txt,https://j.mp/3bNAfOy
+PacketstormSecurity,Zenphoto CMS 1.5.7 Shell Upload,https://packetstormsecurity.com/files/161569/zenphotocms157-exec.txt,https://j.mp/2MrAUMI
+PacketstormSecurity,Remote Desktop Web Access Authentication Timing Attack,https://packetstormsecurity.com/files/161568/rdwa-timing.txt,https://j.mp/3dOulPC
+PacketstormSecurity,Trojan.Win32.Hotkeychick.am Insecure Permissions,https://packetstormsecurity.com/files/161567/MVID-2021-0114.txt,https://j.mp/37MK3qE
+PacketstormSecurity,Backdoor.Win32.Azbreg.amw Insecure Permissions,https://packetstormsecurity.com/files/161566/MVID-2021-0113.txt,https://j.mp/3dQ0Uww
+PacketstormSecurity,Trojan-Spy.Win32.SpyEyes.elr Insecure Permissions,https://packetstormsecurity.com/files/161565/MVID-2021-0112.txt,https://j.mp/3uuH6F3
+PacketstormSecurity,Trojan-Dropper.Win32.Daws.etlm Unauthenticated Reboot,https://packetstormsecurity.com/files/161564/MVID-2021-0111.txt,https://j.mp/2ZT6ar1
+PacketstormSecurity,Squid 4.14 / 5.0.5 Code Execution / Double Free,https://packetstormsecurity.com/files/161563/squid414505-doublefree.txt,https://j.mp/3kqDsax
+PacketstormSecurity,Memory Forensics Using Volatility,https://packetstormsecurity.com/files/161577/Memory_Forensics.pdf,https://j.mp/3dTrKUz
+PacketstormSecurity,LightCMS 1.3.4 Cross Site Scripting,https://packetstormsecurity.com/files/161562/lightcms134-xss.txt,https://j.mp/3pS2PDe
+PacketstormSecurity,Nagios XI 5.7.5 Remote Code Execution,https://packetstormsecurity.com/files/161561/nagiosxi575-exec.txt,https://j.mp/3q28G8V
+PacketstormSecurity,Yeastar TG400 GSM Gateway 91.3.0.3 Path Traversal,https://packetstormsecurity.com/files/161560/yeastar91303-traversal.txt,https://j.mp/2ZT83nF
+PacketstormSecurity,Simple Employee Records System 1.0 Shell Upload,https://packetstormsecurity.com/files/161559/sers10-shell.txt,https://j.mp/37QaknT
+PacketstormSecurity,"WordPress Under Construction, Coming Soon, And Maintenance Mode 1.1.1 SSRF / XSS",https://packetstormsecurity.com/files/161576/wpuccsmm111-xssssrf.txt,https://j.mp/2MrAV3e
