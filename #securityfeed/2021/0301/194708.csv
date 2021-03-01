@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mm9-c2fx-c7m4] XSS in docsify,https://github.com/advisories/GHSA-2mm9-c2fx-c7m4,https://j.mp/3q1Wfdj
+GithubAdvisories,[GHSA-xr9h-9m79-x29g] SSRF in Rendertron,https://github.com/advisories/GHSA-xr9h-9m79-x29g,https://j.mp/3q6EEkC
+GithubAdvisories,[GHSA-2hwx-mjrm-v3g8] Denial of service attack via .well-known lookups,https://github.com/advisories/GHSA-2hwx-mjrm-v3g8,https://j.mp/3bPplHT
