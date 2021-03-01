@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6j9-7xhc-rhwp] Hostname spoofing via backslashes in URL,https://github.com/advisories/GHSA-p6j9-7xhc-rhwp,https://j.mp/2ZZzRa9
+GithubAdvisories,[GHSA-fq6p-x6j3-cmmq] Denial of service in three,https://github.com/advisories/GHSA-fq6p-x6j3-cmmq,https://j.mp/3ebcUcr
+GithubAdvisories,[GHSA-h4hr-7fg3-h35w] Denial of service in prismjs,https://github.com/advisories/GHSA-h4hr-7fg3-h35w,https://j.mp/3qf6hYZ
