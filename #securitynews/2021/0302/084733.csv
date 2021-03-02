@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,Alternative Shellcode Injection via windows callback functions. I am still working on this and will update it as I find more. More info about callback functions here: https://docs.microsoft.com/en-us/dotnet/framework/interop/callback-functions,https://redd.it/lvlu1q,
+r/NetSec,Hunting for Bugs in Windows Mini-Filter Drivers,https://redd.it/lvw5yc,
