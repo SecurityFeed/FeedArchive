@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27543 (restify-paginate),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27543,https://j.mp/3043c3d
+NVD-NIST,"CVE-2021-21064 (upward_connector, upward_php)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21064,https://j.mp/3kCjUAd
+NVD-NIST,"CVE-2021-24073 (lync_server, skype_for_business_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24073,https://j.mp/3e2yhMF
+NVD-NIST,"CVE-2021-24074 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24074,https://j.mp/2OloE16
+NVD-NIST,"CVE-2021-24094 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24094,https://j.mp/305Phth
