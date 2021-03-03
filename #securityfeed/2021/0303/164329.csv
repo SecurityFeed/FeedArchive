@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,OpenSSH 8.5p1,https://packetstormsecurity.com/files/161650/openssh-8.5p1.tar.gz,https://j.mp/3e63qik
+PacketstormSecurity,Red Hat Security Advisory 2021-0711-01,https://packetstormsecurity.com/files/161649/RHSA-2021-0711-01.txt,https://j.mp/388Vw49
+PacketstormSecurity,Red Hat Security Advisory 2021-0637-01,https://packetstormsecurity.com/files/161647/RHSA-2021-0637-01.txt,https://j.mp/2NW4Q4g
+PacketstormSecurity,Red Hat Security Advisory 2021-0710-01,https://packetstormsecurity.com/files/161646/RHSA-2021-0710-01.txt,https://j.mp/3sKOvOH
+PacketstormSecurity,Red Hat Security Advisory 2021-0428-01,https://packetstormsecurity.com/files/161645/RHSA-2021-0428-01.txt,https://j.mp/3kHx2Ur
+PacketstormSecurity,Red Hat Security Advisory 2021-0429-01,https://packetstormsecurity.com/files/161644/RHSA-2021-0429-01.txt,https://j.mp/3bWYc5N
+PacketstormSecurity,Red Hat Security Advisory 2021-0701-01,https://packetstormsecurity.com/files/161643/RHSA-2021-0701-01.txt,https://j.mp/3c1IC92
+PacketstormSecurity,Doctor Appointment System 1.0 Blind SQL Injection,https://packetstormsecurity.com/files/161642/das10nr-sql.txt,https://j.mp/3qhdd7I
+PacketstormSecurity,Doctor Appointment System 1.0 SQL Injection,https://packetstormsecurity.com/files/161641/das10sb-sql.txt,https://j.mp/2NXktsk
+PacketstormSecurity,Red Hat Security Advisory 2021-0700-01,https://packetstormsecurity.com/files/161639/RHSA-2021-0700-01.txt,https://j.mp/3uO9eTD
+PacketstormSecurity,Red Hat Security Advisory 2021-0699-01,https://packetstormsecurity.com/files/161638/RHSA-2021-0699-01.txt,https://j.mp/3sPbeJl
+PacketstormSecurity,Red Hat Security Advisory 2021-0702-01,https://packetstormsecurity.com/files/161637/RHSA-2021-0702-01.txt,https://j.mp/3sIWwni
+PacketstormSecurity,Red Hat Security Advisory 2021-0704-01,https://packetstormsecurity.com/files/161636/RHSA-2021-0704-01.txt,https://j.mp/2NW4Ktq
+PacketstormSecurity,Backdoor.Win32.BO2K.09.b Code Execution,https://packetstormsecurity.com/files/161635/MVID-2021-0120.txt,https://j.mp/3kKWuZh
+PacketstormSecurity,Red Hat Security Advisory 2021-0703-01,https://packetstormsecurity.com/files/161634/RHSA-2021-0703-01.txt,https://j.mp/3edsOCK
+PacketstormSecurity,Red Hat Security Advisory 2021-0697-01,https://packetstormsecurity.com/files/161633/RHSA-2021-0697-01.txt,https://j.mp/2Ok7b9f
+PacketstormSecurity,Red Hat Security Advisory 2021-0696-01,https://packetstormsecurity.com/files/161632/RHSA-2021-0696-01.txt,https://j.mp/3qeKH6y
+PacketstormSecurity,Backdoor.Win32.BO2K.ab Buffer Overflow,https://packetstormsecurity.com/files/161631/MVID-2021-0119.txt,https://j.mp/3rcyH6Y
+PacketstormSecurity,Local Services Search Engine Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161630/lssmes10-xss.txt,https://j.mp/30aiumU
+PacketstormSecurity,Local Services Search Engine Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/161629/lssmes10-sql.txt,https://j.mp/3q7tZGk
+PacketstormSecurity,AnyDesk 5.5.2 Remote Code Execution,https://packetstormsecurity.com/files/161628/anydesk552-exec.txt,https://j.mp/3qeCUpB
+PacketstormSecurity,Red Hat Security Advisory 2021-0698-01,https://packetstormsecurity.com/files/161627/RHSA-2021-0698-01.txt,https://j.mp/3rfDEfg
+PacketstormSecurity,Backdoor.Win32.DarkKomet.irv Insecure Permissions,https://packetstormsecurity.com/files/161626/MVID-2021-0118.txt,https://j.mp/3e63qyQ
