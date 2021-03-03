@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52mq-6jcv-j79x] User content sandbox can be confused into opening arbitrary documents,https://github.com/advisories/GHSA-52mq-6jcv-j79x,https://j.mp/3q8dEkF
+GithubAdvisories,[GHSA-c4qr-gmr9-v23w] Prefix escape,https://github.com/advisories/GHSA-c4qr-gmr9-v23w,https://j.mp/3sKdmSG
