@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p493-635q-r6gr] Remote code execution via the `pretty` option,https://github.com/advisories/GHSA-p493-635q-r6gr,https://j.mp/3uNsIrn
+GithubAdvisories,[GHSA-qmw8-3v4g-gwj4] Prefix escape,https://github.com/advisories/GHSA-qmw8-3v4g-gwj4,https://j.mp/384geCh
