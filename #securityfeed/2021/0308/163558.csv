@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,VMware vCenter Server File Upload / Remote Code Execution,https://packetstormsecurity.com/files/161695/vmware_vcenter_uploadova_rce.rb.txt,https://j.mp/2PJFSWy
+PacketstormSecurity,Red Hat Security Advisory 2021-0742-01,https://packetstormsecurity.com/files/161693/RHSA-2021-0742-01.txt,https://j.mp/2Oc4B5o
+PacketstormSecurity,Red Hat Security Advisory 2021-0744-01,https://packetstormsecurity.com/files/161692/RHSA-2021-0744-01.txt,https://j.mp/38gGF7N
+PacketstormSecurity,File Transfer Cheatsheet,https://packetstormsecurity.com/files/161691/File_Transfer_Cheatsheet.pdf,https://j.mp/3kUqQJ3
+PacketstormSecurity,WordPress SuperStoreFinder / SuperInteractiveMaps 6.3 SQL Injection,https://packetstormsecurity.com/files/161689/wpssfsim63-sql.txt,https://j.mp/3qrqXNn
+PacketstormSecurity,Red Hat Security Advisory 2021-0740-01,https://packetstormsecurity.com/files/161688/RHSA-2021-0740-01.txt,https://j.mp/3kWOUuX
+PacketstormSecurity,Hotel And Lodge Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/161687/htms10-exec.txt,https://j.mp/3ccW5Ll
+PacketstormSecurity,Red Hat Security Advisory 2021-0738-01,https://packetstormsecurity.com/files/161686/RHSA-2021-0738-01.txt,https://j.mp/3rsxN6H
+PacketstormSecurity,Backdoor.Win32.Agent.bjev Insecure Permissions,https://packetstormsecurity.com/files/161685/MVID-2021-0123.txt,https://j.mp/3qrSUEL
+PacketstormSecurity,Red Hat Security Advisory 2021-0741-01,https://packetstormsecurity.com/files/161684/RHSA-2021-0741-01.txt,https://j.mp/38hBNPG
+PacketstormSecurity,Joomla JCK Editor 6.4.4 SQL Injection,https://packetstormsecurity.com/files/161683/joomlajckeditor644parent-sql.txt,https://j.mp/38lG5Wj
+PacketstormSecurity,Joomla Matukio Events 7.0.5 Cross Site Scripting,https://packetstormsecurity.com/files/161682/joomlamatukioevents705-xss.txt,https://j.mp/38D3bYP
+PacketstormSecurity,Red Hat Security Advisory 2021-0739-01,https://packetstormsecurity.com/files/161681/RHSA-2021-0739-01.txt,https://j.mp/38nZRQS
+PacketstormSecurity,GLPI 9.5.3 Unsafe Reflection,https://packetstormsecurity.com/files/161680/glpi953-unsafereflection.txt,https://j.mp/30mJAXY
+PacketstormSecurity,Backdoor.Win32.GTbot.c Insecure Permissions,https://packetstormsecurity.com/files/161679/MVID-2021-0122.txt,https://j.mp/3kUuani
+PacketstormSecurity,Red Hat Security Advisory 2021-0743-01,https://packetstormsecurity.com/files/161678/RHSA-2021-0743-01.txt,https://j.mp/3v775mg
+PacketstormSecurity,Backdoor.Win32.Antilam.14.o Code Execution,https://packetstormsecurity.com/files/161676/MVID-2021-0121.txt,https://j.mp/3rscMch
+PacketstormSecurity,Raptor WAF 0.62,https://packetstormsecurity.com/files/161694/raptor_waf-Raptor_v06.2.tar.gz,https://j.mp/3qpuBHr
+PacketstormSecurity,Print Job Accounting 4.4.10 Unquoted Service Path,https://packetstormsecurity.com/files/161690/pja410-unquotedpath.txt,https://j.mp/3qs5weY
+PacketstormSecurity,Configuration Tool 1.6.53 Unquoted Service Path,https://packetstormsecurity.com/files/161673/configtool1653-unquotedpath.txt,https://j.mp/38mGKXr
+PacketstormSecurity,Pingzapper 2.3.1 Unquoted Service Path,https://packetstormsecurity.com/files/161674/pingzapper231-unquotedpath.txt,https://j.mp/3v4Z4hB
+PacketstormSecurity,Microsoft SMBv3 CVE-2020-0796 Exploitation,https://packetstormsecurity.com/files/161675/CVE-2020-0796.pdf,https://j.mp/3rwDmkg
