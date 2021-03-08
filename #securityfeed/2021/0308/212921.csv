@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p44j-xrqg-4xrr] URL Redirection to Untrusted Site ('Open Redirect') in Products.PluggableAuthService,https://github.com/advisories/GHSA-p44j-xrqg-4xrr,https://j.mp/3c7SdeE
