@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p75f-g7gx-2r7p] Exposure of Sensitive Information to an Unauthorized Actor in Products.PluggableAuthService ZODBRoleManager,https://github.com/advisories/GHSA-p75f-g7gx-2r7p,https://j.mp/2OApSWk
