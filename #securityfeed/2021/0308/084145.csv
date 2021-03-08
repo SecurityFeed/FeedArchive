@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Joomla JCK Editor 6.4.4 - 'parent' SQL Injection (2),https://www.exploit-db.com/exploits/49627,https://j.mp/38jHgWg
+ExploitDB,[local] Pingzapper 2.3.1 - 'PingzapperSvc' Unquoted Service Path,https://www.exploit-db.com/exploits/49626,https://j.mp/38krH0u
+ExploitDB,[webapps] Hotel and Lodge Management System 1.0 - Remote Code Execution (Unauthenticated),https://www.exploit-db.com/exploits/49625,https://j.mp/3v759KC
+ExploitDB,[local] Configuration Tool 1.6.53 - 'OpLclSrv' Unquoted Service Path,https://www.exploit-db.com/exploits/49624,https://j.mp/2MW2eTz
+ExploitDB,[local] Print Job Accounting 4.4.10 - 'OkiJaSvc' Unquoted Service Path,https://www.exploit-db.com/exploits/49623,https://j.mp/3rvaOHS
