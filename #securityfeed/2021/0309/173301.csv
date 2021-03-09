@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28502 (xmlhttprequest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28502,https://j.mp/30q8AOn
+NVD-NIST,CVE-2020-8298 (fs-path),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8298,https://j.mp/3qvQl4s
+NVD-NIST,CVE-2021-24031 (zstandard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24031,https://j.mp/38qgGL3
+NVD-NIST,CVE-2021-24032 (zstandard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24032,https://j.mp/3cmgT3k
+NVD-NIST,CVE-2021-25346 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25346,https://j.mp/3qtDLmb
+NVD-NIST,CVE-2021-26027 (joomla!),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26027,https://j.mp/3rJnHhX
+NVD-NIST,CVE-2021-28026 (jpeg-xl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28026,https://j.mp/3rBsIc8
+NVD-NIST,CVE-2021-28032 (nano_arena),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28032,https://j.mp/3v9xCiU
+NVD-NIST,"CVE-2021-28038 (linux_kernel, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28038,https://j.mp/2MZo6NQ
+NVD-NIST,"CVE-2021-28039 (linux_kernel, xen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28039,https://j.mp/3qvQfK8
+NVD-NIST,CVE-2021-28040 (ossec),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28040,https://j.mp/3qENLcJ
+NVD-NIST,CVE-2021-28041 (openssh),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28041,https://j.mp/2OGVCJu
+NVD-NIST,CVE-2021-28042 (mailoptimizer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28042,https://j.mp/3bxx1Qh
+NVD-NIST,CVE-2021-3377 (ansi_up),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3377,https://j.mp/3v7q4x1
+NVD-NIST,"CVE-2021-3420 (fedora, newlib)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3420,https://j.mp/3rxYeb5
