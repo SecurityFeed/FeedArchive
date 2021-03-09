@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] bVPN 2.5.1 - 'waselvpnserv' Unquoted Service Path,https://www.exploit-db.com/exploits/49632,https://j.mp/3rxCzj0
+ExploitDB,[local] Sandboxie Plus v0.7.2 - 'SbieSvc' Unquoted Service Path,https://www.exploit-db.com/exploits/49631,https://j.mp/3kWsDxg
+ExploitDB,[local] FreeLAN 2.2 - 'FreeLAN Service' Unquoted Service Path,https://www.exploit-db.com/exploits/49630,https://j.mp/3rv8zVf
+ExploitDB,[remote] Golden FTP Server 4.70 - 'PASS' Buffer Overflow (2),https://www.exploit-db.com/exploits/49629,https://j.mp/3emGprD
