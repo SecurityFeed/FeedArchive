@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvw2-xj8r-mjf7] Activerecord-session_store Timing Attack,https://github.com/advisories/GHSA-cvw2-xj8r-mjf7,https://j.mp/38pJF1M
+GithubAdvisories,[GHSA-jpcm-4485-69p7] Sensitive information disclosure via log in com.bmuschko:gradle-vagrant-plugin,https://github.com/advisories/GHSA-jpcm-4485-69p7,https://j.mp/3v61GM1
+GithubAdvisories,[GHSA-jff3-mwp3-f8cw] Exposure of Sensitive Information to an Unauthorized Actor in Products.GenericSetup,https://github.com/advisories/GHSA-jff3-mwp3-f8cw,https://j.mp/3v3N6EW
