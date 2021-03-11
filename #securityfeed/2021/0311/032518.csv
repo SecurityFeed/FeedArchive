@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hpv8-9rq5-hq7w] Generated Code Contains Local Information Disclosure Vulnerability,https://github.com/advisories/GHSA-hpv8-9rq5-hq7w,https://j.mp/3rDvaPh
+GithubAdvisories,[GHSA-pc22-3g76-gm6j] Generator Web Application: Local Privilege Escalation Vulnerability via System Temp Directory,https://github.com/advisories/GHSA-pc22-3g76-gm6j,https://j.mp/3qBOdbF
