@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pjj4-jjgc-h3r8] Authenticated remote code execution,https://github.com/advisories/GHSA-pjj4-jjgc-h3r8,https://j.mp/3lacowF
+GithubAdvisories,[GHSA-h9q8-5gv2-v6mg] Potential Session Hijacking,https://github.com/advisories/GHSA-h9q8-5gv2-v6mg,https://j.mp/30GUCHX
+GithubAdvisories,[GHSA-hfwx-c7q6-g54c] Vulnerability allowing for reading internal HTTP resources,https://github.com/advisories/GHSA-hfwx-c7q6-g54c,https://j.mp/38A6EqM
+GithubAdvisories,[GHSA-753c-phhg-cj29] Improper Neutralization of Special Elements used in a Command,https://github.com/advisories/GHSA-753c-phhg-cj29,https://j.mp/3rOTD4w
+GithubAdvisories,[GHSA-4wv4-mgfq-598v] Code injection in nobelprizeparser,https://github.com/advisories/GHSA-4wv4-mgfq-598v,https://j.mp/3vkdFWI
+GithubAdvisories,[GHSA-gmjw-49p4-pcfm] Prototype poisoning,https://github.com/advisories/GHSA-gmjw-49p4-pcfm,https://j.mp/2PZIxLV
+GithubAdvisories,[GHSA-h6q6-9hqw-rwfv] Misinterpretation of malicious XML input,https://github.com/advisories/GHSA-h6q6-9hqw-rwfv,https://j.mp/3exZ3wJ
+GithubAdvisories,[GHSA-xmh9-rg6f-j3mr] Verification flaw in Solid identity-token-verifier,https://github.com/advisories/GHSA-xmh9-rg6f-j3mr,https://j.mp/3tdUoUP
