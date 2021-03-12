@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23721 (fuel_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23721,https://j.mp/3cvsUU9
+NVD-NIST,CVE-2020-23722 (fuel_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23722,https://j.mp/2OS2mUD
+NVD-NIST,CVE-2020-24791 (fuel_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24791,https://j.mp/3qIxljs
+NVD-NIST,CVE-2020-28150 (i-net_clear_reports),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28150,https://j.mp/3bJlLAq
+NVD-NIST,CVE-2020-35451 (oozie),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35451,https://j.mp/3qHYXoH
+NVD-NIST,"CVE-2020-35521 (enterprise_linux, libtiff)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35521,https://j.mp/3vi2XQk
+NVD-NIST,CVE-2020-35522 (libtiff),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35522,https://j.mp/3ezSE43
+NVD-NIST,CVE-2020-4903 (api_connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4903,https://j.mp/3co5VKx
+NVD-NIST,CVE-2020-8357 (pcmanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-8357,https://j.mp/3qC31a4
+NVD-NIST,CVE-2021-20241 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20241,https://j.mp/30ERagQ
+NVD-NIST,CVE-2021-20243 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20243,https://j.mp/3qHPD4i
+NVD-NIST,CVE-2021-21503 (emc_powerscale_onefs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21503,https://j.mp/30RgiRT
+NVD-NIST,CVE-2021-21506 (emc_powerscale_onefs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21506,https://j.mp/38uOpTN
+NVD-NIST,CVE-2021-22134 (elasticsearch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22134,https://j.mp/2NcbZNA
+NVD-NIST,CVE-2021-27585 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27585,https://j.mp/3lauXAG
+NVD-NIST,CVE-2021-27586 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27586,https://j.mp/3bEVUJB
