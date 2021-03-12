@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-21329 (ratcf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21329,https://j.mp/3rM0s6I
+NVD-NIST,CVE-2021-21335 (spnego_http_authentication_module),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21335,https://j.mp/2ONLZsc
+NVD-NIST,CVE-2021-21336 (products.pluggableauthservice),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21336,https://j.mp/3cvQwIi
+NVD-NIST,CVE-2021-21337 (products.pluggableauthservice),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21337,https://j.mp/3bG2jo5
+NVD-NIST,CVE-2021-21362 (minio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21362,https://j.mp/3bHMNry
