@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j29g-g982-pwpv] Cross-site scripting (XSS),https://github.com/advisories/GHSA-j29g-g982-pwpv,https://j.mp/30EIabG
+GithubAdvisories,[GHSA-79hv-pfx6-hhpj] Cross-site scripting (XSS),https://github.com/advisories/GHSA-79hv-pfx6-hhpj,https://j.mp/3coQdyI
+GithubAdvisories,[GHSA-g2fg-mr77-6vrm] Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-g2fg-mr77-6vrm,https://j.mp/3lave6G
+GithubAdvisories,[GHSA-xf46-8vvp-4hxx] Missing authentication for critical function,https://github.com/advisories/GHSA-xf46-8vvp-4hxx,https://j.mp/2PQ7uJu
+GithubAdvisories,[GHSA-57f3-gghm-9mhc] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-57f3-gghm-9mhc,https://j.mp/3rHmHuE
