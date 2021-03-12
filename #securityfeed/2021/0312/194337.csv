@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28705 (fuel_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28705,https://j.mp/3lcbfVk
+NVD-NIST,CVE-2021-0372 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0372,https://j.mp/3ezZUgC
+NVD-NIST,CVE-2021-0374 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0374,https://j.mp/3rULE61
+NVD-NIST,CVE-2021-0375 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0375,https://j.mp/3rMdQrE
+NVD-NIST,CVE-2021-0378 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0378,https://j.mp/3coOjOK
+NVD-NIST,CVE-2021-0391 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0391,https://j.mp/3qBIuCw
+NVD-NIST,CVE-2021-0392 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0392,https://j.mp/2PXwP4q
+NVD-NIST,CVE-2021-0393 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0393,https://j.mp/3vtQzNo
+NVD-NIST,CVE-2021-0394 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0394,https://j.mp/3rUyhCs
+NVD-NIST,CVE-2021-0395 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0395,https://j.mp/30D0IJh
+NVD-NIST,"CVE-2021-20272 (debian_linux, privoxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20272,https://j.mp/30BYRnU
+NVD-NIST,CVE-2021-21169 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21169,https://j.mp/2OQOrhz
+NVD-NIST,CVE-2021-21170 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21170,https://j.mp/2PSXLC9
+NVD-NIST,CVE-2021-21171 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21171,https://j.mp/3ld3Wgg
+NVD-NIST,CVE-2021-21172 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21172,https://j.mp/3vm4XXG
+NVD-NIST,CVE-2021-21180 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21180,https://j.mp/3cFECvx
+NVD-NIST,CVE-2021-21360 (products.genericsetup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21360,https://j.mp/3l9HO68
+NVD-NIST,CVE-2021-21510 (idrac8_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21510,https://j.mp/2PYoWvz
+NVD-NIST,CVE-2021-24033 (react-dev-utils),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24033,https://j.mp/2PZeSCz
+NVD-NIST,CVE-2021-27587 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27587,https://j.mp/3bI9GeC
