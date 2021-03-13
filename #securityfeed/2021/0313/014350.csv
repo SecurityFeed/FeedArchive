@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-23352 (madge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23352,https://j.mp/3qHQfqK
+NVD-NIST,"CVE-2021-26861 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26861,https://j.mp/2Opiygg
+NVD-NIST,"CVE-2021-26862 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26862,https://j.mp/3lcOfW3
+NVD-NIST,"CVE-2021-26863 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26863,https://j.mp/3vf843X
+NVD-NIST,"CVE-2021-26864 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26864,https://j.mp/30E9TJw
+NVD-NIST,"CVE-2021-26865 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26865,https://j.mp/3bEWR4P
+NVD-NIST,"CVE-2021-26866 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26866,https://j.mp/2PQwssc
+NVD-NIST,"CVE-2021-26878 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26878,https://j.mp/30HHnXe
+NVD-NIST,"CVE-2021-26879 (windows_10, windows_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26879,https://j.mp/3teBc9E
+NVD-NIST,"CVE-2021-26880 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26880,https://j.mp/2Nc5MBe
+NVD-NIST,"CVE-2021-26881 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26881,https://j.mp/2NcG7bE
+NVD-NIST,"CVE-2021-26882 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26882,https://j.mp/30EUmcA
+NVD-NIST,"CVE-2021-26884 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26884,https://j.mp/2NexbCL
+NVD-NIST,CVE-2021-26885 (windows_10),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26885,https://j.mp/30FkdAU
+NVD-NIST,"CVE-2021-26886 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26886,https://j.mp/3bJqbHa
+NVD-NIST,"CVE-2021-26889 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26889,https://j.mp/3ewsYW3
+NVD-NIST,"CVE-2021-26892 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26892,https://j.mp/3lbIPe4
+NVD-NIST,CVE-2021-28115 (ougc_feedback),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28115,https://j.mp/3rJrnQC
+NVD-NIST,CVE-2021-28116 (squid),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28116,https://j.mp/2NcmxfB
+NVD-NIST,"CVE-2021-3411 (enterprise_linux, linux_kernel, openshift_container_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3411,https://j.mp/3eFepzP
