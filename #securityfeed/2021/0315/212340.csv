@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,ExpressionEngine 6.0.2 PHP Code Injection,https://packetstormsecurity.com/files/161805/KIS-2021-03.txt,https://j.mp/3trceDM
+PacketstormSecurity,Hydra Network Logon Cracker 9.2,https://packetstormsecurity.com/files/161804/thc-hydra-9.2.tar.gz,https://j.mp/3tmjcdf
+PacketstormSecurity,VoIPmonitor 27.6 Buffer Overflow,https://packetstormsecurity.com/files/161803/ES2021-03.txt,https://j.mp/2Oy4HUY
+PacketstormSecurity,VoIPmonitor 27.5 Missing Memory Protections,https://packetstormsecurity.com/files/161802/ES2021-04.txt,https://j.mp/3bLV9yC
+PacketstormSecurity,macOS CoreGraphics Integer Overflow / Out-Of-Bounds Write,https://packetstormsecurity.com/files/161801/GS20210315205124.tgz,https://j.mp/3lgSlg4
+PacketstormSecurity,Online News Portal 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161800/onp10-xss.txt,https://j.mp/30ZHTAp
+PacketstormSecurity,Online News Portal 1.0 SQL Injection,https://packetstormsecurity.com/files/161799/onp10-sql.txt,https://j.mp/3bMYvRZ
+PacketstormSecurity,Trojan.Win32.Siscos.bqe Insecure Permissions,https://packetstormsecurity.com/files/161798/MVID-2021-0127.txt,https://j.mp/3rSift5
+PacketstormSecurity,Red Hat Security Advisory 2021-0831-01,https://packetstormsecurity.com/files/161796/RHSA-2021-0831-01.txt,https://j.mp/30KMHZY
+PacketstormSecurity,Red Hat Security Advisory 2021-0830-01,https://packetstormsecurity.com/files/161795/RHSA-2021-0830-01.txt,https://j.mp/3eIfcQs
+PacketstormSecurity,Red Hat Security Advisory 2021-0827-01,https://packetstormsecurity.com/files/161794/RHSA-2021-0827-01.txt,https://j.mp/2OZBsdv
+PacketstormSecurity,SonLogger 4.2.3.3 Shell Upload,https://packetstormsecurity.com/files/161793/sonlogger4233-shell.rb.txt,https://j.mp/30KMIgu
+PacketstormSecurity,Sonlogger 4.2.3.3 SuperAdmin Account Creation / Information Disclosure,https://packetstormsecurity.com/files/161792/sonlogger4233-createdisclose.txt,https://j.mp/3vsfzED
+PacketstormSecurity,Windows Server 2012 SrClient DLL Hijacking,https://packetstormsecurity.com/files/161791/srclient_dll_hijacking.rb.txt,https://j.mp/30J0joI
+PacketstormSecurity,VoIPmonitor WEB GUI 24.55 Cross Site Scripting,https://packetstormsecurity.com/files/161790/ES2021-02.txt,https://j.mp/3toJfAA
+PacketstormSecurity,Red Hat Security Advisory 2021-0835-01,https://packetstormsecurity.com/files/161789/RHSA-2021-0835-01.txt,https://j.mp/3s3sR8g
+PacketstormSecurity,Interactive Suite 3.6 Unquoted Service Path,https://packetstormsecurity.com/files/161788/interactivesuite36-unquotedpath.txt,https://j.mp/2OXhEaG
+PacketstormSecurity,Privilege Escalation Automated Script Linux And Windows,https://packetstormsecurity.com/files/161787/Priv-Esc-cheatsheet.pdf,https://j.mp/2NmF5tR
+PacketstormSecurity,eBeam Education Suite 2.5.0.9 Unquoted Service Path,https://packetstormsecurity.com/files/161786/ebeames2509-unquotedpath.txt,https://j.mp/3lkUjMz
+PacketstormSecurity,Red Hat Security Advisory 2021-0837-01,https://packetstormsecurity.com/files/161785/RHSA-2021-0837-01.txt,https://j.mp/30P08Iq
+PacketstormSecurity,Realtek Wireless LAN Utility 700.1631 Unquoted Service Path,https://packetstormsecurity.com/files/161784/realtekwlu7001631-unquotedpath.txt,https://j.mp/3cwW1GE
+PacketstormSecurity,Trojan.Win32.Scar.dxir Insecure Permissions,https://packetstormsecurity.com/files/161783/MVID-2021-0128.txt,https://j.mp/2OAxHeT
+PacketstormSecurity,Trojan-Dropper.Win32.Delf.xk Denial Of Service,https://packetstormsecurity.com/files/161782/MVID-2021-0130.txt,https://j.mp/3vsfv7I
+PacketstormSecurity,Red Hat Security Advisory 2021-0834-01,https://packetstormsecurity.com/files/161781/RHSA-2021-0834-01.txt,https://j.mp/2OBHjpB
