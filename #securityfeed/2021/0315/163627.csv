@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-1918 (hhvm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1918,https://j.mp/30RIjIF
+NVD-NIST,CVE-2020-1919 (hhvm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1919,https://j.mp/3vr4oMh
+NVD-NIST,CVE-2020-1921 (hhvm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-1921,https://j.mp/30M2PuA
+NVD-NIST,CVE-2021-0368 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0368,https://j.mp/30NmzxD
+NVD-NIST,CVE-2021-0369 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0369,https://j.mp/30Mywnu
+NVD-NIST,CVE-2021-0370 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0370,https://j.mp/2Oq3mQh
+NVD-NIST,CVE-2021-0456 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0456,https://j.mp/3rRTFs2
+NVD-NIST,CVE-2021-0457 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0457,https://j.mp/3qQ796D
+NVD-NIST,CVE-2021-0459 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0459,https://j.mp/2OCdh5h
+NVD-NIST,CVE-2021-0460 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0460,https://j.mp/3lkVPOo
+NVD-NIST,CVE-2021-0461 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0461,https://j.mp/2NiXyHw
