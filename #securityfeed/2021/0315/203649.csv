@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-35223 (gs116e_firmware, jgs516pe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35223,https://j.mp/3cDO4ze
+NVD-NIST,"CVE-2020-35224 (gs116e_firmware, jgs516pe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35224,https://j.mp/2OXafYW
+NVD-NIST,"CVE-2020-35225 (gs116e_firmware, jgs516pe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35225,https://j.mp/2Q6Y7FA
+NVD-NIST,"CVE-2020-35227 (gs116e_firmware, jgs516pe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35227,https://j.mp/2P1562o
+NVD-NIST,CVE-2021-0371 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0371,https://j.mp/3rQhKzF
+NVD-NIST,"CVE-2021-26869 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26869,https://j.mp/2Q8D2ur
+NVD-NIST,"CVE-2021-26870 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26870,https://j.mp/30St8ip
+NVD-NIST,CVE-2021-26871 (windows_10),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26871,https://j.mp/3vu70ZN
+NVD-NIST,"CVE-2021-26872 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26872,https://j.mp/3rVvwkw
+NVD-NIST,"CVE-2021-26873 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26873,https://j.mp/2P0pCjl
