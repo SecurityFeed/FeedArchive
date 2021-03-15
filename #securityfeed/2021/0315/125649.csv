@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] rConfig 3.9.6 - 'path' Local File Inclusion (Authenticated),https://www.exploit-db.com/exploits/49644,https://j.mp/3qOZghN
+ExploitDB,[webapps] MagpieRSS 0.72 - 'url' Command Injection and Server Side Request Forgery,https://www.exploit-db.com/exploits/49643,https://j.mp/3qHSIkU
