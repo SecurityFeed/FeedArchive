@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6gj-h9gm-gw44] Incorrect Default Permissions,https://github.com/advisories/GHSA-m6gj-h9gm-gw44,https://j.mp/3cLiW0W
+GithubAdvisories,[GHSA-fr28-569j-53c4] Incorrect Default Permissions,https://github.com/advisories/GHSA-fr28-569j-53c4,https://j.mp/30W0PzL
+GithubAdvisories,[GHSA-fvgf-6h6h-3322] Improper Limitation of a Pathname to a Restricted Directory,https://github.com/advisories/GHSA-fvgf-6h6h-3322,https://j.mp/3qXPsll
