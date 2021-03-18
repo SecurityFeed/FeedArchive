@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-25239 (sinema_remote_connect_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25239,https://j.mp/3eUoxVl
+NVD-NIST,CVE-2020-35358 (domainmod),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35358,https://j.mp/2Qnu8JL
+NVD-NIST,"CVE-2021-20179 (certificate_system, dogtagpki, enterprise_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20179,https://j.mp/30THTll
+NVD-NIST,CVE-2021-23356 (kill-process-by-name),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23356,https://j.mp/3twWSOk
+NVD-NIST,CVE-2021-23357 (tyk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23357,https://j.mp/2PahAEA
+NVD-NIST,"CVE-2021-25667 (ruggedcom_rm1224_firmware, scalance_m-800_firmware, scalance_s615_firmware, scalance_sc622-2c_firmware, scalance_sc632-2c_firmware, scalance_sc636-2c_firmware, scalance_sc642-2c_firmware, scalance_sc646-2c_firmware, scalance_x-200_firmware, scalance_x300wg_firmware, scalance_xm400_firmware, scalance_xr500_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25667,https://j.mp/3c0ReOx
+NVD-NIST,CVE-2021-25672 (forgot_password),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25672,https://j.mp/3s1sZ8w
+NVD-NIST,"CVE-2021-27208 (zynq-7000_firmware, zynq-7000s_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27208,https://j.mp/38S0McQ
+NVD-NIST,CVE-2021-28375 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28375,https://j.mp/3eVkd87
+NVD-NIST,CVE-2021-28378 (gitea),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28378,https://j.mp/3vFg3Yg
