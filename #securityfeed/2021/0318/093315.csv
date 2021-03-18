@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] SEO Panel 4.8.0 - 'order_col' Blind SQL Injection,https://www.exploit-db.com/exploits/49666,https://j.mp/3cKcHKH
+ExploitDB,[webapps] rConfig 3.9.6 - Arbitrary File Upload to Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/49665,https://j.mp/3vEidaw
+ExploitDB,[remote] Microsoft Exchange 2019 - SSRF to Arbitrary File Write (Proxylogon),https://www.exploit-db.com/exploits/49663,https://j.mp/3cCkl9O
