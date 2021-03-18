@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fvx-2jj3-6mff] Insufficiently Protected Credentials in Elasticsearch,https://github.com/advisories/GHSA-5fvx-2jj3-6mff,https://j.mp/3s4mMIM
+GithubAdvisories,[GHSA-hqqv-9x3v-mp7w] Privilege Escalation Flaw in Elasticsearch,https://github.com/advisories/GHSA-hqqv-9x3v-mp7w,https://j.mp/3vD3rAP
+GithubAdvisories,[GHSA-g9fw-9x87-rmrj] Privilege Context Switching Error in Elasticsearch,https://github.com/advisories/GHSA-g9fw-9x87-rmrj,https://j.mp/3vNdROv
+GithubAdvisories,[GHSA-hwvv-438r-mhvj] Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-hwvv-438r-mhvj,https://j.mp/3eR7zHh
