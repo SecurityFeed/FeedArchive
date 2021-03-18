@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-25673 (simatic_s7-plcsim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25673,https://j.mp/3bVErgi
+NVD-NIST,CVE-2021-25674 (simatic_s7-plcsim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25674,https://j.mp/3ttTH9W
+NVD-NIST,CVE-2021-25675 (simatic_s7-plcsim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25675,https://j.mp/3ty1zHF
+NVD-NIST,"CVE-2021-25676 (ruggedcom_rm1224_firmware, scalance_m-800_firmware, scalance_s615_firmware, scalance_sc-600_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25676,https://j.mp/30XXNv4
+NVD-NIST,CVE-2021-26923 (argo-cd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26923,https://j.mp/3s00oQN
+NVD-NIST,CVE-2021-26924 (argo-cd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26924,https://j.mp/3eQ8aZX
+NVD-NIST,CVE-2021-27381 (solid_edge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27381,https://j.mp/3vGIfd2
+NVD-NIST,CVE-2021-27817 (shopxo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27817,https://j.mp/3cHcFTU
+NVD-NIST,CVE-2021-28373 (tiny_tiny_rss),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28373,https://j.mp/3s057lF
