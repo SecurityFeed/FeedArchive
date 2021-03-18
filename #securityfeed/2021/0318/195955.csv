@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5g8-5qq7-938w] Out-of-bounds Read,https://github.com/advisories/GHSA-f5g8-5qq7-938w,https://j.mp/2NuhWpd
+GithubAdvisories,[GHSA-hf64-x4gq-p99h] Out-of-bounds Read,https://github.com/advisories/GHSA-hf64-x4gq-p99h,https://j.mp/2P9tdvv
+GithubAdvisories,[GHSA-vqcj-wrf2-7v73] Out-of-bounds Write,https://github.com/advisories/GHSA-vqcj-wrf2-7v73,https://j.mp/2NBG0GY
+GithubAdvisories,[GHSA-3wvg-mj6g-m9cv] Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-3wvg-mj6g-m9cv,https://j.mp/3cIMzjy
+GithubAdvisories,[GHSA-f4w8-cv6p-x6r5] Denial of Service by Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-f4w8-cv6p-x6r5,https://j.mp/3s4rMNy
+GithubAdvisories,[GHSA-95q3-8gr9-gm8w] Denial of Service by Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-95q3-8gr9-gm8w,https://j.mp/3eVdjzJ
+GithubAdvisories,[GHSA-545q-3fg6-48m7] Regular expression denial of service (ReDoS),https://github.com/advisories/GHSA-545q-3fg6-48m7,https://j.mp/3cPJz4I
+GithubAdvisories,[GHSA-w36g-q975-37rg] Improper Input Validation (RCE),https://github.com/advisories/GHSA-w36g-q975-37rg,https://j.mp/3r8WHr3
