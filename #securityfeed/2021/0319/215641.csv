@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fx83-3ph3-9j2q] Cross-site Scripting (XSS) in Django REST Framework,https://github.com/advisories/GHSA-fx83-3ph3-9j2q,https://j.mp/3s8V8KQ
+GithubAdvisories,[GHSA-3wj8-vp9h-rm6m] Remote Code Execution (RCE),https://github.com/advisories/GHSA-3wj8-vp9h-rm6m,https://j.mp/38XZ7T2
+GithubAdvisories,[GHSA-v542-8q9x-cffc] Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-v542-8q9x-cffc,https://j.mp/3s2SLZW
+GithubAdvisories,[GHSA-g3rq-g295-4j3m] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-g3rq-g295-4j3m,https://j.mp/3vG0G1z
