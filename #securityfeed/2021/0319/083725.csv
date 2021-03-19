@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Eclipse Mosquitto MQTT broker 2.0.9 - 'mosquitto' Unquoted Service Path,https://www.exploit-db.com/exploits/49673,https://j.mp/3lsV0n1
+ExploitDB,[webapps] Profiling System for Human Resource Management 1.0 - Remote Code Execution (Unauthenticated),https://www.exploit-db.com/exploits/49672,https://j.mp/2P5Ow1l
+ExploitDB,[local] BRAdmin Professional 3.75 - 'BRA_Scheduler' Unquoted Service Path,https://www.exploit-db.com/exploits/49671,https://j.mp/3cL5l9X
+ExploitDB,[webapps] Boonex Dolphin 7.4.2 - 'width' Stored XSS,https://www.exploit-db.com/exploits/49670,https://j.mp/2OP525N
+ExploitDB,[webapps] LiveZilla Server 8.0.1.0 - 'Accept-Language' Reflected XSS,https://www.exploit-db.com/exploits/49669,https://j.mp/3bYa2hp
+ExploitDB,[webapps] Plone CMS 5.2.3 - 'Title' Stored XSS,https://www.exploit-db.com/exploits/49668,https://j.mp/3s3lAWi
