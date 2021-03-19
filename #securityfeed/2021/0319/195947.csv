@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrvj-7q4f-5p42] Cross-site scripting in eZ Platform Kernel,https://github.com/advisories/GHSA-mrvj-7q4f-5p42,https://j.mp/3c2xtGf
+GithubAdvisories,[GHSA-5phf-pp7p-vc2r] Using default SSLContext for HTTPS requests in an HTTPS proxy doesn't verify certificate hostname for proxy connection,https://github.com/advisories/GHSA-5phf-pp7p-vc2r,https://j.mp/3s5Ckfl
