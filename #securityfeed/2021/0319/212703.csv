@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7r28-3m3f-r2pr] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-7r28-3m3f-r2pr,https://j.mp/3c34qCp
+GithubAdvisories,[GHSA-vx3p-948g-6vhq] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-vx3p-948g-6vhq,https://j.mp/3eXRTly
+GithubAdvisories,[GHSA-xfhp-gmh8-r8v2] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-xfhp-gmh8-r8v2,https://j.mp/311m96U
+GithubAdvisories,[GHSA-4rv9-5vc4-88cg] Command injection in node-ps,https://github.com/advisories/GHSA-4rv9-5vc4-88cg,https://j.mp/39fPvTV
+GithubAdvisories,[GHSA-5wqj-f379-6jh4] Command injection in kill-process-on-port,https://github.com/advisories/GHSA-5wqj-f379-6jh4,https://j.mp/3eRQ2yS
+GithubAdvisories,[GHSA-7qmm-q394-fmch] Command Injection in ps-kill,https://github.com/advisories/GHSA-7qmm-q394-fmch,https://j.mp/3vGFjgH
+GithubAdvisories,[GHSA-qc65-cgvr-93p6] Code injection in kill-process-by-name,https://github.com/advisories/GHSA-qc65-cgvr-93p6,https://j.mp/311j7zQ
+GithubAdvisories,[GHSA-85g2-29m8-qf2p] Prototype Pollution Vulnerability in object-collider,https://github.com/advisories/GHSA-85g2-29m8-qf2p,https://j.mp/2P7xIqz
+GithubAdvisories,[GHSA-mx3r-w3pj-7wv7] Command injection in wc-cmd,https://github.com/advisories/GHSA-mx3r-w3pj-7wv7,https://j.mp/2P7LHgf
+GithubAdvisories,[GHSA-qr4p-c9wr-phr6] Prototype pollution in set-in,https://github.com/advisories/GHSA-qr4p-c9wr-phr6,https://j.mp/3eWdPxs
