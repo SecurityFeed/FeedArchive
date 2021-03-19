@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Insufficient Session Expiration,https://packetstormsecurity.com/files/161892/ZSL-2021-5646.txt,https://j.mp/2OOvlJu
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Privilege Escalation,https://packetstormsecurity.com/files/161891/ZSL-2021-5645.txt,https://j.mp/2P8QXA2
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Configuration Download,https://packetstormsecurity.com/files/161890/ZSL-2021-5644.txt,https://j.mp/3rbBU6d
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Device Reboot,https://packetstormsecurity.com/files/161889/ZSL-2021-5643.txt,https://j.mp/3vHWsGM
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Factory Reset,https://packetstormsecurity.com/files/161888/ZSL-2021-5642.txt,https://j.mp/2P4GQfE
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Log Disclosure,https://packetstormsecurity.com/files/161887/ZSL-2021-5641.txt,https://j.mp/3tBNd95
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Insecure Direct Object Reference,https://packetstormsecurity.com/files/161886/ZSL-2021-5640.txt,https://j.mp/30VzPjU
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Remote Code Execution,https://packetstormsecurity.com/files/161885/ZSL-2021-5639.txt,https://j.mp/3s5gvMX
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Weak Default WiFi Password Algorithm,https://packetstormsecurity.com/files/161884/ZSL-2021-5638.txt,https://j.mp/3lxoUqj
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Hard-Coded Credentails / Shell Access,https://packetstormsecurity.com/files/161883/ZSL-2021-5637.txt,https://j.mp/3c05GWU
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authentication Bypass,https://packetstormsecurity.com/files/161882/ZSL-2021-5636.txt,https://j.mp/3tPP0rx
+PacketstormSecurity,KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authenticated Command Injection,https://packetstormsecurity.com/files/161881/ZSL-2021-5635.txt,https://j.mp/3tIEGBz
+PacketstormSecurity,Win32k ConsoleControl Offset Confusion,https://packetstormsecurity.com/files/161880/cve_2021_1732_win32k.rb.txt,https://j.mp/2OT9JeV
+PacketstormSecurity,VMware View Planner 4.6 Remote Code Execution,https://packetstormsecurity.com/files/161879/vmware_view_planner_4_6_uploadlog_rce.rb.txt,https://j.mp/3eXfIKr
+PacketstormSecurity,SOYAL 701Client 9.0.1 Insecure Permissions,https://packetstormsecurity.com/files/161878/ZSL-2021-5634.txt,https://j.mp/3cM7EJP
+PacketstormSecurity,SOYAL 701Server 9.0.1 Insecure Permissions,https://packetstormsecurity.com/files/161877/ZSL-2021-5633.txt,https://j.mp/3d4pZlF
+PacketstormSecurity,SOYAL Biometric Access Control System 5.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/161876/ZSL-2021-5632.txt,https://j.mp/3r6R4tc
+PacketstormSecurity,SOYAL Biometric Access Control System 5.0 Weak Default Credentials,https://packetstormsecurity.com/files/161875/ZSL-2021-5631.txt,https://j.mp/38XpW9S
+PacketstormSecurity,SOYAL Biometric Access Control System 5.0 Master Code Disclosure,https://packetstormsecurity.com/files/161874/ZSL-2021-5630.txt,https://j.mp/38Y17KX
+PacketstormSecurity,VestaCP 0.9.8 Command Injection,https://packetstormsecurity.com/files/161873/vestacp098-exec.txt,https://j.mp/3r5OSCa
+PacketstormSecurity,Eclipse Mosquitto MQTT Broker 2.0.9 Unquoted Service Path,https://packetstormsecurity.com/files/161872/eclipsemmqttb209-unquotedpath.txt,https://j.mp/3eY0Qvw
+PacketstormSecurity,Profiling System For Human Resource Management 1.0 Remote Code Execution,https://packetstormsecurity.com/files/161871/pshrm10-exec.txt,https://j.mp/3eVCVMW
+PacketstormSecurity,Boonex Dolphin 7.4.2 Cross Site Scripting,https://packetstormsecurity.com/files/161869/boonexdolphin742-xss.txt,https://j.mp/312qSoQ
+PacketstormSecurity,Red Hat Security Advisory 2021-0940-01,https://packetstormsecurity.com/files/161868/RHSA-2021-0940-01.txt,https://j.mp/3c0E6Ja
