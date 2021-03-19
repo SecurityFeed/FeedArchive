@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 - Hard coded Credentials Shell Access,https://www.exploit-db.com/exploits/49682,https://j.mp/3s5Ynm8
+ExploitDB,[webapps] KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 - Authentication Bypass,https://www.exploit-db.com/exploits/49681,https://j.mp/3d3cUJl
+ExploitDB,[webapps] KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 - Command Injection (Authenticated),https://www.exploit-db.com/exploits/49680,https://j.mp/3142Xp3
+ExploitDB,[local] SOYAL 701 Client 9.0.1 - Insecure Permissions,https://www.exploit-db.com/exploits/49679,https://j.mp/3eV0Oo7
+ExploitDB,[local] SOYAL 701 Server 9.0.1 - Insecure Permissions,https://www.exploit-db.com/exploits/49678,https://j.mp/3tAWgay
+ExploitDB,[webapps] SOYAL Biometric Access Control System 5.0 - 'Change Admin Password' CSRF,https://www.exploit-db.com/exploits/49677,https://j.mp/2OHbFHA
+ExploitDB,[webapps] SOYAL Biometric Access Control System 5.0 - Master Code Disclosure,https://www.exploit-db.com/exploits/49676,https://j.mp/38Zd9nc
+ExploitDB,[webapps] VestaCP 0.9.8 - 'v_sftp_licence' Command Injection,https://www.exploit-db.com/exploits/49674,https://j.mp/3vGTVNa
