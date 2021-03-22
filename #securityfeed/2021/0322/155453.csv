@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-0949-01,https://packetstormsecurity.com/files/161916/RHSA-2021-0949-01.txt,https://j.mp/31jR8vr
+PacketstormSecurity,Red Hat Security Advisory 2021-0948-01,https://packetstormsecurity.com/files/161915/RHSA-2021-0948-01.txt,https://j.mp/3rcAN65
+PacketstormSecurity,MacPaw Encrypto 1.0.1 Unquoted Service Path,https://packetstormsecurity.com/files/161913/macpawencrypto101-unquotedpath.txt,https://j.mp/2Ql1AjM
+PacketstormSecurity,Red Hat Security Advisory 2021-0947-01,https://packetstormsecurity.com/files/161912/RHSA-2021-0947-01.txt,https://j.mp/2PeTx7R
+PacketstormSecurity,Trojan-Dropper.Win32.Demp.rft Insecure Permissions,https://packetstormsecurity.com/files/161911/MVID-2021-0138.txt,https://j.mp/3rbdiuj
+PacketstormSecurity,ProFTPD 1.3.7a Denial Of Service,https://packetstormsecurity.com/files/161910/proftpd137a-dos.txt,https://j.mp/3tH8LRS
+PacketstormSecurity,MyBB 1.8.25 Remote Command Execution,https://packetstormsecurity.com/files/161908/mybb1825-exec.txt,https://j.mp/3vO3OIF
+PacketstormSecurity,Apache Ghostcat Exploitation,https://packetstormsecurity.com/files/161907/Apache_Ghostcat.pdf,https://j.mp/3vPDEFx
+PacketstormSecurity,Credential Dumping Cheatsheet,https://packetstormsecurity.com/files/161906/credential_dumping.pdf,https://j.mp/3r4hP1u
+PacketstormSecurity,Trojan-Dropper.Win32.Delf.da Buffer Overflow,https://packetstormsecurity.com/files/161905/MVID-2021-0137.txt,https://j.mp/3vOZJnL
+PacketstormSecurity,HEUR.Trojan.Win32.Generic Insecure Permissions,https://packetstormsecurity.com/files/161904/MVID-2021-0136.txt,https://j.mp/3sbRU9v
+PacketstormSecurity,Red Hat Security Advisory 2021-0946-01,https://packetstormsecurity.com/files/161903/RHSA-2021-0946-01.txt,https://j.mp/3cVqA94
+PacketstormSecurity,Red Hat Security Advisory 2021-0945-01,https://packetstormsecurity.com/files/161902/RHSA-2021-0945-01.txt,https://j.mp/3dbIyEz
+PacketstormSecurity,OSAS Traverse Extension 11 Unquoted Service Path,https://packetstormsecurity.com/files/161901/osastraverseextension11-unquotedpath.txt,https://j.mp/3vOnQTx
+PacketstormSecurity,WordPress Delightful Downloads Jquery File Tree 1.6.6 Path Traversal,https://packetstormsecurity.com/files/161900/wpddjft166-traversal.txt,https://j.mp/3rcAMPz
+PacketstormSecurity,Trojan-Dropper.Win32.Dycler.vrp Insecure Permissions,https://packetstormsecurity.com/files/161899/MVID-2021-0135.txt,https://j.mp/3tHfz1O
+PacketstormSecurity,hardwear.io 2021 Call For Papers,https://packetstormsecurity.com/files/161898/hardweario2021-cfp.txt,https://j.mp/3lBYYK7
+PacketstormSecurity,Zoom 5.4.3 (54779.1115) / 5.5.4 (13142.0301) Information Disclosure,https://packetstormsecurity.com/files/161897/SYSS-2020-044.txt,https://j.mp/2PcpHAK
+PacketstormSecurity,SAPSetup Automatic Workstation Update Service 750 Unquoted Service Path,https://packetstormsecurity.com/files/161894/sapsetupaw-unquotedpath.txt,https://j.mp/3c9UbMR
+PacketstormSecurity,Winpakpro 4.8 Unquoted Service Path,https://packetstormsecurity.com/files/161893/winpakpro48-unquotedpath.txt,https://j.mp/2ONkoYN
+PacketstormSecurity,CMS Made Simple 2.2.15 Shell Upload,https://packetstormsecurity.com/files/161896/cmsmadesimple2215-shell.txt,https://j.mp/3sfiLBE
+PacketstormSecurity,CMS Made Simple 2.2.15 SQL Injection,https://packetstormsecurity.com/files/161895/cmsmadesimple2215-sql.txt,https://j.mp/3ccc8KO
