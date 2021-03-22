@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 - Weak Default WiFi Password Algorithm,https://www.exploit-db.com/exploits/49695,https://j.mp/3188082
+ExploitDB,[local] MacPaw Encrypto 1.0.1 - 'Encrypto Service' Unquoted Service Path,https://www.exploit-db.com/exploits/49694,https://j.mp/2PjhdYo
+ExploitDB,[webapps] WordPress Plugin Delightful Downloads Jquery File Tree 1.6.6 - Path Traversal,https://www.exploit-db.com/exploits/49693,https://j.mp/3caVBqu
+ExploitDB,[local] Winpakpro 4.8 - 'WPCommandFileService' Unquoted Service Path,https://www.exploit-db.com/exploits/49692,https://j.mp/3vNewPQ
+ExploitDB,[local] Winpakpro 4.8 - 'ScheduleService' Unquoted Service Path,https://www.exploit-db.com/exploits/49691,https://j.mp/392wsfF
+ExploitDB,[local] Winpakpro 4.8 - 'GuardTourService' Unquoted Service Path,https://www.exploit-db.com/exploits/49690,https://j.mp/394G615
+ExploitDB,[local] SAPSetup Automatic Workstation Update Service 750 - 'NWSAPAutoWorkstationUpdateSvc' Unquoted Service Path,https://www.exploit-db.com/exploits/49689,https://j.mp/3lEPbmg
