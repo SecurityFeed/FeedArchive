@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwwr-qc2p-6283] Out-of-bounds write in libpng,https://github.com/advisories/GHSA-qwwr-qc2p-6283,https://j.mp/394d7dX
+GithubAdvisories,[GHSA-jq4v-f5q6-mjqq] Cross-Site Scripting in lxml,https://github.com/advisories/GHSA-jq4v-f5q6-mjqq,https://j.mp/2NH7HhB
