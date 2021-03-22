@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrcp-8f3q-4w2c] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-hrcp-8f3q-4w2c,https://j.mp/3lJvwSy
+GithubAdvisories,[GHSA-43gc-mjxg-gvrq] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-43gc-mjxg-gvrq,https://j.mp/3r9muPD
+GithubAdvisories,[GHSA-f6hm-88x3-mfjv] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-f6hm-88x3-mfjv,https://j.mp/3lK6VNd
+GithubAdvisories,[GHSA-56p8-3fh9-4cvq] XStream is vulnerable to an attack using Regular Expression for a Denial of Service (ReDos),https://github.com/advisories/GHSA-56p8-3fh9-4cvq,https://j.mp/3c8SZJE
+GithubAdvisories,[GHSA-qpfq-ph7r-qv6f] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-qpfq-ph7r-qv6f,https://j.mp/317QvVv
+GithubAdvisories,[GHSA-4hrm-m67v-5cxr] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-4hrm-m67v-5cxr,https://j.mp/3rebeS9
+GithubAdvisories,[GHSA-hwpc-8xqv-jvj4] XStream is vulnerable to a Remote Command Execution attack,https://github.com/advisories/GHSA-hwpc-8xqv-jvj4,https://j.mp/3c8Ojn1
+GithubAdvisories,[GHSA-59jw-jqf4-3wq3] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-59jw-jqf4-3wq3,https://j.mp/3ccyagw
+GithubAdvisories,[GHSA-74cv-f58x-f9wf] XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights,https://github.com/advisories/GHSA-74cv-f58x-f9wf,https://j.mp/3cg8cZz
+GithubAdvisories,[GHSA-hvv8-336g-rx3m] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-hvv8-336g-rx3m,https://j.mp/2OQ3kkZ
+GithubAdvisories,[GHSA-2p3x-qw9c-25hh] XStream can cause a Denial of Service,https://github.com/advisories/GHSA-2p3x-qw9c-25hh,https://j.mp/3f28SmZ
