@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x7hc-x7fm-f7qh] Cross-Site Scripting in Content Preview (CType menu),https://github.com/advisories/GHSA-x7hc-x7fm-f7qh,https://j.mp/397n5v8
+GithubAdvisories,[GHSA-4p9g-qgx9-397p] Denial of Service in Page Error Handling,https://github.com/advisories/GHSA-4p9g-qgx9-397p,https://j.mp/3rfsPsO
+GithubAdvisories,[GHSA-x79j-wgqv-g8h2] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in typo3/cms-form,https://github.com/advisories/GHSA-x79j-wgqv-g8h2,https://j.mp/319ChmY
+GithubAdvisories,[GHSA-3vg7-jw9m-pc3f] Broken Access Control in Form Framework,https://github.com/advisories/GHSA-3vg7-jw9m-pc3f,https://j.mp/2OPPyyL
+GithubAdvisories,[GHSA-2r6j-862c-m2v2] Unrestricted File Upload in Form Framework,https://github.com/advisories/GHSA-2r6j-862c-m2v2,https://j.mp/3sc3CRy
+GithubAdvisories,[GHSA-fjh3-g8gq-9q92] Cross-Site Scripting in Content Preview,https://github.com/advisories/GHSA-fjh3-g8gq-9q92,https://j.mp/2PmtYBu
+GithubAdvisories,[GHSA-qx3w-4864-94ch] Cleartext storage of session identifier,https://github.com/advisories/GHSA-qx3w-4864-94ch,https://j.mp/398s7HH
+GithubAdvisories,[GHSA-4jhw-2p6j-5wmp] Open Redirection in Login Handling,https://github.com/advisories/GHSA-4jhw-2p6j-5wmp,https://j.mp/316WjOS
