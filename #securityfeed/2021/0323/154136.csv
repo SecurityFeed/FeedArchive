@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4rf-pc26-6hmr] OMERO webclient does not validate URL redirects on login or switching group,https://github.com/advisories/GHSA-g4rf-pc26-6hmr,https://j.mp/3lIDg73
+GithubAdvisories,[GHSA-gfp2-w5jm-955q] OMERO.web exposes some unnecessary session information in the page,https://github.com/advisories/GHSA-gfp2-w5jm-955q,https://j.mp/318FUtB
