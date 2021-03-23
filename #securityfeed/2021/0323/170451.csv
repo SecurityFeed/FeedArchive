@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Exchange ProxyLogon Remote Code Execution,https://packetstormsecurity.com/files/161938/exchange_proxylogon_rce.rb.txt,https://j.mp/3skgncI
+PacketstormSecurity,Advantech iView Unauthenticated Remote Code Execution,https://packetstormsecurity.com/files/161937/advantech_iview_unauth_rce.rb.txt,https://j.mp/3lH9teY
+PacketstormSecurity,Global Socket 1.4.27,https://packetstormsecurity.com/files/161936/gsocket-1.4.27.tar.gz,https://j.mp/2NIDf6A
+PacketstormSecurity,Red Hat Security Advisory 2021-0974-01,https://packetstormsecurity.com/files/161935/RHSA-2021-0974-01.txt,https://j.mp/3lQFGRm
+PacketstormSecurity,WordPress GiveWP 2.9.7 Cross Site Scripting,https://packetstormsecurity.com/files/161933/wpgivewp297-xss.txt,https://j.mp/3d3Olvs
+PacketstormSecurity,Red Hat Security Advisory 2021-0969-01,https://packetstormsecurity.com/files/161932/RHSA-2021-0969-01.txt,https://j.mp/31dV40B
+PacketstormSecurity,Hotel And Lodge Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161931/hlms10-xss.txt,https://j.mp/31d0Wad
+PacketstormSecurity,Red Hat Security Advisory 2021-0968-01,https://packetstormsecurity.com/files/161930/RHSA-2021-0968-01.txt,https://j.mp/3vVu6J2
+PacketstormSecurity,Online Reviewer Management System 1.0 Shell Upload,https://packetstormsecurity.com/files/161929/orms10-shell.txt,https://j.mp/31c6qSE
+PacketstormSecurity,Online Reviewer Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161928/orms10-xss.txt,https://j.mp/31azmKP
+PacketstormSecurity,Online Reviewer Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/161927/orms10-sql.txt,https://j.mp/3rc7uR3
+PacketstormSecurity,Red Hat Security Advisory 2021-0967-01,https://packetstormsecurity.com/files/161926/RHSA-2021-0967-01.txt,https://j.mp/3tQ66We
+PacketstormSecurity,Elodea Event Collector 4.9.3 Unquoted Service Path,https://packetstormsecurity.com/files/161925/elodeaec493-unquotedpath.txt,https://j.mp/2PgAEBk
+PacketstormSecurity,ActivIdentity 8.2 Unquoted Service Path,https://packetstormsecurity.com/files/161924/actividentity82-unquotedpath.txt,https://j.mp/3f8pJVm
+PacketstormSecurity,ELAN Touchpad 15.2.13.1_X64_WHQL Unquoted Service Path,https://packetstormsecurity.com/files/161923/elantouchpad152131-unquotedpath.txt,https://j.mp/3f90TES
+PacketstormSecurity,Red Hat Security Advisory 2021-0966-01,https://packetstormsecurity.com/files/161922/RHSA-2021-0966-01.txt,https://j.mp/2P1E0Iv
+PacketstormSecurity,Hi-Rez Studios 5.1.6.3 Unquoted Service Path,https://packetstormsecurity.com/files/161921/hirezstudios5163-unquotedpath.txt,https://j.mp/3rauy2x
+PacketstormSecurity,WordPress Mapplic 6.1 SSRF / Cross Site Scripting,https://packetstormsecurity.com/files/161920/wpmapplic61-xssssrf.txt,https://j.mp/2OZ97Vf
+PacketstormSecurity,WordPress Mapplic-Lite 1.0 SSRF / Cross Site Scripting,https://packetstormsecurity.com/files/161919/wpmappliclite10-xssssrf.txt,https://j.mp/31bvbyA
+PacketstormSecurity,MyBB 1.8.25 SQL Injection,https://packetstormsecurity.com/files/161918/mybb1825-sql.txt,https://j.mp/3lJE2Rj
