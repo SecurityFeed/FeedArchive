@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-79rg-7mv3-jrr5] Rating Script Service expose XWiki to SQL injection,https://github.com/advisories/GHSA-79rg-7mv3-jrr5,https://j.mp/3lLDABW
+GithubAdvisories,[GHSA-v662-xpcc-9xf6] It's possible to execute anything with the rights of the author of a macro which uses the {{wikimacrocontent}} macro,https://github.com/advisories/GHSA-v662-xpcc-9xf6,https://j.mp/3lKRc0u
