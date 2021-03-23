@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Elodea Event Collector 4.9.3 - 'ElodeaEventCollectorService' Unquoted Service Path,https://www.exploit-db.com/exploits/49704,https://j.mp/2P304CB
+ExploitDB,[local] ActivIdentity 8.2 - 'ac.sharedstore' Unquoted Service Path,https://www.exploit-db.com/exploits/49703,https://j.mp/31aE5fG
+ExploitDB,[local] ELAN Touchpad 15.2.13.1_X64_WHQL - 'ETDService' Unquoted Service Path,https://www.exploit-db.com/exploits/49702,https://j.mp/3sdCIZt
+ExploitDB,[local] Hi-Rez Studios 5.1.6.3 - 'HiPatchService' Unquoted Service Path,https://www.exploit-db.com/exploits/49701,https://j.mp/3lERjL4
+ExploitDB,[webapps] Hotel And Lodge Management System 1.0 - 'Customer Details' Stored XSS,https://www.exploit-db.com/exploits/49700,https://j.mp/3f8lcSO
