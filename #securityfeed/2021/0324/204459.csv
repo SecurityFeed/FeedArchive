@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-25917 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25917,https://j.mp/31hMGgp
+NVD-NIST,CVE-2021-25918 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25918,https://j.mp/3tUM6Bs
+NVD-NIST,CVE-2021-25919 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25919,https://j.mp/31cxykw
+NVD-NIST,CVE-2021-25920 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25920,https://j.mp/3vVQ6Um
+NVD-NIST,CVE-2021-25921 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25921,https://j.mp/39cfuvi
+NVD-NIST,CVE-2021-25922 (openemr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25922,https://j.mp/3vPNlUq
+NVD-NIST,CVE-2021-27309 (clansphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27309,https://j.mp/2PtBieE
+NVD-NIST,CVE-2021-27310 (clansphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27310,https://j.mp/2QCFKbO
+NVD-NIST,CVE-2021-27526 (dynpg_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27526,https://j.mp/3cfgwbL
+NVD-NIST,CVE-2021-27527 (dynpg_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27527,https://j.mp/39avBJI
+NVD-NIST,CVE-2021-27528 (dynpg_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27528,https://j.mp/3tW1w8T
+NVD-NIST,CVE-2021-27529 (dynpg_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27529,https://j.mp/39e1sct
+NVD-NIST,CVE-2021-28954 (bit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28954,https://j.mp/31gRd2U
+NVD-NIST,CVE-2021-28957 (lxml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28957,https://j.mp/31gRcMo
+NVD-NIST,"CVE-2021-29071 (rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr752_firmware, rbr753_firmware, rbr753s_firmware, rbr754_firmware, rbr850_firmware, rbs750_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29071,https://j.mp/31gRcvS
+NVD-NIST,"CVE-2021-29077 (rbk752_firmware, rbk753_firmware, rbk753s_firmware, rbk754_firmware, rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr850_firmware, rbs40v_firmware, rbs750_firmware, rbs850_firmware, rbw30_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29077,https://j.mp/39cQ5l9
+NVD-NIST,"CVE-2021-29078 (rbk752_firmware, rbk753_firmware, rbk753s_firmware, rbk754_firmware, rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr850_firmware, rbs750_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29078,https://j.mp/2NNKSbV
+NVD-NIST,"CVE-2021-29079 (rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr850_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29079,https://j.mp/2NO32ua
+NVD-NIST,"CVE-2021-29080 (cbr40_firmware, r6900p_firmware, r7000_firmware, r7000p_firmware, r7900_firmware, r7900p_firmware, r7960p_firmware, r8000_firmware, r8000p_firmware, rax75_firmware, rax80_firmware, rbk852_firmware, rbk853_firmware, rbr850_firmware, rbr854_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29080,https://j.mp/3lPkmve
+NVD-NIST,"CVE-2021-29081 (rbk752_firmware, rbk753_firmware, rbk753s_firmware, rbk754_firmware, rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr850_firmware, rbs750_firmware, rbs850_firmware, rbw30_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29081,https://j.mp/3tUM6RY
+NVD-NIST,"CVE-2021-29082 (rbk752_firmware, rbk753_firmware, rbk753s_firmware, rbk754_firmware, rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr850_firmware, rbs40v_firmware, rbs750_firmware, rbs850_firmware, rbw30_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29082,https://j.mp/3lR9mxM
