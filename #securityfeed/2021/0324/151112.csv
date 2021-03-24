@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-0976-01,https://packetstormsecurity.com/files/161951/RHSA-2021-0976-01.txt,https://j.mp/3tRfjNI
+PacketstormSecurity,Online Faculty Clearance System 1.0 Shell Upload,https://packetstormsecurity.com/files/161949/ofcs10-shell.txt,https://j.mp/3f554Bs
+PacketstormSecurity,Online Faculty Clearance System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161948/ofcs10-xss.txt,https://j.mp/31eUAYc
+PacketstormSecurity,Trojan-Dropper.Win32.Dycler.yhb Insecure Permissions,https://packetstormsecurity.com/files/161947/MVID-2021-0140.txt,https://j.mp/3f7ltFz
+PacketstormSecurity,Intel RST User Interface / Driver Privilege Escalation,https://packetstormsecurity.com/files/161946/intelrst-escalate.txt,https://j.mp/3u3D3i3
+PacketstormSecurity,Red Hat Security Advisory 2021-0975-01,https://packetstormsecurity.com/files/161945/RHSA-2021-0975-01.txt,https://j.mp/399gb8s
+PacketstormSecurity,Codiad 2.8.4 Remote Code Execution,https://packetstormsecurity.com/files/161944/codiad284-exec.txt,https://j.mp/3f8PZyP
+PacketstormSecurity,American Fuzzy Lop plus plus 3.12c,https://packetstormsecurity.com/files/161950/AFLplusplus-3.12c.tar.gz,https://j.mp/3vXAnnC
+PacketstormSecurity,URL Exploiting - XXE To SSRF,https://packetstormsecurity.com/files/161943/URL-Exploiting-XXE-to-SSRF.pdf,https://j.mp/3fbJY4y
+PacketstormSecurity,Worm.Win32.Detnat.c Insecure Permissions,https://packetstormsecurity.com/files/161942/MVID-2021-0139.txt,https://j.mp/3d6uJXR
+PacketstormSecurity,Ext2Fsd 0.68 Unquoted Service Path,https://packetstormsecurity.com/files/161941/ext2fsd068-unquotedpath.txt,https://j.mp/2P1OSpX
+PacketstormSecurity,Virus.Win32.Sality.gen Insecure Permissions,https://packetstormsecurity.com/files/161940/MVID-2021-0141.txt,https://j.mp/3cfb74C
+PacketstormSecurity,WordPress MapifyLite 3.3 Cross Site Scripting,https://packetstormsecurity.com/files/161939/wpmapifylite33-xss.txt,https://j.mp/3rhW4LJ
