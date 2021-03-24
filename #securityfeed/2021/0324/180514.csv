@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgwr-773q-7j3c] Path Traversal within joomla/archive zip class,https://github.com/advisories/GHSA-vgwr-773q-7j3c,https://j.mp/3rjT8Os
+GithubAdvisories,[GHSA-xgpf-p52j-pf7m] XSS in CreateQueuedJobTask,https://github.com/advisories/GHSA-xgpf-p52j-pf7m,https://j.mp/31eP1ZD
