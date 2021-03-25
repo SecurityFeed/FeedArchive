@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-27170 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27170,https://j.mp/3ro7WMj
+NVD-NIST,"CVE-2020-27171 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27171,https://j.mp/2QtagEP
+NVD-NIST,CVE-2021-21349 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21349,https://j.mp/3lRpPSp
+NVD-NIST,CVE-2021-21350 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21350,https://j.mp/3lRpQFX
+NVD-NIST,"CVE-2021-28950 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28950,https://j.mp/2NY90sE
+NVD-NIST,CVE-2021-28951 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28951,https://j.mp/3rnOkHW
+NVD-NIST,CVE-2021-28952 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28952,https://j.mp/3soFond
