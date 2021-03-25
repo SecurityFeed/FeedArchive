@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Dolibarr ERP/CRM 11.0.4 - File Upload Restrictions Bypass (Authenticated RCE),https://www.exploit-db.com/exploits/49711,https://j.mp/3cmHuhT
+ExploitDB,[webapps] Genexis Platinum-4410 P4410-V2-1.31A - 'start_addr' Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/49709,https://j.mp/3srLQde
+ExploitDB,[webapps] Linksys EA7500 2.0.8.194281 - Cross-Site Scripting,https://www.exploit-db.com/exploits/49708,https://j.mp/31hIhuc
+ExploitDB,[webapps] Ovidentia 6 - 'id' SQL injection (Authenticated),https://www.exploit-db.com/exploits/49707,https://j.mp/3vRbZnE
