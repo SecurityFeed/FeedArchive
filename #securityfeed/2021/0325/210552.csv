@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-6771 (ip_helper),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6771,https://j.mp/31iJQrx
+NVD-NIST,"CVE-2020-6785 (video_management_system, video_management_system_viewer)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6785,https://j.mp/3rn7iys
+NVD-NIST,CVE-2020-6786 (video_recording_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6786,https://j.mp/3cmLkYn
+NVD-NIST,CVE-2020-6787 (video_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6787,https://j.mp/3lSdxcn
+NVD-NIST,CVE-2020-6788 (configuration_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6788,https://j.mp/3lTiaTv
+NVD-NIST,CVE-2020-6789 (monitor_wall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6789,https://j.mp/3rkCluN
+NVD-NIST,CVE-2020-6790 (video_streaming_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6790,https://j.mp/3u86wHF
+NVD-NIST,"CVE-2021-20270 (enterprise_linux, fedora, openshift_container_platform, openstack_platform, pygments, software_collections)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20270,https://j.mp/3lQZB2i
+NVD-NIST,CVE-2021-21341 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21341,https://j.mp/3rw4vmV
+NVD-NIST,CVE-2021-21342 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21342,https://j.mp/3sp9yGW
+NVD-NIST,CVE-2021-21343 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21343,https://j.mp/3w2Fm6q
+NVD-NIST,CVE-2021-21344 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21344,https://j.mp/39dOJqe
+NVD-NIST,CVE-2021-21345 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21345,https://j.mp/2NRSKJw
+NVD-NIST,CVE-2021-21346 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21346,https://j.mp/3rn0EZ9
+NVD-NIST,CVE-2021-21347 (xstream),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21347,https://j.mp/3sowPJ3
+NVD-NIST,CVE-2021-21783 (gsoap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21783,https://j.mp/3sjPOEu
+NVD-NIST,CVE-2021-22169 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22169,https://j.mp/39euWqT
+NVD-NIST,CVE-2021-22496 (access_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22496,https://j.mp/3ssMPtu
+NVD-NIST,CVE-2021-23362 (hosted-git-info),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23362,https://j.mp/3rkC5Ml
+NVD-NIST,CVE-2021-26578 (network_orchestrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26578,https://j.mp/39dOJGK
+NVD-NIST,CVE-2021-27594 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27594,https://j.mp/3vXnycZ
+NVD-NIST,CVE-2021-27595 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27595,https://j.mp/3su3BbS
+NVD-NIST,CVE-2021-27596 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27596,https://j.mp/3cnRis0
