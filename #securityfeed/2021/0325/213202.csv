@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8q59-q68h-6hv4] Improper Input Validation in PyYAML,https://github.com/advisories/GHSA-8q59-q68h-6hv4,https://j.mp/3rnO6R9
+GithubAdvisories,[GHSA-8mrf-64fw-2x75] Command injection in fs-path,https://github.com/advisories/GHSA-8mrf-64fw-2x75,https://j.mp/3lR4Y1C
