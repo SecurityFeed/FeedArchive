@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-21437 (itsmconfigurationmanagement, otrscisincustomerfrontend)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21437,https://j.mp/3sq0gu2
+NVD-NIST,"CVE-2021-21438 (faq, otrs)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21438,https://j.mp/2NTeJ2J
+NVD-NIST,"CVE-2021-26069 (data_center, jira)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26069,https://j.mp/2PuK640
+NVD-NIST,CVE-2021-28955 (git-bug),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28955,https://j.mp/3lQwBI2
+NVD-NIST,CVE-2021-28964 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28964,https://j.mp/3tSh5OM
