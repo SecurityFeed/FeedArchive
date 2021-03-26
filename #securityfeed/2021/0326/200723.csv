@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c5f8-35qr-q4fm] HTML injection in email and account expiry notifications,https://github.com/advisories/GHSA-c5f8-35qr-q4fm,https://j.mp/3u0dlLk
+GithubAdvisories,[GHSA-246w-56m2-5899] Cross-site scripting (XSS) vulnerability in the password reset endpoint,https://github.com/advisories/GHSA-246w-56m2-5899,https://j.mp/3crZaZk
