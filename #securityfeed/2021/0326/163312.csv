@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-7853 (xplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7853,https://j.mp/3copxiF
+NVD-NIST,"CVE-2021-28963 (debian_linux, service_provider)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28963,https://j.mp/3ruWdvb
+NVD-NIST,CVE-2021-29065 (rbr850_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29065,https://j.mp/2Ps16bg
+NVD-NIST,"CVE-2021-29066 (rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr850_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29066,https://j.mp/3w5os7A
+NVD-NIST,"CVE-2021-29067 (rbk752_firmware, rbk753_firmware, rbk753s_firmware, rbk754_firmware, rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr750_firmware, rbr850_firmware, rbs40v_firmware, rbs750_firmware, rbs850_firmware, rbw30_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29067,https://j.mp/3fi8Pn2
+NVD-NIST,"CVE-2021-29069 (wnr2000v5_firmware, xr450_firmware, xr500_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29069,https://j.mp/31ohCvM
+NVD-NIST,"CVE-2021-29076 (rbk852_firmware, rbk853_firmware, rbk854_firmware, rbr850_firmware, rbs850_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29076,https://j.mp/3m1Bq1l
