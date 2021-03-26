@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-35502 (enterprise_linux, fedora, privoxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35502,https://j.mp/3coC4CQ
+NVD-NIST,"CVE-2021-20211 (enterprise_linux, fedora, privoxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20211,https://j.mp/31m4qY3
+NVD-NIST,"CVE-2021-20212 (enterprise_linux, fedora, privoxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20212,https://j.mp/2PxEPbU
+NVD-NIST,CVE-2021-21359 (typo3),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21359,https://j.mp/3fj2bNE
+NVD-NIST,CVE-2021-21370 (typo3),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21370,https://j.mp/3rmfkaN
+NVD-NIST,CVE-2021-22176 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22176,https://j.mp/2QJT8Lh
+NVD-NIST,CVE-2021-22178 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22178,https://j.mp/3fjje1J
+NVD-NIST,CVE-2021-22179 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22179,https://j.mp/3srTe8k
+NVD-NIST,CVE-2021-22185 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22185,https://j.mp/39k5Iap
+NVD-NIST,CVE-2021-22186 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22186,https://j.mp/3rryKek
+NVD-NIST,CVE-2021-22192 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22192,https://j.mp/2P9tQWs
+NVD-NIST,CVE-2021-22193 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22193,https://j.mp/31liL70
+NVD-NIST,CVE-2021-27593 (3d_visual_enterprise_viewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27593,https://j.mp/3w57pCz
+NVD-NIST,CVE-2021-28146 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28146,https://j.mp/3rkYxVG
+NVD-NIST,CVE-2021-28147 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28147,https://j.mp/3rsTgvj
+NVD-NIST,CVE-2021-28148 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28148,https://j.mp/2P2mGDz
