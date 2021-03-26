@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+PacketstormSecurity,SAP Solution Manager 7.2 Remote Command Execution,https://packetstormsecurity.com/files/161993/cve_2020_6207_solman_rs.rb.txt,https://j.mp/3w4wHAL
+PacketstormSecurity,Backdoor.Win32.Kwak.12 Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/161990/MVID-2021-0149.txt,https://j.mp/3w1owoy
+PacketstormSecurity,TP-Link Cross Site Scripting,https://packetstormsecurity.com/files/161989/tplinkw9977-xss.txt,https://j.mp/31jjRjX
+PacketstormSecurity,Backdoor.Win32.Kwak.12 Authentication Bypass,https://packetstormsecurity.com/files/161986/MVID-2021-0147.txt,https://j.mp/39zBNLN
+PacketstormSecurity,Regis Inventory And Monitoring System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/161985/regisims10-xss.txt,https://j.mp/3co4TiF
+PacketstormSecurity,GetSimple CMS Custom JS 0.1 Cross Site Request Forgery / Cross Site Scripting,https://packetstormsecurity.com/files/161983/getsimplecmscjs01-xsrfxss.txt,https://j.mp/3lV06sv
+PacketstormSecurity,Backdoor.Win32.Kwak.12 Authentication Bypass / Man-In-The-Middle,https://packetstormsecurity.com/files/161982/MVID-2021-0148.txt,https://j.mp/3dbmFF8
+PacketstormSecurity,Backdoor.Win32.Kwak.12 Denial Of Service,https://packetstormsecurity.com/files/161981/MVID-2021-0146.txt,https://j.mp/39j1OhZ
+PacketstormSecurity,Development Kamel KCFinder 1.7 Shell Upload,https://packetstormsecurity.com/files/161980/devkamel17-shell.txt,https://j.mp/3crJTrE
+PacketstormSecurity,Hacking JWT Tokens For Fun And Profit,https://packetstormsecurity.com/files/161979/hacking-jwt.pdf,https://j.mp/3cpiG8G
+PacketstormSecurity,Moodle Atto Editor Cross Site Scripting,https://packetstormsecurity.com/files/161988/moodleatto-xss.txt,https://j.mp/3d5YXu8
