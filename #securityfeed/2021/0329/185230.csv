@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-19625 (gridx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19625,https://j.mp/3rw8xeH
+NVD-NIST,CVE-2021-1281 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1281,https://j.mp/3m1q8tU
+NVD-NIST,CVE-2021-1352 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1352,https://j.mp/3sBsDWl
+NVD-NIST,CVE-2021-1356 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1356,https://j.mp/3w9foye
+NVD-NIST,CVE-2021-1411 (jabber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1411,https://j.mp/31wCFMs
+NVD-NIST,CVE-2021-1417 (jabber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1417,https://j.mp/3dkW48P
+NVD-NIST,CVE-2021-1418 (jabber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1418,https://j.mp/3sB4dMC
+NVD-NIST,CVE-2021-1469 (jabber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1469,https://j.mp/3czcJGt
+NVD-NIST,CVE-2021-1471 (jabber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1471,https://j.mp/3rzp8hG
+NVD-NIST,CVE-2021-20285 (upx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20285,https://j.mp/31uAeKu
+NVD-NIST,CVE-2021-20681 (basercms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20681,https://j.mp/2P8j5nr
+NVD-NIST,CVE-2021-27448 (mu320e_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27448,https://j.mp/3sz03op
+NVD-NIST,CVE-2021-27452 (mu320e_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27452,https://j.mp/3dhxDJl
+NVD-NIST,CVE-2021-28246 (ehealth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28246,https://j.mp/2O50TdR
+NVD-NIST,CVE-2021-28247 (ehealth_performance_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28247,https://j.mp/3m6GOQL
+NVD-NIST,CVE-2021-28248 (ehealth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28248,https://j.mp/3m1qfWm
