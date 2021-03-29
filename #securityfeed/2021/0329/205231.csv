@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-19349 (openshift),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19349,https://j.mp/3w7Mu1z
+NVD-NIST,CVE-2019-19350 (openshift),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19350,https://j.mp/3ua7Ae1
+NVD-NIST,CVE-2019-19354 (openshift_container_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19354,https://j.mp/3sD7QBG
+NVD-NIST,CVE-2021-1220 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1220,https://j.mp/3w72roK
+NVD-NIST,CVE-2021-1374 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1374,https://j.mp/3sBbKLp
+NVD-NIST,CVE-2021-1436 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1436,https://j.mp/2QL37Qp
+NVD-NIST,CVE-2021-1441 (cisco_ios_xe_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1441,https://j.mp/2PClhDq
+NVD-NIST,CVE-2021-1442 (cisco_ios_xe_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1442,https://j.mp/3dlpwLI
+NVD-NIST,CVE-2021-1443 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1443,https://j.mp/3w8IBte
+NVD-NIST,CVE-2021-1446 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1446,https://j.mp/3u7xrmW
+NVD-NIST,CVE-2021-1451 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1451,https://j.mp/3syKRaV
+NVD-NIST,CVE-2021-1453 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1453,https://j.mp/31uLh6l
+NVD-NIST,"CVE-2021-1454 (ios_xe, ios_xe_sd-wan)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1454,https://j.mp/3m3Mc7k
+NVD-NIST,CVE-2021-26715 (connect),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26715,https://j.mp/3sAADXM
+NVD-NIST,CVE-2021-27450 (mu320e_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27450,https://j.mp/2O2Z8O7
+NVD-NIST,CVE-2021-3109 (orion_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3109,https://j.mp/3sEfPi0
