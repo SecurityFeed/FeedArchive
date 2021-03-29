@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93wh-35r4-6qmw] Exposure of Sensitive Information to an Unauthorized Actor in moodle,https://github.com/advisories/GHSA-93wh-35r4-6qmw,https://j.mp/3u5OJ3D
+GithubAdvisories,[GHSA-5x33-h32w-6vr2] Cross site-scripting (XSS) moodle,https://github.com/advisories/GHSA-5x33-h32w-6vr2,https://j.mp/39ratyX
+GithubAdvisories,[GHSA-pgcp-m69h-p2gr] Cross-site Scripting (XSS) in moodle,https://github.com/advisories/GHSA-pgcp-m69h-p2gr,https://j.mp/3fnDKyv
+GithubAdvisories,[GHSA-h77r-rp97-7rv4] Privilage Escalation in moodle,https://github.com/advisories/GHSA-h77r-rp97-7rv4,https://j.mp/3m1f4wQ
+GithubAdvisories,[GHSA-c9hq-g4q8-w893] Privilage Escalation in moodle,https://github.com/advisories/GHSA-c9hq-g4q8-w893,https://j.mp/3rB0k9f
+GithubAdvisories,[GHSA-vxhx-gmhm-623c] Improper Access Control in moodle,https://github.com/advisories/GHSA-vxhx-gmhm-623c,https://j.mp/39mDzPV
+GithubAdvisories,[GHSA-7h8v-2v8x-h264] SQL Injection in moodle,https://github.com/advisories/GHSA-7h8v-2v8x-h264,https://j.mp/3m1f3ZO
+GithubAdvisories,[GHSA-x2jp-hh65-4xvf] Cross site scripting (XSS) and Server side request forgery (SSRF) in moodle,https://github.com/advisories/GHSA-x2jp-hh65-4xvf,https://j.mp/3w4mUKZ
+GithubAdvisories,[GHSA-wq4r-8342-jmc9] SQL injection in vhs (aka VHS: Fluid ViewHelpers),https://github.com/advisories/GHSA-wq4r-8342-jmc9,https://j.mp/3u2UPBQ
+GithubAdvisories,[GHSA-4qwp-7c67-jmcc] Unauthenticated remote code execution in Ignition,https://github.com/advisories/GHSA-4qwp-7c67-jmcc,https://j.mp/3sDaMOP
