@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4880 lxml,https://www.debian.org/security/2021/dsa-4880,https://j.mp/2PAF2eC
+DebianSecurityNotice,DSA-4878 pygments,https://www.debian.org/security/2021/dsa-4878,https://j.mp/3cvMf8S
+DebianSecurityNotice,DSA-4877 webkit2gtk,https://www.debian.org/security/2021/dsa-4877,https://j.mp/39qCtCQ
+DebianSecurityNotice,DSA-4876 thunderbird,https://www.debian.org/security/2021/dsa-4876,https://j.mp/2PGqMBb
