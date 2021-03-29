@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvg9-xffr-p774] Out of bounds read in Pillow,https://github.com/advisories/GHSA-mvg9-xffr-p774,https://j.mp/31wZFei
+GithubAdvisories,[GHSA-9hx2-hgq2-2g4f] Regular Expression Denial of Service (ReDoS) in Pillow,https://github.com/advisories/GHSA-9hx2-hgq2-2g4f,https://j.mp/3fuRo2Z
+GithubAdvisories,[GHSA-8xjq-8fcg-g5hw] Out-of-bounds Write in Pillow,https://github.com/advisories/GHSA-8xjq-8fcg-g5hw,https://j.mp/3w8Q3EL
+GithubAdvisories,[GHSA-p43w-g3c5-g5mq] Out of bounds read in Pillow,https://github.com/advisories/GHSA-p43w-g3c5-g5mq,https://j.mp/39oJMv4
+GithubAdvisories,[GHSA-57h3-9rgr-c24m] Out of bounds write in Pillow,https://github.com/advisories/GHSA-57h3-9rgr-c24m,https://j.mp/3sy4kZj
+GithubAdvisories,[GHSA-pq64-v7f5-gqh8] Regular Expression Denial of Service (ReDoS) in Pygments,https://github.com/advisories/GHSA-pq64-v7f5-gqh8,https://j.mp/3m46UnK
+GithubAdvisories,[GHSA-mpvw-25mg-59vx] Server-side Request Forgery (SSRF) via img tags in reportlab,https://github.com/advisories/GHSA-mpvw-25mg-59vx,https://j.mp/3wb1Q5h
+GithubAdvisories,[GHSA-52p9-v744-mwjj] Remote code execution in Kramdown,https://github.com/advisories/GHSA-52p9-v744-mwjj,https://j.mp/2QDDtgn
+GithubAdvisories,[GHSA-p6p8-q4pj-f74m] Improper Certificate Validation in twitter-stream,https://github.com/advisories/GHSA-p6p8-q4pj-f74m,https://j.mp/3rExwwM
