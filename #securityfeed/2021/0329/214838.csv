@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pch5-whg9-qr2r] netmask npm package vulnerable to octal input data,https://github.com/advisories/GHSA-pch5-whg9-qr2r,https://j.mp/31tD7em
