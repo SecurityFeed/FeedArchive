@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] SyncBreeze 10.1.16 - XML Parsing Stack-based Buffer Overflow,https://www.exploit-db.com/exploits/49725,https://j.mp/2PiNj7d
+ExploitDB,[webapps] Novel Boutique House-plus 3.5.1 - Arbitrary File Download,https://www.exploit-db.com/exploits/49724,https://j.mp/39ppxNx
+ExploitDB,[webapps] Budget Management System 1.0 - 'Budget title' Stored XSS,https://www.exploit-db.com/exploits/49723,https://j.mp/3frjUSS
+ExploitDB,[webapps] Equipment Inventory System 1.0 - 'multiple' Stored XSS,https://www.exploit-db.com/exploits/49722,https://j.mp/39kSQAL
+ExploitDB,[webapps] Concrete5 8.5.4 - 'name' Stored XSS,https://www.exploit-db.com/exploits/49721,https://j.mp/2QJi3hX
+ExploitDB,[webapps] TP-Link Devices - 'setDefaultHostname' Stored Cross-site Scripting (Unauthenticated),https://www.exploit-db.com/exploits/49720,https://j.mp/3cyBXVz
+ExploitDB,[remote] vsftpd 3.0.3 - Remote Denial of Service,https://www.exploit-db.com/exploits/49719,https://j.mp/3sya4Cw
