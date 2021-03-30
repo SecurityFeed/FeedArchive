@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f256-j965-7f32] Possible request smuggling in HTTP/2 due missing validation of content-length,https://github.com/advisories/GHSA-f256-j965-7f32,https://j.mp/31yYY4q
