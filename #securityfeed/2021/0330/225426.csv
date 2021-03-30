@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-21374 (nim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21374,https://j.mp/3fscJtR
+NVD-NIST,CVE-2021-22886 (rocket.chat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22886,https://j.mp/2PMesPy
+NVD-NIST,CVE-2021-23888 (epolicy_orchestrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23888,https://j.mp/3ft8PAY
+NVD-NIST,CVE-2021-25350 (account),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25350,https://j.mp/3u9aAap
+NVD-NIST,CVE-2021-25351 (account),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25351,https://j.mp/3czZchO
+NVD-NIST,CVE-2021-25354 (internet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25354,https://j.mp/31vDbdR
+NVD-NIST,CVE-2021-25355 (notes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25355,https://j.mp/31wmgYH
+NVD-NIST,CVE-2021-25366 (internet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25366,https://j.mp/3cBEIW7
+NVD-NIST,CVE-2021-25367 (notes),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25367,https://j.mp/2PLmCrr
+NVD-NIST,CVE-2021-25368 (cloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25368,https://j.mp/3cAPLic
+NVD-NIST,CVE-2021-27372 (xpon_rtl9601d_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27372,https://j.mp/3rEiruZ
+NVD-NIST,"CVE-2021-29096 (arcgis_desktop, arcgis_engine, arcgis_pro, arcreader)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29096,https://j.mp/2QOi5VP
+NVD-NIST,CVE-2021-29274 (redmine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29274,https://j.mp/31ATN3I
+NVD-NIST,"CVE-2021-3467 (fedora, jasper)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3467,https://j.mp/2O82iAl
