@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-25217 (grp2612_firmware, grp2612p_firmware, grp2612w_firmware, grp2613_firmware, grp2614_firmware, grp2615_firmware, grp2616_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25217,https://j.mp/31ytV8R
+NVD-NIST,"CVE-2020-25218 (grp2612_firmware, grp2612p_firmware, grp2612w_firmware, grp2613_firmware, grp2614_firmware, grp2615_firmware, grp2616_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25218,https://j.mp/3fqisjM
+NVD-NIST,CVE-2021-20284 (binutils),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20284,https://j.mp/3m6GEZR
+NVD-NIST,"CVE-2021-20352 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20352,https://j.mp/3wjN7oL
+NVD-NIST,"CVE-2021-20447 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20447,https://j.mp/31D9irS
+NVD-NIST,"CVE-2021-20502 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20502,https://j.mp/39wx794
+NVD-NIST,CVE-2021-21332 (synapse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21332,https://j.mp/31B5t6G
+NVD-NIST,CVE-2021-21333 (synapse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21333,https://j.mp/3u52OhI
+NVD-NIST,CVE-2021-23890 (epolicy_orchestrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23890,https://j.mp/3wh1rP6
+NVD-NIST,CVE-2021-25369 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25369,https://j.mp/3m8Ne1O
+NVD-NIST,CVE-2021-25370 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25370,https://j.mp/3ma1CHc
