@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-21372 (nim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21372,https://j.mp/31B2ifi
+NVD-NIST,CVE-2021-21373 (nim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21373,https://j.mp/2PqOOjA
+NVD-NIST,CVE-2021-29249 (btcpay_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29249,https://j.mp/31xCK2J
