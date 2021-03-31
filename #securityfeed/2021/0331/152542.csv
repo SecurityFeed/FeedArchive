@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Faraday 3.14.3,https://packetstormsecurity.com/files/162048/faraday-3.14.3.tar.gz,https://j.mp/2PO5aTa
+PacketstormSecurity,Scapy Packet Manipulation Tool 2.4.5rc1,https://packetstormsecurity.com/files/162047/scapy-2.4.5rc1.tar.gz,https://j.mp/3u4JMba
+PacketstormSecurity,Backdoor.Win32.Burbul.b Authentication Bypass / Man-In-The-Middle,https://packetstormsecurity.com/files/162046/MVID-2021-0154.txt,https://j.mp/3cDImP3
+PacketstormSecurity,IRC-Worm.Win32.Silentium.a Insecure Permissions,https://packetstormsecurity.com/files/162045/MVID-2021-0153.txt,https://j.mp/31wVnng
+PacketstormSecurity,Red Hat Security Advisory 2021-1050-01,https://packetstormsecurity.com/files/162044/RHSA-2021-1050-01.txt,https://j.mp/3uaGJOV
+PacketstormSecurity,Red Hat Security Advisory 2021-1051-01,https://packetstormsecurity.com/files/162043/RHSA-2021-1051-01.txt,https://j.mp/3wejG7v
+PacketstormSecurity,Gentoo Linux Security Advisory 202103-04,https://packetstormsecurity.com/files/162042/glsa-202103-04.txt,https://j.mp/3sGtSn8
+PacketstormSecurity,Gentoo Linux Security Advisory 202103-03,https://packetstormsecurity.com/files/162041/glsa-202103-03.txt,https://j.mp/3cEA2Pb
+PacketstormSecurity,DD-WRT 45723 Buffer Overflow,https://packetstormsecurity.com/files/162039/ddwrt45723-overflow.txt,https://j.mp/3rGXeR0
+PacketstormSecurity,Gentoo Linux Security Advisory 202103-02,https://packetstormsecurity.com/files/162040/glsa-202103-02.txt,https://j.mp/31zjhhV
+PacketstormSecurity,Gentoo Linux Security Advisory 202103-01,https://packetstormsecurity.com/files/162038/glsa-202103-01.txt,https://j.mp/3m4DF44
+PacketstormSecurity,CourseMS 2.1 Cross Site Scripting,https://packetstormsecurity.com/files/162036/coursems21-xss.txt,https://j.mp/3rztG7P
+PacketstormSecurity,Red Hat Security Advisory 2021-0943-01,https://packetstormsecurity.com/files/162035/RHSA-2021-0943-01.txt,https://j.mp/3u3TeM2
+PacketstormSecurity,Zabbix 3.4.7 Cross Site Scripting,https://packetstormsecurity.com/files/162032/zabbix347-xss.txt,https://j.mp/31CMQiC
+PacketstormSecurity,Red Hat Security Advisory 2021-0956-01,https://packetstormsecurity.com/files/162031/RHSA-2021-0956-01.txt,https://j.mp/3mc9FDh
+PacketstormSecurity,Red Hat Security Advisory 2021-1044-01,https://packetstormsecurity.com/files/162030/RHSA-2021-1044-01.txt,https://j.mp/3drsSNz
+PacketstormSecurity,Red Hat Security Advisory 2021-1039-01,https://packetstormsecurity.com/files/162029/RHSA-2021-1039-01.txt,https://j.mp/3sDZDgL
