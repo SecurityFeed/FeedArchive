@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-1629 (tableau_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1629,https://j.mp/3dlpNhX
+NVD-NIST,CVE-2021-20193 (tar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20193,https://j.mp/3frUrc5
+NVD-NIST,"CVE-2021-20271 (enterprise_linux, fedora, rpm)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20271,https://j.mp/3sJao1a
+NVD-NIST,"CVE-2021-20503 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20503,https://j.mp/3rLeIMo
+NVD-NIST,"CVE-2021-20504 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20504,https://j.mp/2QZ62W1
+NVD-NIST,"CVE-2021-20506 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20506,https://j.mp/3cG0RSU
+NVD-NIST,"CVE-2021-20518 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20518,https://j.mp/3m8ysrS
+NVD-NIST,"CVE-2021-20520 (engineering_insights, engineering_lifecycle_management, engineering_requirements_quality_assistant_on-premises, engineering_workflow_management, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20520,https://j.mp/3wgqCRK
+NVD-NIST,CVE-2021-25143 (instant),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25143,https://j.mp/31OqE5v
+NVD-NIST,CVE-2021-25144 (instant),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25144,https://j.mp/3sS3hn6
+NVD-NIST,CVE-2021-27352 (ilch_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27352,https://j.mp/31CMcBY
+NVD-NIST,CVE-2021-29267 (sherlockim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29267,https://j.mp/3mapHxB
