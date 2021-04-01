@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fgq-gq9g-3rw7] Improper Verification of Cryptographic Signature in keycloak,https://github.com/advisories/GHSA-4fgq-gq9g-3rw7,https://j.mp/3maZVJq
