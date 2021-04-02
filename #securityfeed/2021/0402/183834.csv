@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-24391 (mongo-express),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24391,https://j.mp/3cJjTrz
+NVD-NIST,CVE-2020-24995 (ffmpeg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24995,https://j.mp/3rIqbfr
+NVD-NIST,CVE-2020-35138 (mobile@work),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35138,https://j.mp/3cIIqxa
+NVD-NIST,CVE-2021-21628 (build_with_parameters),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21628,https://j.mp/3wkcuH7
+NVD-NIST,CVE-2021-21629 (build_with_parameters),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21629,https://j.mp/2PtpSIo
+NVD-NIST,CVE-2021-21630 (extra_columns),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21630,https://j.mp/3wgIITL
+NVD-NIST,CVE-2021-21631 (cloud_statistics),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21631,https://j.mp/39Dtrm3
+NVD-NIST,CVE-2021-21632 (owasp_dependency-track),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21632,https://j.mp/3cJjTI5
+NVD-NIST,CVE-2021-21633 (owasp_dependency-track),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21633,https://j.mp/3cHcDN4
+NVD-NIST,CVE-2021-21634 (jabber_(xmpp)_notifier_and_control),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21634,https://j.mp/31I9q9K
+NVD-NIST,CVE-2021-21782 (imagegear),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21782,https://j.mp/3wpXUy2
+NVD-NIST,CVE-2021-23363 (kill-by-port),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23363,https://j.mp/31EW9P1
+NVD-NIST,CVE-2021-28657 (tika),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28657,https://j.mp/3fDm2XQ
+NVD-NIST,CVE-2021-28936 (wireless-n_wifi_repeater_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28936,https://j.mp/3meSgda
+NVD-NIST,CVE-2021-28937 (wireless-n_wifi_repeater_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28937,https://j.mp/39ED2ZV
