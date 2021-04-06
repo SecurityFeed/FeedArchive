@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27919 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27919,https://j.mp/2Q4MMFL
+NVD-NIST,"CVE-2020-27920 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27920,https://j.mp/31O1XWK
+NVD-NIST,CVE-2020-27921 (mac_os_x),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27921,https://j.mp/3dDBPDw
+NVD-NIST,"CVE-2020-27922 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27922,https://j.mp/3fOgGt4
+NVD-NIST,"CVE-2020-27923 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27923,https://j.mp/3cT1zfW
+NVD-NIST,"CVE-2020-27924 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27924,https://j.mp/3wAcG56
+NVD-NIST,"CVE-2020-27931 (ipad_os, iphone_os, mac_os_x, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27931,https://j.mp/2OtIDek
+NVD-NIST,CVE-2021-21416 (django-registration),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21416,https://j.mp/3wzPpQY
+NVD-NIST,CVE-2021-21420 (stripe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21420,https://j.mp/31P9Ef5
+NVD-NIST,"CVE-2021-22876 (fedora, libcurl)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22876,https://j.mp/2PF6Z5o
+NVD-NIST,"CVE-2021-22890 (fedora, libcurl)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22890,https://j.mp/3wxxbiO
+NVD-NIST,CVE-2021-25893 (magnolia_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25893,https://j.mp/3cZNEox
+NVD-NIST,CVE-2021-25894 (magnolia_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25894,https://j.mp/3fMANHT
+NVD-NIST,CVE-2021-25924 (gocd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25924,https://j.mp/2OtIHe4
+NVD-NIST,"CVE-2021-26072 (confluence, data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26072,https://j.mp/3sY1EV1
+NVD-NIST,CVE-2021-26580 (integrated_lights-out_amplifier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26580,https://j.mp/3urXVPZ
+NVD-NIST,CVE-2021-26581 (superdome_flex_server_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26581,https://j.mp/3t8NdxP
