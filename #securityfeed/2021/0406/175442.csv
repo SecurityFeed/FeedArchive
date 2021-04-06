@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prmc-5v5w-c465] Client TLS credentials sent raw to server in npm package nats,https://github.com/advisories/GHSA-prmc-5v5w-c465,https://j.mp/3sQsLBv
+GithubAdvisories,[GHSA-j6qj-j888-vvgq] Directory exposure in jetty,https://github.com/advisories/GHSA-j6qj-j888-vvgq,https://j.mp/2PIErrw
+GithubAdvisories,[GHSA-26vr-8j45-3r4w] Uncontrolled Resource Consumption in jetty,https://github.com/advisories/GHSA-26vr-8j45-3r4w,https://j.mp/2RbtDmm
+GithubAdvisories,[GHSA-v7ff-8wcx-gmc5] Authorization Before Parsing and Canonicalization in jetty,https://github.com/advisories/GHSA-v7ff-8wcx-gmc5,https://j.mp/3dCDMjz
+GithubAdvisories,[GHSA-jff2-qjw8-5476] Command Injection Vulnerability in systeminformation,https://github.com/advisories/GHSA-jff2-qjw8-5476,https://j.mp/3t0EXja
+GithubAdvisories,[GHSA-xw22-wv29-3299] ApiKey secret could be revelated on network issue,https://github.com/advisories/GHSA-xw22-wv29-3299,https://j.mp/31TV06m
+GithubAdvisories,[GHSA-58c7-px5v-82hh] Potential sensitive information disclosed in error reports,https://github.com/advisories/GHSA-58c7-px5v-82hh,https://j.mp/3cSs3xV
+GithubAdvisories,[GHSA-3rh3-wfr4-76mj] Regular expression Denial of Service in multiple packages,https://github.com/advisories/GHSA-3rh3-wfr4-76mj,https://j.mp/2Q2AWMF
+GithubAdvisories,[GHSA-pxcc-hj8w-fmm7] Command injection vulnerability in @prisma/sdk in getPackedPackage function,https://github.com/advisories/GHSA-pxcc-hj8w-fmm7,https://j.mp/3cSxM6U
+GithubAdvisories,[GHSA-vm67-7vmg-66vm] Arbitrary Command Injection in portprocesses,https://github.com/advisories/GHSA-vm67-7vmg-66vm,https://j.mp/3cRYMng
