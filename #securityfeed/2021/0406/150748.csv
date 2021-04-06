@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Apache OFBiz SOAP Java Deserialization,https://packetstormsecurity.com/files/162104/apache_ofbiz_deserialization_soap.rb.txt,https://j.mp/31OiHNB
+PacketstormSecurity,Red Hat Security Advisory 2021-1072-01,https://packetstormsecurity.com/files/162101/RHSA-2021-1072-01.txt,https://j.mp/31N4nF4
+PacketstormSecurity,Red Hat Security Advisory 2021-1073-01,https://packetstormsecurity.com/files/162100/RHSA-2021-1073-01.txt,https://j.mp/2RbTBGl
+PacketstormSecurity,Red Hat Security Advisory 2021-1074-01,https://packetstormsecurity.com/files/162099/RHSA-2021-1074-01.txt,https://j.mp/31OcYqP
+PacketstormSecurity,Red Hat Security Advisory 2021-1071-01,https://packetstormsecurity.com/files/162098/RHSA-2021-1071-01.txt,https://j.mp/2OoiGwy
+PacketstormSecurity,Red Hat Security Advisory 2021-1069-01,https://packetstormsecurity.com/files/162097/RHSA-2021-1069-01.txt,https://j.mp/2RbTFWB
+PacketstormSecurity,Red Hat Security Advisory 2021-1068-01,https://packetstormsecurity.com/files/162096/RHSA-2021-1068-01.txt,https://j.mp/2RbTBpP
+PacketstormSecurity,Red Hat Security Advisory 2021-1070-01,https://packetstormsecurity.com/files/162095/RHSA-2021-1070-01.txt,https://j.mp/3uwNNWl
+PacketstormSecurity,Ignition 2.5.1 Remote Code Execution,https://packetstormsecurity.com/files/162094/ignition251-exec.txt,https://j.mp/3fJzE3J
+PacketstormSecurity,OpenBSD OpenSMTPD 6.6 Remote Code Execution,https://packetstormsecurity.com/files/162093/opensmtpd-exec.txt,https://j.mp/3sXdZsy
+PacketstormSecurity,Pulse Secure VPN Arbitrary Command Execution,https://packetstormsecurity.com/files/162092/pulsesecurevpn-exec.txt,https://j.mp/31QgYXZ
+PacketstormSecurity,Mini Mouse 9.3.0 Local File Inclusion / Path Traversal,https://packetstormsecurity.com/files/162091/minimouse930-lfi.txt,https://j.mp/2Q5D0DG
+PacketstormSecurity,Red Hat Security Advisory 2021-1064-01,https://packetstormsecurity.com/files/162090/RHSA-2021-1064-01.txt,https://j.mp/39MSxPo
+PacketstormSecurity,Trojan-Downloader.Win32.FraudLoad.xevn Insecure Permissions,https://packetstormsecurity.com/files/162089/MVID-2021-0161.txt,https://j.mp/3dEFwsv
+PacketstormSecurity,Google Chrome 81.0.4044 V8 Remote Code Execution,https://packetstormsecurity.com/files/162088/googlechrome8304103106-exec.txt,https://j.mp/3cTZjVR
+PacketstormSecurity,Google Chrome 86.0.4240 V8 Remote Code Execution,https://packetstormsecurity.com/files/162087/googlechrome870428088-exec.txt,https://j.mp/3rTHKcF
+PacketstormSecurity,SAP Java OS Remote Code Execution,https://packetstormsecurity.com/files/162086/ONAPSIS-2021-0004.txt,https://j.mp/3rUg5s3
+PacketstormSecurity,SAP SMD Agent Unauthenticated Remote Code Execution,https://packetstormsecurity.com/files/162083/ONAPSIS-2021-0001.txt,https://j.mp/3dCp2B6
+PacketstormSecurity,SAP JAVA Configuration Task Execution,https://packetstormsecurity.com/files/162085/ONAPSIS-2021-0003.txt,https://j.mp/3cS4upa
+PacketstormSecurity,SAP Host Control Local Privilege Escalation,https://packetstormsecurity.com/files/162084/ONAPSIS-2021-0002.txt,https://j.mp/3rV3mVV
