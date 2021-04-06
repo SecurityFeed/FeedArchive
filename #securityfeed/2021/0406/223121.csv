@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-27653 (infinity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27653,https://j.mp/3dJij8q
+NVD-NIST,CVE-2021-28047 (remote_desktop_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28047,https://j.mp/2Py0YHP
+NVD-NIST,CVE-2021-28165 (jetty),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28165,https://j.mp/2Q33JQY
+NVD-NIST,CVE-2021-29651 (pomerium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29651,https://j.mp/3cWkiHr
+NVD-NIST,CVE-2021-29652 (pomerium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29652,https://j.mp/3rVV14q
