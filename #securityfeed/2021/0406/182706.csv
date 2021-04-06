@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-19613 (flycms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19613,https://j.mp/31OyvQt
+NVD-NIST,"CVE-2020-9146 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9146,https://j.mp/31Tz0bL
+NVD-NIST,CVE-2021-20235 (libzmq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20235,https://j.mp/39PiOwF
+NVD-NIST,"CVE-2021-20291 (enterprise_linux, openshift_container_platform, storage)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20291,https://j.mp/3sRyzL0
+NVD-NIST,CVE-2021-21421 (node-etsy-client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21421,https://j.mp/31OQHcr
+NVD-NIST,CVE-2021-21982 (carbon_black_cloud_workload),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21982,https://j.mp/39Nx3Cl
+NVD-NIST,CVE-2021-23921 (devolutions_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23921,https://j.mp/2Rgy9jD
+NVD-NIST,CVE-2021-23922 (remote_desktop_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23922,https://j.mp/2PZQfpp
+NVD-NIST,CVE-2021-23923 (devolutions_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23923,https://j.mp/2Q2vo4w
+NVD-NIST,CVE-2021-23924 (devolutions_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23924,https://j.mp/3cQVMr7
+NVD-NIST,CVE-2021-30002 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30002,https://j.mp/2R7mrrb
