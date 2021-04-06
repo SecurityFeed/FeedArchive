@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwfx-hh3w-fj99] Potential XSS injection in the newsletter conditions field,https://github.com/advisories/GHSA-vwfx-hh3w-fj99,https://j.mp/2Rezzej
+GithubAdvisories,[GHSA-mmhj-4w6j-76h7] Misuse of `Reference` and other transferable APIs may lead to access to nodejs isolate,https://github.com/advisories/GHSA-mmhj-4w6j-76h7,https://j.mp/2Q2W85a
+GithubAdvisories,[GHSA-rj44-gpjc-29r7] [thi.ng/egf] Potential arbitrary code execution of `#gpg`-tagged property values,https://github.com/advisories/GHSA-rj44-gpjc-29r7,https://j.mp/3dGGMLE
+GithubAdvisories,[GHSA-w3hj-wr2q-x83g] Discovery uses the same AES/GCM Nonce throughout the session,https://github.com/advisories/GHSA-w3hj-wr2q-x83g,https://j.mp/31Tnu01
+GithubAdvisories,[GHSA-4hjq-422q-4vpx] Secret data exfiltration via symfony parameters,https://github.com/advisories/GHSA-4hjq-422q-4vpx,https://j.mp/31PgyBl
