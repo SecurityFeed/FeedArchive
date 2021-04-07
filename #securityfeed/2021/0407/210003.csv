@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-35mm-cc6r-8fjp] Cross-site scripting in actionpack,https://github.com/advisories/GHSA-35mm-cc6r-8fjp,https://j.mp/2PAIvKH
+GithubAdvisories,[GHSA-vf4w-fg7r-5v94] Improper Certificate Validation in phpseclib,https://github.com/advisories/GHSA-vf4w-fg7r-5v94,https://j.mp/3tbZlha
+GithubAdvisories,[GHSA-vgv5-cxvh-vfxh] Arbitrary code execution in clickhouse-driver,https://github.com/advisories/GHSA-vgv5-cxvh-vfxh,https://j.mp/31UPrVo
+GithubAdvisories,"[GHSA-p62g-jhg6-v3rq] Code Injection, Race Condition, and Execution with Unnecessary Privileges in Ansible",https://github.com/advisories/GHSA-p62g-jhg6-v3rq,https://j.mp/3rYiL8a
+GithubAdvisories,[GHSA-77g3-3j5w-64w4] Exposure of Resource to Wrong Sphere and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-77g3-3j5w-64w4,https://j.mp/2PH7HyU
+GithubAdvisories,[GHSA-gfr2-qpxh-qj9m] Path Traversal in Ansible,https://github.com/advisories/GHSA-gfr2-qpxh-qj9m,https://j.mp/3wDP27O
+GithubAdvisories,"[GHSA-86hp-cj9j-33vv] Insertion of Sensitive Information into Log File, Invocation of Process Using Visible Sensitive Information, and Exposure of Sensitive Information to an Unauthorized Actor in Ansible",https://github.com/advisories/GHSA-86hp-cj9j-33vv,https://j.mp/3dYekoX
