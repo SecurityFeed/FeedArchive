@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c8c-84w2-j38j] Improper Restriction of XML External Entity Reference in Plone,https://github.com/advisories/GHSA-2c8c-84w2-j38j,https://j.mp/31Stgzd
+GithubAdvisories,[GHSA-x7wf-5mjc-6x76] SSRF attacks via tracebacks in Plone,https://github.com/advisories/GHSA-x7wf-5mjc-6x76,https://j.mp/39RzwM5
+GithubAdvisories,[GHSA-wq6x-g685-w5f2] Improper Restriction of XML External Entity Reference in Plone,https://github.com/advisories/GHSA-wq6x-g685-w5f2,https://j.mp/3fSttL0
+GithubAdvisories,[GHSA-fjq3-5pxw-4wj4] Cross-Site Request Forgery in Webargs,https://github.com/advisories/GHSA-fjq3-5pxw-4wj4,https://j.mp/2PHciRG
+GithubAdvisories,[GHSA-ffw3-6mp6-jmvj] Improper Access Control in Airflow,https://github.com/advisories/GHSA-ffw3-6mp6-jmvj,https://j.mp/3wCaY3q
+GithubAdvisories,[GHSA-qhx9-7hx7-cp4r] HTTP Request smuggling in bottle,https://github.com/advisories/GHSA-qhx9-7hx7-cp4r,https://j.mp/3rVTbjX
+GithubAdvisories,[GHSA-cmc7-mfmr-xqrx] Logic error in authentication in proxy.py,https://github.com/advisories/GHSA-cmc7-mfmr-xqrx,https://j.mp/3uvJhar
