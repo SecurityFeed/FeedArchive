@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-244r-fcj3-ghjq] Exposure of class information in RESTEasy,https://github.com/advisories/GHSA-244r-fcj3-ghjq,https://j.mp/3uBgRvV
+GithubAdvisories,[GHSA-vcg8-98q8-g7mj] Exposure of Sensitive Information to an Unauthorized Actor and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-vcg8-98q8-g7mj,https://j.mp/3wDk53x
