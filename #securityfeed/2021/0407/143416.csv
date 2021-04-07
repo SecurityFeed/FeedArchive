@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-21400 (wire-webapp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21400,https://j.mp/3ust4Tu
+NVD-NIST,CVE-2021-22696 (cxf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22696,https://j.mp/39RPplr
+NVD-NIST,CVE-2021-28113 (access_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28113,https://j.mp/3fNNtOP
+NVD-NIST,CVE-2021-28123 (cohesity_dataplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28123,https://j.mp/3cY5sjH
+NVD-NIST,CVE-2021-28124 (cohesity_dataplatform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28124,https://j.mp/3wB79eD
+NVD-NIST,CVE-2021-29011 (dma_radius_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29011,https://j.mp/3wABCJS
+NVD-NIST,CVE-2021-29012 (dma_radius_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29012,https://j.mp/2PKOlcn
+NVD-NIST,CVE-2021-30000 (latrix),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30000,https://j.mp/3s6oLMd
+NVD-NIST,CVE-2021-30003 (g-120w-f_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30003,https://j.mp/2Q1uPIu
+NVD-NIST,"CVE-2021-30004 (hostapd, wpa_supplicant)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30004,https://j.mp/3sXFCSl
