@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Gogs Git Hooks Remote Code Execution,https://packetstormsecurity.com/files/162123/gogs_git_hooks_rce.rb.txt,https://j.mp/3muOhJS
+PacketstormSecurity,Gitea Git Hooks Remote Code Execution,https://packetstormsecurity.com/files/162122/gitea_git_hooks_rce.rb.txt,https://j.mp/3cVvWSX
+PacketstormSecurity,Clam AntiVirus Toolkit 0.103.2,https://packetstormsecurity.com/files/162121/clamav-0.103.2.tar.gz,https://j.mp/3tc2wpv
+PacketstormSecurity,Global Socket 1.4.29,https://packetstormsecurity.com/files/162120/gsocket-1.4.29.tar.gz,https://j.mp/3t0vkB8
+PacketstormSecurity,iOS / macOS Radio Proximity Kernel Memory Corruption,https://packetstormsecurity.com/files/162119/GS20210407204617.tgz,https://j.mp/2OAbde8
+PacketstormSecurity,Monospace Directus Headless CMS File Upload / Rule Bypass,https://packetstormsecurity.com/files/162118/SA-20210407-0.txt,https://j.mp/31RLNLU
+PacketstormSecurity,Kernel Live Patch Security Notice LSN-0075-1,https://packetstormsecurity.com/files/162117/LSN-0075-1.txt,https://j.mp/2PILBMC
+PacketstormSecurity,Ignition 2.5.1 Remote Code Execution,https://packetstormsecurity.com/files/162094/laravel-ignition-rce.py.txt,https://j.mp/2PBp04J
+PacketstormSecurity,Red Hat Security Advisory 2021-1131-01,https://packetstormsecurity.com/files/162114/RHSA-2021-1131-01.txt,https://j.mp/3dKNoZs
+PacketstormSecurity,Red Hat Security Advisory 2021-1125-01,https://packetstormsecurity.com/files/162113/RHSA-2021-1125-01.txt,https://j.mp/321Au3H
+PacketstormSecurity,Red Hat Security Advisory 2021-1093-01,https://packetstormsecurity.com/files/162112/RHSA-2021-1093-01.txt,https://j.mp/3wvNoVX
+PacketstormSecurity,Composr CMS 10.0.36 Cross Site Scripting,https://packetstormsecurity.com/files/162111/composrcms10036-xss.txt,https://j.mp/2Q9NwtC
+PacketstormSecurity,Dell OpenManage Server Administrator 9.4.0.0 File Read,https://packetstormsecurity.com/files/162110/delloms-fileread.txt,https://j.mp/39PDwwm
+PacketstormSecurity,Red Hat Security Advisory 2021-1086-01,https://packetstormsecurity.com/files/162109/RHSA-2021-1086-01.txt,https://j.mp/3rZdH39
+PacketstormSecurity,Red Hat Security Advisory 2021-1081-01,https://packetstormsecurity.com/files/162108/RHSA-2021-1081-01.txt,https://j.mp/39T6prv
+PacketstormSecurity,Atlassian Jira Service Desk 4.9.1 Cross Site Scripting,https://packetstormsecurity.com/files/162107/atlassianjsd491-uploadxss.txt,https://j.mp/2Q6fgzf
