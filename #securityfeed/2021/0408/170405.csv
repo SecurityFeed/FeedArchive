@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fxq4-r6mr-9x64] CSRF Vuln can expose user's QRcode,https://github.com/advisories/GHSA-fxq4-r6mr-9x64,https://j.mp/3s2QNrR
