@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-19595 (core_ftp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19595,https://j.mp/2PP0DQZ
+NVD-NIST,CVE-2020-19596 (core_ftp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19596,https://j.mp/2PTK0n4
+NVD-NIST,CVE-2021-24153 (yoast_seo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24153,https://j.mp/327ZLcx
+NVD-NIST,CVE-2021-24170 (user_profile_picture),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24170,https://j.mp/39Wyz4W
+NVD-NIST,CVE-2021-24173 (vm_backups),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24173,https://j.mp/3t6SYvQ
+NVD-NIST,CVE-2021-24186 (tutor_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24186,https://j.mp/2PP0E7v
+NVD-NIST,CVE-2021-24187 (seo_redirection),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24187,https://j.mp/3fZorMO
+NVD-NIST,CVE-2021-24196 (social_slider_widget),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24196,https://j.mp/3uxWX4E
+NVD-NIST,CVE-2021-27343 (serenity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27343,https://j.mp/3wJdmVV
+NVD-NIST,CVE-2021-27357 (riot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27357,https://j.mp/3sa0zIt
+NVD-NIST,CVE-2021-27697 (riot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27697,https://j.mp/3d6sO6A
+NVD-NIST,CVE-2021-28171 (deltaflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28171,https://j.mp/3uAO0aU
+NVD-NIST,CVE-2021-28172 (deltaflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28172,https://j.mp/3wCJSZX
+NVD-NIST,CVE-2021-28173 (deltaflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28173,https://j.mp/2ODjmhS
+NVD-NIST,CVE-2021-30144 (dashboard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30144,https://j.mp/3wLMhBp
+NVD-NIST,CVE-2021-30151 (sidekiq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30151,https://j.mp/3fUeNLj
+NVD-NIST,CVE-2021-30157 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30157,https://j.mp/3myRNmk
