@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13421 (openiam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13421,https://j.mp/3sbiqiA
+NVD-NIST,CVE-2020-23533 (union_pay),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23533,https://j.mp/3t7ZNNz
+NVD-NIST,CVE-2020-36284 (union_pay),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36284,https://j.mp/3mACfyg
+NVD-NIST,CVE-2020-36285 (union_pay),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36285,https://j.mp/31Ye1EQ
+NVD-NIST,CVE-2021-24157 (orbit_fox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24157,https://j.mp/3wLz5Nc
+NVD-NIST,CVE-2021-24158 (orbit_fox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24158,https://j.mp/3uQyV5p
+NVD-NIST,CVE-2021-24172 (vm_backups),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24172,https://j.mp/3wIUmXB
+NVD-NIST,CVE-2021-24175 (the_plus_addons_for_elementor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24175,https://j.mp/39Y27iI
+NVD-NIST,CVE-2021-24181 (tutor_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24181,https://j.mp/2OyyoFu
+NVD-NIST,CVE-2021-24182 (tutor_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24182,https://j.mp/39Ze6wj
+NVD-NIST,CVE-2021-24183 (tutor_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24183,https://j.mp/3s5hX1l
+NVD-NIST,CVE-2021-24185 (tutor_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24185,https://j.mp/3uJrEnT
+NVD-NIST,CVE-2021-24201 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24201,https://j.mp/3uHNfNt
+NVD-NIST,CVE-2021-24202 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24202,https://j.mp/3mz1HEp
+NVD-NIST,CVE-2021-24203 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24203,https://j.mp/3wLsT7B
+NVD-NIST,CVE-2021-24204 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24204,https://j.mp/3fXZ3Xy
+NVD-NIST,CVE-2021-24205 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24205,https://j.mp/2Q8iXnW
+NVD-NIST,CVE-2021-24206 (website_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24206,https://j.mp/3mD3Vmf
+NVD-NIST,CVE-2021-27698 (riot),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27698,https://j.mp/39Yf8sm
+NVD-NIST,"CVE-2021-28175 (asmb8-ikvm_firmware, z10pe-d16_ws_firmware, z10pr-d16_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28175,https://j.mp/3t9i4Kr
