@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-20305 (enterprise_linux, nettle)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20305,https://j.mp/3uAclxA
+NVD-NIST,CVE-2021-20307 (libpano13),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20307,https://j.mp/3afeW8D
+NVD-NIST,CVE-2021-20308 (htmldoc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20308,https://j.mp/326YoLb
+NVD-NIST,CVE-2021-24174 (database-backups),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24174,https://j.mp/3fXf2VO
