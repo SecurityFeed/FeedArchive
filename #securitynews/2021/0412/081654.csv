@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+r/NetSec,"Extracting VOIP Calls from network traffic - BruteShark (v1.2.1) is now capable of extracting Voip Calls among credentials, hashes, DNS and files and more. P.S: I would love for people to join the project!",https://redd.it/morzkf,
+r/NetSec,"PoW Shield planned features are now completed(v1.3.2), consisting of PoW spam/DDoS filter, IP & sessioin blacklisting/ratelimiting and WAF integration. The application is dockerized for rapid and lightweight(45MB) deployment.",https://redd.it/mp4ciz,
+r/NetSec,New CVE: Memory corruption vulnerability in QNAP QTS’s Surveillance Station plugin leads to a pre-auth RCE,https://redd.it/mom7z2,
+r/NetSec,"GodSpeed - an intuitive manager for multiple reverse shells, written in Golang",https://redd.it/mocrz3,
+r/NetSec,Rainbow Tables (probably) aren’t what you think - An explanation of how rainbow tables differ from lookup tables,https://redd.it/moc969,
