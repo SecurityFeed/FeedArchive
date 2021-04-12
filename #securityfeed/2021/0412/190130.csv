@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh8f-xw5v-8993] Command Injection in macfromip,https://github.com/advisories/GHSA-vh8f-xw5v-8993,https://j.mp/3thJmOQ
+GithubAdvisories,[GHSA-qr9h-vr5p-pwwx] Denial of Service (DoS) in restify-paginate,https://github.com/advisories/GHSA-qr9h-vr5p-pwwx,https://j.mp/2Qj055A
+GithubAdvisories,[GHSA-rjmf-p882-645m] Improper Certificate Validation,https://github.com/advisories/GHSA-rjmf-p882-645m,https://j.mp/3tcbC5j
