@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6vf-pq8c-69m4] Improper Check for Unusual or Exceptional Conditions in Connect2id Nimbus JOSE+JWT,https://github.com/advisories/GHSA-f6vf-pq8c-69m4,https://j.mp/3uIapTK
