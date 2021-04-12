@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mfv8-q39f-mgfg] Cross-site Scripting in invenio-communities,https://github.com/advisories/GHSA-mfv8-q39f-mgfg,https://j.mp/3wOZCZH
+GithubAdvisories,[GHSA-vxh3-mvv7-265j] Cross-site scripting invenio-records,https://github.com/advisories/GHSA-vxh3-mvv7-265j,https://j.mp/2PQVtnI
+GithubAdvisories,[GHSA-mmf6-6597-3v6m] Open Redirect in Spring Security OAuth,https://github.com/advisories/GHSA-mmf6-6597-3v6m,https://j.mp/325OUQu
