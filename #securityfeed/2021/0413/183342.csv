@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-13587 (project_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13587,https://j.mp/3uEYmXo
+NVD-NIST,CVE-2020-13591 (project_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13591,https://j.mp/3sgPxl1
+NVD-NIST,CVE-2020-13592 (project_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13592,https://j.mp/3seVBum
+NVD-NIST,"CVE-2021-1380 (unified_communications_manager, unified_communications_manager_im_&_presence_service, unity_connection)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1380,https://j.mp/3uLR8AT
+NVD-NIST,CVE-2021-1399 (unified_communications_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1399,https://j.mp/3a9okKD
+NVD-NIST,"CVE-2021-1463 (unified_contact_center_express, unified_intelligence_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1463,https://j.mp/3mITxte
+NVD-NIST,"CVE-2021-1472 (rv160_firmware, rv160w_firmware, rv260_firmware, rv260p_firmware, rv260w_firmware, rv340_firmware, rv340w_firmware, rv345_firmware, rv345p_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1472,https://j.mp/3s9JNJG
+NVD-NIST,CVE-2021-28925 (network_analyzer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28925,https://j.mp/3tfqKil
+NVD-NIST,"CVE-2021-30152 (debian_linux, mediawiki)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30152,https://j.mp/3v0EgqT
+NVD-NIST,"CVE-2021-30155 (debian_linux, mediawiki)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30155,https://j.mp/2RwfKPQ
+NVD-NIST,CVE-2021-30156 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30156,https://j.mp/3wRmA2l
