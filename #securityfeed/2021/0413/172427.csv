@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h8hx-2c5r-32cf] Cross-Site Request Forgery (CSRF) in trestle-auth,https://github.com/advisories/GHSA-h8hx-2c5r-32cf,https://j.mp/328yhnr
