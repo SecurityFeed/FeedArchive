@@ -1,0 +1,49 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh8v-jmh3-9437] Cross-site scripting in SocksJS-node,https://github.com/advisories/GHSA-hh8v-jmh3-9437,https://j.mp/32e83zT
+GithubAdvisories,[GHSA-5fjj-cfh2-ghc5] Server-Side Request Forgery and Inclusion of Functionality from Untrusted Control Sphere in jsreport,https://github.com/advisories/GHSA-5fjj-cfh2-ghc5,https://j.mp/3sfTia4
+GithubAdvisories,[GHSA-934w-hvj4-7fr6] Exposure of Sensitive Information to an Unauthorized Actor in jsreport-chrome-pdf,https://github.com/advisories/GHSA-934w-hvj4-7fr6,https://j.mp/3mIXttX
+GithubAdvisories,[GHSA-5pxj-mhwj-x5gv] Prototype Pollution in asciitable.js,https://github.com/advisories/GHSA-5pxj-mhwj-x5gv,https://j.mp/3a9XhyT
+GithubAdvisories,[GHSA-4hv7-3q38-97m8] Arbitrary code execution in djv,https://github.com/advisories/GHSA-4hv7-3q38-97m8,https://j.mp/3sffscD
+GithubAdvisories,[GHSA-rhwf-hqpr-q8g2] Code Injection in script-manager,https://github.com/advisories/GHSA-rhwf-hqpr-q8g2,https://j.mp/3segC8g
+GithubAdvisories,[GHSA-8h84-8j4f-p97q] Injection in bodymen,https://github.com/advisories/GHSA-8h84-8j4f-p97q,https://j.mp/3wR56Ds
+GithubAdvisories,[GHSA-4jj4-m52p-8rx3] Prototype pollution in set-object-value,https://github.com/advisories/GHSA-4jj4-m52p-8rx3,https://j.mp/3tgvFQi
+GithubAdvisories,[GHSA-g78f-549w-c354] Prototype Pollution in multi-ini,https://github.com/advisories/GHSA-g78f-549w-c354,https://j.mp/3dcUxm9
+GithubAdvisories,[GHSA-67mq-h2r9-rh2m] Prototype pollution in multi-ini,https://github.com/advisories/GHSA-67mq-h2r9-rh2m,https://j.mp/32bEyyE
+GithubAdvisories,[GHSA-vf26-7gjf-f92r] OS Command Injection in rpi,https://github.com/advisories/GHSA-vf26-7gjf-f92r,https://j.mp/2OIwe6e
+GithubAdvisories,[GHSA-prv2-xwr7-hr57] Uncontrolled Resource Consumption in rdf-graph-array,https://github.com/advisories/GHSA-prv2-xwr7-hr57,https://j.mp/3dfeEAl
+GithubAdvisories,[GHSA-79qm-h35f-hr77] OS Command Injection,https://github.com/advisories/GHSA-79qm-h35f-hr77,https://j.mp/3e2S1OE
+GithubAdvisories,[GHSA-h73g-8g27-xxcx] Command injection in corenlp-js-prefab,https://github.com/advisories/GHSA-h73g-8g27-xxcx,https://j.mp/3a7ulrb
+GithubAdvisories,[GHSA-hmw2-mvvh-jf5j] OS Command Injection in enpeem,https://github.com/advisories/GHSA-hmw2-mvvh-jf5j,https://j.mp/32bEz5G
+GithubAdvisories,[GHSA-7mpx-vg3c-cmr4] Improper Authentication in react-adal,https://github.com/advisories/GHSA-7mpx-vg3c-cmr4,https://j.mp/3dZtA4H
+GithubAdvisories,[GHSA-3fw4-4h3m-892h] OS Command Injection in serial-number,https://github.com/advisories/GHSA-3fw4-4h3m-892h,https://j.mp/3aaxdns
+GithubAdvisories,[GHSA-53xj-v576-3ch2] OS Command Injection in giting,https://github.com/advisories/GHSA-53xj-v576-3ch2,https://j.mp/3sd87KH
+GithubAdvisories,[GHSA-pmpr-vc5q-h3jw] Exposure of Resource to Wrong Sphere in valib,https://github.com/advisories/GHSA-pmpr-vc5q-h3jw,https://j.mp/3g8Bdsq
+GithubAdvisories,[GHSA-2548-q746-x5x6] Code injection in port-killer,https://github.com/advisories/GHSA-2548-q746-x5x6,https://j.mp/3g5rUJJ
+GithubAdvisories,[GHSA-j32x-j8pj-pg2h] Prototype Pollution in decal,https://github.com/advisories/GHSA-j32x-j8pj-pg2h,https://j.mp/3dc8911
+GithubAdvisories,[GHSA-vp77-fqqp-79j8] Prototype Pollution in decal,https://github.com/advisories/GHSA-vp77-fqqp-79j8,https://j.mp/3dfeLvL
+GithubAdvisories,[GHSA-7h8x-wmq2-7mff] Command injection in launchpad,https://github.com/advisories/GHSA-7h8x-wmq2-7mff,https://j.mp/3debYTF
+GithubAdvisories,[GHSA-2f6g-w5gj-c93h] Prototype Pollution in iniparserjs,https://github.com/advisories/GHSA-2f6g-w5gj-c93h,https://j.mp/2OJqb1k
+GithubAdvisories,[GHSA-9mrv-456v-pf22] Cross-site Scripting in vis-timeline,https://github.com/advisories/GHSA-9mrv-456v-pf22,https://j.mp/3dZtABJ
+GithubAdvisories,[GHSA-jxg6-fhwc-9v9c] Regular Expression Denial of Service (ReDoS) in es6-crawler-detect,https://github.com/advisories/GHSA-jxg6-fhwc-9v9c,https://j.mp/2QpDYuE
+GithubAdvisories,[GHSA-8695-fr6h-9fq8] Command Injection in nuance-gulp-build-common,https://github.com/advisories/GHSA-8695-fr6h-9fq8,https://j.mp/3uNDE7H
+GithubAdvisories,[GHSA-45w5-pvr8-4rh5] Command injection in eslint-fixer,https://github.com/advisories/GHSA-45w5-pvr8-4rh5,https://j.mp/3aaoeCJ
+GithubAdvisories,[GHSA-cwg9-c9cr-p5fq] Improper Neutralization of Input in Theia console,https://github.com/advisories/GHSA-cwg9-c9cr-p5fq,https://j.mp/2OJ1bXZ
+GithubAdvisories,[GHSA-43ch-2h55-2vj7] Server-Side Request Forgery in private-ip,https://github.com/advisories/GHSA-43ch-2h55-2vj7,https://j.mp/2Rmemiv
+GithubAdvisories,[GHSA-gcm9-cc3r-c6vj] Cross-site Scripting (XSS) in Eclipse Theia,https://github.com/advisories/GHSA-gcm9-cc3r-c6vj,https://j.mp/3dczujK
+GithubAdvisories,[GHSA-f7vx-j8mp-3h2x] Insufficient Verification of Data Authenticity in Eclipse Theia,https://github.com/advisories/GHSA-f7vx-j8mp-3h2x,https://j.mp/2PSM13c
+GithubAdvisories,[GHSA-whq6-mj2r-mjqc] OS Command Injection in lsof,https://github.com/advisories/GHSA-whq6-mj2r-mjqc,https://j.mp/32e7YMB
+GithubAdvisories,[GHSA-ph32-23p8-9rw5] Improper Input Validation in network-manager,https://github.com/advisories/GHSA-ph32-23p8-9rw5,https://j.mp/3mIwOO0
+GithubAdvisories,[GHSA-qfxv-qqvg-24pg] OS Command Injection in im-metadata,https://github.com/advisories/GHSA-qfxv-qqvg-24pg,https://j.mp/3tfZUa0
+GithubAdvisories,[GHSA-r9vm-rhmf-7hxx] OS Command Injection in im-resize,https://github.com/advisories/GHSA-r9vm-rhmf-7hxx,https://j.mp/3uHhNP6
+GithubAdvisories,[GHSA-fc42-h7q4-qp8h] Command Injection in killport,https://github.com/advisories/GHSA-fc42-h7q4-qp8h,https://j.mp/3a5OH4a
+GithubAdvisories,[GHSA-4gfq-6m28-m5mg] Improper neutralization of arguments in freediskspace,https://github.com/advisories/GHSA-4gfq-6m28-m5mg,https://j.mp/3g7PtBG
+GithubAdvisories,[GHSA-6q4w-3wp4-q5wf] Denial of Service in get-ip-range,https://github.com/advisories/GHSA-6q4w-3wp4-q5wf,https://j.mp/3sesmHZ
+GithubAdvisories,[GHSA-67mm-m3wx-j7fr] Command injection in gitlog,https://github.com/advisories/GHSA-67mm-m3wx-j7fr,https://j.mp/3thcpBZ
+GithubAdvisories,[GHSA-88rc-3p98-rgvx] After order payment process manipulation in shopware/platform and shopware/core,https://github.com/advisories/GHSA-88rc-3p98-rgvx,https://j.mp/3teB5vb
+GithubAdvisories,[GHSA-3pcr-4982-548m] Exposure of .env if project root is configured as web root in shopware/production,https://github.com/advisories/GHSA-3pcr-4982-548m,https://j.mp/3seU3jU
+GithubAdvisories,[GHSA-qg7c-q3vq-rgxr] Leak of information via Store-API aggregations in shopware/platform and shopware/core,https://github.com/advisories/GHSA-qg7c-q3vq-rgxr,https://j.mp/3dZGhMX
+GithubAdvisories,[GHSA-5wrh-4jwv-5w78] Open redirect via transitional IPv6 addresses on dual-stack networks,https://github.com/advisories/GHSA-5wrh-4jwv-5w78,https://j.mp/3scADMn
+GithubAdvisories,[GHSA-w9fg-xffh-p362] Denial of service (via resource exhaustion) due to improper input validation on third-party identifier endpoints,https://github.com/advisories/GHSA-w9fg-xffh-p362,https://j.mp/2PQu6tX
+GithubAdvisories,[GHSA-jrh7-mhhx-6h88] Denial of service (via resource exhaustion) due to improper input validation on groups/communities endpoints,https://github.com/advisories/GHSA-jrh7-mhhx-6h88,https://j.mp/3dZtBWj
+GithubAdvisories,[GHSA-7fjp-g4m7-fx23] User (Encrypted) Password Field Being Serialised,https://github.com/advisories/GHSA-7fjp-g4m7-fx23,https://j.mp/328oOw7
+GithubAdvisories,[GHSA-63rq-p8fp-524q] Potential API key leak,https://github.com/advisories/GHSA-63rq-p8fp-524q,https://j.mp/3tf1R6z
