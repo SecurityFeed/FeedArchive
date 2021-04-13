@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwwg-gc55-qqrv] Out-of-bounds Write in Chakra,https://github.com/advisories/GHSA-qwwg-gc55-qqrv,https://j.mp/3tgBEoe
+GithubAdvisories,[GHSA-936x-wgqv-hhgq] Authenticated path traversal in Umbraco CMS,https://github.com/advisories/GHSA-936x-wgqv-hhgq,https://j.mp/3dXzfbr
+GithubAdvisories,[GHSA-4vp3-vfww-8648] Incorrect permission enforcement in UmbracoCms,https://github.com/advisories/GHSA-4vp3-vfww-8648,https://j.mp/3sfrNh8
+GithubAdvisories,[GHSA-6hrm-jqp3-64cv] Improper Certificate Validation in TweetStream,https://github.com/advisories/GHSA-6hrm-jqp3-64cv,https://j.mp/2Qm6xZC
+GithubAdvisories,[GHSA-gqvf-892r-vjm5] Improper Certificate Validation in Puppet,https://github.com/advisories/GHSA-gqvf-892r-vjm5,https://j.mp/3teHFln
+GithubAdvisories,[GHSA-8f89-2fwj-5v5r] Improper Input Validation in klona,https://github.com/advisories/GHSA-8f89-2fwj-5v5r,https://j.mp/3g3TIhD
+GithubAdvisories,[GHSA-hxmg-hm46-cf62] Remote code execution in mongo-express,https://github.com/advisories/GHSA-hxmg-hm46-cf62,https://j.mp/3mJVGFh
+GithubAdvisories,[GHSA-mm4f-47ch-f7hx] Arbitrary code execution in kill-by-port,https://github.com/advisories/GHSA-mm4f-47ch-f7hx,https://j.mp/3saamP3
+GithubAdvisories,[GHSA-xmxh-g7wj-8m4m] OS Command Injection in curling,https://github.com/advisories/GHSA-xmxh-g7wj-8m4m,https://j.mp/3ddzH6k
+GithubAdvisories,[GHSA-22cm-3qf2-2wc7] LDAP Injection in is-user-valid,https://github.com/advisories/GHSA-22cm-3qf2-2wc7,https://j.mp/3wRavue
+GithubAdvisories,[GHSA-333x-qr3v-g4xx] Command injection in spritesheet-js,https://github.com/advisories/GHSA-333x-qr3v-g4xx,https://j.mp/3wQ2BBl
+GithubAdvisories,[GHSA-w8h4-vw8f-rvvj] Improper Control of Dynamically-Managed Code Resources in config-shield,https://github.com/advisories/GHSA-w8h4-vw8f-rvvj,https://j.mp/3gdoIff
+GithubAdvisories,[GHSA-frpw-jrwx-hcfv] Path Traversal in node-red-contrib-huemagic,https://github.com/advisories/GHSA-frpw-jrwx-hcfv,https://j.mp/2Qp6VGL
+GithubAdvisories,[GHSA-cq8r-fc3q-6hg2] Denial of Service (DoS) via the unsetByPath function in jsjoints,https://github.com/advisories/GHSA-cq8r-fc3q-6hg2,https://j.mp/3wU7r0g
+GithubAdvisories,[GHSA-r96p-v3cr-gfv8] Cross-site Scripting (XSS) in @scullyio/scully,https://github.com/advisories/GHSA-r96p-v3cr-gfv8,https://j.mp/3e5p6K6
+GithubAdvisories,[GHSA-c9g6-9335-x697] Improper Input Validation in SocksJS-Node,https://github.com/advisories/GHSA-c9g6-9335-x697,https://j.mp/3wRo2BZ
