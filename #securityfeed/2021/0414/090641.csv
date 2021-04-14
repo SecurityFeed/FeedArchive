@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] MariaDB 10.2 /MySQL - 'wsrep_provider' OS Command Execution,https://www.exploit-db.com/exploits/49765,https://j.mp/3aae84G
+ExploitDB,[webapps] Genexis PLATINUM 4410 2.1 P4410-V2-1.28 - RCE,https://www.exploit-db.com/exploits/49764,https://j.mp/3a716oI
+ExploitDB,[webapps] CITSmart ITSM 9.1.2.27 - 'query' Time-based Blind SQL Injection (Authenticated),https://www.exploit-db.com/exploits/49763,https://j.mp/3th45Ch
+ExploitDB,[webapps] CITSmart ITSM 9.1.2.22 - LDAP Injection,https://www.exploit-db.com/exploits/49762,https://j.mp/3e00Ngp
+ExploitDB,[webapps] Digital Crime Report Management System 1.0 - SQL Injection (Authentication Bypass),https://www.exploit-db.com/exploits/49761,https://j.mp/2QrSimo
