@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-26417 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26417,https://j.mp/2Q6Fpy7
+NVD-NIST,"CVE-2021-27064 (visual_studio_2017, visual_studio_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27064,https://j.mp/3tnL4OM
+NVD-NIST,"CVE-2021-27067 (azure_devops_server, team_foundation_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27067,https://j.mp/3wYXNtr
+NVD-NIST,"CVE-2021-27072 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27072,https://j.mp/3dn5YrS
+NVD-NIST,"CVE-2021-27079 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27079,https://j.mp/32ixeBf
+NVD-NIST,"CVE-2021-27088 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27088,https://j.mp/2QpYVp6
+NVD-NIST,"CVE-2021-27089 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27089,https://j.mp/3uUAUW4
+NVD-NIST,"CVE-2021-27090 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27090,https://j.mp/2RG2Ajh
+NVD-NIST,"CVE-2021-27091 (windows_7, windows_server_2008, windows_server_2012)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27091,https://j.mp/3djQOmT
+NVD-NIST,"CVE-2021-28323 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28323,https://j.mp/3ecbe0G
+NVD-NIST,"CVE-2021-28324 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28324,https://j.mp/2OUG05u
+NVD-NIST,"CVE-2021-28326 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28326,https://j.mp/3wYXVcp
