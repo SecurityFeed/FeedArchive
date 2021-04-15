@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,nfstream 6.2.6,https://packetstormsecurity.com/files/162209/nfstream-6.2.6.tar.gz,https://j.mp/3ggM7fA
+PacketstormSecurity,Botan C++ Crypto Algorithms Library 2.18.0,https://packetstormsecurity.com/files/162208/Botan-2.18.0.tar.xz,https://j.mp/2QpVyP9
+PacketstormSecurity,Nagios XI Remote Code Execution,https://packetstormsecurity.com/files/162207/nagios_xi_plugins_filename_authenticated_rce.rb.txt,https://j.mp/3e3pSXL
+PacketstormSecurity,Backdoor.Win32.Zombam.h Buffer Overflow,https://packetstormsecurity.com/files/162206/MVID-2021-0171.txt,https://j.mp/3e6ryQd
+PacketstormSecurity,Red Hat Security Advisory 2021-1213-01,https://packetstormsecurity.com/files/162205/RHSA-2021-1213-01.txt,https://j.mp/3e2uJbP
+PacketstormSecurity,Red Hat Security Advisory 2021-1214-01,https://packetstormsecurity.com/files/162204/RHSA-2021-1214-01.txt,https://j.mp/3e3WKzB
+PacketstormSecurity,Red Hat Security Advisory 2021-1206-01,https://packetstormsecurity.com/files/162203/RHSA-2021-1206-01.txt,https://j.mp/3mMAPkA
+PacketstormSecurity,Red Hat Security Advisory 2021-1202-01,https://packetstormsecurity.com/files/162201/RHSA-2021-1202-01.txt,https://j.mp/3ekuvNx
+PacketstormSecurity,Red Hat Security Advisory 2021-1203-01,https://packetstormsecurity.com/files/162200/RHSA-2021-1203-01.txt,https://j.mp/2Q4zfP2
+PacketstormSecurity,Red Hat Security Advisory 2021-1201-01,https://packetstormsecurity.com/files/162198/RHSA-2021-1201-01.txt,https://j.mp/3sjKgZR
+PacketstormSecurity,Red Hat Security Advisory 2021-1200-01,https://packetstormsecurity.com/files/162197/RHSA-2021-1200-01.txt,https://j.mp/32hFf9E
+PacketstormSecurity,Red Hat Security Advisory 2021-1199-01,https://packetstormsecurity.com/files/162196/RHSA-2021-1199-01.txt,https://j.mp/3mNQAI5
+PacketstormSecurity,htmly 2.8.0 Cross Site Scripting,https://packetstormsecurity.com/files/162195/htmly280-xss.txt,https://j.mp/3tmDbZX
+PacketstormSecurity,Horde Groupware Webmail 5.2.22 Cross Site Scripting,https://packetstormsecurity.com/files/162194/hgw5222-xss.txt,https://j.mp/3x135ED
+PacketstormSecurity,Tileserver-gl 3.0.0 Cross Site Scripting,https://packetstormsecurity.com/files/162193/tileservergl300-xss.txt,https://j.mp/2OVbYi2
+PacketstormSecurity,SMASH: Synchronized Many-Sided Rowhammer Attacks From JavaScript,https://packetstormsecurity.com/files/162192/smash_sec21.pdf,https://j.mp/3wYsbEb
+PacketstormSecurity,SMASH Rowhammer Proof Of Concept,https://packetstormsecurity.com/files/162191/smash-master.zip,https://j.mp/3to7m2G
