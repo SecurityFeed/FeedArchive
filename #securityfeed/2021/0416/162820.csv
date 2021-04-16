@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-0438 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0438,https://j.mp/3gf6XvM
+NVD-NIST,CVE-2021-0439 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0439,https://j.mp/3adIIdx
+NVD-NIST,CVE-2021-0442 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0442,https://j.mp/2QzmN9G
+NVD-NIST,CVE-2021-0443 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0443,https://j.mp/3x3mpBa
+NVD-NIST,"CVE-2021-28311 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28311,https://j.mp/3tqn7q4
+NVD-NIST,"CVE-2021-28312 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28312,https://j.mp/3mRyYep
+NVD-NIST,"CVE-2021-28313 (visual_studio, visual_studio_2017, visual_studio_2019, windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28313,https://j.mp/3mV7qVy
+NVD-NIST,"CVE-2021-28314 (windows_10, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28314,https://j.mp/3adIF1l
+NVD-NIST,"CVE-2021-28325 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28325,https://j.mp/3ajN3w6
