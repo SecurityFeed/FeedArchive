@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw4v-gr34-2553] Denial of service (via resource exhaustion) due to improper input validation,https://github.com/advisories/GHSA-pw4v-gr34-2553,https://j.mp/3ahmAPv
+GithubAdvisories,[GHSA-pghf-347x-c2gj] SQL Injection via in django-debug-toolbar,https://github.com/advisories/GHSA-pghf-347x-c2gj,https://j.mp/3gdFyKV
+GithubAdvisories,[GHSA-g8r4-p96j-xfxc] Twig allowing dangerous PHP functions by default in getgrav/grav,https://github.com/advisories/GHSA-g8r4-p96j-xfxc,https://j.mp/32nHM2e
+GithubAdvisories,[GHSA-g3fq-3v3g-mh32] Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) in @nextcloud/dialogs,https://github.com/advisories/GHSA-g3fq-3v3g-mh32,https://j.mp/3dpNc2N
+GithubAdvisories,[GHSA-2pwh-52h7-7j84] JavaScript execution via malicious molfiles (XSS),https://github.com/advisories/GHSA-2pwh-52h7-7j84,https://j.mp/3drq1W5
+GithubAdvisories,[GHSA-27fj-mc8w-j9wg] RSA signature validation vulnerability on maleable encoded message in jsrsasign,https://github.com/advisories/GHSA-27fj-mc8w-j9wg,https://j.mp/3e80YGr
