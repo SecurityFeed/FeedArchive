@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-27093 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27093,https://j.mp/3snxmdu
+NVD-NIST,"CVE-2021-27095 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27095,https://j.mp/3goCOtY
+NVD-NIST,"CVE-2021-27096 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27096,https://j.mp/2RCF86p
+NVD-NIST,"CVE-2021-29997 (helix_alm, vxworks)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29997,https://j.mp/3e9Geyb
+NVD-NIST,CVE-2021-29998 (vxworks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29998,https://j.mp/2OTxbJ2
+NVD-NIST,CVE-2021-29999 (vxworks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29999,https://j.mp/3uWrFVA
