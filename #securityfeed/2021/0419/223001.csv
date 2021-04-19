@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28124 (lavalite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28124,https://j.mp/3dvlQIE
+NVD-NIST,CVE-2021-26830 (zenario),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26830,https://j.mp/3tzYWFB
+NVD-NIST,CVE-2021-28855 (deark),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28855,https://j.mp/3v2ewdn
+NVD-NIST,CVE-2021-30479 (zulip_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30479,https://j.mp/3apTv4v
+NVD-NIST,CVE-2021-31348 (ezxml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31348,https://j.mp/3tA4OyC
