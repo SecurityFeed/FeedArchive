@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82mf-mmh7-hxp5] Directory traversal in development mode handler in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-82mf-mmh7-hxp5,https://j.mp/3aq6T8Z
+GithubAdvisories,"[GHSA-c6c4-7x48-4cqp] Timing side channel vulnerability in UIDL request handler in Vaadin 10, 11-14, and 15-18",https://github.com/advisories/GHSA-c6c4-7x48-4cqp,https://j.mp/2P4iL9a
+GithubAdvisories,[GHSA-2wqp-jmcc-mc77] Regular expression denial of service (ReDoS) in EmailField component in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-2wqp-jmcc-mc77,https://j.mp/3drU5Rf
+GithubAdvisories,[GHSA-9h6g-6mxg-vvp4] Timing side channel vulnerability in endpoint request handler in Vaadin 15-19,https://github.com/advisories/GHSA-9h6g-6mxg-vvp4,https://j.mp/3drXeR8
+GithubAdvisories,[GHSA-j9wr-49vq-rm5g] Server classes and resources exposure in OSGi applications using Vaadin 12-14 and 19,https://github.com/advisories/GHSA-j9wr-49vq-rm5g,https://j.mp/3mYKqox
