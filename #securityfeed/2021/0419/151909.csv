@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8hw9-22v6-9jr9] Any logged in user could edit any other logged in user,https://github.com/advisories/GHSA-8hw9-22v6-9jr9,https://j.mp/3swNmdh
+GithubAdvisories,[GHSA-22wc-c9wj-6q2v] VVE-2021-0001: Memory corruption using function calls within arrays,https://github.com/advisories/GHSA-22wc-c9wj-6q2v,https://j.mp/2RNPT64
+GithubAdvisories,[GHSA-375m-5fvv-xq23] VVE-2021-0002: Incorrect `returndatasize` when using simple forwarder proxies deployed prior to EIP-1167 adoption,https://github.com/advisories/GHSA-375m-5fvv-xq23,https://j.mp/3ty4jVY
+GithubAdvisories,[GHSA-rvcw-f68w-8h8h] Padding Oracle Attack due to Observable Timing Discrepancy in jose-node-cjs-runtime,https://github.com/advisories/GHSA-rvcw-f68w-8h8h,https://j.mp/3n0t36B
+GithubAdvisories,[GHSA-4v4g-726h-xvfv] Padding Oracle Attack due to Observable Timing Discrepancy in jose-node-esm-runtime,https://github.com/advisories/GHSA-4v4g-726h-xvfv,https://j.mp/3v7DkRv
+GithubAdvisories,[GHSA-94hh-pjjg-rwmr] Padding Oracle Attack due to Observable Timing Discrepancy in jose-browser-runtime,https://github.com/advisories/GHSA-94hh-pjjg-rwmr,https://j.mp/3n0t8qV
+GithubAdvisories,[GHSA-58f5-hfqc-jgch] Padding Oracle Attack due to Observable Timing Discrepancy in jose,https://github.com/advisories/GHSA-58f5-hfqc-jgch,https://j.mp/3x7TSdT
+GithubAdvisories,[GHSA-6g3c-2mh5-7q6x] Missing validation of JWT signature in `ManyDesigns/Portofino`,https://github.com/advisories/GHSA-6g3c-2mh5-7q6x,https://j.mp/32uFLkB
+GithubAdvisories,[GHSA-mh74-4m5g-fcjx] Malicious users could control the content of invitation emails,https://github.com/advisories/GHSA-mh74-4m5g-fcjx,https://j.mp/2P2L5J5
+GithubAdvisories,[GHSA-9jhm-8m8c-c3f4] SSRF in Sydent due to missing validation of hostnames,https://github.com/advisories/GHSA-9jhm-8m8c-c3f4,https://j.mp/2QDclxY
+GithubAdvisories,[GHSA-wmg4-8cp2-hpg9] Denial of service attack via memory exhaustion,https://github.com/advisories/GHSA-wmg4-8cp2-hpg9,https://j.mp/3aqc60x
+GithubAdvisories,[GHSA-crh4-294p-vcfq] Regular expression denial of service (ReDoS) in EmailField component in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-crh4-294p-vcfq,https://j.mp/3mYGdRP
+GithubAdvisories,[GHSA-jmx8-355m-8vwh] Unauthorized client-side property update in UIDL request handler in Vaadin 10 and 11,https://github.com/advisories/GHSA-jmx8-355m-8vwh,https://j.mp/2QAtSHd
+GithubAdvisories,[GHSA-rp4x-wxqv-cf9m] Reflected cross-site scripting in default RouteNotFoundError view in Vaadin 10 and 11-13,https://github.com/advisories/GHSA-rp4x-wxqv-cf9m,https://j.mp/3n05iLU
+GithubAdvisories,[GHSA-rjww-2x8v-m9v9] Potential sensitive data exposure in applications using Vaadin 15,https://github.com/advisories/GHSA-rjww-2x8v-m9v9,https://j.mp/32z8aG9
+GithubAdvisories,[GHSA-49r2-73m6-pp8f] Directory traversal in development mode handler in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-49r2-73m6-pp8f,https://j.mp/3sw5zrh
+GithubAdvisories,"[GHSA-xwg3-qrcg-w9x6] Timing side channel vulnerability in UIDL request handler in Vaadin 10, 11-14, and 15-18",https://github.com/advisories/GHSA-xwg3-qrcg-w9x6,https://j.mp/2QDcl0W
+GithubAdvisories,[GHSA-75xc-qvxh-27f8] Timing side channel vulnerability in UIDL request handler in Vaadin 7 and 8,https://github.com/advisories/GHSA-75xc-qvxh-27f8,https://j.mp/3ajENMs
+GithubAdvisories,[GHSA-25xc-jwfq-39jw] Server classes and resources exposure in OSGi applications using Vaadin 12-14 and 19,https://github.com/advisories/GHSA-25xc-jwfq-39jw,https://j.mp/3elbbjc
+GithubAdvisories,[GHSA-p7jq-v8jp-j424] Timing side channel vulnerability in endpoint request handler in Vaadin 15-19,https://github.com/advisories/GHSA-p7jq-v8jp-j424,https://j.mp/3e9vEHu
+GithubAdvisories,[GHSA-q74r-4xw3-ppx9] Stored cross-site scripting in Grid component in Vaadin 7 and 8,https://github.com/advisories/GHSA-q74r-4xw3-ppx9,https://j.mp/3n3Qe06
+GithubAdvisories,[GHSA-42j4-733x-5vcf] Regular expression denial of service (ReDoS) in EmailValidator class in Vaadin 7,https://github.com/advisories/GHSA-42j4-733x-5vcf,https://j.mp/2QFz8Jv
+GithubAdvisories,[GHSA-3h5r-928v-mxhh] Unauthorized client-side property update in UIDL request handler in Vaadin 10 and 11,https://github.com/advisories/GHSA-3h5r-928v-mxhh,https://j.mp/3vfYKMr
+GithubAdvisories,[GHSA-jqj4-r483-4gvr] Reflected cross-site scripting in default RouteNotFoundError view in Vaadin 10 and 11-13,https://github.com/advisories/GHSA-jqj4-r483-4gvr,https://j.mp/2P2L7kb
+GithubAdvisories,[GHSA-76f4-fw33-6j2v] Potential sensitive data exposure in applications using Vaadin 15,https://github.com/advisories/GHSA-76f4-fw33-6j2v,https://j.mp/3ajEGk0
