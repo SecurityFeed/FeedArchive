@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4mq-6fp5-qwcf] Exposure of Resource to Wrong Sphere and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-g4mq-6fp5-qwcf,https://j.mp/3v5zyrQ
+GithubAdvisories,"[GHSA-frxj-5j27-f8rf] Externally Controlled Reference to a Resource in Another Sphere, Improper Input Validation, and External Control of File Name or Path in Ansible",https://github.com/advisories/GHSA-frxj-5j27-f8rf,https://j.mp/3aqLDzS
+GithubAdvisories,[GHSA-3c67-gc48-983w] Path Traversal in Ansible,https://github.com/advisories/GHSA-3c67-gc48-983w,https://j.mp/3v6FPDv
+GithubAdvisories,[GHSA-gwr8-5j83-483c] OS Command Injection and Improper Input Validation in ansible,https://github.com/advisories/GHSA-gwr8-5j83-483c,https://j.mp/32w2VHn
+GithubAdvisories,[GHSA-m429-fhmv-c6q2] Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-m429-fhmv-c6q2,https://j.mp/3gpeKY4
+GithubAdvisories,[GHSA-j2h6-73x8-22c4] Exposure of Sensitive Information to an Unauthorized Actor in ansible,https://github.com/advisories/GHSA-j2h6-73x8-22c4,https://j.mp/32tvVPV
+GithubAdvisories,[GHSA-893h-35v4-mxqx] Path Traversal in Ansible,https://github.com/advisories/GHSA-893h-35v4-mxqx,https://j.mp/3ef3LOo
+GithubAdvisories,[GHSA-3pqx-4fqf-j49f] Deserialization of Untrusted Data in PyYAML,https://github.com/advisories/GHSA-3pqx-4fqf-j49f,https://j.mp/3goSnBY
+GithubAdvisories,[GHSA-7mx5-x372-xh87] Incorrect Session Validation in Apache Airflow,https://github.com/advisories/GHSA-7mx5-x372-xh87,https://j.mp/2QhHwze
+GithubAdvisories,[GHSA-86vp-x3pr-79rx] Cross-site scripting in Apache airflow,https://github.com/advisories/GHSA-86vp-x3pr-79rx,https://j.mp/32vOoeR
+GithubAdvisories,[GHSA-hj5v-574p-mj7c] Regular expression deinal of service in py,https://github.com/advisories/GHSA-hj5v-574p-mj7c,https://j.mp/2QHtHd6
+GithubAdvisories,[GHSA-9w49-m7xh-5r39] Cross-site scripting in papermerge,https://github.com/advisories/GHSA-9w49-m7xh-5r39,https://j.mp/3dyKkkk
+GithubAdvisories,[GHSA-9w8r-397f-prfh] Infinite Loop in Pygments,https://github.com/advisories/GHSA-9w8r-397f-prfh,https://j.mp/3gv67v5
+GithubAdvisories,[GHSA-69q2-p9xp-739v] XML Injection in petl,https://github.com/advisories/GHSA-69q2-p9xp-739v,https://j.mp/3elMVgu
+GithubAdvisories,[GHSA-rmp7-f2vp-3rq4] Cross-site scripting in SiCKRAGE,https://github.com/advisories/GHSA-rmp7-f2vp-3rq4,https://j.mp/3v6RBhm
+GithubAdvisories,[GHSA-x823-j7c4-vpc5] Cross-site scripting in sickrage,https://github.com/advisories/GHSA-x823-j7c4-vpc5,https://j.mp/3xb4xVb
+GithubAdvisories,[GHSA-2xpj-f5g2-8p7m] Access of Uninitialized Pointer,https://github.com/advisories/GHSA-2xpj-f5g2-8p7m,https://j.mp/2P5KXs9
+GithubAdvisories,[GHSA-3p3h-qghp-hvh2] Open Redirect in werkzeug,https://github.com/advisories/GHSA-3p3h-qghp-hvh2,https://j.mp/3dA3PZH
+GithubAdvisories,[GHSA-ccgm-3xw4-h5p8] Improper Restriction of XML External Entity Reference in pikepdf,https://github.com/advisories/GHSA-ccgm-3xw4-h5p8,https://j.mp/3vc1rP3
+GithubAdvisories,[GHSA-f248-v4qh-x2r6] Improper Certificate Validation in blackduck,https://github.com/advisories/GHSA-f248-v4qh-x2r6,https://j.mp/3tCLgcS
