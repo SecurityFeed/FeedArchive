@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6757-jp84-gxfx] Improper Input Validation in PyYAML,https://github.com/advisories/GHSA-6757-jp84-gxfx,https://j.mp/3n2plJM
+GithubAdvisories,[GHSA-gwp7-vqr5-h33h] Open Redirect in autobahn,https://github.com/advisories/GHSA-gwp7-vqr5-h33h,https://j.mp/3swYCpP
+GithubAdvisories,[GHSA-7xc5-ggpp-g249] Server-Side Template Injection in pwntools,https://github.com/advisories/GHSA-7xc5-ggpp-g249,https://j.mp/3vbVG3T
