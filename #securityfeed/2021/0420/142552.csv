@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq5h-f9p5-q7fx] Improper validation of URLs ('Cross-site Scripting') in Wagtail rich text fields,https://github.com/advisories/GHSA-wq5h-f9p5-q7fx,https://j.mp/3tzmBGp
