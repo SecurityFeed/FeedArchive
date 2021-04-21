@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Hasura GraphQL 1.3.3 - Service Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/49791,https://j.mp/3dB67ry
+ExploitDB,[webapps] Hasura GraphQL 1.3.3 - Local File Read,https://www.exploit-db.com/exploits/49790,https://j.mp/3sCPpMW
+ExploitDB,[dos] Hasura GraphQL 1.3.3 - Denial of Service,https://www.exploit-db.com/exploits/49789,https://j.mp/2Qdzojq
+ExploitDB,[webapps] GravCMS 1.10.7 - Unauthenticated Arbitrary YAML Write/Update (Metasploit),https://www.exploit-db.com/exploits/49788,https://j.mp/3el2163
