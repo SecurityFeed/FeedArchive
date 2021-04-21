@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] rconfig 3.9.6 - Arbitrary File Upload to Remote Code Execution (Authenticated) (2),https://www.exploit-db.com/exploits/49783,https://j.mp/2RVJg1L
+ExploitDB,[remote] Tenda D151 & D301 - Configuration Download (Unauthenticated),https://www.exploit-db.com/exploits/49782,https://j.mp/3xeZDq4
+ExploitDB,[webapps] RemoteClinic 2 - 'Multiple' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49781,https://j.mp/3enH4au
+ExploitDB,[webapps] Discourse 2.7.0 - Rate Limit Bypass leads to 2FA Bypass,https://www.exploit-db.com/exploits/49780,https://j.mp/3dAmDrO
