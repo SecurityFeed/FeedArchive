@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Adtran Personal Phone Manager 10.8.1 - DNS Exfiltration,https://www.exploit-db.com/exploits/49787,https://j.mp/3avOXcS
+ExploitDB,[webapps] Adtran Personal Phone Manager 10.8.1 - 'Multiple' Reflected Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49786,https://j.mp/3n5lb3X
+ExploitDB,[webapps] Adtran Personal Phone Manager 10.8.1 - 'emailAddress' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49785,https://j.mp/3vcRRLL
+ExploitDB,[webapps] OpenEMR 5.0.2.1 - Remote Code Execution,https://www.exploit-db.com/exploits/49784,https://j.mp/3v2qnrS
