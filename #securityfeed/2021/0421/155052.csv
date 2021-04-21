@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GravCMS 1.10.7 Remote Command Execution,https://packetstormsecurity.com/files/162283/gravcms1107-yamlwrite.rb.txt,https://j.mp/3eiraOR
+PacketstormSecurity,Nagios XI 5.7.3 Remote Code Execution,https://packetstormsecurity.com/files/162284/nagios_xi_snmptrap_authenticated_rce.rb.txt,https://j.mp/3tEYtSJ
+PacketstormSecurity,Red Hat Security Advisory 2021-1297-01,https://packetstormsecurity.com/files/162281/RHSA-2021-1297-01.txt,https://j.mp/3dBbuXS
+PacketstormSecurity,Cockpit CMS 0.11.1 NoSQL Injection / Remote Command Execution,https://packetstormsecurity.com/files/162282/cockpit_cms_rce.rb.txt,https://j.mp/3dDCO7W
+PacketstormSecurity,Adtran Personal Phone Manager 10.8.1 DNS Exfiltration,https://packetstormsecurity.com/files/162280/adtranppm1081-exfiltrate.txt,https://j.mp/2P7p8sc
+PacketstormSecurity,Red Hat Security Advisory 2021-1298-01,https://packetstormsecurity.com/files/162278/RHSA-2021-1298-01.txt,https://j.mp/3n8B8WT
+PacketstormSecurity,Hasura GraphQL 1.3.3 Denial Of Service,https://packetstormsecurity.com/files/162277/hasuragraphql133-dos.txt,https://j.mp/3aqVKos
+PacketstormSecurity,Red Hat Security Advisory 2021-1307-01,https://packetstormsecurity.com/files/162276/RHSA-2021-1307-01.txt,https://j.mp/3awC5Dk
+PacketstormSecurity,OpenEMR 5.0.2.1 Remote Code Execution,https://packetstormsecurity.com/files/162275/openemr5021-exec.txt,https://j.mp/2P8nxCu
+PacketstormSecurity,Red Hat Security Advisory 2021-1306-01,https://packetstormsecurity.com/files/162274/RHSA-2021-1306-01.txt,https://j.mp/2QOHsag
+PacketstormSecurity,Tenda D151 / D301 Configuration Download,https://packetstormsecurity.com/files/162273/tendad151d301-disclose.txt,https://j.mp/3aoUfHh
+PacketstormSecurity,Red Hat Security Advisory 2021-1150-01,https://packetstormsecurity.com/files/162271/RHSA-2021-1150-01.txt,https://j.mp/3tI5Zfq
+PacketstormSecurity,Red Hat Security Advisory 2021-1299-01,https://packetstormsecurity.com/files/162270/RHSA-2021-1299-01.txt,https://j.mp/3sGNCWW
+PacketstormSecurity,Adtran Personal Phone Manager 10.8.1 Cross Site Scripting,https://packetstormsecurity.com/files/162269/adtranppm1081r-xss.txt,https://j.mp/32xeGgD
+PacketstormSecurity,Adtran Personal Phone Manager 10.8.1 Persistent Cross Site Scripting,https://packetstormsecurity.com/files/162268/adtranppm1081-xss.txt,https://j.mp/2Qdfjd3
+PacketstormSecurity,Hasura GraphQL 1.3.3 Server-Side Request Forgery,https://packetstormsecurity.com/files/162267/hasuragraphql133-ssrf.txt,https://j.mp/3xfz04w
+PacketstormSecurity,Red Hat Security Advisory 2021-1305-01,https://packetstormsecurity.com/files/162266/RHSA-2021-1305-01.txt,https://j.mp/32AkhmI
+PacketstormSecurity,Hasura GraphQL 1.3.3 Arbitrary File Read,https://packetstormsecurity.com/files/162265/hasuragraphql133-fileread.txt,https://j.mp/3sCM9kB
+PacketstormSecurity,rconfig 3.9.6 Shell Upload,https://packetstormsecurity.com/files/162264/rconfig396-shellexec.txt,https://j.mp/3dB67HZ
+PacketstormSecurity,RemoteClinic 2 Cross Site Scripting,https://packetstormsecurity.com/files/162262/remoteclinic2-xss.txt,https://j.mp/32ADBjC
+PacketstormSecurity,WordPress RSS For Yandex Turbo 1.29 Cross Site Scripting,https://packetstormsecurity.com/files/162261/wprssyt129-xss.txt,https://j.mp/3n6dtqa
+PacketstormSecurity,Red Hat Security Advisory 2021-1301-01,https://packetstormsecurity.com/files/162260/RHSA-2021-1301-01.txt,https://j.mp/3sFZPv7
