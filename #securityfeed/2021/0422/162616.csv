@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7359-3c6r-hfc2] Improper Certificate Validation in oauth ruby gem,https://github.com/advisories/GHSA-7359-3c6r-hfc2,https://j.mp/32Fwzu2
+GithubAdvisories,[GHSA-75c5-f4gw-38r9] Multiple vulnerabilities through filename manipulation in Archive_Tar,https://github.com/advisories/GHSA-75c5-f4gw-38r9,https://j.mp/3dHSgzP
+GithubAdvisories,[GHSA-jh5x-hfhg-78jq] Multiple vulnerabilities through filename manipulation in Archive_Tar,https://github.com/advisories/GHSA-jh5x-hfhg-78jq,https://j.mp/3erGOr4
+GithubAdvisories,[GHSA-rpw6-9xfx-jvcx] Directory Traversal in Archive_Tar,https://github.com/advisories/GHSA-rpw6-9xfx-jvcx,https://j.mp/32Hyu0Q
+GithubAdvisories,[GHSA-72m5-fvvv-55m6] Observable Differences in Behavior to Error Inputs in Bouncy Castle,https://github.com/advisories/GHSA-72m5-fvvv-55m6,https://j.mp/32D6A6f
+GithubAdvisories,[GHSA-9q69-g5gc-9fgf] Cross-Site Request Forgery in Vert.x-Web framework,https://github.com/advisories/GHSA-9q69-g5gc-9fgf,https://j.mp/3tObh9y
+GithubAdvisories,[GHSA-5chj-xprr-7qqx] Cross-site Scripting in GwtUpload,https://github.com/advisories/GHSA-5chj-xprr-7qqx,https://j.mp/3ndAnMA
+GithubAdvisories,[GHSA-64x2-gq24-75pv] Cross-site scripting in Apache CXF,https://github.com/advisories/GHSA-64x2-gq24-75pv,https://j.mp/2QSBqW8
+GithubAdvisories,[GHSA-c6p9-24rc-jr5h] Remote Code Execution and download tracking in Mintegral SDK,https://github.com/advisories/GHSA-c6p9-24rc-jr5h,https://j.mp/3ayoeMR
+GithubAdvisories,"[GHSA-qq48-m4jx-xqh8] ""Deserialization errors in MyBatis""",https://github.com/advisories/GHSA-qq48-m4jx-xqh8,https://j.mp/3n91N6a
+GithubAdvisories,[GHSA-hxp5-8pgq-mgv9] Missing Authentication for Critical Function in Apache Calcite,https://github.com/advisories/GHSA-hxp5-8pgq-mgv9,https://j.mp/32BGssH
+GithubAdvisories,[GHSA-7cj4-gj8m-m2f7] Authentication bypass in Apache Shiro,https://github.com/advisories/GHSA-7cj4-gj8m-m2f7,https://j.mp/3gwD1f2
+GithubAdvisories,[GHSA-5c66-v29h-xjh8] XSS Cross Site Scripting,https://github.com/advisories/GHSA-5c66-v29h-xjh8,https://j.mp/3tM1kcv
+GithubAdvisories,[GHSA-6hgr-2g6q-3rmc] Server session is not invalidated when logout() helper method of Authentication module is used in Vaadin 18-19,https://github.com/advisories/GHSA-6hgr-2g6q-3rmc,https://j.mp/3dGYDTQ
+GithubAdvisories,[GHSA-mr8h-j9cv-4m8h] Server session is not invalidated when logout() helper method of Authentication module is used in Vaadin 18-19,https://github.com/advisories/GHSA-mr8h-j9cv-4m8h,https://j.mp/3aOGKB1
+GithubAdvisories,[GHSA-fvrf-9428-527m] Backport for CVE-2021-21024 Blind SQLi from Magento 2,https://github.com/advisories/GHSA-fvrf-9428-527m,https://j.mp/3tJLDmf
+GithubAdvisories,[GHSA-m496-x567-f98c] Fixes a bug in Zend Framework's Stream HTTP Wrapper,https://github.com/advisories/GHSA-m496-x567-f98c,https://j.mp/3sQqfup
