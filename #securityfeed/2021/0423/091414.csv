@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] DzzOffice 2.02.1 - 'Multiple' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49799,https://j.mp/32IlTup
+ExploitDB,[webapps] GetSimple CMS My SMTP Contact Plugin 1.1.2 - CSRF to Stored XSS to RCE,https://www.exploit-db.com/exploits/49798,https://j.mp/3dJPbzm
+ExploitDB,[webapps] Moodle 3.10.3 - 'url' Persistent Cross Site Scripting,https://www.exploit-db.com/exploits/49797,https://j.mp/3dJml1V
