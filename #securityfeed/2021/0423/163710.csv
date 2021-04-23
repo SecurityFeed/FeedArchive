@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+PacketstormSecurity,OpenSCAP Libraries 1.3.5,https://packetstormsecurity.com/files/162320/openscap-1.3.5.tar.gz,https://j.mp/3gE8yvp
+PacketstormSecurity,Sipwise C5 NGCP CSC Cross Site Request Forgery,https://packetstormsecurity.com/files/162318/ZSL-2021-5649.txt,https://j.mp/3nh56Ig
+PacketstormSecurity,Red Hat Security Advisory 2021-1342-01,https://packetstormsecurity.com/files/162317/RHSA-2021-1342-01.txt,https://j.mp/3xiKkg8
+PacketstormSecurity,Sipwise C5 NGCP CSC Cross Site Scripting,https://packetstormsecurity.com/files/162316/ZSL-2021-5648.txt,https://j.mp/32JM9od
+PacketstormSecurity,DzzOffice 2.02.1 Cross Site Scripting,https://packetstormsecurity.com/files/162314/dzzoffice2021-xss.txt,https://j.mp/2Pf3qTa
+PacketstormSecurity,Document Management System 1.0 SQL Injection / Remote Code Execution,https://packetstormsecurity.com/files/162313/dms10-sqlexec.txt,https://j.mp/32F2aMn
+PacketstormSecurity,Red Hat Security Advisory 2021-1343-01,https://packetstormsecurity.com/files/162312/RHSA-2021-1343-01.txt,https://j.mp/3vesUiR
+PacketstormSecurity,nfstream 6.3.1,https://packetstormsecurity.com/files/162321/nfstream-6.3.1.tar.gz,https://j.mp/3neruSN
+PacketstormSecurity,Kerberoasting Guide,https://packetstormsecurity.com/files/162311/kerberoasting.pdf,https://j.mp/3tKE4LW
+PacketstormSecurity,Comprehensive Guide To FFUF,https://packetstormsecurity.com/files/162310/ffuf.pdf,https://j.mp/3neru5f
+PacketstormSecurity,Comprehensive Guide On TShark,https://packetstormsecurity.com/files/162309/tshark.pdf,https://j.mp/3nfz53n
+PacketstormSecurity,Wordlist Overview,https://packetstormsecurity.com/files/162308/wordlists.pdf,https://j.mp/3dH85H0
+PacketstormSecurity,Red Hat Security Advisory 2021-1338-01,https://packetstormsecurity.com/files/162307/RHSA-2021-1338-01.txt,https://j.mp/2Ph7IJL
+PacketstormSecurity,Red Hat Security Advisory 2021-1339-01,https://packetstormsecurity.com/files/162306/RHSA-2021-1339-01.txt,https://j.mp/3tYKk2E
+PacketstormSecurity,GetSimple CMS My SMTP Contact 1.1.1 CSRF/ XSS / Code Execution,https://packetstormsecurity.com/files/162305/gsSmtp-Csrf2Xss2RCE.py.txt,https://j.mp/3tMAm4B
+PacketstormSecurity,Moodle 3.10.3 Cross Site Scripting,https://packetstormsecurity.com/files/162304/moodle3103persistent-xss.txt,https://j.mp/3xhESKt
