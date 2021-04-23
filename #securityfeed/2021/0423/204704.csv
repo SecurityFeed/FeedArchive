@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cc5-2vg4-cc7m] Injection in Twisted,https://github.com/advisories/GHSA-6cc5-2vg4-cc7m,https://j.mp/3nh2eeG
+GithubAdvisories,[GHSA-jwgx-9mmh-684w] Credential exposure through log files in Undertow,https://github.com/advisories/GHSA-jwgx-9mmh-684w,https://j.mp/32HFzi3
+GithubAdvisories,[GHSA-7vx9-xjhr-rw6h] Cross-site Scripting in Eclipse Jetty,https://github.com/advisories/GHSA-7vx9-xjhr-rw6h,https://j.mp/3evsTjO
