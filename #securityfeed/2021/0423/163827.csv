@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20527 (resilient),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20527,https://j.mp/3epvHyV
+NVD-NIST,"CVE-2021-20989 (home_center_2_firmware, home_center_lite_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20989,https://j.mp/3sGHbTL
+NVD-NIST,"CVE-2021-20990 (home_center_2_firmware, home_center_lite_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20990,https://j.mp/32H7ONX
+NVD-NIST,"CVE-2021-20991 (home_center_2_firmware, home_center_lite_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20991,https://j.mp/3gAcVI6
