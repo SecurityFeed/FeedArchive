@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-4904 gst-plugins-ugly1.0,https://www.debian.org/security/2021/dsa-4904,https://j.mp/3eAy9TA
+DebianSecurityNotice,DSA-4903 gst-plugins-base1.0,https://www.debian.org/security/2021/dsa-4903,https://j.mp/3sOxinf
+DebianSecurityNotice,DSA-4902 gst-plugins-bad1.0,https://www.debian.org/security/2021/dsa-4902,https://j.mp/3viqVdv
+DebianSecurityNotice,DSA-4901 gst-libav1.0,https://www.debian.org/security/2021/dsa-4901,https://j.mp/3dPyAdf
+DebianSecurityNotice,DSA-4900 gst-plugins-good1.0,https://www.debian.org/security/2021/dsa-4900,https://j.mp/32K28Tc
