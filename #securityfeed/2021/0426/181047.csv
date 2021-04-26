@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23912 (bento4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23912,https://j.mp/32N5ULR
+NVD-NIST,CVE-2020-23914 (cpp-peglib),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23914,https://j.mp/3vjReQv
+NVD-NIST,CVE-2020-23915 (cpp-peglib),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23915,https://j.mp/3u6JO33
