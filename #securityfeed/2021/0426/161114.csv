@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gwrp-pvrq-jmwv] Path Traversal and Improper Input Validation in Apache Commons IO,https://github.com/advisories/GHSA-gwrp-pvrq-jmwv,https://j.mp/2Qqdr0E
