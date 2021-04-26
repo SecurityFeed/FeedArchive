@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-36324 (analytics-quarry-web),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36324,https://j.mp/3sS3Z3b
+NVD-NIST,CVE-2021-2250 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2250,https://j.mp/3xqYEDl
+NVD-NIST,CVE-2021-2264 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2264,https://j.mp/2PmMqdI
+NVD-NIST,CVE-2021-2266 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2266,https://j.mp/3aFXvy4
+NVD-NIST,CVE-2021-2296 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2296,https://j.mp/3nkAW7g
+NVD-NIST,CVE-2021-2297 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2297,https://j.mp/3exWWYf
+NVD-NIST,CVE-2021-2309 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2309,https://j.mp/3dQuqBS
+NVD-NIST,CVE-2021-2310 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2310,https://j.mp/3sTBP83
+NVD-NIST,CVE-2021-2312 (vm_virtualbox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2312,https://j.mp/3sTf0kK
+NVD-NIST,CVE-2021-2317 (cloud_infrastructure_storage_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2317,https://j.mp/3gFW2vC
+NVD-NIST,CVE-2021-2318 (cloud_infrastructure_storage_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2318,https://j.mp/3aFXFFG
+NVD-NIST,CVE-2021-2319 (cloud_infrastructure_storage_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2319,https://j.mp/2PmN9eY
