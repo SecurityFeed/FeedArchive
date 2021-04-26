@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23907 (retdec),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23907,https://j.mp/3nmVGv3
+NVD-NIST,CVE-2021-2144 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2144,https://j.mp/2QyxmKH
+NVD-NIST,CVE-2021-2146 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2146,https://j.mp/2QxisV3
+NVD-NIST,CVE-2021-2154 (mysql),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2154,https://j.mp/2Pv3hLG
+NVD-NIST,CVE-2021-21644 (config_file_provider),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21644,https://j.mp/3gJRHay
+NVD-NIST,CVE-2021-21646 (templating_engine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21646,https://j.mp/3tTI25b
+NVD-NIST,CVE-2021-21647 (cloudbees_cd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21647,https://j.mp/3gGGU0T
+NVD-NIST,CVE-2021-2218 (peoplesoft_enterprise_pt_peopletools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2218,https://j.mp/3eCG5DP
+NVD-NIST,CVE-2021-2219 (peoplesoft_enterprise_peopletools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2219,https://j.mp/3sTjR5A
