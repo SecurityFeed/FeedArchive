@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xv5h-v7jh-p2qh] Authentication bypass for specific endpoint,https://github.com/advisories/GHSA-xv5h-v7jh-p2qh,https://j.mp/3vpsUwB
+GithubAdvisories,[GHSA-36hp-jr8h-556f] Authentication Bypass,https://github.com/advisories/GHSA-36hp-jr8h-556f,https://j.mp/3gJYwZY
+GithubAdvisories,[GHSA-v33x-prhc-gph5] Insufficiently Protected Credentials and Improper Authentication in Spring Security,https://github.com/advisories/GHSA-v33x-prhc-gph5,https://j.mp/3xwY6Mb
