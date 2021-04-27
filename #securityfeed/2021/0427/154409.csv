@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hf23-9pf7-388p] Deserialization of Untrusted Data and Code Injection in xstream,https://github.com/advisories/GHSA-hf23-9pf7-388p,https://j.mp/3gEHDzH
