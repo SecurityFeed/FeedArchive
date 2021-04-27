@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63qc-p2x4-9fgf] Improper Handling of Exceptional Conditions and Origin Validation Error in Eclipse Paho Java client library,https://github.com/advisories/GHSA-63qc-p2x4-9fgf,https://j.mp/2PsVI85
