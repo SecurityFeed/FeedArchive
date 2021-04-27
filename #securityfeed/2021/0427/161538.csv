@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr7j-h6gg-jmgc] Deserialization of Untrusted Data in jackson-databind,https://github.com/advisories/GHSA-qr7j-h6gg-jmgc,https://j.mp/3dVRdfJ
+GithubAdvisories,[GHSA-35q2-47q7-3pc3] Potential exponential regex in monitor mode,https://github.com/advisories/GHSA-35q2-47q7-3pc3,https://j.mp/2QsjVvZ
+GithubAdvisories,[GHSA-72rj-36qc-47g7] Information Disclosure,https://github.com/advisories/GHSA-72rj-36qc-47g7,https://j.mp/3xrgTZt
