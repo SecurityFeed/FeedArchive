@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-0232 (paragon_active_assurance_control_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0232,https://j.mp/3gDeh4K
+NVD-NIST,CVE-2021-0233 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0233,https://j.mp/2Pqbb8U
+NVD-NIST,CVE-2021-0234 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0234,https://j.mp/3sZCJzE
+NVD-NIST,CVE-2021-0235 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0235,https://j.mp/2QAPTGf
+NVD-NIST,"CVE-2021-0236 (junos, junos_os_evolved)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0236,https://j.mp/32P5ogm
+NVD-NIST,CVE-2021-0248 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0248,https://j.mp/3xsNAFR
+NVD-NIST,CVE-2021-0249 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0249,https://j.mp/2Qt9ng8
+NVD-NIST,CVE-2021-0252 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0252,https://j.mp/3dSfIui
+NVD-NIST,CVE-2021-0253 (junos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0253,https://j.mp/3nu4qjc
+NVD-NIST,CVE-2021-21226 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21226,https://j.mp/3tYGy9N
+NVD-NIST,"CVE-2021-23133 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23133,https://j.mp/3tYGqHl
+NVD-NIST,"CVE-2021-29672 (spectrum_protect_client, spectrum_protect_for_space_management)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29672,https://j.mp/3ezh5gH
