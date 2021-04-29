@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9fgx-q25h-jxrg] DOM XSS in Theme Preview,https://github.com/advisories/GHSA-9fgx-q25h-jxrg,https://j.mp/3nvZKJA
+GithubAdvisories,[GHSA-q348-f93x-9gx4] Lack of Input Validation in zendesk_api_client_php for Zendesk Subdomain,https://github.com/advisories/GHSA-q348-f93x-9gx4,https://j.mp/3gOSBT7
+GithubAdvisories,[GHSA-4mg9-vhxq-vm7j] SQL Server LIMIT / OFFSET SQL Injection in laravel/framework and illuminate/database,https://github.com/advisories/GHSA-4mg9-vhxq-vm7j,https://j.mp/3u5O1nv
+GithubAdvisories,[GHSA-52qp-jpq7-6c54] Insecure Deserialization of untrusted data in rmccue/requests,https://github.com/advisories/GHSA-52qp-jpq7-6c54,https://j.mp/32Yavuv
+GithubAdvisories,[GHSA-h5h8-pc6h-jvvx] Missing argument delimiter can lead to code execution via VCS repository URLs or source download URLs on systems with Mercurial in composer,https://github.com/advisories/GHSA-h5h8-pc6h-jvvx,https://j.mp/3t53piv
+GithubAdvisories,[GHSA-867q-77cc-98mv] Creation of Temporary File in Directory with Insecure Permissions in the OpenAPI Generator Maven plugin,https://github.com/advisories/GHSA-867q-77cc-98mv,https://j.mp/3e3Wxh0
+GithubAdvisories,[GHSA-p48w-vf3c-rqjx] Cross-Site Scripting in Bootstrap Package,https://github.com/advisories/GHSA-p48w-vf3c-rqjx,https://j.mp/3e0axZf
