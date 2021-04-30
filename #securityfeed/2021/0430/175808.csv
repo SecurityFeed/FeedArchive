@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xrx6-fmxq-rjj2] Timing attacks in python-rsa,https://github.com/advisories/GHSA-xrx6-fmxq-rjj2,https://j.mp/2RhrchS
+GithubAdvisories,[GHSA-836c-xg97-8p4h] Server-Side Request Forgery in libtaxii,https://github.com/advisories/GHSA-836c-xg97-8p4h,https://j.mp/3u7rhn5
+GithubAdvisories,[GHSA-hhx9-p69v-cx2j] Authentication bypass in Apache Airflow,https://github.com/advisories/GHSA-hhx9-p69v-cx2j,https://j.mp/3t7NyzZ
+GithubAdvisories,[GHSA-77pw-c3j2-5fc8] Plaintext password leak in Apache Superset,https://github.com/advisories/GHSA-77pw-c3j2-5fc8,https://j.mp/334puDu
+GithubAdvisories,[GHSA-3gqj-cmxr-p4x2] Forced Browsing in Twisted,https://github.com/advisories/GHSA-3gqj-cmxr-p4x2,https://j.mp/3xBXdSH
+GithubAdvisories,[GHSA-hmv2-79q8-fv6g] Uncontrolled Resource Consumption in urllib3,https://github.com/advisories/GHSA-hmv2-79q8-fv6g,https://j.mp/3u9aCzA
+GithubAdvisories,[GHSA-8cr8-4vfw-mr7h] Round-trip instability in REXML,https://github.com/advisories/GHSA-8cr8-4vfw-mr7h,https://j.mp/3h4TPKr
+GithubAdvisories,[GHSA-qgp4-5qx6-548g] Cross-site scripting (XSS) from unsanitized uploaded SVG files in Kirby,https://github.com/advisories/GHSA-qgp4-5qx6-548g,https://j.mp/3ucYYUg
+GithubAdvisories,[GHSA-rv39-3qh7-9v7w] Improper Input Validation in Spring Framework,https://github.com/advisories/GHSA-rv39-3qh7-9v7w,https://j.mp/3aSfTDZ
+GithubAdvisories,[GHSA-qgcg-p3v2-9h4p] Externally Controlled Reference to a Resource in Another Sphere and Confused Deputy in Spring Cloud Netflix,https://github.com/advisories/GHSA-qgcg-p3v2-9h4p,https://j.mp/2RhwpGv
+GithubAdvisories,[GHSA-rhh9-cm65-3w54] Improper Authentication in Apache Hadoop,https://github.com/advisories/GHSA-rhh9-cm65-3w54,https://j.mp/3u3wRqu
+GithubAdvisories,[GHSA-78vq-9j56-wrfr] Cross-site Scripting in gon,https://github.com/advisories/GHSA-78vq-9j56-wrfr,https://j.mp/334pymI
+GithubAdvisories,[GHSA-p9w3-gwc2-cr49] HTTP Request Smuggling in Undertow,https://github.com/advisories/GHSA-p9w3-gwc2-cr49,https://j.mp/3gZaX3Q
+GithubAdvisories,[GHSA-g4cp-h53p-v3v8] Improper Restriction of Operations within the Bounds of a Memory Buffer in Undertow,https://github.com/advisories/GHSA-g4cp-h53p-v3v8,https://j.mp/3ba5eF1
+GithubAdvisories,[GHSA-cccf-7xw3-p2vr] HTTP Request Smuggling in Undertow,https://github.com/advisories/GHSA-cccf-7xw3-p2vr,https://j.mp/330Cb20
+GithubAdvisories,[GHSA-rfw2-x9f8-2f6m] Cross-Site Scripting,https://github.com/advisories/GHSA-rfw2-x9f8-2f6m,https://j.mp/3e7s2qF
