@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Micro Focus Operations Bridge Reporter Unauthenticated Command Injection,https://packetstormsecurity.com/files/162408/microfocus_obr_cmd_injection.rb.txt,https://j.mp/3gPE2Pp
+PacketstormSecurity,Micro Focus Operations Bridge Reporter shrboadmin Default Password,https://packetstormsecurity.com/files/162407/microfocus_obr_shrboadmin.rb.txt,https://j.mp/3ukbelK
+PacketstormSecurity,OX App Suite / OX Guard SSRF / DoS / Cross Site Scripting,https://packetstormsecurity.com/files/162406/oxappsuiteguard-xssdosssrf.txt,https://j.mp/3vCXFhT
+PacketstormSecurity,Piwigo 11.3.0 SQL Injection,https://packetstormsecurity.com/files/162404/piwigo1130-sql.txt,https://j.mp/3u3afGC
+PacketstormSecurity,Backdoor.Win32.Agent.oj Code Execution,https://packetstormsecurity.com/files/162403/MVID-2021-0197.txt,https://j.mp/3nCuuZp
+PacketstormSecurity,Microsoft Windows UAC Privilege Escalation,https://packetstormsecurity.com/files/162402/mswin-uac.txt,https://j.mp/3nxV1ag
+PacketstormSecurity,Backdoor.Win32.Agent.oj Buffer Overflow,https://packetstormsecurity.com/files/162400/MVID-2021-0196.txt,https://j.mp/3eG7hS8
+PacketstormSecurity,Moodle 3.6.1 Cross Site Scripting,https://packetstormsecurity.com/files/162399/moodle361-xss.txt,https://j.mp/3e6Iuri
+PacketstormSecurity,Backdoor.Win32.Agent.kte Buffer Overflow,https://packetstormsecurity.com/files/162398/MVID-2021-0195.txt,https://j.mp/3aPTR4G
+PacketstormSecurity,Backdoor.Win32.Agent.gmug Heap Corruption,https://packetstormsecurity.com/files/162397/MVID-2021-0194.txt,https://j.mp/2RdnCFE
+PacketstormSecurity,Red Hat Security Advisory 2021-1469-01,https://packetstormsecurity.com/files/162396/RHSA-2021-1469-01.txt,https://j.mp/3xBD5A7
+PacketstormSecurity,GNU wget Arbitrary File Upload / Code Execution,https://packetstormsecurity.com/files/162395/wget-uploadexec.txt,https://j.mp/2RhbbbN
+PacketstormSecurity,Backdoor.Win32.Agent.ggw Authentication Bypass,https://packetstormsecurity.com/files/162394/MVID-2021-0193.txt,https://j.mp/3tdf0wg
+PacketstormSecurity,Worm.Win32.Delf.hu Insecure Permissions,https://packetstormsecurity.com/files/162393/MVID-2021-0192.txt,https://j.mp/3nxV0TK
+PacketstormSecurity,HEUR.Trojan.Win32.Bayrob.gen Insecure Permissions,https://packetstormsecurity.com/files/162392/MVID-2021-0191.txt,https://j.mp/3t1Pmuh
+PacketstormSecurity,Shortcut Hotkey Exploitation,https://packetstormsecurity.com/files/162391/shortcut-hotkey.pdf,https://j.mp/2PBekCT
+PacketstormSecurity,Microsoft SAFER Bypass,https://packetstormsecurity.com/files/162401/mssafer-notsosafe.txt,https://j.mp/2Si3SkT
