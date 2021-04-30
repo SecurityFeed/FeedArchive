@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,CVE-2021-29921 – python stdlib “ipaddress” – Improper Input Validation of octal literals in python 3.8.0+ results in indeterminate SSRF & RFI vulnerabilities. — “ipaddress leading zeros in IPv4 address”,https://redd.it/n264o0,
