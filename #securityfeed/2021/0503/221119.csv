@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20095 (babel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20095,https://j.mp/3xMMc0P
+NVD-NIST,"CVE-2021-20228 (ansible_automation_platform, ansible_engine, ansible_tower)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20228,https://j.mp/3uhaEp6
+NVD-NIST,CVE-2021-25166 (airwave),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25166,https://j.mp/3b14YI9
+NVD-NIST,CVE-2021-25167 (airwave),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25167,https://j.mp/3ekeokh
+NVD-NIST,CVE-2021-29137 (airwave),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29137,https://j.mp/2QJBQyo
