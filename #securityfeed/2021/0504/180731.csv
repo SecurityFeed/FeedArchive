@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4j5-c7cj-74xg] Arbitrary Code Injection,https://github.com/advisories/GHSA-h4j5-c7cj-74xg,https://j.mp/3ekwLpc
+GithubAdvisories,[GHSA-4whq-r978-2x68] Arbitrary code execution in ExifTool,https://github.com/advisories/GHSA-4whq-r978-2x68,https://j.mp/2RmMkng
+GithubAdvisories,[GHSA-58qp-5328-v7mh] Improper Input Validation and Loop with Unreachable Exit Condition ('Infinite Loop') in cumulative-distribution-function,https://github.com/advisories/GHSA-58qp-5328-v7mh,https://j.mp/2PMo0KU
+GithubAdvisories,"[GHSA-fcr8-6q7r-m4wg] Bypass of fix for CVE-2020-26231, Twig sandbox escape",https://github.com/advisories/GHSA-fcr8-6q7r-m4wg,https://j.mp/3vMFSVz
+GithubAdvisories,[GHSA-m298-fh5c-jc66] Object injection in PHPMailer/PHPMailer,https://github.com/advisories/GHSA-m298-fh5c-jc66,https://j.mp/3uw6KZL
+GithubAdvisories,[GHSA-c332-w4jm-55wv] Regular expression Denial of Service (ReDoS) in EmailValidator class in V7 compatibility module in Vaadin 8,https://github.com/advisories/GHSA-c332-w4jm-55wv,https://j.mp/3eghnKc
