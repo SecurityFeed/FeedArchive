@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm7m-xg4h-6m52] Allocation of Resources Without Limits or Throttling in Apache Tika,https://github.com/advisories/GHSA-mm7m-xg4h-6m52,https://j.mp/2RuKtNf
+GithubAdvisories,[GHSA-mfwh-gqx8-c787] Allocation of Resources Without Limits or Throttling in Apache Tika,https://github.com/advisories/GHSA-mfwh-gqx8-c787,https://j.mp/2QPy9Hu
