@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7wjx-3g7j-8584] Denial of Service in Action Controller Token Authentication,https://github.com/advisories/GHSA-7wjx-3g7j-8584,https://j.mp/3eiLMHY
+GithubAdvisories,[GHSA-hjg4-8q5f-x6fm] Information Disclosure / Unintended Method Execution in Action Pack,https://github.com/advisories/GHSA-hjg4-8q5f-x6fm,https://j.mp/2RrmkHp
+GithubAdvisories,[GHSA-5hq2-xf89-9jxq] Open Redirect in Action Pack,https://github.com/advisories/GHSA-5hq2-xf89-9jxq,https://j.mp/3usB0Va
+GithubAdvisories,[GHSA-g8ww-46x2-2p65] Denial of Service in Action Dispatch,https://github.com/advisories/GHSA-g8ww-46x2-2p65,https://j.mp/3usB1sc
