@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-85cp-p426-42f5] Prototype Pollution in deep-get-set,https://github.com/advisories/GHSA-85cp-p426-42f5,https://j.mp/3tkwOpf
+GithubAdvisories,[GHSA-jh2m-j8pp-55rc] Prototype Pollution in gedi,https://github.com/advisories/GHSA-jh2m-j8pp-55rc,https://j.mp/3b3G8aA
+GithubAdvisories,[GHSA-j4rw-x3vg-c8r7] Prototype Pollution in node-oojs,https://github.com/advisories/GHSA-j4rw-x3vg-c8r7,https://j.mp/2RqoFSN
+GithubAdvisories,[GHSA-f98m-q3hr-p5wq] Prototype Pollution in locutus,https://github.com/advisories/GHSA-f98m-q3hr-p5wq,https://j.mp/3usQW9T
+GithubAdvisories,[GHSA-fmrr-mx6j-h3h5] Prototype Pollution in confucious,https://github.com/advisories/GHSA-fmrr-mx6j-h3h5,https://j.mp/3upZWwp
+GithubAdvisories,[GHSA-qr4m-jcvc-3382] Prototype Pollution in dot-notes,https://github.com/advisories/GHSA-qr4m-jcvc-3382,https://j.mp/33kbw06
+GithubAdvisories,[GHSA-rgfv-v3jh-7ffp] Prototype Pollution in deeps,https://github.com/advisories/GHSA-rgfv-v3jh-7ffp,https://j.mp/3tp7r5I
+GithubAdvisories,[GHSA-w8f3-pvx4-4c3h] Prototype Pollution in arr-flatten-unflatten,https://github.com/advisories/GHSA-w8f3-pvx4-4c3h,https://j.mp/3eZyq2r
+GithubAdvisories,[GHSA-3c6g-pvg8-gqw2] Command injection in json,https://github.com/advisories/GHSA-3c6g-pvg8-gqw2,https://j.mp/33lW3ge
+GithubAdvisories,[GHSA-gh78-48h3-frjq] Improper exception handling in Aedes,https://github.com/advisories/GHSA-gh78-48h3-frjq,https://j.mp/2Rxiaxq
