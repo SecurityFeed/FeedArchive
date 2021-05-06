@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cx9-7xqc-2jxm] Reflected cross-site scripting in francoisjacquet/rosariosis,https://github.com/advisories/GHSA-4cx9-7xqc-2jxm,https://j.mp/3uum09h
+GithubAdvisories,[GHSA-cv7m-wc7g-7gfp] Cross-Site Request Forgery in MAGMI,https://github.com/advisories/GHSA-cv7m-wc7g-7gfp,https://j.mp/3f0zbbn
+GithubAdvisories,[GHSA-g475-pch5-6wvv] Authentication bypass in MAGMI,https://github.com/advisories/GHSA-g475-pch5-6wvv,https://j.mp/2RwrXUy
+GithubAdvisories,[GHSA-w68r-5p45-5rqp] Improper Input Validation in Laravel,https://github.com/advisories/GHSA-w68r-5p45-5rqp,https://j.mp/3uprB0w
+GithubAdvisories,[GHSA-36fm-v9wv-56jf] Cross-site Scripting in OpenCart,https://github.com/advisories/GHSA-36fm-v9wv-56jf,https://j.mp/3h81Yxm
+GithubAdvisories,[GHSA-8jmh-c6vr-pmvm] SQL Injection in pimcore,https://github.com/advisories/GHSA-8jmh-c6vr-pmvm,https://j.mp/3eWJAoJ
+GithubAdvisories,"[GHSA-v47f-vp3p-5j6h] ""Cross-site scripting in ThinkAdmin""",https://github.com/advisories/GHSA-v47f-vp3p-5j6h,https://j.mp/3nQEI8E
+GithubAdvisories,"[GHSA-4mqv-gcr3-pff9] ""Cross-site scripting in phpoffice/phpspreadsheet""",https://github.com/advisories/GHSA-4mqv-gcr3-pff9,https://j.mp/3tqcsLc
+GithubAdvisories,[GHSA-w8cj-mvf9-mpc9] OS Command injection in Bolt,https://github.com/advisories/GHSA-w8cj-mvf9-mpc9,https://j.mp/3eXJjBJ
+GithubAdvisories,[GHSA-pvgf-mrr4-cw7r] Cross-Site Request Forgery in ForkCMS,https://github.com/advisories/GHSA-pvgf-mrr4-cw7r,https://j.mp/3xSbB9G
+GithubAdvisories,[GHSA-h59f-p56g-g75v] SQL Injection in librenms,https://github.com/advisories/GHSA-h59f-p56g-g75v,https://j.mp/3eXbjp7
+GithubAdvisories,[GHSA-g57j-q48p-9vm2] Command injection in Gerapy,https://github.com/advisories/GHSA-g57j-q48p-9vm2,https://j.mp/3h3Gou9
+GithubAdvisories,[GHSA-3vcg-8p79-jpcv] Improper Restriction of XML External Entity Reference in svglib,https://github.com/advisories/GHSA-3vcg-8p79-jpcv,https://j.mp/2PXKuJ6
+GithubAdvisories,[GHSA-xc3p-ff3m-f46v] Insecure input handling in Flask-Cors,https://github.com/advisories/GHSA-xc3p-ff3m-f46v,https://j.mp/2RA7FcE
