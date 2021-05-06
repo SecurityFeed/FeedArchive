@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-79jw-6wg7-r9g4] Use of Potentially Dangerous Function in mixme,https://github.com/advisories/GHSA-79jw-6wg7-r9g4,https://j.mp/3tk3XkV
+GithubAdvisories,[GHSA-8j65-4pcq-xq95] Options structure open to XSS if passed unfiltered,https://github.com/advisories/GHSA-8j65-4pcq-xq95,https://j.mp/3etEOQF
+GithubAdvisories,[GHSA-qrmm-w4v4-q7f8] Unauthorized access through URL manipulation,https://github.com/advisories/GHSA-qrmm-w4v4-q7f8,https://j.mp/3h7chSo
+GithubAdvisories,[GHSA-p826-8vhq-h439] Insecure temporary directory usage in frontend build functionality of Vaadin 14 and 15-19,https://github.com/advisories/GHSA-p826-8vhq-h439,https://j.mp/3nRymWu
+GithubAdvisories,[GHSA-c57f-4vp2-jqhm] Insecure temporary directory usage in frontend build functionality of Vaadin 14 and 15-19,https://github.com/advisories/GHSA-c57f-4vp2-jqhm,https://j.mp/3nWAoF0
