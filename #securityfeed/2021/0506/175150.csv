@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fw4-hr69-g3rv] Prototype Pollution in property-expr,https://github.com/advisories/GHSA-6fw4-hr69-g3rv,https://j.mp/3nRL9YU
+GithubAdvisories,[GHSA-8vv3-jxm8-f4vf] Prototype Pollution in connie-lang,https://github.com/advisories/GHSA-8vv3-jxm8-f4vf,https://j.mp/3urLXGC
+GithubAdvisories,"[GHSA-j7cg-h9v9-6vqp] ""Prototype Pollution in irrelon-path and @irrelon/path""",https://github.com/advisories/GHSA-j7cg-h9v9-6vqp,https://j.mp/3y2nycW
+GithubAdvisories,[GHSA-c7m7-4257-h698] Prototype Pollution in templ8,https://github.com/advisories/GHSA-c7m7-4257-h698,https://j.mp/2SnXvfK
+GithubAdvisories,[GHSA-gr58-j5wh-m333] Prototype Pollution in nis-utils,https://github.com/advisories/GHSA-gr58-j5wh-m333,https://j.mp/3vL4z4p
+GithubAdvisories,[GHSA-jvf5-q4h5-2jmj] Prototype Pollution in madlib-object-utils,https://github.com/advisories/GHSA-jvf5-q4h5-2jmj,https://j.mp/3nVGyFq
+GithubAdvisories,[GHSA-m428-jqc4-2p5j] Prototype Pollution in phpjs,https://github.com/advisories/GHSA-m428-jqc4-2p5j,https://j.mp/3epNffD
+GithubAdvisories,[GHSA-p9f8-gqjf-m75j] Uncontrolled Resource Consumption in fastify-multipart,https://github.com/advisories/GHSA-p9f8-gqjf-m75j,https://j.mp/3uqS6mp
+GithubAdvisories,[GHSA-p7j5-4mwm-hv86] Cross-site scripting in TinyMCE,https://github.com/advisories/GHSA-p7j5-4mwm-hv86,https://j.mp/3nUgydo
+GithubAdvisories,[GHSA-vh6r-g38f-q3w8] Validation bypass in jpv,https://github.com/advisories/GHSA-vh6r-g38f-q3w8,https://j.mp/3ukTLtD
