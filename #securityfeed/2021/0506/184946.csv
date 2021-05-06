@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4h8-7qff-gh6c] Server-side request forgery in Ghost CMS,https://github.com/advisories/GHSA-q4h8-7qff-gh6c,https://j.mp/2QXzA6s
+GithubAdvisories,[GHSA-7vm7-j8p7-h346] Code injection in blamer,https://github.com/advisories/GHSA-7vm7-j8p7-h346,https://j.mp/3felB4D
+GithubAdvisories,[GHSA-6xv6-jpvw-cx6q] Command injection in bestzip,https://github.com/advisories/GHSA-6xv6-jpvw-cx6q,https://j.mp/3uscSSv
+GithubAdvisories,[GHSA-m5pj-vjjf-4m3h] Arbitrary Code Execution in grunt,https://github.com/advisories/GHSA-m5pj-vjjf-4m3h,https://j.mp/33mhCxm
+GithubAdvisories,[GHSA-jpq3-xf27-5jf2] Prototype Pollution in safe-object2,https://github.com/advisories/GHSA-jpq3-xf27-5jf2,https://j.mp/3xPVZDx
+GithubAdvisories,[GHSA-9829-jj5p-j6hf] Prototype Pollution in worksmith,https://github.com/advisories/GHSA-9829-jj5p-j6hf,https://j.mp/33zupwx
+GithubAdvisories,[GHSA-p6jh-p7q8-pcrg] Prototype Pollution in nodee-utils,https://github.com/advisories/GHSA-p6jh-p7q8-pcrg,https://j.mp/3vILaBl
+GithubAdvisories,[GHSA-pgmg-gf5p-54j8] Prototype Pollution in gammautils,https://github.com/advisories/GHSA-pgmg-gf5p-54j8,https://j.mp/2RzY99t
+GithubAdvisories,[GHSA-rj5f-7c8x-gjg4] Prototype Pollution in promisehelpers,https://github.com/advisories/GHSA-rj5f-7c8x-gjg4,https://j.mp/3nTpOhS
+GithubAdvisories,[GHSA-g4xj-wcq6-qwx5] Code injection in mock2easy,https://github.com/advisories/GHSA-g4xj-wcq6-qwx5,https://j.mp/3xVt5C6
