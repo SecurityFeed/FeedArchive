@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v27-2fg9-7h62] Withdrawn: Arbitrary Code Execution in static-eval,https://github.com/advisories/GHSA-8v27-2fg9-7h62,https://j.mp/33nbV1S
+GithubAdvisories,[GHSA-78cj-fxph-m83p] Regular Expression Denial of Service (ReDoS) in ua-parser-js,https://github.com/advisories/GHSA-78cj-fxph-m83p,https://j.mp/33mrAyI
+GithubAdvisories,[GHSA-9m6j-fcg5-2442] Path reaversal in url-parse,https://github.com/advisories/GHSA-9m6j-fcg5-2442,https://j.mp/3h6wUOx
+GithubAdvisories,[GHSA-43f8-2h32-f4cj] Regular Expression Deinal of Service in hosted-git-info,https://github.com/advisories/GHSA-43f8-2h32-f4cj,https://j.mp/2RylhVP
+GithubAdvisories,[GHSA-mjxr-4v3x-q3m4] Improper Input Validation in sanitize-html,https://github.com/advisories/GHSA-mjxr-4v3x-q3m4,https://j.mp/2PT3poe
+GithubAdvisories,[GHSA-rjqq-98f6-6j3r] Improper Input Validation in sanitize-html,https://github.com/advisories/GHSA-rjqq-98f6-6j3r,https://j.mp/33iVjs3
+GithubAdvisories,[GHSA-cf4h-3jhx-xvhq] Arbitrary Code Execution in underscore,https://github.com/advisories/GHSA-cf4h-3jhx-xvhq,https://j.mp/3nUnCqz
+GithubAdvisories,[GHSA-35jh-r3h4-6jhm] Command Injection in lodash,https://github.com/advisories/GHSA-35jh-r3h4-6jhm,https://j.mp/3tqnAaI
+GithubAdvisories,[GHSA-hpmr-g4pq-jhgp] Denial of service in chrono-node,https://github.com/advisories/GHSA-hpmr-g4pq-jhgp,https://j.mp/2RwX42c
+GithubAdvisories,[GHSA-f2jv-r9rf-7988] Remote code execution in handlebars when compiling templates,https://github.com/advisories/GHSA-f2jv-r9rf-7988,https://j.mp/2Rr6QD8
+GithubAdvisories,[GHSA-xfxf-qw26-hr33] Arbitrary command execution in roar-pidusage,https://github.com/advisories/GHSA-xfxf-qw26-hr33,https://j.mp/2Svhh9k
+GithubAdvisories,[GHSA-f39r-cpmj-whcg] Command Injection in ffmpegdotjs,https://github.com/advisories/GHSA-f39r-cpmj-whcg,https://j.mp/33mqanG
+GithubAdvisories,[GHSA-cq77-8jpx-892g] Command Injection in killing,https://github.com/advisories/GHSA-cq77-8jpx-892g,https://j.mp/3vMEvpL
+GithubAdvisories,[GHSA-r6fw-8m27-43c9] Command injection in portkiller,https://github.com/advisories/GHSA-r6fw-8m27-43c9,https://j.mp/33irl7P
+GithubAdvisories,[GHSA-m8fm-mv5w-33pv] Command Injection in psnode,https://github.com/advisories/GHSA-m8fm-mv5w-33pv,https://j.mp/3urM8S7
+GithubAdvisories,[GHSA-qcg2-h349-vwm3] Cross-site Scripting in React Draft Wysiwyg,https://github.com/advisories/GHSA-qcg2-h349-vwm3,https://j.mp/3tjybo0
+GithubAdvisories,[GHSA-8qpm-5c82-rf96] Prototype Pollution in backbone-query-parameters,https://github.com/advisories/GHSA-8qpm-5c82-rf96,https://j.mp/3ekMAvT
