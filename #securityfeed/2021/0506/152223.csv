@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46f2-3v63-3xrp] Path traversal in Tempfile on Windows,https://github.com/advisories/GHSA-46f2-3v63-3xrp,https://j.mp/3tjlCsQ
