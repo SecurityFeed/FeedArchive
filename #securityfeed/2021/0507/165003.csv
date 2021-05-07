@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c82-mp33-r854] Cross-site scripting in bootstrap-select,https://github.com/advisories/GHSA-7c82-mp33-r854,https://j.mp/3exrJWx
+GithubAdvisories,[GHSA-qm28-7hqv-wg5j] OS Command Injection in ng-packagr,https://github.com/advisories/GHSA-qm28-7hqv-wg5j,https://j.mp/3nZ0szm
+GithubAdvisories,[GHSA-wgfq-7857-4jcc] Uncontrolled Resource Consumption in json-bigint,https://github.com/advisories/GHSA-wgfq-7857-4jcc,https://j.mp/3f3aZVP
+GithubAdvisories,[GHSA-pf2j-9qmp-jqr2] SQL Injection and MAID in TypeORM,https://github.com/advisories/GHSA-pf2j-9qmp-jqr2,https://j.mp/3hb763N
+GithubAdvisories,[GHSA-vcjf-mgcg-jxjq] Cross-site Scripting in CKEditor 4.0,https://github.com/advisories/GHSA-vcjf-mgcg-jxjq,https://j.mp/3eqv2hW
+GithubAdvisories,[GHSA-6hwh-rqwf-cxxr] Improper Input Validation in vega-util,https://github.com/advisories/GHSA-6hwh-rqwf-cxxr,https://j.mp/33oTFVX
+GithubAdvisories,[GHSA-cgc7-mwp4-3ccx] Cross-site Scripting in Joplin,https://github.com/advisories/GHSA-cgc7-mwp4-3ccx,https://j.mp/3trhJCb
+GithubAdvisories,[GHSA-9534-h433-2rjf] Improper Input Validation in utilitify,https://github.com/advisories/GHSA-9534-h433-2rjf,https://j.mp/3nUml2G
+GithubAdvisories,[GHSA-fmf5-j5j9-99pp] Injection in pulverizr,https://github.com/advisories/GHSA-fmf5-j5j9-99pp,https://j.mp/2RxqSfd
