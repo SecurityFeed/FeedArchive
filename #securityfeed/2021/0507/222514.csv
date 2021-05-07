@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-4987 (flashsystem_900_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4987,https://j.mp/3bbij0D
+NVD-NIST,CVE-2021-1426 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1426,https://j.mp/33s7YZP
+NVD-NIST,CVE-2021-1427 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1427,https://j.mp/3nYyPWV
+NVD-NIST,CVE-2021-1428 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1428,https://j.mp/33t4NRP
+NVD-NIST,CVE-2021-1429 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1429,https://j.mp/3hgtKYV
+NVD-NIST,CVE-2021-1430 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1430,https://j.mp/33s7Zgl
+NVD-NIST,CVE-2021-1496 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1496,https://j.mp/3eWzuEg
+NVD-NIST,CVE-2021-1519 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1519,https://j.mp/2R6rOat
+NVD-NIST,CVE-2021-21551 (debutil_2_3.sys),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21551,https://j.mp/3nYuDX5
+NVD-NIST,CVE-2021-24268 (jetwidgets_for_elementor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24268,https://j.mp/3bcJdoR
