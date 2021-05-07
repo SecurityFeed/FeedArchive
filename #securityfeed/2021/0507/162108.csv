@@ -1,0 +1,34 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-662x-fhqg-9p8v] Regular Expression Denial of Service in ua-parser-js,https://github.com/advisories/GHSA-662x-fhqg-9p8v,https://j.mp/3epjRWK
+GithubAdvisories,[GHSA-2cf2-2383-h4jv] Injection in querymen,https://github.com/advisories/GHSA-2cf2-2383-h4jv,https://j.mp/3ttx19E
+GithubAdvisories,[GHSA-fw5f-7c6c-3vmv] Cross-site Scripting in PrimeFaces,https://github.com/advisories/GHSA-fw5f-7c6c-3vmv,https://j.mp/33qHCY8
+GithubAdvisories,[GHSA-f8fh-8rgm-227h] Injection in node-prompt-here,https://github.com/advisories/GHSA-f8fh-8rgm-227h,https://j.mp/33oNCAJ
+GithubAdvisories,[GHSA-m647-5wf9-3jp3] Injection in closure-compiler-stream,https://github.com/advisories/GHSA-m647-5wf9-3jp3,https://j.mp/3updxEi
+GithubAdvisories,[GHSA-g4hj-r7r3-9rwv] Injection in gulp-scss-lint,https://github.com/advisories/GHSA-g4hj-r7r3-9rwv,https://j.mp/2R4OwzV
+GithubAdvisories,[GHSA-x67x-98x7-wv26] Injection in gulp-tape,https://github.com/advisories/GHSA-x67x-98x7-wv26,https://j.mp/3nYraaY
+GithubAdvisories,[GHSA-h33p-5j96-w8qh] Injection in gulkp-styledocco,https://github.com/advisories/GHSA-h33p-5j96-w8qh,https://j.mp/3w2I2R5
+GithubAdvisories,[GHSA-q6pj-jh94-5fpr] Injction in docker-compose-remote-api,https://github.com/advisories/GHSA-q6pj-jh94-5fpr,https://j.mp/3vMF4jm
+GithubAdvisories,[GHSA-xr8h-53xr-jhcm] Path Traversal in marked-tree,https://github.com/advisories/GHSA-xr8h-53xr-jhcm,https://j.mp/3bslOjB
+GithubAdvisories,[GHSA-vh5w-fg69-rc8m] Improper Input Validation in Google Closure Library,https://github.com/advisories/GHSA-vh5w-fg69-rc8m,https://j.mp/3y5aweK
+GithubAdvisories,[GHSA-v2jv-33gh-xx29] Command Injection in ps-visitor,https://github.com/advisories/GHSA-v2jv-33gh-xx29,https://j.mp/3tqI2bO
+GithubAdvisories,[GHSA-rhwp-9vm9-547q] Command Injection in onion-oled-js,https://github.com/advisories/GHSA-rhwp-9vm9-547q,https://j.mp/33oprCv
+GithubAdvisories,[GHSA-wq7q-5v6j-xfv6] Command Injection in picotts,https://github.com/advisories/GHSA-wq7q-5v6j-xfv6,https://j.mp/3o3Y0aD
+GithubAdvisories,[GHSA-8pww-pp5r-rff8] Path Traversal in marscode,https://github.com/advisories/GHSA-8pww-pp5r-rff8,https://j.mp/3ut9VRD
+GithubAdvisories,[GHSA-73rg-x683-m3qw] Buffer overflow in canvas,https://github.com/advisories/GHSA-73rg-x683-m3qw,https://j.mp/3xU1WiC
+GithubAdvisories,[GHSA-v8w9-2789-6hhr] Deserialization of Untrusted Data in bson,https://github.com/advisories/GHSA-v8w9-2789-6hhr,https://j.mp/2Sul2eZ
+GithubAdvisories,[GHSA-v3px-6cc8-f8j3] Path traversal in servey,https://github.com/advisories/GHSA-v3px-6cc8-f8j3,https://j.mp/3nUgJFE
+GithubAdvisories,[GHSA-mg53-xr8m-86hw] Open Redirect in Liferay Portal,https://github.com/advisories/GHSA-mg53-xr8m-86hw,https://j.mp/3nX6nVj
+GithubAdvisories,[GHSA-24ww-mc5x-xc43] Man-in-the-middle attack in Apache Cassandra,https://github.com/advisories/GHSA-24ww-mc5x-xc43,https://j.mp/3nYrcQ8
+GithubAdvisories,[GHSA-wcp5-m52f-mhh5] Improper Restriction of XML External Entity Reference in MPXJ,https://github.com/advisories/GHSA-wcp5-m52f-mhh5,https://j.mp/3vIXAci
+GithubAdvisories,[GHSA-4fcw-pq4r-f4q7] Server-Side Request Forgery in Spinnaker Orca,https://github.com/advisories/GHSA-4fcw-pq4r-f4q7,https://j.mp/3utxfyB
+GithubAdvisories,[GHSA-2vgm-wxr3-6w2j] Authentication bypass in Apache Shiro,https://github.com/advisories/GHSA-2vgm-wxr3-6w2j,https://j.mp/3tsrdNu
+GithubAdvisories,[GHSA-64gv-3pqv-299h] Exposure of Sensitive Information to an Unauthorized Actor in Apache Wicket,https://github.com/advisories/GHSA-64gv-3pqv-299h,https://j.mp/3epjStM
+GithubAdvisories,[GHSA-3264-3fm9-fg44] Infinite Loop in Apache Tika,https://github.com/advisories/GHSA-3264-3fm9-fg44,https://j.mp/3nUKZAf
+GithubAdvisories,[GHSA-3h29-52vh-pqgr] Uncontrolled Resource Consumption in Apache Tika,https://github.com/advisories/GHSA-3h29-52vh-pqgr,https://j.mp/2RD6B7V
+GithubAdvisories,[GHSA-4pv3-63jw-4jw2] Missing Release of Memory after Effective Lifetime in Apache Tika,https://github.com/advisories/GHSA-4pv3-63jw-4jw2,https://j.mp/33pY1MI
+GithubAdvisories,[GHSA-grpf-gg7v-5g5h] SQL Injection in Apache SkyWalking,https://github.com/advisories/GHSA-grpf-gg7v-5g5h,https://j.mp/2SqGilS
+GithubAdvisories,[GHSA-26gr-cvq3-qxgf] Improper Authentication in Apache Shiro,https://github.com/advisories/GHSA-26gr-cvq3-qxgf,https://j.mp/3ba93Kc
+GithubAdvisories,[GHSA-72w9-fcj5-3fcg] Improper Authentication in Apache Shiro,https://github.com/advisories/GHSA-72w9-fcj5-3fcg,https://j.mp/3txzuzD
+GithubAdvisories,[GHSA-2382-qx5h-rvqh] SQL Injection in odata4j,https://github.com/advisories/GHSA-2382-qx5h-rvqh,https://j.mp/33mrirl
+GithubAdvisories,[GHSA-f96g-24cg-f24w] SQL Injection in odata4j,https://github.com/advisories/GHSA-f96g-24cg-f24w,https://j.mp/3epDTR5
+GithubAdvisories,[GHSA-9p9m-jm8w-94p2] Improper Handling of Highly Compressed Data (Data Amplification) and Memory Allocation with Excessive Size Value in eventlet,https://github.com/advisories/GHSA-9p9m-jm8w-94p2,https://j.mp/3f6c2EN
