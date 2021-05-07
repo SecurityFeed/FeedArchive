@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[local] WifiHotSpot 1.0.0.0 - 'WifiHotSpotService.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49845,https://j.mp/2RyEVRA
+ExploitDB,[dos] Sandboxie 5.49.7 - Denial of Service (PoC),https://www.exploit-db.com/exploits/49844,https://j.mp/3nUxyjH
+ExploitDB,[webapps] Voting System 1.0 - Authentication Bypass (SQLI),https://www.exploit-db.com/exploits/49843,https://j.mp/3b9oYbs
