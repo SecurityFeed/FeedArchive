@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gm8g-xhh8-rmwr] Prototype Pollution in doc-path,https://github.com/advisories/GHSA-gm8g-xhh8-rmwr,https://j.mp/3tCnMno
+GithubAdvisories,[GHSA-8v9x-9xqg-r8mr] Prototype pollution in json8-merge-patch,https://github.com/advisories/GHSA-8v9x-9xqg-r8mr,https://j.mp/3y4hjFh
+GithubAdvisories,[GHSA-7h43-gx24-p529] Prototype pollution in json8,https://github.com/advisories/GHSA-7h43-gx24-p529,https://j.mp/3txJJEd
+GithubAdvisories,[GHSA-48ww-j4fc-435p] Command injection in nodemailer,https://github.com/advisories/GHSA-48ww-j4fc-435p,https://j.mp/3tAdiFa
+GithubAdvisories,[GHSA-cf2x-rqc8-grfq] Regular expression deinal of service in express-validators,https://github.com/advisories/GHSA-cf2x-rqc8-grfq,https://j.mp/3exP4af
+GithubAdvisories,[GHSA-pp75-xfpw-37g9] Prototype pollution in grpc and @grpc/grpc-js,https://github.com/advisories/GHSA-pp75-xfpw-37g9,https://j.mp/3o2yAdB
+GithubAdvisories,[GHSA-x5r6-x823-9848] Arbitrary Code Execution in json-ptr,https://github.com/advisories/GHSA-x5r6-x823-9848,https://j.mp/3uNSStC
