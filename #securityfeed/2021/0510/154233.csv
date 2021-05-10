@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4943-9vgg-gr5r] Cross-site Scripting in quill,https://github.com/advisories/GHSA-4943-9vgg-gr5r,https://j.mp/3o7lTOK
+GithubAdvisories,[GHSA-c94v-8fff-73ph] Command Injection in @theia/messages,https://github.com/advisories/GHSA-c94v-8fff-73ph,https://j.mp/3tB1d2o
+GithubAdvisories,[GHSA-p3hc-fv2j-rp68] Prototype Pollution in swiper,https://github.com/advisories/GHSA-p3hc-fv2j-rp68,https://j.mp/3f1LW5G
+GithubAdvisories,[GHSA-hwj9-h5mp-3pm3] Regular Expression Denial of Service in postcss,https://github.com/advisories/GHSA-hwj9-h5mp-3pm3,https://j.mp/3f4wZQs
+GithubAdvisories,[GHSA-567x-m4wm-87v8] Infinite loop in Apache Tika,https://github.com/advisories/GHSA-567x-m4wm-87v8,https://j.mp/3ob4ULh
+GithubAdvisories,[GHSA-gq28-h5vg-8prx] Privilege escalation in spring security,https://github.com/advisories/GHSA-gq28-h5vg-8prx,https://j.mp/2R7fIhq
+GithubAdvisories,[GHSA-cpcr-74q9-74gp] Broken Authentication in Atlassian Connect Spring Boot,https://github.com/advisories/GHSA-cpcr-74q9-74gp,https://j.mp/3uAnS0r
+GithubAdvisories,[GHSA-vwpg-f6gw-rjvf] Incorrect Authorization in Spring Cloud Netflix Zuul,https://github.com/advisories/GHSA-vwpg-f6gw-rjvf,https://j.mp/3bhO4VL
+GithubAdvisories,[GHSA-jgcr-fg3g-qvw8] Improper permission handling in Apache Solr,https://github.com/advisories/GHSA-jgcr-fg3g-qvw8,https://j.mp/3y0Avnu
+GithubAdvisories,[GHSA-5phw-3jrp-3vj8] Server-Side Request Forgery in Apache Solr,https://github.com/advisories/GHSA-5phw-3jrp-3vj8,https://j.mp/3tzpbLM
+GithubAdvisories,[GHSA-vf7p-j8x6-xvwp] Incorrect Authorization in Apache Solr,https://github.com/advisories/GHSA-vf7p-j8x6-xvwp,https://j.mp/3hgn4de
+GithubAdvisories,[GHSA-2w7w-2j92-44hx] HTTP Request Smuggling in akka-http-core,https://github.com/advisories/GHSA-2w7w-2j92-44hx,https://j.mp/2RH4gsC
