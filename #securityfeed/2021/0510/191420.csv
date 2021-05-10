@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgpf-97c5-74fc] Regular expression denial of service in @absolunet/kafe,https://github.com/advisories/GHSA-hgpf-97c5-74fc,https://j.mp/2RI9q81
+GithubAdvisories,[GHSA-pw54-mh39-w3hc] Regular expression denial of service in npm-user-validate,https://github.com/advisories/GHSA-pw54-mh39-w3hc,https://j.mp/3fnoZu3
+GithubAdvisories,[GHSA-77xq-cpvg-7xm2] Prototype pollution in @tsed/core,https://github.com/advisories/GHSA-77xq-cpvg-7xm2,https://j.mp/3o2LisA
+GithubAdvisories,[GHSA-h68q-55jf-x68w] Prototype pollution in chart.js,https://github.com/advisories/GHSA-h68q-55jf-x68w,https://j.mp/3tFdumt
+GithubAdvisories,[GHSA-q26w-wjj2-22vv] Cross-site scripting in Joplin,https://github.com/advisories/GHSA-q26w-wjj2-22vv,https://j.mp/2RckNoy
+GithubAdvisories,[GHSA-grv5-w5vr-8h98] Path Traversal in droppy,https://github.com/advisories/GHSA-grv5-w5vr-8h98,https://j.mp/3bgPUGF
+GithubAdvisories,[GHSA-6vwx-mwp8-fh44] Cross-site Scripting in reveal.js,https://github.com/advisories/GHSA-6vwx-mwp8-fh44,https://j.mp/2RckNVA
+GithubAdvisories,[GHSA-rv7p-mmwq-x674] Improper Input Validation and Code Injection in pdf-image,https://github.com/advisories/GHSA-rv7p-mmwq-x674,https://j.mp/3eBKCY0
+GithubAdvisories,[GHSA-8p9r-f949-699g] Path Traversal in browserless-chrome,https://github.com/advisories/GHSA-8p9r-f949-699g,https://j.mp/33yjGlG
+GithubAdvisories,[GHSA-4gw3-8f77-f72c] Regular expression denial of service in codemirror,https://github.com/advisories/GHSA-4gw3-8f77-f72c,https://j.mp/3tFdqmJ
+GithubAdvisories,[GHSA-chwr-hf3w-c984] Regular Expression Denial of Service in dat.gui,https://github.com/advisories/GHSA-chwr-hf3w-c984,https://j.mp/3y4dobx
+GithubAdvisories,[GHSA-w5p7-h5w8-2hfq] Regular Expression Denial of Service in trim,https://github.com/advisories/GHSA-w5p7-h5w8-2hfq,https://j.mp/33zOh2t
+GithubAdvisories,[GHSA-7frv-9phw-vrvr] Authorization bypass in Strapi,https://github.com/advisories/GHSA-7frv-9phw-vrvr,https://j.mp/2RF6ZTJ
+GithubAdvisories,[GHSA-pxcf-v868-m492] Server-Side Request Forgery in osm-static-maps,https://github.com/advisories/GHSA-pxcf-v868-m492,https://j.mp/2SHeQR6
