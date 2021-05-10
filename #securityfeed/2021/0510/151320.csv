@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g98m-96g9-wfjq] Insecure path handling in Bundler,https://github.com/advisories/GHSA-g98m-96g9-wfjq,https://j.mp/3vRkMoX
