@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c7v-2f49-8h26] Cleartext Transmission of Sensitive Information in Django,https://github.com/advisories/GHSA-6c7v-2f49-8h26,https://j.mp/3vXaELc
+GithubAdvisories,[GHSA-c4qh-4vgv-qc6g] Uncontrolled Resource Consumption in Django,https://github.com/advisories/GHSA-c4qh-4vgv-qc6g,https://j.mp/3oc7Nvl
+GithubAdvisories,[GHSA-h5jv-4p7w-64jg] Uncontrolled Resource Consumption in Django,https://github.com/advisories/GHSA-h5jv-4p7w-64jg,https://j.mp/33zm5wt
