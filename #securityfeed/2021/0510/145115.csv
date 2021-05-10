@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Justice Department Quietly Seized Washington Post Reporters' Phone Records During Trump Era,https://packetstormsecurity.com/news/view/32272/Justice-Department-Quietly-Seized-Washington-Post-Reporters-Phone-Records-During-Trump-Era.html,https://j.mp/3eAHgow
+PacketstormSecurity,Group Pleads Guilty To Running Bulletproof Hosting Service,https://packetstormsecurity.com/news/view/32270/Group-Pleads-Guilty-To-Running-Bulletproof-Hosting-Service.html,https://j.mp/3ofodTX
+PacketstormSecurity,"Amazon Seized, Destroyed Two Million Fake Products In 2020",https://packetstormsecurity.com/news/view/32271/Amazon-Seized-Destroyed-Two-Million-Fake-Products-In-2020.html,https://j.mp/3bgWddc
+PacketstormSecurity,Major U.S. Pipeline Crippled In Ransomware Attack,https://packetstormsecurity.com/news/view/32273/Major-U.S.-Pipeline-Crippled-In-Ransomware-Attack.html,https://j.mp/33ybvWx
+PacketstormSecurity,Botan C++ Crypto Algorithms Library 2.18.1,https://packetstormsecurity.com/files/162520/Botan-2.18.1.tar.xz,https://j.mp/3f7HrXd
+PacketstormSecurity,TestSSL 3.0.5,https://packetstormsecurity.com/files/162519/testssl.sh-3.0.5.tar.gz,https://j.mp/3uzQ2bT
+PacketstormSecurity,AWS CloudShell Terminal Escape Injection / Remote Code Execution,https://packetstormsecurity.com/files/162518/GS20210510143332.txt,https://j.mp/3uzrqzO
+PacketstormSecurity,OpenNetAdmin 18.1.1 Remote Command Execution,https://packetstormsecurity.com/files/162516/opennetadmin85141811-exec.txt,https://j.mp/2Q3ygyu
+PacketstormSecurity,Human Resource Information System 0.1 Cross Site Scripting,https://packetstormsecurity.com/files/162515/hris01-xss.txt,https://j.mp/3ezeB35
+PacketstormSecurity,Microweber CMS 1.1.20 Remote Code Execution,https://packetstormsecurity.com/files/162514/microwebercms1120-exec.txt,https://j.mp/3hkfdv5
+PacketstormSecurity,Mikrotik RouterOS 6.46.5 Memory Corruption / Assertion Failure,https://packetstormsecurity.com/files/162513/mikrotikrouteros-memcorrupt.txt,https://j.mp/3fbc0LC
+PacketstormSecurity,Backdoor.Win32.Antilam.13.a Code Execution,https://packetstormsecurity.com/files/162512/MVID-2021-0204.txt,https://j.mp/3y2NtRu
+PacketstormSecurity,"Linux/x86 setreuid(0) / execve(""/bin/sh"") Shellcode",https://packetstormsecurity.com/files/162510/29linuxsetreuideecve-shellcode.txt,https://j.mp/33twdaj
+PacketstormSecurity,Backdoor.Win32.MotivFTP.12 Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/162509/MVID-2021-0203.txt,https://j.mp/3o2RUY5
+PacketstormSecurity,TFTP Broadband 4.3.0.1465 Unquoted Service Path,https://packetstormsecurity.com/files/162507/tftpbroadband4301465-unquotedpath.txt,https://j.mp/3o8rcx9
+PacketstormSecurity,BOOTP Turbo 2.0.0.1253 Unquoted Service Path,https://packetstormsecurity.com/files/162508/bootpturbo2001253-unquotedpath.txt,https://j.mp/2R7zKsa
+PacketstormSecurity,DHCP Broadband 4.1.0.1503 Unquoted Service Path,https://packetstormsecurity.com/files/162506/dhcpbroadband4101503-unquotedpath.txt,https://j.mp/3f1BJGo
+PacketstormSecurity,PHP Timeclock 1.04 SQL Injection,https://packetstormsecurity.com/files/162505/phptimeclock104-sql.txt,https://j.mp/2Q6vith
+PacketstormSecurity,PHP Timeclock 1.04 Cross Site Scripting,https://packetstormsecurity.com/files/162511/phptimeclock104-xss.txt,https://j.mp/33upbBQ
+PacketstormSecurity,Falco 0.28.1,https://packetstormsecurity.com/files/162502/falco-0.28.1.tar.gz,https://j.mp/3eBzISq
