@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w83x-fp72-p9qc] Command Injection in geojson2kml,https://github.com/advisories/GHSA-w83x-fp72-p9qc,https://j.mp/3tuinPm
+GithubAdvisories,[GHSA-4q97-fh3f-j294] Prototype Pollution in tiny-conf,https://github.com/advisories/GHSA-4q97-fh3f-j294,https://j.mp/2RGDOPY
+GithubAdvisories,[GHSA-wj6h-7chw-x4h2] Command injection in get-git-data,https://github.com/advisories/GHSA-wj6h-7chw-x4h2,https://j.mp/3eEBh21
