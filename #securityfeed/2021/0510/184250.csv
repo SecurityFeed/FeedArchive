@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmch-cm2p-9qw9] Cross-site Scripting in lightning-server,https://github.com/advisories/GHSA-gmch-cm2p-9qw9,https://j.mp/3o2nvt1
+GithubAdvisories,[GHSA-x2fc-mxcx-w4mf] Prototype Pollution in mathjs,https://github.com/advisories/GHSA-x2fc-mxcx-w4mf,https://j.mp/3vY5bUK
+GithubAdvisories,[GHSA-9mx2-prfp-8hqp] Prototype Pollution in simpl-schema,https://github.com/advisories/GHSA-9mx2-prfp-8hqp,https://j.mp/3ewTIp0
+GithubAdvisories,[GHSA-hcq6-h8v2-r5wm] Server-Side Request Forgery in node-pdf-generator,https://github.com/advisories/GHSA-hcq6-h8v2-r5wm,https://j.mp/3bhwWzA
+GithubAdvisories,[GHSA-j9pj-hx76-92v6] Server-Side Request Forgery in phantomjs-seo,https://github.com/advisories/GHSA-j9pj-hx76-92v6,https://j.mp/3hfOpMx
+GithubAdvisories,"[GHSA-r2gr-fhmr-66c5] ""Arbitrary code execution in socket.io-file""",https://github.com/advisories/GHSA-r2gr-fhmr-66c5,https://j.mp/2Q9Thrw
+GithubAdvisories,[GHSA-7mg4-w3w5-x5pc] Prototype pollution in json-pointer,https://github.com/advisories/GHSA-7mg4-w3w5-x5pc,https://j.mp/2SGTvr1
+GithubAdvisories,[GHSA-jvf4-g24p-2qgw] Arbitrary Code Execution in shiba,https://github.com/advisories/GHSA-jvf4-g24p-2qgw,https://j.mp/3y3aTXd
+GithubAdvisories,[GHSA-h3rx-g5c9-8q4x] Prototype Pollution in bmoor,https://github.com/advisories/GHSA-h3rx-g5c9-8q4x,https://j.mp/2RIiBFu
+GithubAdvisories,[GHSA-4j54-mxf6-wxx2] Injection in pomelo-monitor,https://github.com/advisories/GHSA-4j54-mxf6-wxx2,https://j.mp/3y18pbS
+GithubAdvisories,[GHSA-v9qg-3j8p-r63v] Uncontrolled Recursion in Django,https://github.com/advisories/GHSA-v9qg-3j8p-r63v,https://j.mp/2Rc4QyJ
