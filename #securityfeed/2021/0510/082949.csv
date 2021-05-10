@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Human Resource Information System 0.1 - 'First Name' Persistent Cross-Site Scripting (Authenticated),https://www.exploit-db.com/exploits/49854,https://j.mp/33sAo6b
+ExploitDB,[webapps] PHP Timeclock 1.04 - 'Multiple' Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/49853,https://j.mp/2RGwNP2
+ExploitDB,[local] TFTP Broadband 4.3.0.1465 - 'tftpt.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49852,https://j.mp/33w1fhy
+ExploitDB,[local] BOOTP Turbo 2.0.0.1253 - 'bootpt.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49851,https://j.mp/2Q9WUOc
+ExploitDB,[local] DHCP Broadband 4.1.0.1503 - 'dhcpt.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49850,https://j.mp/3faaHMW
