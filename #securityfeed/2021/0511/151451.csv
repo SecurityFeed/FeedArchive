@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-277v-gwfr-hmpj] Missing Authentication for Critical Function in LibreNMS,https://github.com/advisories/GHSA-277v-gwfr-hmpj,https://j.mp/3hk8QYK
+GithubAdvisories,[GHSA-rcj2-vvjx-87pm] Missing Encryption of Sensitive Data in arrow-kt Arrow,https://github.com/advisories/GHSA-rcj2-vvjx-87pm,https://j.mp/3obP1Ej
+GithubAdvisories,[GHSA-5frh-8cmj-gc59] High severity vulnerability that affects System.Management.Automation,https://github.com/advisories/GHSA-5frh-8cmj-gc59,https://j.mp/3eyHVqh
