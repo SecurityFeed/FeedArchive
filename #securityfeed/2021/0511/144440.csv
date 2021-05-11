@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w5r2-gvgf-mpm8] Improper Encoding or Escaping of Output and Injection in LibreNMS,https://github.com/advisories/GHSA-w5r2-gvgf-mpm8,https://j.mp/3y2yXJw
+GithubAdvisories,[GHSA-xc6x-cq47-9chw] Vulnerability in Azure Active Directory Authentication Library,https://github.com/advisories/GHSA-xc6x-cq47-9chw,https://j.mp/3heHZxj
+GithubAdvisories,[GHSA-wg9m-gw3h-hg83] Injection in field_test,https://github.com/advisories/GHSA-wg9m-gw3h-hg83,https://j.mp/33wJu1G
