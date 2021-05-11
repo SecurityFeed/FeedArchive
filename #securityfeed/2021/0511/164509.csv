@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3q6f-8grx-pr4v] Cross-site scripting in jspdf,https://github.com/advisories/GHSA-3q6f-8grx-pr4v,https://j.mp/3o8fMJU
+GithubAdvisories,[GHSA-rjx9-2936-9ffx] Vulnerability in Apache Sanselan,https://github.com/advisories/GHSA-rjx9-2936-9ffx,https://j.mp/2Qd3jIq
+GithubAdvisories,[GHSA-jqwc-jm56-wcwj] Cross-site scripting in Jupyter Notebook,https://github.com/advisories/GHSA-jqwc-jm56-wcwj,https://j.mp/3bloyPt
+GithubAdvisories,[GHSA-37pw-qw47-4jxm] Privilege escalation vulnerability in Apache Hadoop,https://github.com/advisories/GHSA-37pw-qw47-4jxm,https://j.mp/3uyRr2h
