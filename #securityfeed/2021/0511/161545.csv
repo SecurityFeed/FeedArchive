@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wv5-4vpf-pj6m] Unexpected memory usage in Pallets Project Flask,https://github.com/advisories/GHSA-5wv5-4vpf-pj6m,https://j.mp/3tGAIJ0
+GithubAdvisories,[GHSA-mpf2-q34c-fc6j] Infinite Loop in scapy,https://github.com/advisories/GHSA-mpf2-q34c-fc6j,https://j.mp/33yKwtZ
+GithubAdvisories,[GHSA-rg32-m3hf-772v] Deserialization of Untrusted Data in Slanger,https://github.com/advisories/GHSA-rg32-m3hf-772v,https://j.mp/3uEQe9L
