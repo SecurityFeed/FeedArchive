@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+PacketstormSecurity,AWS Configuration Issues Lead To Exposure Of 5 Million Records,https://packetstormsecurity.com/news/view/32278/AWS-Configuration-Issues-Lead-To-Exposure-Of-5-Million-Records.html,https://j.mp/3w0kpIB
+PacketstormSecurity,Washington DC Police Allegedly Offered $100k To Hackers To Stop Leak,https://packetstormsecurity.com/news/view/32279/Washington-DC-Police-Allegedly-Offered-100k-To-Hackers-To-Stop-Leak.html,https://j.mp/3bmzZGK
+PacketstormSecurity,CISA Warns Over FiveHands File-Encrypting Malware Variant,https://packetstormsecurity.com/news/view/32280/CISA-Warns-Over-FiveHands-File-Encrypting-Malware-Variant.html,https://j.mp/3fbfwpj
+PacketstormSecurity,Hackers Leverage Adobe Zero Day Bug Impacting Adobe Reader,https://packetstormsecurity.com/news/view/32281/Hackers-Leverage-Adobe-Zero-Day-Bug-Impacting-Adobe-Reader.html,https://j.mp/33Aovez
+PacketstormSecurity,Windows Container Manager Service CmsRpcSrv_MapNamedPipeToContainer Privilege Escalation,https://packetstormsecurity.com/files/162559/GS20210512140155.tgz,https://j.mp/3vUs9fc
+PacketstormSecurity,ExifTool DjVu ANT Perl Injection,https://packetstormsecurity.com/files/162558/exiftool_djvu_ant_perl_injection.rb.txt,https://j.mp/3ffbJYg
+PacketstormSecurity,Windows Container Manager Service Arbitrary Object Directory Creation Privilege Escalation,https://packetstormsecurity.com/files/162557/GS20210512135847.tgz,https://j.mp/3uLcOgT
+PacketstormSecurity,Windows Container Manager Service CmsRpcSrv_MapVirtualDiskToContainer Privilege Escalation,https://packetstormsecurity.com/files/162556/GS20210512135717.tgz,https://j.mp/2ReJhNZ
+PacketstormSecurity,Windows Container Manager Service CmsRpcSrv_CreateContainer Privilege Escalation,https://packetstormsecurity.com/files/162555/GS20210512135528.tgz,https://j.mp/3obtMm5
+PacketstormSecurity,Backdoor.Win32.Delf.zho Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/162554/MVID-2021-0205.txt,https://j.mp/2ROwtOw
+PacketstormSecurity,Red Hat Security Advisory 2021-1547-01,https://packetstormsecurity.com/files/162553/RHSA-2021-1547-01.txt,https://j.mp/3tHmnfp
+PacketstormSecurity,Red Hat Security Advisory 2021-1546-01,https://packetstormsecurity.com/files/162552/RHSA-2021-1546-01.txt,https://j.mp/33ArB27
+PacketstormSecurity,Red Hat Security Advisory 2021-1544-01,https://packetstormsecurity.com/files/162547/RHSA-2021-1544-01.txt,https://j.mp/3fcDTTI
+PacketstormSecurity,Red Hat Security Advisory 2021-1540-01,https://packetstormsecurity.com/files/162546/RHSA-2021-1540-01.txt,https://j.mp/2SOWgGV
+PacketstormSecurity,Chevereto 3.17.1 Cross Site Scripting,https://packetstormsecurity.com/files/162545/chevereto3171-xss.txt,https://j.mp/2RgbmEP
+PacketstormSecurity,Red Hat Security Advisory 2021-1538-01,https://packetstormsecurity.com/files/162544/RHSA-2021-1538-01.txt,https://j.mp/2SM0RcP
+PacketstormSecurity,Android NFC nfa_rw_sys_disable Type Confusion,https://packetstormsecurity.com/files/162560/GS20210512140340.tgz,https://j.mp/2SM0Rtl
+PacketstormSecurity,Splinterware System Scheduler Professional 5.30 Unquoted Service Path,https://packetstormsecurity.com/files/162540/splinterwaressp530-unquotedpath.txt,https://j.mp/3w1Nm6W
+PacketstormSecurity,Odoo 12.0.20190101 Unquoted Service Path,https://packetstormsecurity.com/files/162539/odoo12020190101-unquotedpath.txt,https://j.mp/3hjCspd
