@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-5jqp-qgf6-3pvh] Use of ""infinity"" as an input to datetime and date fields causes infinite loop in pydantic",https://github.com/advisories/GHSA-5jqp-qgf6-3pvh,https://j.mp/3eJUSNY
+GithubAdvisories,[GHSA-5pv8-ppvj-4h68] Prevent user enumeration using Guard or the new Authenticator-based Security,https://github.com/advisories/GHSA-5pv8-ppvj-4h68,https://j.mp/2SPDKhu
+GithubAdvisories,[GHSA-x345-32rc-8h85] Denial of service attack via push rule patterns in matrix-synapse,https://github.com/advisories/GHSA-x345-32rc-8h85,https://j.mp/3uOYrrO
