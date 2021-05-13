@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Internet Explorer jscript9.dll Memory Corruption,https://packetstormsecurity.com/files/162570/GS20210513150630.txt,https://j.mp/3eLc2Lr
+PacketstormSecurity,Firefox 72 IonMonkey JIT Type Confusion,https://packetstormsecurity.com/files/162568/firefox72ionmonkeyjit-typeconfusion.txt,https://j.mp/2RRAEZW
+PacketstormSecurity,ScadaBR 1.0 / 1.1CE Windows Shell Upload,https://packetstormsecurity.com/files/162566/WinScada_RCE.py.txt,https://j.mp/3uJhLqs
+PacketstormSecurity,Microsoft Internet Explorer 8/11 Use-After-Free,https://packetstormsecurity.com/files/162565/msie811-uaf.txt,https://j.mp/33TrPBH
+PacketstormSecurity,ScadaBR 1.0 / 1.1CE Linux Shell Upload,https://packetstormsecurity.com/files/162564/LinScada_RCE.py.txt,https://j.mp/3w9j3LX
+PacketstormSecurity,OpenPLC WebServer 3 Remote Code Execution,https://packetstormsecurity.com/files/162563/OpenPLCv3_RCE.py.txt,https://j.mp/3ocinCu
+PacketstormSecurity,Dental Clinic Appointment Reservation System 1.0 SQL Injection,https://packetstormsecurity.com/files/162562/dcars10-sql.txt,https://j.mp/3bqzdIH
+PacketstormSecurity,ZeroShell 3.9.0 Remote Command Execution,https://packetstormsecurity.com/files/162561/ZeroShell_Remote_Cmd_Exec.py.txt,https://j.mp/3bosT4o
+PacketstormSecurity,Packet Fence 10.3.0,https://packetstormsecurity.com/files/162571/packetfence-10.3.0.tar.gz,https://j.mp/3ybgNVY
