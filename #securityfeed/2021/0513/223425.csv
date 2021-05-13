@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rf5-92jh-3vc9] Uncaught Exception leading to Denial of Service in json-sanitizer,https://github.com/advisories/GHSA-8rf5-92jh-3vc9,https://j.mp/3ogxgne
+GithubAdvisories,[GHSA-8p36-q63g-68qh] Autobinding vulnerability in MITREid Connect,https://github.com/advisories/GHSA-8p36-q63g-68qh,https://j.mp/3oif78W
+GithubAdvisories,[GHSA-7r83-w6r8-fh6w] Reflected Cross-site Scripting (XSS) in ACS Commons,https://github.com/advisories/GHSA-7r83-w6r8-fh6w,https://j.mp/3bobR6H
+GithubAdvisories,[GHSA-7q4h-pj78-j7vg] Authorization service vulnerable to DDos attacks in Apache CFX,https://github.com/advisories/GHSA-7q4h-pj78-j7vg,https://j.mp/3w1t4dS
+GithubAdvisories,[GHSA-792r-mh2q-p8qp] Server Side Request Forgery (SSRF) in org.mitre:openid-connect-server,https://github.com/advisories/GHSA-792r-mh2q-p8qp,https://j.mp/3eK6uRj
+GithubAdvisories,[GHSA-74qp-233x-p5j8] Cross-site scripting (XSS) in Apache Livy,https://github.com/advisories/GHSA-74qp-233x-p5j8,https://j.mp/3oepfiM
+GithubAdvisories,[GHSA-6vqp-h455-42mr] Uncontrolled Memory Allocation in Apache PDFBox,https://github.com/advisories/GHSA-6vqp-h455-42mr,https://j.mp/3fkhjbE
+GithubAdvisories,[GHSA-2rvv-w9r2-rg7m] Information Disclosure in Apache Tomcat,https://github.com/advisories/GHSA-2rvv-w9r2-rg7m,https://j.mp/3tMqHKz
+GithubAdvisories,[GHSA-2mq8-99q7-55wx] Code injection in keycloak,https://github.com/advisories/GHSA-2mq8-99q7-55wx,https://j.mp/3tKoLlC
