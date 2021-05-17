@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Windows TokenMagic Privilege Escalation,https://packetstormsecurity.com/files/162605/tokenmagic.rb.txt,https://j.mp/3ooWYGl
+PacketstormSecurity,Dell DBUtil_2_3.sys IOCTL Memory Read / Write,https://packetstormsecurity.com/files/162604/cve_2021_21551_dbutil_memmove.rb.txt,https://j.mp/3yl2DSj
+PacketstormSecurity,Wapiti Web Application Vulnerability Scanner 3.0.5,https://packetstormsecurity.com/files/162603/wapiti3-3.0.5.zip,https://j.mp/3uUEYWF
+PacketstormSecurity,IPFire 2.25 Remote Code Execution,https://packetstormsecurity.com/files/162601/ipfire225-exec.txt,https://j.mp/3eTD1UV
+PacketstormSecurity,Backdoor.Win32.Antilam.14.d Code Execution,https://packetstormsecurity.com/files/162600/MVID-2021-0214.txt,https://j.mp/33PbIEX
+PacketstormSecurity,Advanced Guestbook 2.4.4 Cross Site Scripting,https://packetstormsecurity.com/files/162599/advancedguestbook244-xss.txt,https://j.mp/3w9zkjO
+PacketstormSecurity,Backdoor.Win32.Agent.oda Buffer Overflow,https://packetstormsecurity.com/files/162597/MVID-2021-0213.txt,https://j.mp/3ors8Nw
+PacketstormSecurity,Backdoor.Win32.Danton.43 Man-In-The-Middle,https://packetstormsecurity.com/files/162596/MVID-2021-0212.txt,https://j.mp/3onzlOs
+PacketstormSecurity,Dental Clinic Appointment Reservation System 1.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/162595/dcars10-xsrf.txt,https://j.mp/3hvnIUj
+PacketstormSecurity,Dental Clinic Appointment Reservation System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/162594/dcars10-xss.txt,https://j.mp/3osztw3
+PacketstormSecurity,Backdoor.Win32.Danton.43 Code Execution / Hardcoded Credentials,https://packetstormsecurity.com/files/162593/MVID-2021-0211.txt,https://j.mp/3eT3thJ
+PacketstormSecurity,Backdoor.Win32.Agent.lyw Buffer Overflow,https://packetstormsecurity.com/files/162592/MVID-2021-0210.txt,https://j.mp/33QjOxc
+PacketstormSecurity,Subrion CMS 4.2.1 Shell Upload,https://packetstormsecurity.com/files/162591/SubrionRCE.py.txt,https://j.mp/3fiWPjG
+PacketstormSecurity,Printable Staff ID Card Creator System 1.0 Shell Upload / SQL Injection,https://packetstormsecurity.com/files/162590/psiccs10-sqlshell.txt,https://j.mp/33UlUvO
+PacketstormSecurity,Billing Management System 2.0 SQL Injection,https://packetstormsecurity.com/files/162589/bms20edit-sql.txt,https://j.mp/3buW2ew
+PacketstormSecurity,Backdoor.Win32.Agent.cy Denial Of Service / Null Pointer,https://packetstormsecurity.com/files/162587/MVID-2021-0209.txt,https://j.mp/3uWogXd
+PacketstormSecurity,Backdoor.Win32.Agent.cy Insecure Transit,https://packetstormsecurity.com/files/162586/MVID-2021-0208.txt,https://j.mp/3tUdW0u
+PacketstormSecurity,Microsoft Internet Explorer 8 SetMouseCapture Use-After-Free,https://packetstormsecurity.com/files/162585/msie8smc-uaf.txt,https://j.mp/3eRkpVy
+PacketstormSecurity,Backdoor.Win32.Agent.cy Hardcoded Credentials,https://packetstormsecurity.com/files/162582/MVID-2021-0207.txt,https://j.mp/3bxfOpG
+PacketstormSecurity,Simple Chatbot Application 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/162584/sca10-xss.txt,https://j.mp/3ovNjxW
+PacketstormSecurity,Backdoor.Win32.Delf.abb Insecure Transit,https://packetstormsecurity.com/files/162581/MVID-2021-0206.txt,https://j.mp/3byWNTB
+PacketstormSecurity,Customer Relationship Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/162583/crms10cat-xss.txt,https://j.mp/3opE81G
