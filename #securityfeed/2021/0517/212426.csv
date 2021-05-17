@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh59-v9r5-4mh4] Cross-site scripting in jspdf,https://github.com/advisories/GHSA-vh59-v9r5-4mh4,https://j.mp/3onuqwQ
+GithubAdvisories,[GHSA-jqh7-w5pr-cr56] Cross-site scripting in koa-shopify-auth,https://github.com/advisories/GHSA-jqh7-w5pr-cr56,https://j.mp/3wcPb0X
+GithubAdvisories,[GHSA-3fr8-mwpp-8h9p] Cross-site scripting in TileServer GL,https://github.com/advisories/GHSA-3fr8-mwpp-8h9p,https://j.mp/3tP9lg4
+GithubAdvisories,[GHSA-6m8p-4fxj-pgc2] OS Command Injection in mversion,https://github.com/advisories/GHSA-6m8p-4fxj-pgc2,https://j.mp/33S5wvW
+GithubAdvisories,[GHSA-m6rw-m2v9-7hx4] Injection in wifiscanner,https://github.com/advisories/GHSA-m6rw-m2v9-7hx4,https://j.mp/2QsWVwM
+GithubAdvisories,[GHSA-vrr3-5r3v-7xfw] Improper Input Validation in casperjs,https://github.com/advisories/GHSA-vrr3-5r3v-7xfw,https://j.mp/3eREP0G
+GithubAdvisories,[GHSA-cg42-4wrc-gp47] Improper Input Validation in node-extend,https://github.com/advisories/GHSA-cg42-4wrc-gp47,https://j.mp/3opShw2
+GithubAdvisories,[GHSA-fw2f-7f87-5r6c] Improper Input Validation in access-policy,https://github.com/advisories/GHSA-fw2f-7f87-5r6c,https://j.mp/33RZzze
+GithubAdvisories,[GHSA-v756-4whv-48vc] Improper Input Validation in cd-messenger,https://github.com/advisories/GHSA-v756-4whv-48vc,https://j.mp/3byLniP
+GithubAdvisories,[GHSA-j665-rvj7-2jv9] Improper Input Validation in mosc,https://github.com/advisories/GHSA-j665-rvj7-2jv9,https://j.mp/3hwFB4W
+GithubAdvisories,[GHSA-rwxp-hwwf-653v] Insecure template handling in express-hbs,https://github.com/advisories/GHSA-rwxp-hwwf-653v,https://j.mp/2Ri107z
+GithubAdvisories,[GHSA-m7mf-vm62-7x3q] Insecure template handling in haml-coffee,https://github.com/advisories/GHSA-m7mf-vm62-7x3q,https://j.mp/3uXwvSH
+GithubAdvisories,[GHSA-q8j6-pwqx-pm96] Insecure template handling in Squirrelly,https://github.com/advisories/GHSA-q8j6-pwqx-pm96,https://j.mp/33R8ssJ
+GithubAdvisories,[GHSA-cwcx-rxgc-cmw3] Prototype pollution in 101,https://github.com/advisories/GHSA-cwcx-rxgc-cmw3,https://j.mp/2RZgNbk
+GithubAdvisories,[GHSA-v659-54cx-g4qr] Prototype Pollution in deep-override,https://github.com/advisories/GHSA-v659-54cx-g4qr,https://j.mp/3eWUAUm
+GithubAdvisories,[GHSA-rc4q-9m69-gqp8] Lack of protection against cookie tossing attacks in fastify-csrf,https://github.com/advisories/GHSA-rc4q-9m69-gqp8,https://j.mp/2SOY1Ug
