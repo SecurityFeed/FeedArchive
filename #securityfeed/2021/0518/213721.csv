@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vj3f-3286-r4pf] Path Traversal in Docker,https://github.com/advisories/GHSA-vj3f-3286-r4pf,https://j.mp/3tU60MB
+GithubAdvisories,[GHSA-44r7-7p62-q3fr] Insecure generation of random numbers,https://github.com/advisories/GHSA-44r7-7p62-q3fr,https://j.mp/33UBWpJ
+GithubAdvisories,[GHSA-465w-gg5p-85c9] Insufficient Session Expiration in Kiali,https://github.com/advisories/GHSA-465w-gg5p-85c9,https://j.mp/3bzNt1Q
+GithubAdvisories,[GHSA-733f-44f3-3frw] Open redirect,https://github.com/advisories/GHSA-733f-44f3-3frw,https://j.mp/3yfVFy9
+GithubAdvisories,[GHSA-58pf-pcwv-qg85] Path traversal,https://github.com/advisories/GHSA-58pf-pcwv-qg85,https://j.mp/3ouDRdS
