@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c7m-vv47-7c69] Insecure Permissions in Gogs,https://github.com/advisories/GHSA-4c7m-vv47-7c69,https://j.mp/3ouRee5
+GithubAdvisories,[GHSA-88jf-7rch-32qc] Improper Input Validation in github.com/unknwon/cae/tz,https://github.com/advisories/GHSA-88jf-7rch-32qc,https://j.mp/3osFJ6W
+GithubAdvisories,[GHSA-vpx7-vm66-qx8r] Improper Input Validation in github.com/unknwon/cae/zip,https://github.com/advisories/GHSA-vpx7-vm66-qx8r,https://j.mp/3u1S03s
