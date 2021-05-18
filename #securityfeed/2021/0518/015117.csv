@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4228-7qvx-f4rq] Injection and Command Injection in devcert,https://github.com/advisories/GHSA-4228-7qvx-f4rq,https://j.mp/3f0cCoN
+GithubAdvisories,[GHSA-q28m-8xjw-8vr5] Keepalive Connections Causing Denial Of Service in puma,https://github.com/advisories/GHSA-q28m-8xjw-8vr5,https://j.mp/2RZeeWA
