@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-29559 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29559,https://j.mp/3hCTG10
+NVD-NIST,CVE-2021-29561 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29561,https://j.mp/3bDyLqF
+NVD-NIST,CVE-2021-29562 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29562,https://j.mp/3tTi5Sk
+NVD-NIST,CVE-2021-29574 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29574,https://j.mp/3bEG1m2
