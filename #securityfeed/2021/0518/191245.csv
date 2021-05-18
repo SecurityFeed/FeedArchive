@@ -1,0 +1,41 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr2j-wrhx-4829] Improper Input Validation,https://github.com/advisories/GHSA-qr2j-wrhx-4829,https://j.mp/3eXPk2u
+GithubAdvisories,[GHSA-gh32-pc56-4c96] Information Exposure in jaegar,https://github.com/advisories/GHSA-gh32-pc56-4c96,https://j.mp/3tYetyv
+GithubAdvisories,[GHSA-5rcv-m4m3-hfh7] Infinite Loop in Go,https://github.com/advisories/GHSA-5rcv-m4m3-hfh7,https://j.mp/3wkTSWP
+GithubAdvisories,[GHSA-9jcx-pr2f-qvq5] Denial of Service (DoS),https://github.com/advisories/GHSA-9jcx-pr2f-qvq5,https://j.mp/3yk5TNS
+GithubAdvisories,[GHSA-qqc5-rgcc-cjqh] Information Disclosure in go.elastic.co/apm,https://github.com/advisories/GHSA-qqc5-rgcc-cjqh,https://j.mp/3yjEagn
+GithubAdvisories,[GHSA-9h63-7qf6-mv6r] Improper Authorization in github.com/containers/libpod,https://github.com/advisories/GHSA-9h63-7qf6-mv6r,https://j.mp/3eXvPYb
+GithubAdvisories,[GHSA-fx8w-mjvm-hvpc] Path Traversal in Buildah,https://github.com/advisories/GHSA-fx8w-mjvm-hvpc,https://j.mp/3ftkUnZ
+GithubAdvisories,[GHSA-4gh8-x3vv-phhg] Predictable SIF UUID Identifiers in github.com/sylabs/sif,https://github.com/advisories/GHSA-4gh8-x3vv-phhg,https://j.mp/3v2QQGc
+GithubAdvisories,[GHSA-64rh-r86q-75ff] Hard coded cryptographic key in Kiali,https://github.com/advisories/GHSA-64rh-r86q-75ff,https://j.mp/3oqovHB
+GithubAdvisories,[GHSA-75qf-wgfj-v652] Arbitrary File Write via Archive Extraction (Zip Slip),https://github.com/advisories/GHSA-75qf-wgfj-v652,https://j.mp/2RvLfd9
+GithubAdvisories,[GHSA-rffr-c932-cpxv] Cross-site Request Forgery (CSRF) in Cloud Native Computing Foundation Harbor,https://github.com/advisories/GHSA-rffr-c932-cpxv,https://j.mp/2Rtg5TF
+GithubAdvisories,[GHSA-w4x5-jqq4-qc8x] SQL Injection in Cloud Native Computing Foundation Harbor,https://github.com/advisories/GHSA-w4x5-jqq4-qc8x,https://j.mp/2RvLeG7
+GithubAdvisories,[GHSA-jr34-mff8-pc6f] SQL Injection in Cloud Native Computing Foundation Harbor,https://github.com/advisories/GHSA-jr34-mff8-pc6f,https://j.mp/2S2YxO7
+GithubAdvisories,[GHSA-q6cj-6jvq-jwmh] Privilege Escalation in Cloud Native Computing Foundation Harbor,https://github.com/advisories/GHSA-q6cj-6jvq-jwmh,https://j.mp/3uZKFCZ
+GithubAdvisories,[GHSA-rmh2-65xw-9m6q] Infinite Loop in jsonparser,https://github.com/advisories/GHSA-rmh2-65xw-9m6q,https://j.mp/3otCTin
+GithubAdvisories,[GHSA-2rmp-fw5r-j5qv] Improper Authentication in InfluxDB,https://github.com/advisories/GHSA-2rmp-fw5r-j5qv,https://j.mp/2S7mYtD
+GithubAdvisories,[GHSA-rqjq-mrgx-85hp] Improper Restriction of Operations within the Bounds of a Memory Buffer in Hashicorp Consul,https://github.com/advisories/GHSA-rqjq-mrgx-85hp,https://j.mp/33Xp6H8
+GithubAdvisories,[GHSA-p2j5-3f4c-224r] Improper Input Validation in HashiCorp Consul,https://github.com/advisories/GHSA-p2j5-3f4c-224r,https://j.mp/33TC5cT
+GithubAdvisories,[GHSA-25xj-89g5-fm6h] Information Disclosure in HashiCorp Vault,https://github.com/advisories/GHSA-25xj-89g5-fm6h,https://j.mp/3hIjkRI
+GithubAdvisories,[GHSA-75pc-qvwc-jf3g] Improper Input Validation in HashiCorp Vault,https://github.com/advisories/GHSA-75pc-qvwc-jf3g,https://j.mp/3eXPsiJ
+GithubAdvisories,[GHSA-cj2h-ww36-v932] Improper Certificate Validation in HashiCorp Nomad,https://github.com/advisories/GHSA-cj2h-ww36-v932,https://j.mp/3eXvPHF
+GithubAdvisories,[GHSA-h43v-26r7-7j4c] Uncontrolled Resource Consumption in HashiCorp Nomad,https://github.com/advisories/GHSA-h43v-26r7-7j4c,https://j.mp/2QsUn1A
+GithubAdvisories,[GHSA-23jv-v6qj-3fhh] Denial of Service (DoS) in HashiCorp Consul,https://github.com/advisories/GHSA-23jv-v6qj-3fhh,https://j.mp/3hOajXJ
+GithubAdvisories,[GHSA-h3p9-wrgx-82cm] Use of a Broken or Risky Cryptographic Algorithm in Terraform,https://github.com/advisories/GHSA-h3p9-wrgx-82cm,https://j.mp/3wg69vE
+GithubAdvisories,[GHSA-jp4j-47f9-2vc3] Integer Overflow or Wraparound in NATS Server,https://github.com/advisories/GHSA-jp4j-47f9-2vc3,https://j.mp/3f30PGh
+GithubAdvisories,[GHSA-5r2v-6gm6-vpvh] Insecure Permissions in Gogs,https://github.com/advisories/GHSA-5r2v-6gm6-vpvh,https://j.mp/33W5mUy
+GithubAdvisories,[GHSA-58v3-j75h-xr49] Improper Input Validation in libseccomp-golang,https://github.com/advisories/GHSA-58v3-j75h-xr49,https://j.mp/3eYmDmk
+GithubAdvisories,[GHSA-xhg2-rvm8-w2jh] Cross-site Request Forgery (CSRF),https://github.com/advisories/GHSA-xhg2-rvm8-w2jh,https://j.mp/3v0SyrE
+GithubAdvisories,[GHSA-3f8r-4qwm-r7jf] Improper Authentication in Apache Traffic Control,https://github.com/advisories/GHSA-3f8r-4qwm-r7jf,https://j.mp/2Qs8fsS
+GithubAdvisories,[GHSA-2v6x-frw8-7r7f] Exposure of Sensitive Information to an Unauthorized Actor in kube-state-metrics,https://github.com/advisories/GHSA-2v6x-frw8-7r7f,https://j.mp/3oAhaFu
+GithubAdvisories,[GHSA-pmqp-h87c-mr78] XML Entity Expansion and Improper Input Validation in Kubernetes API server,https://github.com/advisories/GHSA-pmqp-h87c-mr78,https://j.mp/3fnRlEi
+GithubAdvisories,[GHSA-jq7p-26h5-w78r] Out-of-bounds read in Apache Thrift,https://github.com/advisories/GHSA-jq7p-26h5-w78r,https://j.mp/3eZEJnG
+GithubAdvisories,[GHSA-h74j-692g-48mq] Path Traversal in MHolt Archiver,https://github.com/advisories/GHSA-h74j-692g-48mq,https://j.mp/3hBBMf8
+GithubAdvisories,[GHSA-5796-p3m6-9qj4] Denial of Service (DoS) in Cloud Foundry Routing,https://github.com/advisories/GHSA-5796-p3m6-9qj4,https://j.mp/3otCTPp
+GithubAdvisories,[GHSA-wmwp-pggc-h4mj] Cross-site Scripting in Documize,https://github.com/advisories/GHSA-wmwp-pggc-h4mj,https://j.mp/33RGSeW
+GithubAdvisories,[GHSA-78hj-86cr-6j2v] Improper Access Control in Lightning Network Daemon,https://github.com/advisories/GHSA-78hj-86cr-6j2v,https://j.mp/3oslLJw
+GithubAdvisories,[GHSA-6qfg-8799-r575] Symlink Attack,https://github.com/advisories/GHSA-6qfg-8799-r575,https://j.mp/33TVdaL
+GithubAdvisories,[GHSA-m6wg-2mwg-4rfq] Use After Free,https://github.com/advisories/GHSA-m6wg-2mwg-4rfq,https://j.mp/3yns3io
+GithubAdvisories,[GHSA-ffhg-7mh4-33c4] Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-ffhg-7mh4-33c4,https://j.mp/3tYU6RV
+GithubAdvisories,[GHSA-7qw8-847f-pggm] Improper Locking in github.com/containers/storage,https://github.com/advisories/GHSA-7qw8-847f-pggm,https://j.mp/3fvqLZN
