@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpm5-vv97-jfwg] Uncontrolled Resource Consumption in firebase,https://github.com/advisories/GHSA-fpm5-vv97-jfwg,https://j.mp/2S3l516
+GithubAdvisories,[GHSA-5pg7-v24c-9rp9] Prototype pollution in controlled-merge,https://github.com/advisories/GHSA-5pg7-v24c-9rp9,https://j.mp/3uX1fDu
+GithubAdvisories,[GHSA-qpqh-46qj-vwcw] Cross-site Scripting in docsify,https://github.com/advisories/GHSA-qpqh-46qj-vwcw,https://j.mp/3bx0Dwy
+GithubAdvisories,[GHSA-6xhg-q9c8-rj32] Credential leak in react-native-fast-image,https://github.com/advisories/GHSA-6xhg-q9c8-rj32,https://j.mp/3eTfBiE
+GithubAdvisories,[GHSA-4j46-mp85-mv8c] Path traversal in rollup-plugin-serve,https://github.com/advisories/GHSA-4j46-mp85-mv8c,https://j.mp/3yiefW9
