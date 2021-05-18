@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w73w-5m7g-f7qc] Authorization bypass in github.com/dgrijalva/jwt-go,https://github.com/advisories/GHSA-w73w-5m7g-f7qc,https://j.mp/3frOnyv
+GithubAdvisories,[GHSA-3xh2-74w9-5vxm] Integer overflow in github.com/gorilla/websocket,https://github.com/advisories/GHSA-3xh2-74w9-5vxm,https://j.mp/3fvKvwn
+GithubAdvisories,[GHSA-wjm3-fq3r-5x46] Denial of service,https://github.com/advisories/GHSA-wjm3-fq3r-5x46,https://j.mp/2QswXJE
+GithubAdvisories,[GHSA-grh6-q6m2-rh72] Origin Validation Error,https://github.com/advisories/GHSA-grh6-q6m2-rh72,https://j.mp/3uZ00DD
+GithubAdvisories,[GHSA-fqh4-rh59-xhvf] Denial of service,https://github.com/advisories/GHSA-fqh4-rh59-xhvf,https://j.mp/3fwLLQ7
+GithubAdvisories,[GHSA-3x58-xr87-2fcj] Cross-site scripting in bluemonday,https://github.com/advisories/GHSA-3x58-xr87-2fcj,https://j.mp/3hCMamO
