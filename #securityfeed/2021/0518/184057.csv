@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7chv-rrw6-w6fc] XStream is vulnerable to a Remote Command Execution attack,https://github.com/advisories/GHSA-7chv-rrw6-w6fc,https://j.mp/3fqG6Li
+GithubAdvisories,[GHSA-76mp-659p-rw65] Users registered with email verification can self re-activate their disabled accounts,https://github.com/advisories/GHSA-76mp-659p-rw65,https://j.mp/3tXVlAA
+GithubAdvisories,[GHSA-h353-hc43-95vc] Script injection without script or programming rights through Gadget titles,https://github.com/advisories/GHSA-h353-hc43-95vc,https://j.mp/33YOwEc
