@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x5c7-x7m2-rhmf] Local directory executable lookup in sops (Windows-only),https://github.com/advisories/GHSA-x5c7-x7m2-rhmf,https://j.mp/342qsAs
