@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwgm-f83r-v3qj] Improper Certificate Validation in WP-CLI framework,https://github.com/advisories/GHSA-rwgm-f83r-v3qj,https://j.mp/3yr3Zew
+GithubAdvisories,[GHSA-hf44-3mx6-vhhw] Navigate endpoint is vulnerable to regex injection that may lead to Denial of Service,https://github.com/advisories/GHSA-hf44-3mx6-vhhw,https://j.mp/33Z7LOk
+GithubAdvisories,[GHSA-hpw7-3vq3-mmv6] Insecure deserialization in Wire,https://github.com/advisories/GHSA-hpw7-3vq3-mmv6,https://j.mp/3bH7YK3
+GithubAdvisories,[GHSA-7h5v-85w9-pq6c] Denial of service (via resource exhaustion) due to improper input validation in third-party identifier endpoint,https://github.com/advisories/GHSA-7h5v-85w9-pq6c,https://j.mp/3f03Nek
