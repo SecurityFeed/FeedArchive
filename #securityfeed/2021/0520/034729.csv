@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-27769 (enterprise_linux_desktop, fedora, imagemagick)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27769,https://j.mp/3hECrwg
+NVD-NIST,CVE-2021-29512 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29512,https://j.mp/3tWNq6E
+NVD-NIST,CVE-2021-29525 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29525,https://j.mp/3f4k8P6
+NVD-NIST,CVE-2021-29567 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29567,https://j.mp/3u38ati
+NVD-NIST,CVE-2021-29569 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29569,https://j.mp/3eZLS7C
+NVD-NIST,CVE-2021-29573 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29573,https://j.mp/3bDSJlb
+NVD-NIST,CVE-2021-29580 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29580,https://j.mp/3u38msw
+NVD-NIST,CVE-2021-29586 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29586,https://j.mp/3v4sDzu
+NVD-NIST,CVE-2021-29587 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29587,https://j.mp/3ovpJBr
+NVD-NIST,CVE-2021-29589 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29589,https://j.mp/3hDbclJ
+NVD-NIST,CVE-2021-29592 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29592,https://j.mp/3ytlQBE
+NVD-NIST,CVE-2021-29593 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29593,https://j.mp/3v5BGjt
+NVD-NIST,CVE-2021-29594 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29594,https://j.mp/3v4sDQ0
+NVD-NIST,CVE-2021-29595 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29595,https://j.mp/3v5ss6T
+NVD-NIST,CVE-2021-29596 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29596,https://j.mp/3bGeAIK
+NVD-NIST,CVE-2021-29597 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29597,https://j.mp/3vgFkaF
+NVD-NIST,CVE-2021-29598 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29598,https://j.mp/3f7JnAt
+NVD-NIST,CVE-2021-29600 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29600,https://j.mp/3yzOyAO
+NVD-NIST,"CVE-2021-3537 (debian_linux, enterprise_linux, fedora, jboss_core_services, libxml2)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3537,https://j.mp/3bDpQW4
