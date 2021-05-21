@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2q4-qghh-p9cq] Server-Side Request Forgery in yoast_seo,https://github.com/advisories/GHSA-m2q4-qghh-p9cq,https://j.mp/3hGLCfC
+GithubAdvisories,[GHSA-2x6r-7427-95cm] Deserialization of Untrusted Data in Apache Camel RabbitMQ,https://github.com/advisories/GHSA-2x6r-7427-95cm,https://j.mp/3fx9y2i
+GithubAdvisories,[GHSA-6g88-99wj-8mgg] Command injection in Apache Flink,https://github.com/advisories/GHSA-6g88-99wj-8mgg,https://j.mp/3fDGlTk
+GithubAdvisories,[GHSA-hfg5-xpvw-c9x4] Improper Input Validation in Apache Camel,https://github.com/advisories/GHSA-hfg5-xpvw-c9x4,https://j.mp/3vbQNIr
