@@ -1,0 +1,115 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5v95-v8c8-3rh6] Privilege escalation in rbac,https://github.com/advisories/GHSA-5v95-v8c8-3rh6,https://j.mp/2RAysWR
+GithubAdvisories,[GHSA-c66w-hq56-4q97] Network policy may be bypassed by some ICMP Echo Requests,https://github.com/advisories/GHSA-c66w-hq56-4q97,https://j.mp/3ystfAY
+GithubAdvisories,[GHSA-qq5v-f4c3-395c] Possible XSS when using SSO with the CLI in github.com/argoproj/argo-cd/v2,https://github.com/advisories/GHSA-qq5v-f4c3-395c,https://j.mp/3bIzebh
+GithubAdvisories,[GHSA-6w87-g839-9wv7] Helm OCI credentials leaked into Argo CD logs,https://github.com/advisories/GHSA-6w87-g839-9wv7,https://j.mp/3wp7oZr
+GithubAdvisories,[GHSA-h746-rm5q-8mgq] Legacy Node API Allows Impersonation in github.com/spiffe/spire/pkg/server/endpoints/node,https://github.com/advisories/GHSA-h746-rm5q-8mgq,https://j.mp/3vlXEzb
+GithubAdvisories,[GHSA-9vxv-wpv4-f52p] Information leakage in Error Handler,https://github.com/advisories/GHSA-9vxv-wpv4-f52p,https://j.mp/3yuwtE3
+GithubAdvisories,[GHSA-f6p7-8xfw-fjqq] Authenticated Stored XSS in Administration,https://github.com/advisories/GHSA-f6p7-8xfw-fjqq,https://j.mp/3hFShqo
+GithubAdvisories,[GHSA-wvjw-p9f5-vq28] Segfault in `tf.raw_ops.SparseCountSparseOutput`,https://github.com/advisories/GHSA-wvjw-p9f5-vq28,https://j.mp/340UqVE
+GithubAdvisories,[GHSA-xqfj-cr6q-pc8w] Crash in `tf.transpose` with complex inputs,https://github.com/advisories/GHSA-xqfj-cr6q-pc8w,https://j.mp/3fBE37h
+GithubAdvisories,[GHSA-mmq6-q8r3-48fm] Crash in `tf.strings.substr` due to `CHECK`-fail,https://github.com/advisories/GHSA-mmq6-q8r3-48fm,https://j.mp/3hKy8zh
+GithubAdvisories,[GHSA-4hvv-7x94-7vq8] Null dereference in Grappler's `TrySimplify`,https://github.com/advisories/GHSA-4hvv-7x94-7vq8,https://j.mp/3ytS0Nf
+GithubAdvisories,[GHSA-qw5h-7f53-xrp6] Stack overflow in `ParseAttrValue` with nested tensors,https://github.com/advisories/GHSA-qw5h-7f53-xrp6,https://j.mp/3fz8x9W
+GithubAdvisories,[GHSA-8pmx-p244-g88h] Interpreter crash from `tf.io.decode_raw`,https://github.com/advisories/GHSA-8pmx-p244-g88h,https://j.mp/3hJDCuj
+GithubAdvisories,[GHSA-vvg4-vgrv-xfr7] Incomplete validation in `tf.raw_ops.CTCLoss`,https://github.com/advisories/GHSA-vvg4-vgrv-xfr7,https://j.mp/3wtg2Gr
+GithubAdvisories,[GHSA-2xgj-xhgf-ggjv] Heap buffer overflow in `BandedTriangularSolve`,https://github.com/advisories/GHSA-2xgj-xhgf-ggjv,https://j.mp/3bK23nA
+GithubAdvisories,[GHSA-9rpc-5v9q-5r7f] Incomplete validation in `SparseReshape`,https://github.com/advisories/GHSA-9rpc-5v9q-5r7f,https://j.mp/2Tb6Ec3
+GithubAdvisories,[GHSA-mq5c-prh3-3f3h] Invalid validation in `QuantizeAndDequantizeV2`,https://github.com/advisories/GHSA-mq5c-prh3-3f3h,https://j.mp/3fBE9vF
+GithubAdvisories,[GHSA-cjc7-49v2-jp64] Incomplete validation in `SparseAdd`,https://github.com/advisories/GHSA-cjc7-49v2-jp64,https://j.mp/3ud7At3
+GithubAdvisories,[GHSA-rgvq-pcvf-hx75] Heap OOB and null pointer dereference in `RaggedTensorToTensor`,https://github.com/advisories/GHSA-rgvq-pcvf-hx75,https://j.mp/3f7r6TR
+GithubAdvisories,[GHSA-h4pc-gx2w-f2xv] Heap OOB read in TFLite,https://github.com/advisories/GHSA-h4pc-gx2w-f2xv,https://j.mp/3wCbXzR
+GithubAdvisories,[GHSA-jf7h-7m85-w2v2] Integer overflow in TFLite memory allocation,https://github.com/advisories/GHSA-jf7h-7m85-w2v2,https://j.mp/2SfzTK6
+GithubAdvisories,[GHSA-8rm6-75mf-7r7r] Division by zero in TFLite's implementation of hashtable lookup,https://github.com/advisories/GHSA-8rm6-75mf-7r7r,https://j.mp/3v9aRuJ
+GithubAdvisories,[GHSA-crch-j389-5f84] Heap OOB write in TFLite,https://github.com/advisories/GHSA-crch-j389-5f84,https://j.mp/3faaGtU
+GithubAdvisories,[GHSA-rf3h-xgv5-2q39] Division by zero in TFLite's implementation of `DepthwiseConv`,https://github.com/advisories/GHSA-rf3h-xgv5-2q39,https://j.mp/3bLr8yt
+GithubAdvisories,[GHSA-9c84-4hx6-xmm4] Integer overflow in TFLite concatentation,https://github.com/advisories/GHSA-9c84-4hx6-xmm4,https://j.mp/3vlXFDf
+GithubAdvisories,[GHSA-j8qh-3xrq-c825] Division by zero in TFLite's implementation of `OneHot`,https://github.com/advisories/GHSA-j8qh-3xrq-c825,https://j.mp/340UrsG
+GithubAdvisories,[GHSA-97wf-p777-86jq] Division by zero in TFLite's implementation of Split,https://github.com/advisories/GHSA-97wf-p777-86jq,https://j.mp/3vlXGah
+GithubAdvisories,[GHSA-pmpr-55fj-r229] Division by zero in TFLite's implementation of `SVDF`,https://github.com/advisories/GHSA-pmpr-55fj-r229,https://j.mp/340UrJc
+GithubAdvisories,[GHSA-v52p-hfjf-wg88] Division by zero in TFLite's implementation of `SpaceToBatchNd`,https://github.com/advisories/GHSA-v52p-hfjf-wg88,https://j.mp/3ud7B05
+GithubAdvisories,[GHSA-4vrf-ff7v-hpgr] Division by zero in TFLite's implementation of `EmbeddingLookup`,https://github.com/advisories/GHSA-4vrf-ff7v-hpgr,https://j.mp/3444fC9
+GithubAdvisories,[GHSA-vf94-36g5-69v8] Division by zero in TFLite's implementation of `DepthToSpace`,https://github.com/advisories/GHSA-vf94-36g5-69v8,https://j.mp/3fcX0OR
+GithubAdvisories,[GHSA-3qgw-p4fm-x7gf] Division by zero in TFLite's convolution code,https://github.com/advisories/GHSA-3qgw-p4fm-x7gf,https://j.mp/3bMnNzk
+GithubAdvisories,[GHSA-cfx7-2xpc-8w4h] Division by zero in TFLite's implementation of `BatchToSpaceNd`,https://github.com/advisories/GHSA-cfx7-2xpc-8w4h,https://j.mp/3v9aS1L
+GithubAdvisories,[GHSA-jjr8-m8g8-p6wv] Null pointer dereference in TFLite's `Reshape` operator,https://github.com/advisories/GHSA-jjr8-m8g8-p6wv,https://j.mp/3wtzXoF
+GithubAdvisories,[GHSA-cwv3-863g-39vx] Stack overflow due to looping TFLite subgraph,https://github.com/advisories/GHSA-cwv3-863g-39vx,https://j.mp/3hHNBjE
+GithubAdvisories,[GHSA-24x6-8c7m-hv3f] Heap OOB read in TFLite's implementation of `Minimum` or `Maximum`,https://github.com/advisories/GHSA-24x6-8c7m-hv3f,https://j.mp/3yvM9Hi
+GithubAdvisories,[GHSA-3w67-q784-6w7c] Division by zero in TFLite's implementation of `GatherNd`,https://github.com/advisories/GHSA-3w67-q784-6w7c,https://j.mp/3fQBG0H
+GithubAdvisories,[GHSA-vfr4-x8j2-3rf9] Division by zero in TFLite's implementation of `TransposeConv`,https://github.com/advisories/GHSA-vfr4-x8j2-3rf9,https://j.mp/3hWt4s3
+GithubAdvisories,[GHSA-j7rm-8ww4-xx2g] Division by zero in TFLite's implementation of `SpaceToDepth`,https://github.com/advisories/GHSA-j7rm-8ww4-xx2g,https://j.mp/3ud7Bx7
+GithubAdvisories,[GHSA-26j7-6w8w-7922] Division by zero in optimized pooling implementations in TFLite,https://github.com/advisories/GHSA-26j7-6w8w-7922,https://j.mp/2RtioGx
+GithubAdvisories,[GHSA-mv78-g7wq-mhp4] Division by zero in padding computation in TFLite,https://github.com/advisories/GHSA-mv78-g7wq-mhp4,https://j.mp/3vlXGHj
+GithubAdvisories,[GHSA-xvjm-fvxx-q3hv] CHECK-fail due to integer overflow,https://github.com/advisories/GHSA-xvjm-fvxx-q3hv,https://j.mp/3yuwo3d
+GithubAdvisories,[GHSA-9xh4-23q4-v6wr] Heap buffer overflow and undefined behavior in `FusedBatchNorm`,https://github.com/advisories/GHSA-9xh4-23q4-v6wr,https://j.mp/3yvjcuP
+GithubAdvisories,[GHSA-c45w-2wxr-pp53] Heap OOB read in `tf.raw_ops.Dequantize`,https://github.com/advisories/GHSA-c45w-2wxr-pp53,https://j.mp/3bL5tX5
+GithubAdvisories,[GHSA-vq2r-5xvm-3hc3] Segfault in `CTCBeamSearchDecoder`,https://github.com/advisories/GHSA-vq2r-5xvm-3hc3,https://j.mp/3hKygyL
+GithubAdvisories,[GHSA-x8h6-xgqx-jqgp] Undefined behavior and `CHECK`-fail in `FractionalMaxPoolGrad`,https://github.com/advisories/GHSA-x8h6-xgqx-jqgp,https://j.mp/3hIfPec
+GithubAdvisories,[GHSA-79fv-9865-4qcv] Heap buffer overflow in `MaxPoolGrad`,https://github.com/advisories/GHSA-79fv-9865-4qcv,https://j.mp/3wgf7ce
+GithubAdvisories,[GHSA-6f89-8j54-29xf] Heap buffer overflow in `FractionalAvgPoolGrad`,https://github.com/advisories/GHSA-6f89-8j54-29xf,https://j.mp/2SfzUh8
+GithubAdvisories,[GHSA-v6r6-84gr-92rm] Heap buffer overflow in `AvgPool3DGrad`,https://github.com/advisories/GHSA-v6r6-84gr-92rm,https://j.mp/3wn97yd
+GithubAdvisories,[GHSA-7cqx-92hp-x6wh] Heap buffer overflow in `MaxPool3DGradGrad`,https://github.com/advisories/GHSA-7cqx-92hp-x6wh,https://j.mp/3f6SP6Y
+GithubAdvisories,[GHSA-6qgm-fv6v-rfpv] Overflow/denial of service in `tf.raw_ops.ReverseSequence`,https://github.com/advisories/GHSA-6qgm-fv6v-rfpv,https://j.mp/3f7YXvF
+GithubAdvisories,[GHSA-828x-qc2p-wprq] Undefined behavior in `MaxPool3DGradGrad`,https://github.com/advisories/GHSA-828x-qc2p-wprq,https://j.mp/3bJpe1q
+GithubAdvisories,[GHSA-9vpm-rcf4-9wqw] Division by 0 in `MaxPoolGradWithArgmax`,https://github.com/advisories/GHSA-9vpm-rcf4-9wqw,https://j.mp/3v9aSyN
+GithubAdvisories,[GHSA-5gqf-456p-4836] Reference binding to nullptr in `SdcaOptimizer`,https://github.com/advisories/GHSA-5gqf-456p-4836,https://j.mp/3v9aT5P
+GithubAdvisories,[GHSA-whr9-vfh2-7hm6] Memory corruption in `DrawBoundingBoxesV2`,https://github.com/advisories/GHSA-whr9-vfh2-7hm6,https://j.mp/3vlXHel
+GithubAdvisories,[GHSA-545v-42p7-98fq] Heap out of bounds read in `MaxPoolGradWithArgmax`,https://github.com/advisories/GHSA-545v-42p7-98fq,https://j.mp/2SfzUOa
+GithubAdvisories,[GHSA-3h8m-483j-7xxm] Heap out of bounds read in `RequantizationRange`,https://github.com/advisories/GHSA-3h8m-483j-7xxm,https://j.mp/3bGiGQT
+GithubAdvisories,[GHSA-4p4p-www8-8fv9] Reference binding to null in `ParameterizedTruncatedNormal`,https://github.com/advisories/GHSA-4p4p-www8-8fv9,https://j.mp/3wm0Smc
+GithubAdvisories,[GHSA-wp3c-xw9g-gpcg] Lack of validation in `SparseDenseCwiseMul`,https://github.com/advisories/GHSA-wp3c-xw9g-gpcg,https://j.mp/340Utki
+GithubAdvisories,[GHSA-pvrc-hg3f-58r6] Heap OOB access in `Dilation2DBackpropInput`,https://github.com/advisories/GHSA-pvrc-hg3f-58r6,https://j.mp/3vlXHLn
+GithubAdvisories,[GHSA-r6pg-pjwc-j585] Null pointer dereference in `SparseFillEmptyRows`,https://github.com/advisories/GHSA-r6pg-pjwc-j585,https://j.mp/3f7Imbg
+GithubAdvisories,[GHSA-75f6-78jr-4656] Null pointer dereference in `EditDistance`,https://github.com/advisories/GHSA-75f6-78jr-4656,https://j.mp/3vlXIip
+GithubAdvisories,[GHSA-ph87-fvjr-v33w] CHECK-fail in `tf.raw_ops.RFFT`,https://github.com/advisories/GHSA-ph87-fvjr-v33w,https://j.mp/2SfzVlc
+GithubAdvisories,[GHSA-36vm-xw34-x4pj] CHECK-fail in `tf.raw_ops.IRFFT`,https://github.com/advisories/GHSA-36vm-xw34-x4pj,https://j.mp/3wq5B6s
+GithubAdvisories,[GHSA-gvm4-h8j3-rjrq] CHECK-fail in `LoadAndRemapMatrix`,https://github.com/advisories/GHSA-gvm4-h8j3-rjrq,https://j.mp/3f3IdWp
+GithubAdvisories,[GHSA-8gv3-57p6-g35r] Heap buffer overflow in `RaggedTensorToTensor`,https://github.com/advisories/GHSA-8gv3-57p6-g35r,https://j.mp/2T05Wy8
+GithubAdvisories,[GHSA-59q2-x2qc-4c97] Heap OOB access in unicode ops,https://github.com/advisories/GHSA-59q2-x2qc-4c97,https://j.mp/3hFSppS
+GithubAdvisories,[GHSA-mqh2-9wrp-vx84] Heap buffer overflow in `SparseSplit`,https://github.com/advisories/GHSA-mqh2-9wrp-vx84,https://j.mp/2T4AeQl
+GithubAdvisories,[GHSA-xw93-v57j-fcgh] Division by 0 in `SparseMatMul`,https://github.com/advisories/GHSA-xw93-v57j-fcgh,https://j.mp/3hNVtAf
+GithubAdvisories,[GHSA-fxqh-cfjm-fp93] Division by 0 in `Reverse`,https://github.com/advisories/GHSA-fxqh-cfjm-fp93,https://j.mp/3bLXl8P
+GithubAdvisories,[GHSA-r35g-4525-29fq] Division by 0 in `FusedBatchNorm`,https://github.com/advisories/GHSA-r35g-4525-29fq,https://j.mp/2SfzVSe
+GithubAdvisories,[GHSA-qg48-85hg-mqc5] Division by 0 in `DenseCountSparseOutput`,https://github.com/advisories/GHSA-qg48-85hg-mqc5,https://j.mp/3v9aU9T
+GithubAdvisories,[GHSA-h9px-9vqg-222h] Heap OOB in `QuantizeAndDequantizeV3`,https://github.com/advisories/GHSA-h9px-9vqg-222h,https://j.mp/3fwhSiO
+GithubAdvisories,[GHSA-jhq9-wm9m-cf89] CHECK-failure in `UnsortedSegmentJoin`,https://github.com/advisories/GHSA-jhq9-wm9m-cf89,https://j.mp/3hJgFqZ
+GithubAdvisories,[GHSA-vqw6-72r7-fgw7] OOB read in `MatrixTriangularSolve`,https://github.com/advisories/GHSA-vqw6-72r7-fgw7,https://j.mp/3fzLhc3
+GithubAdvisories,[GHSA-f78g-q7r4-9wcv] Division by 0 in `FractionalAvgPool`,https://github.com/advisories/GHSA-f78g-q7r4-9wcv,https://j.mp/3woq7El
+GithubAdvisories,[GHSA-x83m-p7pv-ch8v] Division by 0 in `QuantizedAdd`,https://github.com/advisories/GHSA-x83m-p7pv-ch8v,https://j.mp/3ytZ5xq
+GithubAdvisories,[GHSA-p45v-v4pw-77jr] Division by 0 in `QuantizedBatchNormWithGlobalNormalization`,https://github.com/advisories/GHSA-p45v-v4pw-77jr,https://j.mp/2RspYRH
+GithubAdvisories,[GHSA-4fg4-p75j-w5xj] Heap out of bounds in `QuantizedBatchNormWithGlobalNormalization`,https://github.com/advisories/GHSA-4fg4-p75j-w5xj,https://j.mp/3yCPTa7
+GithubAdvisories,[GHSA-m34j-p8rj-wjxq] Division by 0 in `QuantizedBiasAdd`,https://github.com/advisories/GHSA-m34j-p8rj-wjxq,https://j.mp/3f8iqws
+GithubAdvisories,[GHSA-hmg3-c7xj-6qwm] Heap buffer overflow in `SparseTensorToCSRSparseMatrix`,https://github.com/advisories/GHSA-hmg3-c7xj-6qwm,https://j.mp/3bMnTHc
+GithubAdvisories,[GHSA-6g85-3hm8-83f9] CHECK-fail in `QuantizeAndDequantizeV4Grad`,https://github.com/advisories/GHSA-6g85-3hm8-83f9,https://j.mp/344mk2V
+GithubAdvisories,[GHSA-fphq-gw9m-ghrv] CHECK-fail in `CTCGreedyDecoder`,https://github.com/advisories/GHSA-fphq-gw9m-ghrv,https://j.mp/3vlXJmt
+GithubAdvisories,[GHSA-4hrh-9vmp-2jgg] Heap buffer overflow in `StringNGrams`,https://github.com/advisories/GHSA-4hrh-9vmp-2jgg,https://j.mp/3fxW4U8
+GithubAdvisories,[GHSA-xqfj-35wv-m3cr] Null pointer dereference in `StringNGrams`,https://github.com/advisories/GHSA-xqfj-35wv-m3cr,https://j.mp/3f4iX2m
+GithubAdvisories,[GHSA-xgc3-m89p-vr3x] Heap buffer overflow in `Conv2DBackpropFilter`,https://github.com/advisories/GHSA-xgc3-m89p-vr3x,https://j.mp/2SfzWpg
+GithubAdvisories,[GHSA-g4h2-gqm3-c9wq] Segfault in tf.raw_ops.ImmutableConst,https://github.com/advisories/GHSA-g4h2-gqm3-c9wq,https://j.mp/3bJp8a4
+GithubAdvisories,[GHSA-j8qc-5fqr-52fp] Division by zero in `Conv2DBackpropFilter`,https://github.com/advisories/GHSA-j8qc-5fqr-52fp,https://j.mp/3fBqDIn
+GithubAdvisories,[GHSA-8c89-2vwr-chcq] Heap buffer overflow in `QuantizedResizeBilinear`,https://github.com/advisories/GHSA-8c89-2vwr-chcq,https://j.mp/3f9Cs9y
+GithubAdvisories,[GHSA-2gfx-95x2-5v3x] Heap buffer overflow in `QuantizedReshape`,https://github.com/advisories/GHSA-2gfx-95x2-5v3x,https://j.mp/3f7YRnN
+GithubAdvisories,[GHSA-m3f9-w3p3-p669] Heap buffer overflow in `QuantizedMul`,https://github.com/advisories/GHSA-m3f9-w3p3-p669,https://j.mp/34i7QNf
+GithubAdvisories,[GHSA-6j9c-grc6-5m6g] CHECK-fail in SparseConcat,https://github.com/advisories/GHSA-6j9c-grc6-5m6g,https://j.mp/3ud7DoJ
+GithubAdvisories,[GHSA-393f-2jr3-cp69] CHECK-fail in DrawBoundingBoxes,https://github.com/advisories/GHSA-393f-2jr3-cp69,https://j.mp/343BmG7
+GithubAdvisories,[GHSA-j47f-4232-hvv8] Heap out of bounds read in `RaggedCross`,https://github.com/advisories/GHSA-j47f-4232-hvv8,https://j.mp/346Dkpb
+GithubAdvisories,[GHSA-3qxp-qjq7-w4hf] CHECK-fail in tf.raw_ops.EncodePng,https://github.com/advisories/GHSA-3qxp-qjq7-w4hf,https://j.mp/3womSNo
+GithubAdvisories,[GHSA-xcwj-wfcm-m23c] Invalid validation in `SparseMatrixSparseCholesky`,https://github.com/advisories/GHSA-xcwj-wfcm-m23c,https://j.mp/2Tb6KAr
+GithubAdvisories,[GHSA-jfp7-4j67-8r3q] Heap buffer overflow caused by rounding,https://github.com/advisories/GHSA-jfp7-4j67-8r3q,https://j.mp/344Kv1g
+GithubAdvisories,[GHSA-6f84-42vf-ppwp] Division by 0 in `QuantizedMul`,https://github.com/advisories/GHSA-6f84-42vf-ppwp,https://j.mp/3fGRBi2
+GithubAdvisories,[GHSA-x4g7-fvjj-prg8] Division by 0 in `QuantizedConv2D`,https://github.com/advisories/GHSA-x4g7-fvjj-prg8,https://j.mp/3bHFwYo
+GithubAdvisories,[GHSA-4vf2-4xcg-65cx] Division by 0 in `Conv2D`,https://github.com/advisories/GHSA-4vf2-4xcg-65cx,https://j.mp/3v9aUGV
+GithubAdvisories,[GHSA-xm2v-8rrw-w9pm] Division by 0 in `Conv2DBackpropInput`,https://github.com/advisories/GHSA-xm2v-8rrw-w9pm,https://j.mp/3wlNOgA
+GithubAdvisories,[GHSA-r4pj-74mg-8868] Division by 0 in `Conv2DBackpropFilter`,https://github.com/advisories/GHSA-r4pj-74mg-8868,https://j.mp/3bFTBFS
+GithubAdvisories,[GHSA-2cpx-427x-q2c6] CHECK-fail in AddManySparseToTensorsMap,https://github.com/advisories/GHSA-2cpx-427x-q2c6,https://j.mp/3f4Un1c
+GithubAdvisories,[GHSA-c968-pq7h-7fxv] Division by 0 in `Conv3DBackprop*`,https://github.com/advisories/GHSA-c968-pq7h-7fxv,https://j.mp/3f4wTtg
+GithubAdvisories,[GHSA-hr84-fqvp-48mm] Segfault in SparseCountSparseOutput,https://github.com/advisories/GHSA-hr84-fqvp-48mm,https://j.mp/3fu1Iq0
+GithubAdvisories,[GHSA-wcv5-qrj6-9pfm] Heap buffer overflow in `Conv3DBackprop*`,https://github.com/advisories/GHSA-wcv5-qrj6-9pfm,https://j.mp/3wn9cSx
+GithubAdvisories,[GHSA-772j-h9xw-ffp5] CHECK-fail in SparseCross due to type confusion,https://github.com/advisories/GHSA-772j-h9xw-ffp5,https://j.mp/3wm0NyU
+GithubAdvisories,[GHSA-62gx-355r-9fhg] Session operations in eager mode lead to null pointer dereferences,https://github.com/advisories/GHSA-62gx-355r-9fhg,https://j.mp/3fyt4LT
+GithubAdvisories,[GHSA-772p-x54p-hjrv] Division by zero in `Conv3D`,https://github.com/advisories/GHSA-772p-x54p-hjrv,https://j.mp/3bFTHgI
+GithubAdvisories,[GHSA-84mw-34w6-2q43] Null pointer dereference via invalid Ragged Tensors,https://github.com/advisories/GHSA-84mw-34w6-2q43,https://j.mp/3hPgxqh
+GithubAdvisories,[GHSA-hc6c-75p4-hmq4] Reference binding to null pointer in `MatrixDiag*` ops,https://github.com/advisories/GHSA-hc6c-75p4-hmq4,https://j.mp/3wpNqxw
+GithubAdvisories,[GHSA-8h46-5m9h-7553] Heap out of bounds write in `RaggedBinCount`,https://github.com/advisories/GHSA-8h46-5m9h-7553,https://j.mp/346anK0
+GithubAdvisories,[GHSA-452g-f7fp-9jf7] Type confusion during tensor casts lead to dereferencing null pointers,https://github.com/advisories/GHSA-452g-f7fp-9jf7,https://j.mp/3vlXJTv
+GithubAdvisories,[GHSA-4278-2v5v-65r4] Heap buffer overflow in `RaggedBinCount`,https://github.com/advisories/GHSA-4278-2v5v-65r4,https://j.mp/3yu5WH2
