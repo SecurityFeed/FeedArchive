@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xg2h-wx96-xgxr] RandomAlphaNumeric and CryptoRandomAlphaNumeric are not as random as they should be,https://github.com/advisories/GHSA-xg2h-wx96-xgxr,https://j.mp/3hHW4DF
+GithubAdvisories,[GHSA-gmq2-39ff-f5qg] A failed upgrade may lead to hung goroutines,https://github.com/advisories/GHSA-gmq2-39ff-f5qg,https://j.mp/2QJVzOo
+GithubAdvisories,[GHSA-3wxm-m9m4-cprj] Import of incorrectly embargoed keys could cause early publication,https://github.com/advisories/GHSA-3wxm-m9m4-cprj,https://j.mp/2REu5dp
+GithubAdvisories,[GHSA-35vc-w93w-75c2] JWT leak via Open Redirect in Programmatic access,https://github.com/advisories/GHSA-35vc-w93w-75c2,https://j.mp/3f8b4cj
+GithubAdvisories,[GHSA-fv82-r8qv-ch4v] pomerium_signature is not verified in middleware in github.com/pomerium/pomerium,https://github.com/advisories/GHSA-fv82-r8qv-ch4v,https://j.mp/3oB9Pp0
+GithubAdvisories,"[GHSA-4g52-pqcj-phvh] BLS Signature ""Malleability""",https://github.com/advisories/GHSA-4g52-pqcj-phvh,https://j.mp/2SdEzAv
+GithubAdvisories,[GHSA-x462-89pf-6r5h] Crash due to malformed relay protocol message,https://github.com/advisories/GHSA-x462-89pf-6r5h,https://j.mp/3yuupMo
+GithubAdvisories,[GHSA-j756-f273-xhp4] Import token permissions checking not enforced,https://github.com/advisories/GHSA-j756-f273-xhp4,https://j.mp/3yoiQX7
+GithubAdvisories,"[GHSA-gwj5-3vfq-q992] Import loops in account imports, nats-server DoS",https://github.com/advisories/GHSA-gwj5-3vfq-q992,https://j.mp/3bGjuFy
+GithubAdvisories,"[GHSA-hmm9-r2m2-qg9w] Nil dereference in NATS JWT, DoS of nats-server",https://github.com/advisories/GHSA-hmm9-r2m2-qg9w,https://j.mp/3oOIjER
