@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c64-vj8g-vwrq] Incorrect handling of credential expiry by NATS Server,https://github.com/advisories/GHSA-2c64-vj8g-vwrq,https://j.mp/3bIVOk3
