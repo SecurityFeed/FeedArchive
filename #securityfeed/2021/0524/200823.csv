@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xg68-chx2-253g] Prototype Pollution in jquery-deparam,https://github.com/advisories/GHSA-xg68-chx2-253g,https://j.mp/3uiCS1K
+GithubAdvisories,[GHSA-72mh-269x-7mh5] Improper Certificate Validation in xmlhttprequest-ssl,https://github.com/advisories/GHSA-72mh-269x-7mh5,https://j.mp/3ve4XZs
+GithubAdvisories,[GHSA-w8qv-6jwh-64r5] Regular Expression Denial of Service in browserslist,https://github.com/advisories/GHSA-w8qv-6jwh-64r5,https://j.mp/3wvaNGe
+GithubAdvisories,[GHSA-7w8j-85wm-6xfq] Prototype Pollution in jquery-bbq,https://github.com/advisories/GHSA-7w8j-85wm-6xfq,https://j.mp/3wwVmNK
+GithubAdvisories,[GHSA-3wcq-x3mq-6r9p] Potential memory exposure in dns-packet,https://github.com/advisories/GHSA-3wcq-x3mq-6r9p,https://j.mp/3ff10Ow
