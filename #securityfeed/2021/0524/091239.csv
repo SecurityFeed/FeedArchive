@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin ReDi Restaurant Reservation 21.0307 - 'Comment' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49903,https://j.mp/3oHmAyv
+ExploitDB,[webapps] Codiad 2.8.4 - Remote Code Execution (Authenticated) (2),https://www.exploit-db.com/exploits/49902,https://j.mp/3vhOByT
+ExploitDB,[webapps] Shopizer 2.16.0 - 'Multiple' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49901,https://j.mp/2SnmboQ
+ExploitDB,[local] ePowerSvc 6.0.3008.0 - 'ePowerSvc.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49900,https://j.mp/3vbSkOy
+ExploitDB,[local] DiskBoss Service 12.2.18 - 'diskbsa.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/49899,https://j.mp/3oI1VKu
+ExploitDB,[dos] iDailyDiary 4.30 - Denial of Service (PoC),https://www.exploit-db.com/exploits/49898,https://j.mp/3feJr10
+ExploitDB,[webapps] Schlix CMS 2.2.6-6 - Arbitary File Upload And Directory Traversal Leads To RCE (Authenticated),https://www.exploit-db.com/exploits/49897,https://j.mp/3vfHqYj
