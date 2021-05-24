@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jhj6-5mh6-4pvf] Denial-of-Service within Docker container,https://github.com/advisories/GHSA-jhj6-5mh6-4pvf,https://j.mp/3hNXwo3
+GithubAdvisories,[GHSA-g636-q5fc-4pr7] accounts: Hash account number using Salt,https://github.com/advisories/GHSA-g636-q5fc-4pr7,https://j.mp/3vhOWl7
+GithubAdvisories,[GHSA-36xw-fx78-c5r4] containerd-shim API Exposed to Host Network Containers,https://github.com/advisories/GHSA-36xw-fx78-c5r4,https://j.mp/3hQb1Uk
+GithubAdvisories,[GHSA-rfq3-w54c-f9q5] OAuth2 Redirect URL validity does not respect query parameters and character casing for loopback addresses,https://github.com/advisories/GHSA-rfq3-w54c-f9q5,https://j.mp/3ugIA4g
+GithubAdvisories,[GHSA-grfp-q2mm-hfp6] Redirect URL matching ignores character casing,https://github.com/advisories/GHSA-grfp-q2mm-hfp6,https://j.mp/3fER2oN
+GithubAdvisories,[GHSA-7gcp-w6ww-2xv9] Path traversal and files overwrite with unsquashfs in singularity,https://github.com/advisories/GHSA-7gcp-w6ww-2xv9,https://j.mp/3ffC3Te
+GithubAdvisories,[GHSA-5684-g483-2249] Signature Validation Bypass,https://github.com/advisories/GHSA-5684-g483-2249,https://j.mp/3vhTdVU
+GithubAdvisories,[GHSA-rrfw-hg9m-j47h] Signature Validation Bypass,https://github.com/advisories/GHSA-rrfw-hg9m-j47h,https://j.mp/3fKUfmy
+GithubAdvisories,[GHSA-952m-m83c-3xm6] Open redirect in direct_mail,https://github.com/advisories/GHSA-952m-m83c-3xm6,https://j.mp/3ww7NJK
+GithubAdvisories,[GHSA-5gm6-r79q-hfgw] Denial of service in direct_mail,https://github.com/advisories/GHSA-5gm6-r79q-hfgw,https://j.mp/3ujo1Ep
+GithubAdvisories,[GHSA-q9p8-33wc-h432] Authenticated users can exploit an enumeration vulnerability in Harbor,https://github.com/advisories/GHSA-q9p8-33wc-h432,https://j.mp/2TgNode
+GithubAdvisories,[GHSA-v3q9-2p3m-7g43] Token reuse in github.com/ory/fosite,https://github.com/advisories/GHSA-v3q9-2p3m-7g43,https://j.mp/3wvNNqt
+GithubAdvisories,[GHSA-7mqr-2v3q-v2wm] Ignored errors on token revokation in github.com/ory/fosite,https://github.com/advisories/GHSA-7mqr-2v3q-v2wm,https://j.mp/3oK9IHP
+GithubAdvisories,[GHSA-q547-gmf8-8jr7] Signature Validation Bypass in goxmldsig,https://github.com/advisories/GHSA-q547-gmf8-8jr7,https://j.mp/3vhOWS9
+GithubAdvisories,[GHSA-c52f-pq47-2r9j] plugin.yaml file allows for duplicate entries in helm,https://github.com/advisories/GHSA-c52f-pq47-2r9j,https://j.mp/2RyRjSh
+GithubAdvisories,[GHSA-m54r-vrmv-hw33] Improper Sanitizing of plugin names in helm,https://github.com/advisories/GHSA-m54r-vrmv-hw33,https://j.mp/3yE8ySW
+GithubAdvisories,[GHSA-jm56-5h66-w453] Repository index file allows for duplicates of the same chart entry in helm,https://github.com/advisories/GHSA-jm56-5h66-w453,https://j.mp/3ue7YHT
+GithubAdvisories,[GHSA-9vp5-m38w-j776] Aliases are never checked in helm,https://github.com/advisories/GHSA-9vp5-m38w-j776,https://j.mp/34e8kDO
+GithubAdvisories,[GHSA-hgwp-4vp4-qmm2] Local Privilege Escalation in cloudflared,https://github.com/advisories/GHSA-hgwp-4vp4-qmm2,https://j.mp/3fKccld
+GithubAdvisories,[GHSA-jv9c-w74q-6762] Insecure permissions on build temporary rootfs in Singularity,https://github.com/advisories/GHSA-jv9c-w74q-6762,https://j.mp/3oNl6CY
