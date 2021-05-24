@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3892-2r52-p65m] HTTP Request Smuggling in goliath,https://github.com/advisories/GHSA-3892-2r52-p65m,https://j.mp/3wrsoyL
+GithubAdvisories,[GHSA-x3v4-pxvm-63j8] HTTP Request Smuggling in reel,https://github.com/advisories/GHSA-x3v4-pxvm-63j8,https://j.mp/2T6BmD0
+GithubAdvisories,[GHSA-q27f-v3r6-9v77] Improper Certificate Validation in EM-HTTP-Request,https://github.com/advisories/GHSA-q27f-v3r6-9v77,https://j.mp/3oNxoLf
+GithubAdvisories,[GHSA-fp4w-jxhp-m23p] Dependency Confusion in Bundler,https://github.com/advisories/GHSA-fp4w-jxhp-m23p,https://j.mp/3fh6yIl
+GithubAdvisories,[GHSA-4f68-49qq-h392] Improper certificate validation in em-map,https://github.com/advisories/GHSA-4f68-49qq-h392,https://j.mp/3fcFslH
