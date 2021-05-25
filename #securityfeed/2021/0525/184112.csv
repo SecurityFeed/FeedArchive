@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25xm-hr59-7c27] Release v0.5.8 of github.com/ulikunitz/xz fixes readUvarint denial of service,https://github.com/advisories/GHSA-25xm-hr59-7c27,https://j.mp/2QOKM5k
