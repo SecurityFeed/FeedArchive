@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjhw-5mxp-2g2q] Cross-site Scripting in OpenNMS Horizon,https://github.com/advisories/GHSA-jjhw-5mxp-2g2q,https://j.mp/3oPBVgf
+GithubAdvisories,[GHSA-jmv4-73v2-pvgc] Cross-site Scripting in OpenNMS Horizon,https://github.com/advisories/GHSA-jmv4-73v2-pvgc,https://j.mp/2TjGSCw
+GithubAdvisories,[GHSA-2rq5-68hm-h4j8] Cross-Site Request Forgery in OpenNMS Horizon,https://github.com/advisories/GHSA-2rq5-68hm-h4j8,https://j.mp/2RM1frp
+GithubAdvisories,[GHSA-p63h-7hw8-5cw4] Cross-Site Request Forgery in OpenNMS Horizon,https://github.com/advisories/GHSA-p63h-7hw8-5cw4,https://j.mp/3oRfffW
+GithubAdvisories,[GHSA-v2wx-jj66-2hp7] Cross-site Scripting in Wildfly,https://github.com/advisories/GHSA-v2wx-jj66-2hp7,https://j.mp/3wLz4rN
+GithubAdvisories,[GHSA-c3xm-pvg7-gh7r] mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs,https://github.com/advisories/GHSA-c3xm-pvg7-gh7r,https://j.mp/3oMXH4v
+GithubAdvisories,[GHSA-m898-h4pm-pqfr] Arbitrary code execution due to an uncontrolled search path for the git binary,https://github.com/advisories/GHSA-m898-h4pm-pqfr,https://j.mp/3wrFw6S
+GithubAdvisories,[GHSA-74xm-qj29-cq8p] Failed DTLS certificate verification doesn't stop data channel communication,https://github.com/advisories/GHSA-74xm-qj29-cq8p,https://j.mp/34i2npq
+GithubAdvisories,[GHSA-4mf2-f3wh-gvf2] Subdomain checking of whitelisted domains could allow unintended redirects in oauth2-proxy,https://github.com/advisories/GHSA-4mf2-f3wh-gvf2,https://j.mp/3fiMVzz
