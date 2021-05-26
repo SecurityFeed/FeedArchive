@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,nginx 1.20.0 DNS Resolver Off-By-One Heap Write,https://packetstormsecurity.com/files/162830/X41-2021-002.txt,https://j.mp/3hWV4vs
+PacketstormSecurity,Unicorn 1.0.3,https://packetstormsecurity.com/files/162829/unicorn-1.0.3.tar.gz,https://j.mp/3hRt1gZ
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-15,https://packetstormsecurity.com/files/162828/glsa-202105-15.txt,https://j.mp/3up3Uov
+PacketstormSecurity,Apple Security Advisory 2021-05-25-6,https://packetstormsecurity.com/files/162827/APPLE-SA-2021-05-25-6.txt,https://j.mp/3vrH1BQ
+PacketstormSecurity,Apple Security Advisory 2021-05-25-2,https://packetstormsecurity.com/files/162826/APPLE-SA-2021-05-25-2.txt,https://j.mp/34lHwS8
+PacketstormSecurity,Apple Security Advisory 2021-05-25-7,https://packetstormsecurity.com/files/162825/APPLE-SA-2021-05-25-7.txt,https://j.mp/2SsfeCQ
+PacketstormSecurity,Apple Security Advisory 2021-05-25-5,https://packetstormsecurity.com/files/162824/APPLE-SA-2021-05-25-5.txt,https://j.mp/3g2Lx3B
+PacketstormSecurity,Apple Security Advisory 2021-05-25-1,https://packetstormsecurity.com/files/162823/APPLE-SA-2021-05-25-1.txt,https://j.mp/3oST7Bz
+PacketstormSecurity,Apple Security Advisory 2021-05-25-8,https://packetstormsecurity.com/files/162822/APPLE-SA-2021-05-25-8.txt,https://j.mp/3wsiVaq
+PacketstormSecurity,Apple Security Advisory 2021-05-25-3,https://packetstormsecurity.com/files/162821/APPLE-SA-2021-05-25-3.txt,https://j.mp/3fkytau
+PacketstormSecurity,Apple Security Advisory 2021-05-25-4,https://packetstormsecurity.com/files/162820/APPLE-SA-2021-05-25-4.txt,https://j.mp/3bX337R
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-37,https://packetstormsecurity.com/files/162818/glsa-202105-37.txt,https://j.mp/34jcg6a
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-36,https://packetstormsecurity.com/files/162817/glsa-202105-36.txt,https://j.mp/3fLRkub
+PacketstormSecurity,Red Hat Security Advisory 2021-2119-01,https://packetstormsecurity.com/files/162816/RHSA-2021-2119-01.txt,https://j.mp/3vBRkTW
+PacketstormSecurity,i-doit 1.15.2 Cross Site Scripting,https://packetstormsecurity.com/files/162815/idoit1152-xss.txt,https://j.mp/3yDJqvj
+PacketstormSecurity,Red Hat Security Advisory 2021-2116-01,https://packetstormsecurity.com/files/162814/RHSA-2021-2116-01.txt,https://j.mp/2QWsyz2
+PacketstormSecurity,VMware Security Advisory 2021-0010,https://packetstormsecurity.com/files/162812/VMSA-2021-0010.txt,https://j.mp/3fSU8ps
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-35,https://packetstormsecurity.com/files/162813/glsa-202105-35.txt,https://j.mp/2TlNEHZ
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-34,https://packetstormsecurity.com/files/162811/glsa-202105-34.txt,https://j.mp/3oQUbGa
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-33,https://packetstormsecurity.com/files/162810/glsa-202105-33.txt,https://j.mp/3fNmaT1
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-32,https://packetstormsecurity.com/files/162809/glsa-202105-32.txt,https://j.mp/3yHoQdp
+PacketstormSecurity,Zen Cart 1.5.7 Cross Site Scripting,https://packetstormsecurity.com/files/162807/NS-21-002.txt,https://j.mp/34ipGj5
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-31,https://packetstormsecurity.com/files/162808/glsa-202105-31.txt,https://j.mp/3bX33on
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-30,https://packetstormsecurity.com/files/162806/glsa-202105-30.txt,https://j.mp/3wvg3JG
