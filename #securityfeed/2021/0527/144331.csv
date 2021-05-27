@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account,https://packetstormsecurity.com/files/162848/KL-001-2021-007.txt,https://j.mp/34qDzf7
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Web Application Arbitrary Read/Write,https://packetstormsecurity.com/files/162847/KL-001-2021-006.txt,https://j.mp/2RSXbWp
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Web Application Directory Traversal,https://packetstormsecurity.com/files/162846/KL-001-2021-005.txt,https://j.mp/2RJgqBY
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Hard-Coded Web Application Administrator Password,https://packetstormsecurity.com/files/162845/KL-001-2021-004.txt,https://j.mp/3fr0NrS
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Hard-Coded System Passwords,https://packetstormsecurity.com/files/162844/KL-001-2021-003.txt,https://j.mp/2SuSGkU
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Hard-Coded API Keys Exposed,https://packetstormsecurity.com/files/162843/KL-001-2021-002.txt,https://j.mp/2SvB7Bo
+PacketstormSecurity,CommScope Ruckus IoT Controller 1.7.1.0 Unauthenticated API Endpoints,https://packetstormsecurity.com/files/162842/KL-001-2021-001.txt,https://j.mp/34mI6PB
+PacketstormSecurity,Red Hat Security Advisory 2021-2139-01,https://packetstormsecurity.com/files/162839/RHSA-2021-2139-01.txt,https://j.mp/3fRMYBt
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-39,https://packetstormsecurity.com/files/162838/glsa-202105-39.txt,https://j.mp/2QXmWVf
+PacketstormSecurity,Red Hat Security Advisory 2021-2136-01,https://packetstormsecurity.com/files/162837/RHSA-2021-2136-01.txt,https://j.mp/3wDE7du
+PacketstormSecurity,Gentoo Linux Security Advisory 202105-38,https://packetstormsecurity.com/files/162835/glsa-202105-38.txt,https://j.mp/2RJgqSu
+PacketstormSecurity,Falco 0.28.2,https://packetstormsecurity.com/files/162834/falco-0.28.2.tar.gz,https://j.mp/34lOI0u
+PacketstormSecurity,Pandora FMS 6.0SP3 Cross Site Scripting,https://packetstormsecurity.com/files/162833/pandorafms60sp3-xss.txt,https://j.mp/2TlAgUe
+PacketstormSecurity,QT PNG ICC Processing Out-Of-Bounds Read,https://packetstormsecurity.com/files/162832/GS20210527132327.tgz,https://j.mp/2SyOT60
+PacketstormSecurity,Postbird 0.8.4 Cross Site Scripting / Local File Inclusion,https://packetstormsecurity.com/files/162831/postbird084-xss.txt,https://j.mp/34kqjIZ
